@@ -1,0 +1,4 @@
+User-agent: *
+ 
+# Disallow all directories and files within
+Disallow: /
