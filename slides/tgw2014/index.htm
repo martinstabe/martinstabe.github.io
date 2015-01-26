@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Graphical Web 2014</title>
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="../css/reveal.min.css">
+		<link rel="stylesheet" href="../css/theme/ft.css" id="theme">
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="../lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="../css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+<body>
+<div class="reveal">
+<div class="slides">
+
+<section>
+	<!-- the character F is the FT logotype -->
+	<h2 class="logo" style="text-align:center;">F</h4>
+</section>
+
+<!-- Interactive as a subset of the FT's visual journalism capacity -->
+
+<!--
+<section>	
+	<h3>Visual journalism at the FT</h3>
+	<p class="fragment fade-in">Multi-disciplinary team spanning multiple desks:</p>
+	<ul>
+		<li class="fragment fade-in">17 designers</li>
+		<li class="fragment fade-in">4 web developers</li>
+		<li class="fragment fade-in">8 data/statistics journalists</li>
+	</ul>
+</section>
+-->
+
+
+<section>
+	<h3>Visualisation for &lsquo;data civilians&rsquo;</h3>
+	
+	<small>
+		<p>Martin Stabe</p>
+		<p><a href="mailto:martin.stabe@ft.com">martin.stabe@ft.com</a></p>
+		<p><a href="http://www.ft.com/interactive">ft.com/interactive</a></p>
+		<p><strong>Slides:</strong> <a href="http://martinstabe.github.io/slides/tgw2014">ft.com/tgw2014</a></p>
+	</small>
+</section>
+
+
+<!-- 
+5 minutes on:
+General point - the role of visuals in narrative (support/illumination etc)
+Responsive design for visual narratives (it's interesting to me that there were no papers proposed for this years conference with an explicitly mobile theme - is that because no-one knows how to do it yet?)
+Social/Personal
+* Depth and structure of storytelling - simplify vs clarify/'martini glass' concepts etc
+Passive/Interactive
+Tools/formats
+* Design processes - how do you craft a story?
+Audience considerations - literacy, statisical literacy etc
+Measuring success - how do we know 'a good story'?
+* I thought Robert's paper with Jock Mackinlay has got some real nuggets which might also represent a starting point  http://kosara.net/papers/2013/Kosara_Computer_2013.pdf
+
+
+-->
+
+
+
+
+
+<!-- News organisations have been visualising data for a LONG time 
+NYT map
+
+In a recent New York Times 
+
+
+We have even been doing interactive data visualisation for some time. Nearly ten years of interactive graphics.
+Many of the conventions and skills 
+
+At the FT, twenty years of automated data visualisation, and nearly ten years of interactive graphics.
+
+But the 
+-->
+
+<section>
+<section>
+	<h3>Data journalism is very old</h3>
+	<img src="../img/1896.jpg" height="550"  border="0" style="border:none;"/>
+	<p><small>Source: <em>New York Times</em> (1896) via <a href="http://www.ericson.net/content/2010/11/first-nyt-election-map/">Matthew Ericson</a></small></p>
+</section>
+
+				<section>
+					<h5>100 years later: 1996</h5>
+					<img src="../img/election1996.png" height="550" border="0"/>
+					<p><small>Source: <a href="http://nytgraphics.tumblr.com/post/35151610730/bill-clinton-d-defeats-bob-dole-r-page-b5-of"><em>New York Times</em></a></small></p>
+				</section>
+
+				<section>
+					<h5>104 years later: 2000</h5>
+					<img src="../img/election2000.png" height="550" border="0"/>
+					<p><small>Source: <a href="http://nytgraphics.tumblr.com/post/35154314439/nov-9-2000-first-use-of-county-data-in-a"><em>New York Times</em></a></small></p>
+				</section>
+
+				<section>
+					<h5>Now, with interactivity</h5>
+					<img src="../img/election2012.png" height="550" border="0"/>
+					<p><small>Source: <a href="http://elections.nytimes.com/2012/results/president?gwh=85A17AB9199949337C03D4224457811F"><em>New York Times</em></a></small></p>
+				</section>
+
+				<section>
+					<h5>More data!</h5>
+					<img src="../img/rtve-microscope.png" height="550" border="0"/>
+					<p><small>Source: <a href="http://datos.rtve.es/elecciones/autonomicas-municipales/index.html#mapa/40.616/-3.745/11/2011/ninguna/autonomias/España"><em>RTVE</em></a></small></p>
+				</section>
+
+				<section>
+					<h5>Smaller units!</h5>
+					<img src="../img/berliner-morgenpost-berlin-2013.png" height="550" border="0"/>
+					<p><small>Source: <a href="http://berlinwahlkarte2013.morgenpost.de/"><em>Berliner Morgenpost</em></a></small></p>
+				</section>
+
+
+</section>
+
+<!-- very good tools for rapid bulk generating. Great for print, less so for web. Even less so for the mobile web -->
+
+<section>
+	<h3>20 years of static visualisation</h3>
+	<img src="../img/staticCharts.png" height="550"  border="0" style="border:none;"/>
+</section>
+
+<!-- The change of recent years has been even more dramatic, as we shift away from fixed aspect ratio design, which print and the first two decades of web design had in common -->
+
+<section>
+	<h3>Seven years in the rectangular sandbox</h3>
+	<img src="../img/flash.png" height="550"  border="0" style="border:none;"/>
+</section>
+
+<section>
+	<h3>Upended workflows</h3>
+	<p>Recent changes to established practices</p>
+	<div class="fragment fade-in"><p>End of:</p>
+	<ul>
+		<li>Batch workflows for print</li>
+		<li>Fixed aspect ratios</li>
+	</ul></div>
+</section>
+
+<section>
+	<h3>Upended workflows</h3>
+	<p>Established practices replaced by:</p>
+	<ul>
+		<li>Dynamic graphics generated client-side</li>
+		<li>Web-to-print workflows</li>
+		<li>Responsive design</li>
+	</ul>
+</section>
+
+<section>
+	<h3>Dynamically-generated graphics</h3>
+	<img src="../img/sequester.png" height="550" border="0" style="border:none;"/>
+	<p><small>Source: <a href="http://blogs.ft.com/ftdata/2013/09/29/sequester-county-impacts/"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>No more &lsquo;boxes on templated pages&rsquo;</h3>
+	<img src="../img/patentWars.png" height="550"  border="0" style="border:none;"/>
+	<p><small>Source: <em><a href="http://www.ft.com/cms/s/2/de24f970-f8d0-11e0-a5f7-00144feab49a.html">Financial Times</a></em> (2011)</small></p>
+</section>
+
+<section>
+	<h3>Responsive integrated story design</h3>
+	<iframe src="http://www.ft.com/ig/sites/2013/seasonal-appeal/" width="972" height="500" scrolling="yes"></iframe>
+	<p><small>Source: <em><a href="http://www.ft.com/ig/sites/2013/seasonal-appeal/">Financial Times</a></em> (2013)</small></p>
+</section>
+
+<section>
+	<h3>Required transformations:</h3>
+	<ul>
+		<li class="fragment fade-in">Develop web-first workflows</li>
+		<li class="fragment fade-in">Democratise visualisation</li>
+		<li class="fragment fade-in">Educate &lsquo;data civilians&rsquo;</li>
+	</ul>
+</section>
+
+<section>
+	<h3>Democratising data visualisation</h3>
+	<img src="../img/widgetBrowser.png" border="0" style="border:none;" />
+	<p><small><em>Financial Times</em></small></p>
+</section>			
+
+<section>
+	<h3>Educating civilians</h3>
+	<p>Three messages:</p>
+	<ul>
+		<li class="fragment fade-in">Embrace granularity</li>
+		<li class="fragment fade-in">Understand the options</li>
+		<li class="fragment fade-in">5+1 characteristics of good visualisation projects</li>
+	</ul>
+</section>
+
+	<section>
+		<h3>Editing for granularity</h3>
+		<p class="fragment fade-in">Legacy space constraints don&rsquo;t apply, but lack of granular data limits options</p>
+		<ul>
+			<li class="fragment fade-in">Don&rsquo;t let sources aggregate data for you</li>
+			<li class="fragment fade-in">Go beyond the &lsquo;top-line&rsquo; numbers.</li>
+			<li class="fragment fade-in">Rephrase questions to seek the most granular data possible.</li>
+		</ul>
+	</section>
+
+<section>
+<section>
+	<h3>Understanding options</h3>
+	<p>Three broad types of web-native visual journalism:</p>
+	<ul>
+	<li class="fragment fade-in">Integrated multimedia stories</li>
+	<li class="fragment fade-in">Structured &lsquo;menu-and-list&rsquo; stories</li>
+	<li class="fragment fade-in">News applications</li>
+	</ul>
+</section>
+
+<section>
+	<h3>1. Integrated multimedia story design</h3>
+	<iframe src="http://www.ft.com/ig/sites/2013/seasonal-appeal/" width="972" height="500" scrolling="yes"></iframe>
+	<p><small>Source: <em><a href="http://www.ft.com/ig/sites/2013/seasonal-appeal/">Financial Times</a></em></small></p>
+</section>
+
+<!-- Challenge is commercialisation and scalability -->
+
+<section>
+	<h3>Scalable long-form stories</h3>
+	<iframe src="http://www.ft.com/cms/s/0/f6f4d6b4-ca2e-11e3-ac05-00144feabdc0.html" height="550" width="100%" style="margin:0 10px 0 0; float:left;"></iframe>
+	<!--<iframe src="http://www.ft.com/cms/s/0/0ac1306e-d508-11e3-9187-00144feabdc0.html" height="550" width="30%" style="margin:0 10px 0 0; float:left;"></iframe>
+	<iframe src="http://www.ft.com/cms/s/0/b4e2e140-d9c3-11e3-920f-00144feabdc0.html" height="550" width="30%" style="margin:0 10px 0 0; float:left;"></iframe>
+-->
+
+	<p><small>Source: <em>Financial Times</em> 
+		[<a href="http://www.ft.com/cms/s/0/f6f4d6b4-ca2e-11e3-ac05-00144feabdc0.html">1</a>] 
+		[<a href="http://www.ft.com/cms/s/0/0ac1306e-d508-11e3-9187-00144feabdc0.html">2</a>] 
+		[<a href="http://www.ft.com/cms/s/0/b4e2e140-d9c3-11e3-920f-00144feabdc0.html">3</a>]
+	</em></small></p>
+</section>
+
+<!-- Aside on data reporting starts here -->
+
+
+<!-- Aside on data reporting ends here -->
+<section>	
+	<h3>2. Structured &lsquo;menu-and-list&rsquo; stories</h3>
+	<p>Anything with a menu and details (not a blob of text):</p>
+	<img src="../img/caribbean.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://www.ft.com/caribbean">Financial Times</a></em></small></p>	
+</section>
+
+<section>
+	<h3>Timeslines</h3>
+	<img src="../img/timeline.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://ig.ft.com/sites/2014/guinea-timeline/">Financial Times</a></em></small></p>
+</section>
+
+<section>
+	<h3><em>Dramatis personae</em></h3>
+	<img src="../img/murdoch.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://www.ft.com/cms/s/0/6e9c9998-4472-11e2-932a-00144feabdc0.html">Financial Times</a></em></small></p>
+</section>
+
+<section>
+	<h3>Networks</h3>
+	<img src="../img/cohenNetwork.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://www.ft.com/caribbean">Financial Times</a></em></small></p>
+</section>
+
+<section>	
+	<h3>3. News applications</h3>
+	<div class="fragment fade-in">
+	<p>&ldquo;a large web-based interactive database that tells a journalistic story using software instead of words and pictures.&rdquo;</p>
+	<p><small>&mdash; Scott Klein, <a href="http://www.propublica.org/nerds/item/knight-foundation-makes-grant-to-support-propublicas-news-applications-desk">ProPublica</a></small></p>	
+	</div>	
+</section>
+
+<section>
+		<h3>FT Austerity Audit</h3>
+		<a href="http://ig.ft.com/austerity-map/"><img src="../img/screenMartini.png" height="500" border="0" style="border:none;"/></a>
+		<p><small>Source: <em><a href="http://ig.ft.com/austerity-map/">Financial Times</a></em></small></p>
+</section>
+
+<section>
+<h3>BBC: Most read in 2013</h3>				
+	<div class="fragment fade-in" >				
+		<img src="../img/bbcClassCalc.png" border="0" style="border:none;"/>
+		<p><small>Source: &ldquo;<a href="http://www.bbc.co.uk/news/magazine-22000973">The Great British class calculator: What class are you?</a>,&rdquo; <em>BBC News Online,</em> April 3, 2013</small></p>
+	</div>
+</section>
+<!-- 6m pv in 3 first two days; later became most-read. More details:
+	http://www.bbc.co.uk/blogs/legacy/theeditors/2013/04/the_great_british_class_calcul.html
+-->
+<section>
+	<h3>NYT Most read <s>in 2013</s> ever</h3>
+	<!--<p>21 million page views, according to leaked Innovation report</p>-->
+	<img src="../img/dialectMap.png" height="550" border="0"/>
+	<p><small>Source: &ldquo;<a href="http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html">How Y&rsquo;all, Youse and You Guys Talk</a>&rdquo;<em>New York Times,</em> December 21, 2013</small></p>
+</section>
+</section>
+
+<!-- The basic requirements section starts here -->
+<section>
+<section>
+		<h3>Five essentials:</h3>
+		<p>An interactive data visualisation must:</p>
+		<ul>
+			<li class="fragment fade-in">Tell a story...</li>
+			<li class="fragment fade-in">...that cannot be told using simpler means</li>
+			<li class="fragment fade-in">Use data analysis integral to the reporting ...</li>
+			<li class="fragment fade-in">Be of lasting value</li>
+			<li class="fragment fade-in">Involve visual journalists from the start.</li>
+		</ul>
+</section>
+
+<section>
+		<h3>1. Tell a story</h3>
+		<p>An interactive news application must meet a <strong>clearly-stated user need</strong> and  explain a topic with a <strong>narrative structure</strong><span class="fragment fade-in">, not just display data for the reader to explore.</span></p>
+</section>
+
+<section>
+		<h3>2. Eliminate simpler solutions</h3>
+		<p>Reserve interactivity for essential cases.</p>
+		<div class="fragment fade-in">
+		<p>Text and static graphics are:</p>
+		<ul class="fragment fade-in">
+			<li>faster and easier to produce than custom code</li>
+			<li>more universally accessible across platforms and devices</li>
+		</ul>
+		</div>
+	<p class="fragment fade-in"><strong>Avoid &lsquo;advent calendars&rsquo;.</strong></p>
+</section>
+
+<section>
+		<h3>3. Use data integral to the story</h3>
+		<p>The data being displyed was analysed to find the story.</p>
+		<p class="fragment fade-in">It must not consist primarily of data selected after the fact to illustrate a conclusion reached by other reporting techniques.</p>
+		<p class="fragment fade-in"><strong>&lsquo;Information, not ornamentation.&rsquo;</strong></p>
+</section>
+
+<section>
+		<h3>4. Build something of lasting value</h3>
+		<p>Introduce functionality or tell an ongoing story that can attract readers for longer than any one news item, ideally indefinitely.</p>
+		<p class="fragment fade-in">Rule of thumb: It should retain value to readers for longer than it takes to produce.</p>
+</section>
+
+<section>
+		<h3>5. Involve specialists from the start</h3>
+		<p class="fragment fade-in">The <a href="http://www.tommeagher.com/blog/2014/06/things-i-never-learned-at-newspapers.html">&lsquo;deli counter&rsquo; model</a> no longer works.</p>
+</section>
+</section>
+<!-- Basic requirements section ends here -->
+
+
+<!-- great examples section starts -->
+<section>
+<section>
+		<h3>... and at least one of these:</h3>
+			<ul>
+				<li class="fragment fade-in">Provides a narrative with both a &lsquo;macro&rsquo; and a &lsquo;micro&rsquo; view</li>
+				<li class="fragment fade-in">...ideally &lsquo;personal relevancy&rsquo;</li>
+				<li class="fragment fade-in">Automates an repetitive editorial process</li>
+				<li class="fragment fade-in">Integrates social media</li>
+				<li class="fragment fade-in">Uses data outputs beyond graphics</li>
+			</ul>
+</section>
+
+<section>
+	<h3>Include a narrative layer</h3>
+	<p>Great interactive graphics are both <a href="http://www.thefunctionalart.com/2014/03/infographics-to-reveal-visualizations.html">explanatory <em>and</em> exploratory</a>.</p>
+	<!-- <img src="../img/bank-fines.png" border="0" style="border:none;"> -->
+<iframe width="600" height="640" frameborder="0" scrolling="auto" src="http://www.ft.com/ig/features/u/us-bankfines/dist/"></iframe>
+	<p><small>Source: <a href="http://blogs.ft.com/ftdata/2014/03/28/bank-fines-data/"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>Macro and micro views</h3>
+	<iframe width="972" height="900" frameborder="0" scrolling="auto" src="http://www.ft.com/ig/features/2014-04-23_eu-results-2014/"></iframe>
+	<p><small>Source: <a href="http://www.ft.com/cms/s/0/6ab558d2-e292-11e3-a829-00144feabdc0.html"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>The &lsquo;Martini-glass&rsquo; narrative</h3>
+	<p>Highlight the important views before handing over control.</p>
+	<a href="http://ig.ft.com/austerity-map/"><img src="../img/screenMartini.png" height="500" border="0" style="border:none;"/></a>
+	<p><small>Source: Edward Segel and Jeffrey Heer, <a href="http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf">&ldquo;Narrative Visualization: Telling Stories with Data&rdquo;</a></em></small></p>
+</section>
+
+<section>
+	<h3>&lsquo;Far&rsquo; and &lsquo;near&rsquo; views</h3>
+	<a href="http://www.ft.com/firemap"><img src="../img/screenPersonalise.png" height="550" border="0" style="border:none;"/></a>
+	<p><small><a href="http://www.ft.com/firemap/">How fast is the London Fire Brigade (near you)</a></small></p>
+</section>
+
+<section>
+	<h3>Highlighting personal relevancy</h3>
+	<p>The best kind of zoom-in view is <a href="http://seeyalaterallidata.wordpress.com/2013/03/07/data-journalism-at-the-bbc-interview-with-bella-hurrell/">personalisation</a>.</p>
+	<iframe width="700" height="400" frameborder="0" scrolling="no" src="http://www.ft.com/ig/features/2013-07-25_georgian_probability/dist/"></iframe>
+	<p><small><a href="http://blogs.ft.com/ftdata/2013/07/24/georgian-life/">Will you be a Georgian?</a></small></p>
+</section>
+
+<section>
+	<h3>Automation: Election updates</h3>
+	<iframe width="972" height="900" frameborder="0" scrolling="auto" src="http://www.ft.com/ig/features/2014-04-23_eu-results-2014/"></iframe>
+	<p><small>Source: <a href="http://www.ft.com/cms/s/0/6ab558d2-e292-11e3-a829-00144feabdc0.html"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>Automation: Repeatable charts</h3>
+	<img src="../img/unemploymentWapo.png" border="0" style="border:none;">
+	<p><small>Source: <em><a href="http://www.washingtonpost.com/wp-srv/special/business/jobs-report/">Washington Post</a></em></small></p>
+</section>
+
+<section>
+	<h3>Automation: Robots on your patch!</h3>
+	<img src="../img/quakebot.png" border="0" style="border:none;"
+	<p><small>Source: <a href="http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html"><em>Los Angeles Times</em></a> (Image: @BennySP, <a href="https://twitter.com/BennySp/status/419211311289888768/photo/1">Twitter</a>)</small></p>
+</section>
+
+<section>
+	<h3>Novel outputs: More robots!</h3>
+	<img src="../img/fourth-down-bot.png" border="0" height:"450px" style="border:none;">
+	<p><small>Source: <em><a href="http://www.nytimes.com/newsgraphics/2013/11/28/fourth-downs/">New York Times</a></em></small></p>
+</section>
+
+
+<section>
+	<h3>Novel outputs: Multimedia games</h3>
+	<img src="../img/spelling-bee.png" border="0" style="border:none;">
+	<p><small>Source: <em><a href="http://usatoday30.usatoday.com/exp/spelling-bee/index.html?sf26686063=1">USA Today</a></em></small></p>
+</section>
+
+	<section>
+		<h3>Social media integration</h3>
+		<a href="http://www.ft.com/cms/s/2/8ae5045c-4159-11e3-b064-00144feabdc0.html" ><img src="../img/screenTwitterCalc.png" height="500" border="0" style="border:none;"/></a>
+		<p><small><a href="http://www.ft.com/cms/s/2/8ae5045c-4159-11e3-b064-00144feabdc0.html">Twitter IPO calculator</a></small></p>
+	</section>
+	<section>
+		<h3>Social media integration</h3>
+		<a href=""><img src="../img/screenSocial.png" height="550"border="0" style="border:none;"/></a>
+		<p><small><a href="http://www.ft.com/cms/s/2/927ca86e-d29b-11e2-88ed-00144feab7de.html">How much is my personal data worth?</a></small></p>
+	</section>
+
+
+</section>
+<!-- great examples section ends -->
+
+
+
+<section>			
+<p><a href="mailto:martin.stabe@ft.com">martin.stabe@ft.com</a></p>
+<p><strong>These slides:</strong> <a href="http://martinstabe.github.io/slides/tgw2014">ft.com/tgw2014</a></p>
+</section>
+
+</div>
+</div>
+
+		<script src="../lib/js/head.min.js"></script>
+		<script src="../js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
