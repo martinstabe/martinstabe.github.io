@@ -1,0 +1,587 @@
+
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Goldsmiths - February 2015</title>
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="../css/reveal.min.css">
+		<link rel="stylesheet" href="../css/theme/ft.css" id="theme">
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="../lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="../css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+<body>
+<div class="reveal">
+<div class="slides">
+
+<section>
+	<!-- the character F is the FT logotype -->
+	<h2 class="logo" style="text-align:center;">F</h4>
+</section>
+
+<section>
+	<h2 class="logo" style="text-align:left;">F</h4>
+	<small><p><a href="mailto:martin.stabe@ft.com">martin.stabe@ft.com</a>
+	</p>
+	<p><a href="http://www.ft.com/interactive">ft.com/interactive</a>
+	</p>
+	<p><a href="http://www.twitter.com/martinstabe">@martinstabe</a>
+	</p></small>
+	<p><a href="http://martinstabe.github.io/slides/goldsmiths2015">http://martinstabe.github.io/slides/goldsmiths2015</a>
+	</p>
+</section>
+
+
+	<section>
+		<h3>What is &lsquo;interactive news&rsquo;?</h3>	
+		
+		<div class="fragment fade-in">
+			<p><img src="../img/venn.png" height="550" border="0"></p>
+		<p>
+			<small>Source: <a href="http://knightlab.northwestern.edu/2013/06/28/want-to-build-a-data-journalism-team-youll-need-these-three-people/">Rich Gordon</a>, Knight Lab, Northwestern University</small>
+		</p>
+	</div>
+	</section>
+
+	<section>
+	<h3>What we do</h3>
+	<ul>	
+		<li>&ldquo;interactive data visualisation&rdquo;</li>
+		<li>&ldquo;interactive graphics&rdquo;</li>
+		<li class="fragment fade-in">&ldquo;data journalism&rdquo;</li>
+	</ul>
+</section>
+
+<section>
+	<h3>Not a new idea</h3>
+	<div class="fragment fade-in">
+	<img style="border:none;" src="../img/1821.jpg" height="550" border="0">
+	<p><small>Source: <em>Manchester Guardian,</em> 1821, via <a href="http://www.theguardian.com/news/datablog/2011/sep/26/data-journalism-guardian">Guardian Data Blog</a></small></p>
+	</div>
+</section>
+
+<section>
+	<h3>Evolution, not revolution</h3>
+	<div class="fragment fade-in"><img style="border:none;" src="../img/colorofmoney.jpg" height="550" border="0">
+	<p><small>Source: <em>Atlanta Journal-Constitution,</em> 1988, via <a href="http://powerreporting.com/color/1d.html">Power Reporting</a></small></p></div>
+</section>
+
+<section>
+	<h3>&lsquo;Precision journalism&rsquo;</h3>
+
+	<p class="fragment fade-in" style="text-align:left;">&ldquo;I sort of see data journalism ... as <strong>social science done on deadline</strong>.</p>
+
+	<p class="fragment fade-in" style="text-align:left;">&ldquo;We’re using the tools that social scientists have used for years ... [and] applying those tools to journalism problems and using it to help us tell stories with more authority.&rdquo;</p>
+
+	<p><small>&mdash; Steve Doig in &ldquo;<a href="http://journalistsresource.org/skills/research/research-chat-steve-doig-data-journalism-social-science-deadline#sthash.hkbgkTHI.dpuf">&lsquo;Social science done on deadline&rsquo;: Research chat with ASU&rsquo;s Steve Doig on data journalism</a>,&rdquo; <em>Journalists&rsquo; Resource</em>, Shorenstein Center, Harvard Kennedy School of Government</small></p>
+</section>
+
+<section>
+		<h3>Social science on deadline</h3>
+		<a href="http://blogs.ft.com/ftdata/2012/06/21/social-mobility-and-o-levels/"><img style="border:none;" src="../img/chartOfDoom.gif" height="500"></a>
+		<p><small><em>Financial Times</em> (2012)</small></p>
+</section>
+
+<section>
+		<h3>So what <em>is</em> new?</h3>	
+</section>
+
+<section>
+	<h3>Growing data availability</h3>
+	<p>FOI and open data from the public sector</p>
+	<img src="../img/foia.png" style="border:none;" height="550" border="0">
+	<p><small>Source: <a href="http://www.legislation.gov.uk/ukpga/2000/36/contents">Legislation.gov</a></small></p>
+</section>
+
+<section>
+	<h3>Growing data availability</h3>
+	<p>... and growing private-sector &lsquo;data exhaust&rsquo;</p>
+	<iframe width="900" height="550" frameborder="0" src="http://ft.cartodb.com/viz/d2b70758-699f-11e3-b9fb-5404a6a69006/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1&sql=&sw_lat=51.48341925792338&sw_lon=-0.2911376953125&ne_lat=51.588107456894005&ne_lon=0.0384521484375"></iframe>
+	<p><small><a href="http://blogs.ft.com/ftdata/2013/12/27/animated-map-your-mobile-operator-knows-where-youve-been/"><em>Financial Times</em></a> / <a href="http://ft.cartodb.com/viz/d2b70758-699f-11e3-b9fb-5404a6a69006/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1&sql=&sw_lat=51.48341925792338&sw_lon=-0.2911376953125&ne_lat=51.588107456894005&ne_lon=0.0384521484375">CartoDB</a></small></p>
+</section>
+
+<section>
+	<h5>Growing need for analytical capacity</h5>
+	<p>Stories can now be based on >100m emails in >10Tb of data</p>
+	<!-- 
+	The Sunday Times Insight team has spent two months examining tens of thousands of gigabytes of data using forensic search technology and a network of offshore supercomputers.
+	-->
+	<img src="../img/fifafiles.png" border="0" style="border:none;" height="550" />
+	<p><small>Source: &ldquo;<a href="http://www.thesundaytimes.co.uk/sto/news/uk_news/fifa/article1417226.ece">Plot to buy the World Cup</a>,&rdquo; <em>Sunday Times,</em> June 1, 2014</small></p>
+</section>
+
+
+<section>
+	<h3>The internet!</h3>
+	<div class="fragment fade-in">
+	<p style="text-align:left;">&ldquo;The Web <!--is the canvas for CAR, better than any other platform we’ve come up with as an industry.--> ... <!--It-->has every advantage <!-- that should be available to the CAR practitioners,--> ... including unlimited depth, the ability to customize or personalize and the luxury of designing a database so that it will truly be useful to readers.&rdquo;</p>
+	<p><small>&mdash; Derek Willis, <a href="http://thescoop.org/thefix/the-canvas-for-car/">&ldquo;The canvas for CAR&rdquo;</a> (2007)</small></p>	
+	</div>
+</section>
+
+	<section>
+		<h3>&lsquo;Show your work&rsquo;</h3>
+		<a href="http://www.ft.com/cms/s/2/8ae5045c-4159-11e3-b064-00144feabdc0.html" ><img src="../img/screenTwitterCalc.png" height="500" border="0" style="border:none;"/></a>
+		<p><small><a href="http://www.ft.com/cms/s/2/8ae5045c-4159-11e3-b064-00144feabdc0.html">Twitter IPO calculator</a></small></p>
+	</section>
+
+
+
+<!--
+<section>
+<h3>What is an &lsquo;interactive&rsquo;?</h3>
+<p class="fragment fade-in">Broadly, there are three types:</p>
+<ol>
+	<li class="fragment fade-in">Integrated multimedia stories</li>
+	<li class="fragment fade-in">Menu-and-list stories</li>
+	<li class="fragment fade-in">News applications</li>
+</ol>
+</section>
+
+<section>	
+	<h3></h3>
+	<p class="fragment fade-in">Break down old media silos on our websites</p>
+	<p class="fragment fade-in"><img src="../img/snowfall.png" border="0" style="border:none;">
+
+</section>
+
+<section>
+	<h3>1. Integrated multimedia story design</h3>
+	<p class="fragment fade-in">Break down old media silos on our websites</p>
+	<iframe class="fragment fade-in" src="http://www.ft.com/ig/sites/2013/seasonal-appeal/" width="972" height="500" scrolling="yes"></iframe>
+	<p><small>Source: <em><a href="http://www.ft.com/ig/sites/2013/seasonal-appeal/">Financial Times</a></em></small></p>
+</section>
+-->
+<!--
+	Removed: 
+
+	Snowfall:
+	http://www.nytimes.com/projects/2012/snow-fall/?forceredirect=yes#/?part=tunnel-creek
+
+	Standard templates:
+	http://aronpilhofer.com/post/50087556737/why-design-matters-if-snow-fall-were-published-in
+-->
+
+<!--
+<section>
+	<h3>Integrate audio, video and graphics</h3>
+	<iframe src="http://www.ft.com/ig/sites/2014/seasonal-appeal/" width="972" height="500" scrolling="yes"></iframe>
+	<p><small>Source: <em><a href="http://www.ft.com/ig/sites/2014/seasonal-appeal/">Financial Times</a></em></small></p>
+</section>
+
+<section>	
+	<h3>2. Menu-and-list stories</h3>
+	<p>Improve the display of simple, but highly structured, content into a menu and detail panels</p>	
+</section>
+
+<section>
+	<h3>Timeslines</h3>
+	<img src="../img/timeline.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://ig.ft.com/sites/2014/guinea-timeline/">Financial Times</a></em></small></p>
+</section>
+
+<section>
+	<h3><em>Dramatis personae</em></h3>
+	<img src="../img/murdoch.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://www.ft.com/cms/s/0/6e9c9998-4472-11e2-932a-00144feabdc0.html">Financial Times</a></em></small></p>
+</section>
+
+<section>
+	<h3>... or networks of them</h3>
+	<img src="../img/cohenNetwork.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://www.ft.com/caribbean">Financial Times</a></em></small></p>
+</section>
+
+<section>
+	<h3>Anything with a menu and details</h3>
+	<img src="../img/caribbean.png" height="550" border="0"/>
+	<p><small>Source: <em><a href="http://www.ft.com/caribbean">Financial Times</a></em></small></p>
+</section>
+
+-->
+
+<!-- In the past, these might have been made as clickable panels, but this is unsuitable given the 
+	requirements of responsive design -->
+
+<section>	
+	<h3>News applications</h3>
+	<div class="fragment fade-in">
+	<p>&ldquo;a large web-based interactive database that tells a journalistic story using software instead of words and pictures.&rdquo;</p>
+	<p><small>&mdash; Scott Klein, <a href="http://www.propublica.org/nerds/item/knight-foundation-makes-grant-to-support-propublicas-news-applications-desk">ProPublica</a></small></p>	
+	</div>	
+</section>
+
+
+<section>
+	<h3>NYT most read <s>in 2013</s> ever</h3>
+	<!--<p>21 million page views, according to leaked Innovation report</p>-->
+	<img src="../img/dialectMap.png" height="550" border="0"/>
+	<p><small>Source: &ldquo;<a href="http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html">How Y&rsquo;all, Youse and You Guys Talk</a>&rdquo;<em>New York Times,</em> December 21, 2013</small></p>
+</section>
+
+<section>
+	<h3>NYT Most read <s>in 2013</s> ever</h3>
+
+	<p class="fragment fade-in">Josh Katz: <span class="fragment fade-in">&ldquo;I&rsquo;d enjoyed the news as a consumer … but I&rsquo;d never really pictured myself as being a part of the journalism world.&rdquo;</span></p>
+
+	<p class="fragment fade-in" >&ldquo;I&rsquo;d always had an interest in data visualization and finding a way of communicating results graphically … What I didn&rsquo;t realize is that that is essentially a lot of what they do at Times graphics, so it was really a perfect fit.&rdquo;</p>
+
+	<p><small><strong>Source:</strong> Ryan Graff, &ldquo;<a href="http://knightlab.northwestern.edu/2014/01/20/behind-the-dialect-map-interactive-how-an-intern-created-the-new-york-times-most-popular-piece-of-content-in-2013/">Behind the dialect map interactive:<br />How an intern created <em>The New York Times&rsquo;</em> most popular piece of content in 2013</a>,&rdquo; <em>Knight Lab,</em> January 20, 2014</small></p>
+</section>
+
+<section>
+<h3>BBC: Most read in 2013</h3>				
+	<div class="fragment fade-in" >				
+		<img src="../img/bbcClassCalc.png" border="0" style="border:none;"/>
+		<p><small>Source: &ldquo;<a href="http://www.bbc.co.uk/news/magazine-22000973">The Great British class calculator: What class are you?</a>,&rdquo; <em>BBC News Online,</em> April 3, 2013</small></p>
+</section>
+<!-- 6m pv in 3 first two days; later became most-read. More details:
+	http://www.bbc.co.uk/blogs/legacy/theeditors/2013/04/the_great_british_class_calcul.html
+-->
+
+<section>
+	<h3>Distinguished by data</h3>
+	<p>Not all quizzes are data journalism</p>
+	<img src="../img/buzzfeed-frozen.png" height="550" border="0"/>
+	<p><small>Sources: <a href="http://www.buzzfeed.com/joannaborns/frozen-letter">Buzzfeed</a>, &ldquo;Which letter from the title of &lsquo;Frozen&rsquo; are you?&rdquo; </small></p>
+</section>
+
+<!-- The basic requirements section starts here -->
+<section>
+		<h3>Five essentials:</h3>
+		<p>An news app must:</p>
+		<ol>
+			<li class="fragment fade-in">Tell a story...</li>
+			<li class="fragment fade-in">...that cannot be told using simpler means</li>
+			<li class="fragment fade-in">Use data analysis integral to the reporting ...</li>
+			<li class="fragment fade-in">Be of lasting value</li>
+			<li class="fragment fade-in">Involve visual journalists from the start.</li>
+		</ol>
+</section>
+
+<section>
+		<h3>1. Tell a story</h3>
+		<p>An interactive news application must meet a <strong>clearly-stated user need</strong> and  explain a topic with a <strong>narrative structure</strong><span class="fragment fade-in">, not just display data for the reader to explore.</span></p>
+</section>
+
+<section>
+	<h3>Explanatory <em>and</em> exploratory</h3>
+	<iframe width="972" height="900" frameborder="0" scrolling="auto" src="http://www.ft.com/ig/features/baseline/greatest-tennis-players-of-all-time/"></iframe>
+	<p><small>Source: <a href="http://www.ft.com/ig/features/baseline/greatest-tennis-players-of-all-time/"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>The &lsquo;Martini-glass&rsquo; narrative</h3>
+	<p>Highlight the important views before handing over control.</p>
+	<a href="http://ig.ft.com/austerity-map/"><img src="../img/screenMartini.png" height="500" border="0" style="border:none;"/></a>
+	<p><small>Source: Edward Segel and Jeffrey Heer, <a href="http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf">&ldquo;Narrative Visualization: Telling Stories with Data&rdquo;</a></em></small></p>
+</section>
+
+<section>
+	<h3>Macro <em>and</em> micro</h3>
+	<iframe width="972" height="900" frameborder="0" scrolling="auto" src="http://www.ft.com/ig/features/2014-04-23_eu-results-2014/"></iframe>
+	<p><small>Source: <a href="http://www.ft.com/cms/s/0/6ab558d2-e292-11e3-a829-00144feabdc0.html"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>Highlighting personal relevancy</h3>
+	<p>The ideal &lsquo;micro&rsquo; view is <a href="http://seeyalaterallidata.wordpress.com/2013/03/07/data-journalism-at-the-bbc-interview-with-bella-hurrell/">personalisation</a>.</p>
+	<a href="http://www.ft.com/firemap"><img src="../img/screenPersonalise.png" height="550" border="0" style="border:none;"/></a>
+	<p><small><a href="http://www.ft.com/firemap/">How fast is the London Fire Brigade (near you)</a></small></p>
+</section>
+
+<section>
+		<h3>2. Avoid interactivity where possible</h3>
+		<p>Reserve interactivity for essential cases.</p>
+		<p class="fragment fade-in">Interactivity shifts cognitive burden onto the reader</p>
+		<p class="fragment fade-in">Interactivity is not an end in itself.</p>
+		<div class="fragment fade-in">
+		<p>Text and static graphics are:</p>
+		<ul class="fragment fade-in">
+			<li>faster and easier to produce than custom code</li>
+			<li>more universally accessible across platforms and devices</li>
+		</ul>
+	<p class="fragment fade-in"><strong>Avoid &lsquo;advent calendars&rsquo;.</strong></p>
+</section>
+
+
+<section>
+	<h3>Science.</h3>
+	<p>Interactivity is not an end itself</p>
+	<img src="../img/very-scientific-poll.png" height="550" border="0"/>
+	<p><small>Mirror.co.uk</small></p>
+</section>
+
+<section>
+		<h3>3. Use data integral to the story</h3>
+		<p>The data being displyed was analysed to find the story.</p>
+		<p class="fragment fade-in">It must not consist primarily of data selected after the fact to illustrate a conclusion reached by other reporting techniques.</p>
+		<p class="fragment fade-in"><strong>&lsquo;Information, not ornamentation.&rsquo;</strong></p>
+</section>
+
+<section>
+	<h3>Information, not ornamentation</h3>
+	<p>&ldquo;Using data to add depth, colour or context to a story is one thing, but creating a story <em>ex nihilo</em> is  where the real value lies ...</p> 
+	<p>&ldquo;Statistical journalism offers a ... way [to be] first, right and leaving rivals scrambling to report on your story.&rdquo;</p>
+	<p><small>&mdash; John Burn-Murdoch in <em>Data Journalism: Mapping the Future</em></small></p>
+</section>
+
+<section>
+	<h3>Reporting using data</h3>
+	<a href="http://blogs.ft.com/ftdata/2012/06/21/social-mobility-and-o-levels/">
+	<img style="border:none;" src="../img/chartOfDoom.gif" height="500"></a>
+	<p><small><a href="http://www.ft.com/cms/s/0/8f65f1ce-5be7-11e2-bef7-00144feab49a.html"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>Reporting using data</h3>
+	<img style="border:none;" src="../img/autoworker-wages.png" height="500">
+	<p><small><a href="http://www.ft.com/cms/s/0/25f5f09a-94cb-11e3-af71-00144feab7de.html"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+		<h3>4. Build something of lasting value</h3>
+		<p>Introduce functionality or tell an ongoing story that can attract readers for longer than any one news item, ideally indefinitely.</p>
+		<p class="fragment fade-in">Rule of thumb: It should <strong>retain value to readers for longer than it takes to produce</strong>.</p>
+</section>
+
+<section>
+		<h3>Ongoing value</h3>
+		<p>Not necessarily &lsquo;news&rsquo;</p>
+		<a href="http://www.ft.com/ig/business-book-award"><img src="../img/business-books.png" height="550"border="0" style="border:none;"></a>
+		<p><small><a href="http://www.ft.com/ig/business-book-award">FT Business Books of the Decade</a></small></p>
+</section>
+
+
+<section>
+	<h3>5. Involve specialists from the start</h3>
+	<p>&ldquo;Many newsrooms treat their graphics desk like a deli counter.&rdquo;</p>
+	<p class="fragment fade-in">&ldquo;This work is too expensive, in terms of time and resources, to follow the old print graphics desk model.</p>
+	<div class="fragment fade-in"><p>&ldquo;Journalist-developers must be woven into the assigning side of the newsroom and involved in stories from the very beginning, not sitting around waiting to pretty things up at the last minute.&rdquo;</p>
+	<small>&mdash; Tom Meagher, <a href="http://www.tommeagher.com/blog/2014/06/things-i-never-learned-at-newspapers.html">&ldquo;Things I never learned at newspapers about making news on the internet&rdquo;</a></small>
+	</p></div>
+</section>
+
+<!-- Basic requirements section ends here -->
+
+
+<!-- great examples section starts -->
+<section>
+		<h3>... and at least one of these:</h3>
+			<ul>
+				<li class="fragment fade-in">Automates an repetitive editorial process</li>
+				<li class="fragment fade-in">Integrates social media</li>
+				<li class="fragment fade-in">Uses data outputs beyond graphics</li>
+			</ul>
+</section>
+
+
+<section>
+	<h3>Novel outputs: Multimedia games</h3>
+	<img src="../img/spelling-bee.png" border="0" style="border:none;">
+	<p><small>Source: <em><a href="http://usatoday30.usatoday.com/exp/spelling-bee/index.html?sf26686063=1">USA Today</a></em></small></p>
+</section>
+
+<section>
+	<h5>Games and social media integration</em></h5>
+	<iframe width="900" height="600" frameborder="0" src="http://www.ft.com/ig/sites/2014/deficit-calculator/"></iframe>
+	<p><small>Source: <a href="http://www.ft.com/ig/sites/2014/deficit-calculator/"><em>Financial Times</em></a></small></p>
+</section>
+
+
+	<section>
+		<h3>Social media integration</h3>
+		<img src="../img/screenSocial.png" height="550"border="0" style="border:none;"/>
+		<p><small><a href="http://www.ft.com/cms/s/2/927ca86e-d29b-11e2-88ed-00144feab7de.html">How much is my personal data worth?</a></small></p>
+	</section>
+
+
+<section>
+	<h3>Automation: Election updates</h3>
+	<iframe width="972" height="900" frameborder="0" scrolling="auto" src="http://www.ft.com/ig/features/2014-04-23_eu-results-2014/"></iframe>
+	<p><small>Source: <a href="http://www.ft.com/cms/s/0/6ab558d2-e292-11e3-a829-00144feabdc0.html"><em>Financial Times</em></a></small></p>
+</section>
+
+<section>
+	<h3>Automation: Repeatable charts</h3>
+	<img src="../img/unemploymentWapo.png" border="0" style="border:none;">
+	<p><small>Source: <em><a href="http://www.washingtonpost.com/wp-srv/special/business/jobs-report/">Washington Post</a></em></small></p>
+</section>
+
+<section>
+	<h3>Sensors</h3>
+	<p>Monitor others&rsquo; sensor data automatically</p>
+	<a href=""><img src="../img/china-air-quality.png" border="0" style="border:none;"/></a>
+	<p><small>Source: <a href="http://www.ft.com/cms/s/0/cdea72f6-c494-11e2-9ac0-00144feab7de.html">Financial Times</a></small></p>
+</section>
+
+<section>
+	<h3>Automation: Sensor to social media bot</h3>
+	<a href="http://www.gaugemap.co.uk"><img src="../img/gaugeMap.png" border="0" style="border:none;"/></a>
+	<p><small>Source: <a href="http://www.niemanlab.org/2014/07/is-the-river-behind-your-house-rising-a-british-twitter-bot-will-tell-you/">Nieman Lab</a></small></p>
+</section>
+
+
+<section>
+		<h3>Sensors</h3>
+		<p>Make your own data</p>
+		<img src="../img/cicadas.png" border="0" style="border:none;"/>
+		<p><small><a href="http://project.wnyc.org/cicadas/">WNYC</a></small></p>
+</section>
+
+
+<section>
+	<h3>Novel outputs: Automated stories</h3>
+	<img src="../img/quakebot.png" border="0" style="border:none;"
+	<p><small>Source: <a href="http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html"><em>Los Angeles Times</em></a> (Image: @BennySP, <a href="https://twitter.com/BennySp/status/419211311289888768/photo/1">Twitter</a>)</small></p>
+</section>
+
+<section>
+	<h3>Novel outputs: Automated stories</h3>
+	<img src="../img/automated-insights.png" border="0" style="border:none;"
+	<p><small><a href="http://www.sfgate.com/business/article/JetBlue-beats-4Q-profit-forecasts-6048233.php">AP</a>, via <a href="http://www.theverge.com/2015/1/29/7939067/ap-journalism-automation-robots-financial-reporting"><em>The Verge</em></a></small></p>
+</section>
+
+
+<section>
+	<h3>Novel outputs: Social media bots!</h3>
+	<img src="../img/fourth-down-bot.png" border="0" height:"450px" style="border:none;">
+	<p><small>Source: <em><a href="http://www.nytimes.com/newsgraphics/2013/11/28/fourth-downs/">New York Times</a></em></small></p>
+</section>
+
+
+<!-- great examples section ends -->
+
+
+	<section>
+		<h3>I/O: Mix and match</h3>
+		
+		<div style="width:49%; float:left;" class="fragment fade-in">
+		<h5>Inputs</h5>
+		<ul>
+			<li>Batch data
+			<ul>
+				<li>Static files</li>
+				<li>API/scraper</li>
+			</ul>
+			</li>
+			<li>Live(ish)/sensor data
+			<ul>
+				<li>3rd Party (via API/scraper)</li>
+				<li>owned/crowdsourced</li>
+			</ul>
+			</li>
+			<li>User inputs</li>
+
+		</ul>
+		</div>
+
+		<div style="width:49%; float:right;" class="fragment fade-in">
+		<h5>Outputs</h5>
+		<ul>
+			<li>Dynamic graphics
+			<ul>
+				<li>static</li>
+				<li>interactive</li>
+			</ul>
+			</li>
+			<li>Alerts
+			<ul>
+				<li>Social media bots</li>
+				<li>Email/SMS/Push notification</li>
+			</ul>
+			</li>
+			<li>Generated text</li>
+			<li>Audio/Video</li>
+			<li>Virtual reality</li>
+		</ul>
+		</div>
+
+	</section>
+
+<section>				
+	<p><a href="mailto:martin.stabe@ft.com">martin.stabe@ft.com</a></p>
+	<p><a href="http://www.ft.com/interactive">ft.com/interactive</a></p>
+	<p><a href="http://www.twitter.com/martinstabe">@martinstabe</a></p>
+</section>
+
+<section>
+<section>
+		<h3>Data churnalism</h3>
+		<img src="../img/buzzfeed-map.png" border="0" style="border:none;"/>
+		<p><a href="http://www.buzzfeed.com/ryanhatesthis/who-watches-more-porn-republicans-or-democrats">Buzzfeed</a></small></p>
+</section>
+
+<!-- Much of this falls short of the "precision journalism" standard -->
+
+<section>
+		<h3>Growing criticism</h3>
+		<p>&ldquo;No matter how well intentioned the inept investigation might be, <strong>the data story that is pushed out is inevitably divisive</strong>. <em>Which political party is the most perverted? What cities are the most stressful to live in? What countries are the worst at sex?</em> This is no accident; it helps these pieces go viral by catering to people&rsquo;s inflated senses of their own groups or their dismissive attitudes towards other.&rdquo;</p>
+		<p><small>&mdash; Jacob Harris, <a href="http://www.niemanlab.org/2015/01/sloppy-p-r-charticles-considered-harmful/">Nieman Lab</a></small></p>
+</section>
+
+<section>
+		<h3>Oooh shiny data!</h3>
+		<img src="../img/jawbone-earthquakes.png" border="0" style="border:none;"/>
+		<p><a href="https://jawbone.com/blog/napa-earthquake-effect-on-sleep/">Jawbone</a></small></p>
+</section>
+
+<section>
+		<h3>Growing criticism</h3>
+		<p>&ldquo;The graph was reposted by dozens of journalism outlets, but few of the rewrites went beyond conveying the &lsquo;gee whiz&rsquo; nature of this technology. Had we not looked at Jawbone&rsquo;s graph, we would have naturally come to the conclusion that big earthquakes disturb sleep. Technology like Jawbone&rsquo;s device can have fascinating journalistic applications, but <strong>these pieces essentially seem like rewrites of press releases</strong>.&rdquo;</p>
+		<p><small><a href="http://www.cjr.org/data_points/jawbone_up_earthquake_chart.php">Columbia Journalism Review</a> (See also: <em><a href="http://www.washingtonpost.com/news/the-intersect/wp/2014/08/25/what-personal-fitness-trackers-like-jawbone-tell-us-about-earthquakes-public-health-and-just-about-anything-else/">Washington Post</a>)</em></small></p>
+</section>
+</section>
+
+</div>
+</div>
+
+		<script src="../lib/js/head.min.js"></script>
+		<script src="../js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
