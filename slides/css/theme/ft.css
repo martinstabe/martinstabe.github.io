@@ -3,103 +3,15 @@
  * Beige theme for reveal.js.
  *
  * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
- * FT amendments made June 2013 by Martin Stabe. http://www.ft.com/interactive; (c) 2013 Financial Times Ltd.
- * 
+ * FT amendments made June 2013, April 2015 by Martin Stabe. http://www.ft.com/interactive; (c) 2013-2015 Financial Times Ltd.
  */
-@font-face {
-  font-family: 'League Gothic';
-  src: url("../../lib/font/league_gothic-webfont.eot");
-  src: url("../../lib/font/league_gothic-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/league_gothic-webfont.woff") format("woff"), url("../../lib/font/league_gothic-webfont.ttf") format("truetype"), url("../../lib/font/league_gothic-webfont.svg#LeagueGothicRegular") format("svg");
-  font-weight: normal;
-  font-style: normal; }
-
-@font-face {
-  font-family:ft-icons;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/icons.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/icons.ttf) format("truetype");
-  font-style:normal;
-  font-weight:400;
-}
-
-@font-face {
-  font-family:MillerDisplay;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Roman.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Roman.ttf) format("truetype");
-  font-style:normal;
-  font-weight:400;
-}
-
-@font-face {
-  font-family:MillerDisplay;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Bold.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Bold.ttf) format("truetype");
-  font-style:normal;
-  font-weight:700;
-}
-
-@font-face {
-  font-family:MillerDisplay;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Italic.ttf) format("truetype"), url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Roman.woff) format("woff");
-  font-style:italic;
-  font-weight:400;
-}
-
-@font-face {
-  font-family:MillerDisplay;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-SemiboldItal.ttf) format("truetype"), url(http://interactivegraphics.ft-static.com/inc/fonts/MillerDisplay-Bold.woff) format("woff");
-  font-style:italic;
-  font-weight:700;
-}
-
-@font-face {
-  font-family:BentonSans;
-  src:url(http://s1.ft-static.com/m/font/e9d47971-b7d8-4663-8c9b-3a0b425e981f-2.eot);
-  src:url(http://s1.ft-static.com/m/font/e9d47971-b7d8-4663-8c9b-3a0b425e981f-2.eot?#iefix) format("embedded-opentype"), url(http://interactivegraphics.ft-static.com/inc/fonts/BentonSansRegular.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/BentonSansRegular.ttf) format("truetype");
-  font-style:normal;
-  font-weight:400;
-}
-
-@font-face {
-  font-family:BentonSans;
-  src:url(http://s1.ft-static.com/m/font/76e393a7-edbd-4283-91db-93b1a40fe465-2.eot);
-  src:url(http://s1.ft-static.com/m/font/76e393a7-edbd-4283-91db-93b1a40fe465-2.eot?#iefix) format("embedded-opentype"), url(http://interactivegraphics.ft-static.com/inc/fonts/BentonSansBold.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/BentonSansBold.ttf) format("truetype");
-  font-style:normal;
-  font-weight:700;
-}
-
-@font-face {
-  font-family:BentonSans;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/BentonSansLight.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/BentonSansLight.ttf) format("truetype");
-  font-style:normal;
-  font-weight:lighter;
-}
-
-@font-face {
-  font-family:Clarion;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/Clarion.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/Clarion.ttf) format("truetype");
-  font-style:normal;
-  font-weight:400;
-}
-
-@font-face {
-  font-family:Clarion;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/Clarion-Italic.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/Clarion-Italic.ttf) format("truetype");
-  font-style:italic;
-  font-weight:400;
-}
-
-@font-face {
-  font-family:Clarion;
-  src:url(http://interactivegraphics.ft-static.com/inc/fonts/Clarion-Bold.woff) format("woff"), url(http://interactivegraphics.ft-static.com/inc/fonts/Clarion-Bold.ttf) format("truetype");
-  font-style:normal;
-  font-weight:700;
-}
-
-
-
 
 
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
 body {
+  font-family: BentonSans, sans-serif;
   background: #fff1e0;
   background: -moz-radial-gradient(center, circle cover, white 0%, #fff1e0 100%);
   background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, white), color-stop(100%, #fff1e0));
@@ -110,7 +22,7 @@ body {
   background-color: #f7f3de; }
 
 .reveal {
-  font-family: "Lato", sans-serif;
+  font-family: BentonSans, sans-serif;
   font-size: 36px;
   font-weight: 200;
   letter-spacing: -0.02em;
@@ -132,7 +44,7 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #333333;
-  font-family: "MillerDisplay", Impact, sans-serif;
+  font-family: MillerDisplay, serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
   /* text-transform: uppercase; */
@@ -142,7 +54,9 @@ body {
   text-shadow: 0 1px 0 #cccccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbbbbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaaaaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 20px 20px rgba(0, 0, 0, 0.15); }
 
 .reveal h2.logo {font-family: "ft-icons", Impact, sans-serif;}
-
+/* Replace with image service for backwards compatibility:
+http://image.webservices.ft.com/v1/images/raw/fticon:brand-ft-masthead?width=600&format=png&source=ig-presentation-template
+*/
 
 /*********************************************
  * LINKS
