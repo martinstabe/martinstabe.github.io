@@ -75,7 +75,7 @@ http://image.webservices.ft.com/v1/images/raw/fticon:brand-ft-masthead?width=600
  * IMAGES
  *********************************************/
 .reveal section img {
-  margin: 15px 0px;
+  margin: 0px 0px;
   background: rgba(255, 255, 255, 0.12);
   /* border: 4px solid #333333; */
   /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); */
