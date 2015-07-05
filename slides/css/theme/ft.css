@@ -38,8 +38,8 @@ body {
   color: #333333;
   font-family: MillerDisplay, serif;
   line-height: 0.9em;
-  letter-spacing: 0.02em;
-  /* text-transform: uppercase; */
+  /*letter-spacing: 0.02em;
+ text-transform: uppercase; */
   text-shadow: none; }
 
 .reveal h1 {
