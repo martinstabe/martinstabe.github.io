@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>The Tab training day 2015</title>
+		<title>FT Digital Archive</title>
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -76,17 +76,15 @@
 		</div>
 	</section>
 
-<section>
-		<div>
-			<div  class="ft-archive-left" style="float:left; width:50%">
-				<h3>Archives placeholder</h3>
-			</div>
-			<div class="ft-archive-left" style="float:left; width:50%">
-				<img src="archive/blurry.png" class="archive-image" style="background-color: #ffdac4; background-blend-mode: multiply;" />
-			</div>
-		</div>
-	</section>
+	<!--
+Newspapers are institutionally focused on the immediate. Once a story breaks and is published, it is quickly forgotten as the journalists turn their attention to the next day's news. We're not very good at organising that news into more valuable information. We're not even very good at storing our own output in archives, especially now that search has made us less reliant on meticulously-maintained internal archives. Developers at the FT interested in this problem were astonished to discover that there was no one digital archive of the FT's historical output.
+-->
 
+	<section>
+		<h5>FT Digital Archive</h5>
+		<p><small><a href="http://gale.cengage.co.uk/financial-times-historical-archive.aspx#">Cengage-produced archive</a> reverted to FT in July</small></p>
+		<img src="archive/cengage.png" />
+	</section>
 
 	<section>
 		<div>
@@ -131,6 +129,11 @@
 		</div>
 	</section>
 
+	<section>
+		<h5>Web interface</h5>
+		<img src="archive/web_interface.png" />
+	</section>
+
 
 	<section>
 		<div>
@@ -146,7 +149,14 @@
 		<div>
 			<div class="ft-archive-left" style="width:100%;">
 				<h5>XML OCR map</h5>
-				<small><ul><li><a href="archive/FTDA-1969-0721.xml">Very large file</a></li><li>~7Mb per page</li></ul></small>
+				<small><ul>
+					<li><a href="archive/FTDA-1969-0721.xml">Very large file</a></li>
+					<li>~7Mb per page</li>
+					<li>Attempts to identify story extents</li>
+					<li>Problematic with turns</li>
+					<li>Includes positional data for each word</li>
+					<li>Indludes advertising</li>
+				</ul></small>
 			<div>
 				<div style="float:left; width:50%;"><img src="archive/moon_zoom.png"/></div>
 				<div style="float:left; width:50%;"><img src="archive/moon_xml.png"/></div>
@@ -155,17 +165,99 @@
 
 
 
+
+
+
 	<section>
 		<div>
 			<div class="ft-archive-left" style="width:34%; float:left;">
-				<h5>Large JPEG file</h5>
-				<small><ul><li>Scanned from microfilm</li><li>~2Mb</li></ul></small>
+				<h5>Challenges</h5>
+				<small>
+					<p><strong>Scan quality</strong></p>
+					<ul>
+					<li>Blurred images</li>
+					<li>Creased images</li>
+					<li>Microfilm original may have already been poor</li>
+					</ul>
+				</small>
 			</div>
-			<div class="archive-image" style="float:left; height:600px; width:66%; background-color: #fff; background-blend-mode: multiply; background-image: url(archive/blurry.jpg); background-size:cover;"/>
+			<div class="archive-image" style="float:left; height:600px; width:66%; background-color: #fff; background-blend-mode: multiply; background-image: url(archive/blurry.png); background-size:cover;"/>
+		</div>
+	</section>
+
+	<section>
+		<div>
+			<div class="ft-archive-left" style="width:34%; float:left;">
+				<h5>Challenges</h5>
+				<small>
+					<p><strong>OCR quality</strong></p>
+					<ul>
+					<li>Very good for headlines</li>
+					<li>Highly variable overall</li>
+					<li>Limits interface to browsing</li>
+					</ul>
+				</small>
+			</div>
+			<div class="archive-image" style="float:left; height:600px; width:66%; background-color: #fff; background-blend-mode: multiply; background-image: url(archive/blurry.png); background-size:cover;"/>
+		</div>
+	</section>
+
+	<section>
+		<div>
+			<div class="ft-archive-left" style="width:34%; float:left;">
+				<h5>Challenges</h5>
+				<small>
+					<p><strong>Photography</strong></p>
+					<ul>
+					<li>Poor quality (<a href="http://www.theguardian.com/theguardian/2011/nov/09/archive-no-alternative-britain-six">cf</a>)</li>
+					</ul>
+				</small>
+			</div>
+			<div class="archive-image" style="float:left; height:600px; width:66%; background-color: #ffdac4; background-blend-mode: multiply; background-image: url(archive/thatcher.png); background-size:cover;"/>
 		</div>
 	</section>
 
 
+	<section>
+		<div>
+			<div class="ft-archive-left" style="width:34%; float:left;">
+				<h5>Challenges</h5>
+				<small>
+					<p><strong>Graphics</strong></p>
+					<p><small>(General Election, autumn 1974)</small></p>
+					<!--<ul>
+					<li>Poor quality (<a href="http://www.theguardian.com/theguardian/2011/nov/09/archive-no-alternative-britain-six">cf</a>)</li>
+					</ul>-->
+				</small>
+			</div>
+			<div class="archive-image" style="float:left; height:600px; width:66%; background-color: #ffdac4; background-blend-mode: multiply; background-image: url(archive/electionMap.png); background-size:cover;"/>
+		</div>
+	</section>
+
+	<section>
+		<div>
+			<div class="ft-archive-left" style="width:34%; float:left;">
+				<h5>Challenges</h5>
+					<p><small><strong>Tabular data</strong></small></p>
+			</div>
+			<div class="archive-image" style="float:left; height:600px; width:66%; background-color: #ffdac4; background-blend-mode: multiply; background-image: url(archive/tabular.png); background-size:cover;"/>
+		</div>
+	</section>
+
+
+		<section>
+		<div>
+			<div class="ft-archive-left" style="width:66%; float:left;">
+				<h5>Challenges</h5>
+				<small>
+					<p><strong>Historical context</strong></p>
+					<p>FT was not a general-interest newspaper in its modern form until relatively recently.</p>
+					<p><small>August 8, 1945</small></p>
+				</small>
+			</div>
+			<div class="archive-image" style="float:left; height:600px; width:34%; background-color: #ffdac4; background-blend-mode: multiply; background-image: url(archive/1945-08-08_atombomb.png); background-size:cover;"/>
+		</div>
+	</section>
 
 
 	<section>
