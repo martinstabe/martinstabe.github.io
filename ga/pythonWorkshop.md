@@ -1,3 +1,0 @@
-General Assembly Python Workshop
-==
-
