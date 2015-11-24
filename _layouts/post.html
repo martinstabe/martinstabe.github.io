@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <small><strong>Categories:</strong> {% for cat in page.categories %}<a href="">{{ cat }}</a> {% endfor %}</small>
+
+  <p><small>{{ page.permalink }}</small></p>
+
+  <div class="social">{% include social.html %}</div>
+
+  <div class="disqus">{% if page.comments != "no" %}{% include comments.html %}{% endif %}</div>
+
+</div>

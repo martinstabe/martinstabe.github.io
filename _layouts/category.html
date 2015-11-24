@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<h1>Category Page: {{ page.category }}</h1>
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+  <ul class="post-list">
+    {% for post in site.categories.[page.category] %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{% if post.permalink %}{{ post.permalink }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+        </h2>
+
+        <p>
+        	{{ post.excerpt }}
+        </p>
+    
+        	
+ <p><small><strong>See also:</strong> {% for cat in post.categories %}<a href="">{{ cat }}</a> {% endfor %}</small></p>
+
+      </li>
+    {% endfor %}
+  </ul>

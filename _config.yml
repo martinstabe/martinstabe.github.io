@@ -1,0 +1,22 @@
+# Site settings
+title: Martin Stabe
+email: hello@martinstabe.com
+tagline: ""
+description: > # this means to ignore newlines until "baseurl:"
+  Martin Stabe is a data journalist based in London. He is an head of interactive news at the <em>Financial Times</em>.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.martinstabe.com" # the base hostname & protocol for your site
+twitter_username: martinstabe
+github_username: martinstabe
+linkedin_username: martinstabe
+facebook_username: martinstabe
+journalisted_link: http://journalisted.com/martin-stabe
+timezone: Europe/London
+permalink: /:year/:month/:day/:title/
+destination: ./_site
+encoding: utf-8
+excerpt_separator: <!--more-->
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/feed.xml'}
+
+# Build settings
+markdown: kramdown

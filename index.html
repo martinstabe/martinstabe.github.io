@@ -1,10 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Martin Stabe</title>
-</head>
-<body>
-  Hello. Nothing to see here (yet). <a href="http://www.martinstabe.com/">Move along</a>.
-</body>
+---
+layout: default
+---
 
-</html>
+<div class="home">
+
+  <!--<h1 class="page-heading">Posts</h1>-->
+
+ <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+
+{% if post.categories == links %}
+      <li{% if post.permalink %} class="link"{% endif %}>
+        <span class="post-meta">{% if post.permalink %}<strong>LINK &raquo; </strong> {% endif %}{{ post.date | date: "%B %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{% if post.permalink %}{{ post.permalink }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+        </h2>
+        <p>
+          {{ post.excerpt | truncatewords: 100 }}
+        </p>
+      </li>
+{% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
