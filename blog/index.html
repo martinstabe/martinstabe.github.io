@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<h1 class="page-heading">All blog posts</h1>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+
+
+      <li{% if post.permalink %} class="link"{% endif %}>
+        <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{% if post.permalink %}{{ post.permalink }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+        </h2>
+        </li>
+
+    {% endfor %}
+  </ul>
+
+</div>
