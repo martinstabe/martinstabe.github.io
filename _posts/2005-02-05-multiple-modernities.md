@@ -3,16 +3,10 @@ title: Multiple modernities
 author: Martin Stabe
 layout: post
 permalink: /2005/02/05/multiple-modernities/
-views:
-  - 29
-btc_comment_counts:
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
 categories:
   - Sociology
 ---
-It&rsquo;s framed as an attack on Bush&rsquo;s State of the Union address and current American foreign policy generally, but **Martin Jacques**&rsquo;s <a href=http://www.guardian.co.uk/usa/story/0,12271,1406484,00.html">column</a> in the *Guardian* today actually makes a more significant long-term point: as India and China grow, globalisation will change.
+It&rsquo;s framed as an attack on Bush&rsquo;s State of the Union address and current American foreign policy generally, but **Martin Jacques**&rsquo;s <a href="http://www.guardian.co.uk/usa/story/0,12271,1406484,00.html">column</a> in the *Guardian* today actually makes a more significant long-term point: as India and China grow, globalisation will change.
 
 The currently fashionable teleological narrative of globalisation as the historical expansion of western-style modernity will have to be drastically re-thought as the practices and institutions of Indian and Chinese modernity will begin to affect global culture in the next few decades.
 
