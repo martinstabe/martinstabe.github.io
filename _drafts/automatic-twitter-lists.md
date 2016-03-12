@@ -21,15 +21,15 @@ You'll need:
 
 First, create a new Twitter list:
 
-![Twitter auto-list screenshot step 1]({{ site.url }}/assets/twitterlist1.png)
+![Twitter auto-list screenshot step 1]({{ site.url }}/img/twitterlist1.png)
 
 Then go to IFTTT and create a new recipe (or just clone [the one I made earlier](https://ifttt.com/recipes/396001-twitter-list-from-hashtag)) using a Twitter search as the trigger, and enter the conference hashtag as the search term:
 
-![Twitter auto-list screenshot step 2]({{ site.url }}/assets/twitterlist2.png)
+![Twitter auto-list screenshot step 2]({{ site.url }}/img/twitterlist2.png)
 
 Then also set Twitter as the resulting action, using the "add user to list" function.
 
-![Twitter auto-list screenshot step 3]({{ site.url }}/assets/twitterlist3.png)
+![Twitter auto-list screenshot step 3]({{ site.url }}/img/twitterlist3.png)
 
 This will add any user who uses the hashtag to the list. You'll inevitably get some false positives especially people retweeting things from outside the conference, but these are likely to be people interested in the subject matter:
 
