@@ -2,7 +2,7 @@
 title: 'How to follow a conference with an automated Twitter list'
 author: Martin Stabe
 layout: post
-permalink: /2016/03/16/automatic-twitter-lists/
+permalink: /2016/03/12/automatic-twitter-lists/
 categories:
   - Twitter
   - Nuzzel
