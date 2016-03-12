@@ -31,9 +31,13 @@ Then also set Twitter as the resulting action, using the "add user to list" func
 
 ![Twitter auto-list screenshot step 3]({{ site.url }}/img/twitterlist3.png)
 
-This will add any user who uses the hashtag to the list. You'll inevitably get some false positives especially people retweeting things from outside the conference, but these are likely to be people interested in the subject matter:
+This will add any user who uses the hashtag to the list. You'll inevitably get some false positives — especially people like yourself who are missing the conference but following along anyway. Luckily, they are likely to be Tweeting about similar things:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Oh <a href="https://twitter.com/martinstabe">@martinstabe</a>, if only <a href="https://t.co/lV02Fa37Q6">pic.twitter.com/lV02Fa37Q6</a></p>&mdash; Elliot Bentley (@elliot_bentley) <a href="https://twitter.com/elliot_bentley/status/708286898645630977">March 11, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-As an optional final step, add the new list to your Nuzzel account (eg mine for [#nicar16](http://nuzzel.com/martinstabe/nicar16) and  [malofiej24](http://nuzzel.com/martinstabe/malofiej)). You can use this to aggregate your list to surface only the most popular or trending links. Alternatively, you can just follow the list directly on Twitter or add it to Tweetdeck follow what people interested in the conference are talking about.
+If the conference is popular and its hashtag starts trending, spammers may latch on to it. If that happens, you'll need to do some manual pruning of your auto-generated list.
+
+As an optional final step, add the new list to your Nuzzel account (eg mine for [#nicar16](http://nuzzel.com/martinstabe/nicar16) and  [malofiej24](http://nuzzel.com/martinstabe/malofiej)). You can use this to aggregate your list to surface only the most popular or trending links, or getting a newsletter of what was popular at the conference. This is especially useful if you are sleeping in another timezone while the conference is going on. Alternatively, you can just follow the list directly on Twitter or add it to Tweetdeck follow what people interested in the conference are talking about.
+
+Got any suggestions for improving this? Please let me know in the comments!
