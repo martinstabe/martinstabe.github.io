@@ -1,6 +1,7 @@
 module.exports = {
   eleventyComputed: {
-    title: (data) => `Tag: ${data.tag.name}`,
-    permalink: (data) => `/tags/${data.tag.slug}/index.html`
+    browserTitle: (data) => data.tag.title,
+    title: (data) => data.tag.heading,
+    permalink: (data) => `${data.tag.permalink}index.html`
   }
 };

@@ -5,7 +5,7 @@ pagination:
   alias: tag
 layout: layouts/page.njk
 ---
-<p>{{ tag.count }} post{% if tag.count != 1 %}s{% endif %} tagged <code>{{ tag.name }}</code>.</p>
+<p>{{ tag.count }} post{% if tag.count != 1 %}s{% endif %} tagged <code>{{ tag.displayTitle }}</code>.</p>
 
 {% set posts = tag.posts %}
 {% include "partials/post-list.njk" %}

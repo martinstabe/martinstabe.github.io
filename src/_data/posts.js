@@ -3,6 +3,7 @@ const path = require("path");
 const yaml = require("js-yaml");
 const MarkdownIt = require("markdown-it");
 const { decodeHTML } = require("entities");
+const getTagDefinitions = require("./tagDefinitions.js");
 
 const ROOT = path.resolve(__dirname, "..", "..");
 const POSTS_DIR = path.join(ROOT, "_posts");
@@ -75,6 +76,17 @@ function relativizeInternalLinks(html, permalink) {
   });
 }
 
+function canonicalizeTagLinks(html, byAlias) {
+  return html.replace(/\bhref="\/tags\/([^"/]+)\/"/g, (match, rawTag) => {
+    const definition = byAlias[rawTag];
+    if (!definition) {
+      return match;
+    }
+
+    return `href="${definition.permalink}"`;
+  });
+}
+
 function absolutizeInternalLinks(html, site) {
   return html.replace(/\b(href|src)="\/(?!\/)([^"]*)"/g, (_match, attr, target) => {
     return `${attr}="${site.url}/${target}"`;
@@ -92,15 +104,17 @@ function stripHtml(value) {
   );
 }
 
-function renderBody(body, site, permalink) {
+function renderBody(body, site, permalink, byAlias) {
   const bodyWithVariables = applySiteVariables(body, site);
   const isDeliciousPost = bodyWithVariables.trimStart().startsWith('<ul class="delicious">');
   const rendered = isDeliciousPost ? bodyWithVariables : markdown.render(bodyWithVariables);
-  return relativizeInternalLinks(rendered, permalink);
+  const canonicalized = canonicalizeTagLinks(rendered, byAlias);
+  return relativizeInternalLinks(canonicalized, permalink);
 }
 
 module.exports = function () {
   const site = require("./site.json");
+  const { byAlias } = getTagDefinitions();
   const entries = fs
     .readdirSync(POSTS_DIR)
     .filter((file) => file.endsWith(".md"))
@@ -114,9 +128,38 @@ module.exports = function () {
     const date = data.date || fileDate;
     const permalink = data.permalink || `/${fileDate.replaceAll("-", "/")}/`;
     const tags = normalizeArray(data.tags).filter(Boolean);
-    const content = renderBody(body, site, permalink);
+    const canonicalTags = [];
+    const canonicalPermalinks = new Set();
+    const content = renderBody(body, site, permalink, byAlias);
     const absoluteContent = absolutizeInternalLinks(content, site);
     const excerptText = stripHtml(content);
+
+    for (const rawTag of tags) {
+      const definition = byAlias[rawTag] || {
+        tag: rawTag,
+        title: `Tag: ${rawTag}`,
+        displayTitle: rawTag,
+        heading: `Tag: ${rawTag}`,
+        permalink: `/tags/${rawTag}/`,
+        slug: `tags/${rawTag}`,
+        aliases: [rawTag]
+      };
+
+      if (canonicalPermalinks.has(definition.permalink)) {
+        continue;
+      }
+
+      canonicalPermalinks.add(definition.permalink);
+      canonicalTags.push({
+        rawTag,
+        tag: definition.tag,
+        title: definition.title,
+        displayTitle: definition.displayTitle,
+        heading: definition.heading,
+        permalink: definition.permalink,
+        slug: definition.slug
+      });
+    }
 
     return {
       ...data,
@@ -125,6 +168,7 @@ module.exports = function () {
       meta: decodeValue(data.meta),
       date,
       tags,
+      canonicalTags,
       permalink,
       fileName,
       sourcePath: filePath,

@@ -7,7 +7,7 @@ permalink: /tags/
   {% for tag in tags %}
     <li>
       <h2>
-        <a class="post-link" href="{{ ('/tags/' + tag.slug + '/') | relativeUrl(page.url) }}">{{ tag.name }}</a>
+        <a class="post-link" href="{{ tag.permalink | relativeUrl(page.url) }}">{{ tag.displayTitle }}</a>
       </h2>
       <p>{{ tag.count }} post{% if tag.count != 1 %}s{% endif %}</p>
     </li>

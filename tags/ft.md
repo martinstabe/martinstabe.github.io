@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: FT
+title: Financial Times
 tag: ft
-permalink: /tags/ft/
+permalink: /tags/financial-times/
 ---
