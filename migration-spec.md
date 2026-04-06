@@ -54,7 +54,7 @@ The migrated site should be deployed on **Cloudflare Pages** rather than GitHub 
 
 - The build no longer needs to stay within GitHub Pages’ Jekyll restrictions.
 - Node-based tooling becomes the default build environment.
-- Static output can be deployed directly from a build directory such as `_site/` or `dist/`.
+- Static output should be deployed from `dist/`.
 - Redirects, headers, and edge features can be managed through Cloudflare if needed later.
 
 ## Migration Principles
@@ -148,6 +148,7 @@ Recommended high-level structure:
 - add Eleventy config
 - add a new source structure for layouts and supporting templates
 - configure passthrough copies for `img/` and `slides/`
+- configure Eleventy output to `dist/`
 
 The Jekyll site should remain buildable until the replacement is verified.
 
@@ -229,7 +230,7 @@ The migration should assume:
 Expected build pattern:
 
 - build command: project-specific Node build command such as `npm run build`
-- output directory: Eleventy output directory such as `_site`
+- output directory: `dist/`
 
 Optional later improvements:
 
