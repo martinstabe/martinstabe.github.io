@@ -1,9 +1,11 @@
 # External Link Repair TODO
 
-- Status as of 2026-04-06: both legacy taxonomy migrations are complete.
+- Status as of 2026-04-06: both legacy taxonomy migrations are complete, and the generated tag pages have been cleaned up.
 - Completed: all 264 `links-for-*` posts now use normalized Jekyll `tags:` front matter, and their inline parenthesized Delicious tag links now point to local tag pages.
 - Completed: all 1,145 posts that previously used `categories:` now use `tags:` instead, and post footers now link to local tag pages rather than empty category URLs.
 - Completed: tag archives were regenerated from the full post set. There are now 1,237 tag pages plus the tag index at `/tags/`.
+- Completed: 735 redundant duplicate tag-page files named `* 2.md` were removed after verification that they were byte-for-byte duplicates of their corresponding canonical tag pages.
+- Completed: proper-noun tag pages now use display titles with human-readable capitalisation, while preserving the original `tag` slug and `permalink`.
 - Reference files: [link_check_report.json](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json), [_layouts/tag.html](/Users/martin.stabe/Documents/martinstabe.github.io/_layouts/tag.html), [_layouts/post.html](/Users/martin.stabe/Documents/martinstabe.github.io/_layouts/post.html), [tags/index.html](/Users/martin.stabe/Documents/martinstabe.github.io/tags/index.html).
 
 ## Completed Migration
@@ -13,11 +15,13 @@
 - [x] Normalize imported tag slugs by lowercasing, converting underscores to hyphens, and fixing obvious typos.
 - [x] Replace the old category-based footer links with tag-based footer links in [_layouts/post.html](/Users/martin.stabe/Documents/martinstabe.github.io/_layouts/post.html).
 - [x] Remove `categories:` front matter from the post archive and merge those values into normalized `tags:`.
+- [x] Remove redundant duplicate generated tag pages after confirming they duplicated the canonical tag pages exactly.
+- [x] Add display titles for proper-noun tag pages and update [_layouts/tag.html](/Users/martin.stabe/Documents/martinstabe.github.io/_layouts/tag.html) to render those titles instead of raw slugs.
 
 ## Refreshed Audit Summary
 
 - The current prioritized audit in [link_check_report.json](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json) checked 281 high-impact external URLs from the current migrated tree.
-- Results: 69 dead links, 126 redirects worth updating, and 48 manual-review responses.
+- Results: 69 dead links, 128 redirects worth updating, and 45 manual-review responses.
 - The high-signal remaining work is now mostly ordinary stale external content, especially old FT project URLs, old self-links under `www.martinstabe.com`, legacy slides references, and a handful of domains that now 403, 404, timeout, or fail DNS resolution.
 
 ## Highest Priority Remaining Fixes

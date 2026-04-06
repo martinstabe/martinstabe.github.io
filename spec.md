@@ -1,0 +1,200 @@
+# Link Rot Remediation Spec
+
+## Scope
+
+This spec defines a systematic process for analysing and repairing outbound links in this repository's blog posts.
+
+Current scope:
+
+- Include only files under [`_posts/`](/Users/martin.stabe/Documents/martinstabe.github.io/_posts/).
+- Ignore [`slides/`](/Users/martin.stabe/Documents/martinstabe.github.io/slides/) entirely for now.
+- Ignore other top-level pages such as [`index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/index.html), [`about/index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/about/index.html), and [`links/index.md`](/Users/martin.stabe/Documents/martinstabe.github.io/links/index.md) until the `_posts` workflow is complete.
+
+Goal:
+
+- Identify which outbound links in `_posts` still point at their intended resource.
+- Update links that have drifted to better canonical live URLs where appropriate.
+- Replace dead links with Wayback Machine URLs when an archived capture still preserves the intended destination.
+- Leave an auditable record of every decision.
+
+This work should build on the current audit state documented in [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md) and [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json).
+
+## Principles
+
+- Treat link repair as an editorial task supported by automation, not as a blind search-and-replace exercise.
+- Preserve authorial intent. A live URL is only "good" if it still points at the resource originally being referenced.
+- Prefer live canonical URLs over archive links when the intended resource still exists on the live web.
+- Prefer archive.org links when the original resource is gone but a faithful archived capture exists.
+- Avoid replacing a dead link with an archive capture unless the capture clearly matches the intended resource.
+- Record decisions outside the content files before applying bulk edits.
+
+## Deliverables
+
+The workflow should produce the following repo-local artifacts:
+
+- [`scripts/linkrot_audit.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/linkrot_audit.py): scans `_posts`, extracts outbound links, checks their status, and enriches results with Wayback candidates where needed.
+- [`data/linkrot_decisions.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.json) or [`data/linkrot_decisions.csv`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.csv): one record per unique URL with the chosen disposition and replacement target if any.
+- [`scripts/apply_linkrot_fixes.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/apply_linkrot_fixes.py): applies approved replacements back to `_posts`.
+- An updated [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json) after each repair batch.
+- An updated [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md) summarising completed batches and remaining manual-review work.
+
+## Phase 1: Build A Canonical Link Inventory
+
+Implement an audit script that scans only `_posts` and extracts every outbound `http://` and `https://` URL.
+
+For each occurrence, capture:
+
+- original URL
+- normalized URL
+- source file
+- line number
+- link text where available
+- nearby context, ideally the containing sentence or paragraph
+- post date derived from filename or front matter
+- post title if available
+
+Normalization should:
+
+- preserve the original URL for reporting and patching
+- group obvious duplicates for analysis
+- handle trivial differences such as trailing slashes where appropriate
+- avoid collapsing URLs that may point to genuinely different resources
+
+The output of this phase should support both:
+
+- unique-URL analysis
+- occurrence-level patching back into source files
+
+## Phase 2: Check Link Behaviour
+
+For each unique outbound URL in `_posts`, record:
+
+- HTTP method used for checking
+- status code if available
+- final URL after redirects
+- transport or DNS errors
+- occurrence count
+- all source occurrences
+
+This should extend the current approach used to generate [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json), but narrowed to `_posts`.
+
+Because HTTP `HEAD` is often unreliable on legacy sites, the checker should support fallback rules such as:
+
+- use `HEAD` first where safe
+- retry with `GET` when `HEAD` returns 405, 403, unusual failures, or obviously misleading results
+- preserve both the observed result and the method actually used
+
+## Phase 3: Classify Each Unique URL
+
+Each unique URL should be assigned one of these dispositions:
+
+- `alive-canonical`: still points to the intended resource and should remain unchanged
+- `alive-but-redirected`: still reaches the intended resource, but should be updated to a better canonical live URL
+- `dead-archivable`: no useful live target, but a trustworthy Wayback capture exists
+- `dead-unresolved`: dead and no trustworthy archive replacement is available
+- `manual-review`: automation cannot safely determine whether the live or archived target matches the original intent
+
+Classification should consider more than HTTP status. A URL should not be treated as healthy if it resolves to:
+
+- a generic homepage
+- a login wall
+- a consent wall
+- a generic corporate homepage after an acquisition
+- an unrelated replacement page
+
+## Phase 4: Enrich Dead And Suspicious Links With Wayback Data
+
+For URLs classified as dead or suspicious, query the Wayback Machine and record:
+
+- whether any capture exists
+- timestamp of the most recent available capture
+- archive URL for the most recent capture
+- optionally, the nearest capture to the post's publication date
+
+Default policy:
+
+- prefer the most recent available capture when it still preserves the intended resource
+
+Additional review aid:
+
+- also record the capture closest to the post date, because the newest capture may sometimes be a later redirect, placeholder, or unrelated takeover page
+
+## Phase 5: Apply Editorial Replacement Rules
+
+The decision log should include, at minimum:
+
+- original URL
+- disposition
+- replacement URL if any
+- reason for the decision
+- review status
+
+Apply these rules:
+
+- Keep live canonical links unchanged.
+- Update `alive-but-redirected` URLs to their canonical live destination when the redirected page is clearly the intended resource.
+- Replace dead URLs with Wayback links only when the archive capture clearly matches the intended resource.
+- Leave unresolved or ambiguous cases untouched until reviewed manually.
+
+Specific guidance:
+
+- Prefer live canonical URLs over archive.org whenever the original content is still substantively available.
+- Do not replace dead links with archive pages that only show generic domain placeholders, redirects, or navigation shells.
+- Treat old `www.martinstabe.com` self-links as a high-priority cluster for archive replacement where captures are good, since these are likely to preserve intended historical references.
+- Treat old FT and FT blog links carefully. Some will have clean modern equivalents; others may require archive replacement or manual review.
+- Do not replace OpenCalais entity links with generic Thomson Reuters homepages. Either find a faithful archive capture or remove/rewrite the link as plain text after review.
+
+## Phase 6: Apply Fixes In Controlled Batches
+
+Do not update all `_posts` links in one pass. Use batches with low editorial risk.
+
+Recommended batch order:
+
+1. Obvious canonical redirect updates in `_posts`.
+2. Dead `www.martinstabe.com` self-links in `_posts`.
+3. Dead FT, FT blog, and FT project links in `_posts`.
+4. One-off dead links and ambiguous manual-review cases.
+
+For each batch:
+
+1. approve or update records in the decision log
+2. run the apply script against `_posts`
+3. regenerate [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json)
+4. update [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md)
+
+## Automation Design Notes
+
+The process should be explicitly split into:
+
+- audit
+- decision
+- apply
+
+This separation is important because editorial judgment should remain reviewable. The audit script should not silently rewrite content files.
+
+Suggested responsibilities:
+
+- `scripts/linkrot_audit.py`: extraction, normalization, status checking, and Wayback enrichment
+- `data/linkrot_decisions.*`: reviewed decisions and replacement targets
+- `scripts/apply_linkrot_fixes.py`: deterministic application of approved replacements
+
+## Success Criteria
+
+This `_posts`-only effort is successful when:
+
+- every outbound URL in `_posts` is present in the audit inventory
+- every unique URL in `_posts` has a recorded disposition
+- approved replacements can be applied reproducibly from the decision log
+- the highest-volume dead and redirected `_posts` links have been repaired
+- rerunning the audit shows a materially reduced count of dead and misleading outbound links in `_posts`
+
+## Out Of Scope For This Spec
+
+The following are intentionally excluded from this first phase:
+
+- anything under [`slides/`](/Users/martin.stabe/Documents/martinstabe.github.io/slides/)
+- top-level pages such as [`index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/index.html)
+- profile/about pages such as [`about/index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/about/index.html)
+- bookmark-archive pages such as [`links/index.md`](/Users/martin.stabe/Documents/martinstabe.github.io/links/index.md)
+
+Those can be addressed later using the same audit/decision/apply model after the `_posts` workflow is proven.
