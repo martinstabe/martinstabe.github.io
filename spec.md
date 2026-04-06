@@ -32,8 +32,9 @@ This work should build on the current audit state documented in [`LINK_ROT_TODO.
 
 The workflow should produce the following repo-local artifacts:
 
-- [`scripts/linkrot_audit.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/linkrot_audit.py): scans `_posts`, extracts outbound links, and builds the canonical link inventory used by later phases. Status checking and Wayback enrichment will be added in later iterations.
+- [`scripts/linkrot_audit.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/linkrot_audit.py): scans `_posts`, builds the canonical link inventory, and can check each unique outbound URL with `HEAD`/`GET` fallback to produce a phase 2 report.
 - [`data/link_inventory_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_inventory_posts.json): the phase 1 inventory output containing both occurrence-level records and grouped unique-URL summaries for `_posts`.
+- [`data/link_check_report_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_check_report_posts.json): the phase 2 check output for `_posts`, written when the audit script is run with `--check`.
 - [`data/linkrot_decisions.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.json) or [`data/linkrot_decisions.csv`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.csv): one record per unique URL with the chosen disposition and replacement target if any.
 - [`scripts/apply_linkrot_fixes.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/apply_linkrot_fixes.py): applies approved replacements back to `_posts`.
 - An updated [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json) after each repair batch.
@@ -86,6 +87,8 @@ Current observed output from the first run:
 
 ## Phase 2: Check Link Behaviour
 
+Status: implemented in the audit tool, but a full `_posts`-only report has not yet been run to completion and committed.
+
 For each unique outbound URL in `_posts`, record:
 
 - HTTP method used for checking
@@ -102,6 +105,32 @@ Because HTTP `HEAD` is often unreliable on legacy sites, the checker should supp
 - use `HEAD` first where safe
 - retry with `GET` when `HEAD` returns 405, 403, unusual failures, or obviously misleading results
 - preserve both the observed result and the method actually used
+
+Current implementation details:
+
+- Run phase 2 with `python3 scripts/linkrot_audit.py --check`.
+- The report is written to [`data/link_check_report_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_check_report_posts.json) unless overridden with `--report-output`.
+- The checker currently evaluates one representative original URL per normalized URL group and records:
+  - `url`
+  - `normalized_url`
+  - `original_urls`
+  - `status`
+  - `final_url`
+  - `error`
+  - `method`
+  - `occurrences`
+  - `count`
+  - `files`
+  - `posts`
+  - `sample_link_texts`
+- `HEAD` is attempted first, with automatic fallback to `GET` on transport errors and a defined set of suspicious or unreliable statuses.
+- A `--limit` option exists for bounded test runs during development.
+
+Current validation status:
+
+- bounded runs with `--check --limit N` completed successfully
+- the checker emitted the expected per-URL report shape for `_posts`
+- a full run across all unique `_posts` URLs remains to be executed as a separate long-running audit step
 
 ## Phase 3: Classify Each Unique URL
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a canonical outbound-link inventory for Jekyll posts."""
+"""Build a canonical outbound-link inventory and link check report for Jekyll posts."""
 
 from __future__ import annotations
 
@@ -11,12 +11,17 @@ import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
+from urllib import error as urlerror
+from urllib import request as urlrequest
 from urllib.parse import urlsplit, urlunsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
 POSTS_DIR = ROOT / "_posts"
 DEFAULT_OUTPUT = ROOT / "data" / "link_inventory_posts.json"
+DEFAULT_REPORT_OUTPUT = ROOT / "data" / "link_check_report_posts.json"
+DEFAULT_TIMEOUT = 15.0
+DEFAULT_USER_AGENT = "martinstabe-linkrot-audit/1.0"
 
 HTTP_URL_RE = re.compile(r"https?://[^\s<>()\[\]\"']+")
 HTML_LINK_RE = re.compile(
@@ -54,6 +59,12 @@ def normalize_url(url: str) -> str:
         path = path[:-1]
     fragment = parts.fragment
     return urlunsplit((scheme, netloc, path, parts.query, fragment))
+
+
+def is_internal_martinstabe_url(url: str) -> bool:
+    hostname = urlsplit(url).hostname or ""
+    hostname = hostname.lower().rstrip(".")
+    return hostname == "martinstabe.com" or hostname.endswith(".martinstabe.com")
 
 
 def clean_html_text(value: str) -> str:
@@ -149,6 +160,8 @@ def extract_occurrences(post_path: Path) -> list[dict[str, Any]]:
 
         for match in HTML_LINK_RE.finditer(line):
             consumed_spans.append(match.span("url"))
+            if is_internal_martinstabe_url(match.group("url")):
+                continue
             occurrences.append(
                 make_occurrence(
                     post_path=post_path,
@@ -163,6 +176,8 @@ def extract_occurrences(post_path: Path) -> list[dict[str, Any]]:
 
         for match in MARKDOWN_INLINE_RE.finditer(line):
             consumed_spans.append(match.span("url"))
+            if is_internal_martinstabe_url(match.group("url")):
+                continue
             occurrences.append(
                 make_occurrence(
                     post_path=post_path,
@@ -179,6 +194,9 @@ def extract_occurrences(post_path: Path) -> list[dict[str, Any]]:
         if ref_match:
             ref_id = ref_match.group("id").strip().lower()
             ref_uses = reference_uses.get(ref_id, [])
+            if is_internal_martinstabe_url(ref_match.group("url")):
+                consumed_spans.append(ref_match.span("url"))
+                continue
             occurrences.append(
                 make_occurrence(
                     post_path=post_path,
@@ -197,6 +215,8 @@ def extract_occurrences(post_path: Path) -> list[dict[str, Any]]:
         for match in HTTP_URL_RE.finditer(line):
             span = match.span()
             if any(not (span[1] <= start or span[0] >= end) for start, end in consumed_spans):
+                continue
+            if is_internal_martinstabe_url(match.group(0)):
                 continue
             occurrences.append(
                 make_occurrence(
@@ -256,6 +276,130 @@ def build_unique_urls(occurrences: list[dict[str, Any]]) -> list[dict[str, Any]]
     return sorted(grouped.values(), key=lambda item: (-item["occurrence_count"], item["normalized_url"]))
 
 
+def build_inventory(post_paths: list[Path], posts_dir: Path) -> dict[str, Any]:
+    occurrences: list[dict[str, Any]] = []
+    for post_path in post_paths:
+        occurrences.extend(extract_occurrences(post_path))
+
+    return {
+        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+        "scope": {
+            "posts_dir": posts_dir.relative_to(ROOT).as_posix() if posts_dir.is_relative_to(ROOT) else str(posts_dir),
+            "excluded_paths": ["slides/", "index.html", "about/index.html", "links/index.md"],
+            "excluded_domains": ["martinstabe.com", "*.martinstabe.com"],
+            "file_count": len(post_paths),
+        },
+        "summary": {
+            "total_occurrences": len(occurrences),
+            "unique_normalized_urls": len({item["normalized_url"] for item in occurrences}),
+        },
+        "occurrences": occurrences,
+        "unique_urls": build_unique_urls(occurrences),
+    }
+
+
+def request_with_method(url: str, method: str, timeout: float, user_agent: str) -> dict[str, Any]:
+    req = urlrequest.Request(url, headers={"User-Agent": user_agent}, method=method)
+    try:
+        with urlrequest.urlopen(req, timeout=timeout) as response:
+            status = getattr(response, "status", response.getcode())
+            return {
+                "status": int(status) if status is not None else None,
+                "final_url": response.geturl(),
+                "error": None,
+                "method": method,
+            }
+    except urlerror.HTTPError as exc:
+        return {
+            "status": int(exc.code) if exc.code is not None else None,
+            "final_url": exc.geturl() or url,
+            "error": None,
+            "method": method,
+        }
+    except Exception as exc:
+        return {
+            "status": None,
+            "final_url": url,
+            "error": f"{type(exc).__name__}: {exc}",
+            "method": method,
+        }
+
+
+def should_retry_with_get(result: dict[str, Any]) -> bool:
+    if result["method"] != "HEAD":
+        return False
+    if result["error"] is not None:
+        return True
+    status = result["status"]
+    return status in {
+        400,
+        403,
+        405,
+        408,
+        409,
+        425,
+        429,
+        500,
+        501,
+        502,
+        503,
+        504,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        999,
+    }
+
+
+def check_url(url: str, timeout: float, user_agent: str) -> dict[str, Any]:
+    result = request_with_method(url, "HEAD", timeout, user_agent)
+    if should_retry_with_get(result):
+        result = request_with_method(url, "GET", timeout, user_agent)
+    return result
+
+
+def build_link_check_report(
+    inventory: dict[str, Any],
+    timeout: float,
+    user_agent: str,
+    limit: int | None = None,
+) -> list[dict[str, Any]]:
+    report: list[dict[str, Any]] = []
+    unique_items = inventory["unique_urls"] if limit is None else inventory["unique_urls"][:limit]
+    for item in unique_items:
+        representative_url = item["original_urls"][0]
+        result = check_url(representative_url, timeout=timeout, user_agent=user_agent)
+        report.append(
+            {
+                "url": representative_url,
+                "normalized_url": item["normalized_url"],
+                "original_urls": item["original_urls"],
+                "status": result["status"],
+                "final_url": result["final_url"],
+                "error": result["error"],
+                "method": result["method"],
+                "occurrences": item["occurrences"],
+                "count": item["occurrence_count"],
+                "files": item["files"],
+                "posts": item["posts"],
+                "sample_link_texts": item["sample_link_texts"],
+            }
+        )
+
+    report.sort(
+        key=lambda entry: (
+            entry["status"] is None,
+            -(entry["count"]),
+            entry["url"],
+        )
+    )
+    return report
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -270,37 +414,62 @@ def main() -> int:
         default=DEFAULT_OUTPUT,
         help="Path to write the JSON inventory.",
     )
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="Check each unique extracted URL and emit a report.",
+    )
+    parser.add_argument(
+        "--report-output",
+        type=Path,
+        default=DEFAULT_REPORT_OUTPUT,
+        help="Path to write the JSON link check report.",
+    )
+    parser.add_argument(
+        "--timeout",
+        type=float,
+        default=DEFAULT_TIMEOUT,
+        help="Network timeout in seconds for each request.",
+    )
+    parser.add_argument(
+        "--user-agent",
+        default=DEFAULT_USER_AGENT,
+        help="User-Agent string to send while checking links.",
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Only check the first N unique URLs from the inventory.",
+    )
     args = parser.parse_args()
 
     posts_dir = args.posts_dir.resolve()
     output_path = args.output.resolve()
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    report_output_path = args.report_output.resolve()
+    report_output_path.parent.mkdir(parents=True, exist_ok=True)
 
     post_paths = sorted(posts_dir.glob("*.md")) + sorted(posts_dir.glob("*.markdown")) + sorted(posts_dir.glob("*.html"))
-    occurrences: list[dict[str, Any]] = []
-    for post_path in post_paths:
-        occurrences.extend(extract_occurrences(post_path))
-
-    data = {
-        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
-        "scope": {
-            "posts_dir": posts_dir.relative_to(ROOT).as_posix() if posts_dir.is_relative_to(ROOT) else str(posts_dir),
-            "excluded_paths": ["slides/", "index.html", "about/index.html", "links/index.md"],
-            "file_count": len(post_paths),
-        },
-        "summary": {
-            "total_occurrences": len(occurrences),
-            "unique_normalized_urls": len({item["normalized_url"] for item in occurrences}),
-        },
-        "occurrences": occurrences,
-        "unique_urls": build_unique_urls(occurrences),
-    }
+    data = build_inventory(post_paths, posts_dir)
 
     output_path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"Wrote inventory to {output_path}")
     print(
-        f"Wrote {len(occurrences)} occurrences across "
-        f"{data['summary']['unique_normalized_urls']} unique normalized URLs to {output_path}"
+        f"Inventory contains {data['summary']['total_occurrences']} occurrences across "
+        f"{data['summary']['unique_normalized_urls']} unique normalized URLs"
     )
+
+    if args.check:
+        report = build_link_check_report(
+            data,
+            timeout=args.timeout,
+            user_agent=args.user_agent,
+            limit=args.limit,
+        )
+        report_output_path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        print(f"Wrote link check report with {len(report)} unique URLs to {report_output_path}")
+
     return 0
 
 
