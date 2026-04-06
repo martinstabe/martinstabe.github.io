@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: welwyn-and-hatfield-times
+title: Welwyn & Hatfield Times
 tag: welwyn-and-hatfield-times
 permalink: /tags/welwyn-and-hatfield-times/
 ---

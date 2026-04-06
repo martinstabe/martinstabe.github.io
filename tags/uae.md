@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: uae
+title: UAE
 tag: uae
 permalink: /tags/uae/
 ---

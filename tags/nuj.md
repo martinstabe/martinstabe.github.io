@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nuj
+title: NUJ
 tag: nuj
 permalink: /tags/nuj/
 ---

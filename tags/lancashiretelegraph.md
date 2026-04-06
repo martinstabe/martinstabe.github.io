@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: lancashiretelegraph
+title: Lancashire Telegraph
 tag: lancashiretelegraph
 permalink: /tags/lancashiretelegraph/
 ---

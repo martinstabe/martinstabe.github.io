@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: inm
+title: INM
 tag: inm
 permalink: /tags/inm/
 ---

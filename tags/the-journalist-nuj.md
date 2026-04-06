@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: the-journalist-nuj
+title: The Journalist (NUJ)
 tag: the-journalist-nuj
 permalink: /tags/the-journalist-nuj/
 ---

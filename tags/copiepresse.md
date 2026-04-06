@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: copiepresse
+title: Copiepresse
 tag: copiepresse
 permalink: /tags/copiepresse/
 ---

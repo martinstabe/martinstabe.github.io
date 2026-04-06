@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: paulhorrocks
+title: Paul Horrocks
 tag: paulhorrocks
 permalink: /tags/paulhorrocks/
 ---

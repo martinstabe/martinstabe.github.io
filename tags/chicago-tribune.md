@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: chicago-tribune
+title: Chicago Tribune
 tag: chicago-tribune
 permalink: /tags/chicago-tribune/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: trinity-mirror
+title: Trinity Mirror
 tag: trinity-mirror
 permalink: /tags/trinity-mirror/
 ---

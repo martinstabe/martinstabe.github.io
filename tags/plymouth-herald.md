@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: plymouth-herald
+title: Plymouth Herald
 tag: plymouth-herald
 permalink: /tags/plymouth-herald/
 ---

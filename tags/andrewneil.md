@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: andrewneil
+title: Andrew Neil
 tag: andrewneil
 permalink: /tags/andrewneil/
 ---

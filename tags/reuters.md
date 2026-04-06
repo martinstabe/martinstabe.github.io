@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: reuters
+title: Reuters
 tag: reuters
 permalink: /tags/reuters/
 ---

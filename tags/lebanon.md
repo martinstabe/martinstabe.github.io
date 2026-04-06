@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: lebanon
+title: Lebanon
 tag: lebanon
 permalink: /tags/lebanon/
 ---

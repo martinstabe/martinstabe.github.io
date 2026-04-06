@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nbc
+title: NBC
 tag: nbc
 permalink: /tags/nbc/
 ---

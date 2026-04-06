@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: david-maclean
+title: David Maclean
 tag: david-maclean
 permalink: /tags/david-maclean/
 ---

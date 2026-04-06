@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: italy
+title: Italy
 tag: italy
 permalink: /tags/italy/
 ---

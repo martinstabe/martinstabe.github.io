@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: canada
+title: Canada
 tag: canada
 permalink: /tags/canada/
 ---

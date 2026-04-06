@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: neilhenry
+title: Neil Henry
 tag: neilhenry
 permalink: /tags/neilhenry/
 ---

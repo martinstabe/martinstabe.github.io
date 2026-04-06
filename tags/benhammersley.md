@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: benhammersley
+title: Ben Hammersley
 tag: benhammersley
 permalink: /tags/benhammersley/
 ---

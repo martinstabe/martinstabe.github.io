@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: thisislondon
+title: This Is London
 tag: thisislondon
 permalink: /tags/thisislondon/
 ---

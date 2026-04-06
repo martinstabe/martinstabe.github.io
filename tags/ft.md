@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ft
+title: FT
 tag: ft
 permalink: /tags/ft/
 ---

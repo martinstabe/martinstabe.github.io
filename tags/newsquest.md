@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newsquest
+title: Newsquest
 tag: newsquest
 permalink: /tags/newsquest/
 ---

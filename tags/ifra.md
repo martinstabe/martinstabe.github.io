@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ifra
+title: IFRA
 tag: ifra
 permalink: /tags/ifra/
 ---

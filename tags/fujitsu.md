@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: fujitsu
+title: Fujitsu
 tag: fujitsu
 permalink: /tags/fujitsu/
 ---

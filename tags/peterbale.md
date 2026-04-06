@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: peterbale
+title: Peter Bale
 tag: peterbale
 permalink: /tags/peterbale/
 ---

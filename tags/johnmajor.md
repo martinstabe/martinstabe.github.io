@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: johnmajor
+title: John Major
 tag: johnmajor
 permalink: /tags/johnmajor/
 ---

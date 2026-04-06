@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: alanjohnston
+title: Alan Johnston
 tag: alanjohnston
 permalink: /tags/alanjohnston/
 ---

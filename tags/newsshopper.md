@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newsshopper
+title: News Shopper
 tag: newsshopper
 permalink: /tags/newsshopper/
 ---

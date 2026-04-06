@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cia
+title: CIA
 tag: cia
 permalink: /tags/cia/
 ---

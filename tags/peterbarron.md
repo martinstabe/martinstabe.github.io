@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: peterbarron
+title: Peter Barron
 tag: peterbarron
 permalink: /tags/peterbarron/
 ---

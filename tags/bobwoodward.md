@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bobwoodward
+title: Bob Woodward
 tag: bobwoodward
 permalink: /tags/bobwoodward/
 ---

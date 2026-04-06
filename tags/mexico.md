@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: mexico
+title: Mexico
 tag: mexico
 permalink: /tags/mexico/
 ---

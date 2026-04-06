@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: comscore
+title: comScore
 tag: comscore
 permalink: /tags/comscore/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: zdf
+title: ZDF
 tag: zdf
 permalink: /tags/zdf/
 ---

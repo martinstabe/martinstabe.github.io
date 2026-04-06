@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: europe
+title: Europe
 tag: europe
 permalink: /tags/europe/
 ---

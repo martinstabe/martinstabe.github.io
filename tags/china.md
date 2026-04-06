@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: china
+title: China
 tag: china
 permalink: /tags/china/
 ---

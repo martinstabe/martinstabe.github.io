@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: qatar
+title: Qatar
 tag: qatar
 permalink: /tags/qatar/
 ---

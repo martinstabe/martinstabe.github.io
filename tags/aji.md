@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: aji
+title: AJI
 tag: aji
 permalink: /tags/aji/
 ---

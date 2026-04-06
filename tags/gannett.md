@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: gannett
+title: Gannett
 tag: gannett
 permalink: /tags/gannett/
 ---

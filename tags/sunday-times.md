@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: sunday-times
+title: Sunday Times
 tag: sunday-times
 permalink: /tags/sunday-times/
 ---

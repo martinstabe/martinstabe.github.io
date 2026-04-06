@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newsandstar
+title: News & Star
 tag: newsandstar
 permalink: /tags/newsandstar/
 ---

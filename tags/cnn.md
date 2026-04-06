@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cnn
+title: CNN
 tag: cnn
 permalink: /tags/cnn/
 ---

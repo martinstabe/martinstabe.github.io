@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: madeleinemccann
+title: Madeleine McCann
 tag: madeleinemccann
 permalink: /tags/madeleinemccann/
 ---

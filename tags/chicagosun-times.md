@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: chicagosun-times
+title: Chicago Sun-Times
 tag: chicagosun-times
 permalink: /tags/chicagosun-times/
 ---

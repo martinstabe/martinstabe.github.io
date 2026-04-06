@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: huffington-post
+title: Huffington Post
 tag: huffington-post
 permalink: /tags/huffington-post/
 ---

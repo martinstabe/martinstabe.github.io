@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: aftenposten
+title: Aftenposten
 tag: aftenposten
 permalink: /tags/aftenposten/
 ---

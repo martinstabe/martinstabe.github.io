@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nytimes
+title: New York Times
 tag: nytimes
 permalink: /tags/nytimes/
 ---

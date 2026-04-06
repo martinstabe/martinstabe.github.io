@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ohmynews
+title: OhmyNews
 tag: ohmynews
 permalink: /tags/ohmynews/
 ---

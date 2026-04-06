@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: thelondonpaper
+title: thelondonpaper
 tag: thelondonpaper
 permalink: /tags/thelondonpaper/
 ---

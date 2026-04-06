@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: joshwolf
+title: Josh Wolf
 tag: joshwolf
 permalink: /tags/joshwolf/
 ---

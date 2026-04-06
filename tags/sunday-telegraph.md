@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: sunday-telegraph
+title: Sunday Telegraph
 tag: sunday-telegraph
 permalink: /tags/sunday-telegraph/
 ---

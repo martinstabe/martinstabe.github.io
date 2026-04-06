@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: davidbeckham
+title: David Beckham
 tag: davidbeckham
 permalink: /tags/davidbeckham/
 ---

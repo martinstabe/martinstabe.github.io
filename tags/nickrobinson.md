@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nickrobinson
+title: Nick Robinson
 tag: nickrobinson
 permalink: /tags/nickrobinson/
 ---

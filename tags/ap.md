@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ap
+title: AP
 tag: ap
 permalink: /tags/ap/
 ---

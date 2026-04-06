@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: japan
+title: Japan
 tag: japan
 permalink: /tags/japan/
 ---

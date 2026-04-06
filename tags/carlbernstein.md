@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: carlbernstein
+title: Carl Bernstein
 tag: carlbernstein
 permalink: /tags/carlbernstein/
 ---

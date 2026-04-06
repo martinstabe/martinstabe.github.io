@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newscorp
+title: News Corp
 tag: newscorp
 permalink: /tags/newscorp/
 ---

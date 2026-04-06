@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: youtube
+title: YouTube
 tag: youtube
 permalink: /tags/youtube/
 ---

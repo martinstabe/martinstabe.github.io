@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: aljazeera
+title: Al Jazeera
 tag: aljazeera
 permalink: /tags/aljazeera/
 ---

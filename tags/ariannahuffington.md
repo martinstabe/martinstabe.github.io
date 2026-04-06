@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ariannahuffington
+title: Arianna Huffington
 tag: ariannahuffington
 permalink: /tags/ariannahuffington/
 ---

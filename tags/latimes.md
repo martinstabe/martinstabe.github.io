@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: latimes
+title: LA Times
 tag: latimes
 permalink: /tags/latimes/
 ---

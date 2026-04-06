@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: united-nations
+title: United Nations
 tag: united-nations
 permalink: /tags/united-nations/
 ---

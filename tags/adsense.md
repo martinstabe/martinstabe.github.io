@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: adsense
+title: AdSense
 tag: adsense
 permalink: /tags/adsense/
 ---

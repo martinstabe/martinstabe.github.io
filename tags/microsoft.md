@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: microsoft
+title: Microsoft
 tag: microsoft
 permalink: /tags/microsoft/
 ---

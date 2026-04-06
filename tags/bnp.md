@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bnp
+title: BNP
 tag: bnp
 permalink: /tags/bnp/
 ---

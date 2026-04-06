@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: berkeley
+title: Berkeley
 tag: berkeley
 permalink: /tags/berkeley/
 ---

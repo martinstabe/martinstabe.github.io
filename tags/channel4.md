@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: channel4
+title: Channel 4
 tag: channel4
 permalink: /tags/channel4/
 ---

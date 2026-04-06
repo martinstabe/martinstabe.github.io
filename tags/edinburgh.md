@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: edinburgh
+title: Edinburgh
 tag: edinburgh
 permalink: /tags/edinburgh/
 ---

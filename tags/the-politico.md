@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: the-politico
+title: Politico
 tag: the-politico
 permalink: /tags/the-politico/
 ---

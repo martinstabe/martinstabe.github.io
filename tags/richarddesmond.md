@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: richarddesmond
+title: Richard Desmond
 tag: richarddesmond
 permalink: /tags/richarddesmond/
 ---

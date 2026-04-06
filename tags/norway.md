@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: norway
+title: Norway
 tag: norway
 permalink: /tags/norway/
 ---

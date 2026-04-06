@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: andreworlowski
+title: Andrew Orlowski
 tag: andreworlowski
 permalink: /tags/andreworlowski/
 ---

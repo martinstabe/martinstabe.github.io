@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: israel
+title: Israel
 tag: israel
 permalink: /tags/israel/
 ---

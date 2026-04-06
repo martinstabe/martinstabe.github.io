@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: thomasfriedman
+title: Thomas Friedman
 tag: thomasfriedman
 permalink: /tags/thomasfriedman/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: businessweek
+title: BusinessWeek
 tag: businessweek
 permalink: /tags/businessweek/
 ---

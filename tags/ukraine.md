@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ukraine
+title: Ukraine
 tag: ukraine
 permalink: /tags/ukraine/
 ---

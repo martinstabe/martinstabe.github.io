@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: spain
+title: Spain
 tag: spain
 permalink: /tags/spain/
 ---

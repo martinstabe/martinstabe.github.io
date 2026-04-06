@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cp
+title: CP
 tag: cp
 permalink: /tags/cp/
 ---

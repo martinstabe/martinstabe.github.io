@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newstatesman
+title: New Statesman
 tag: newstatesman
 permalink: /tags/newstatesman/
 ---

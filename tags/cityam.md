@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cityam
+title: City A.M.
 tag: cityam
 permalink: /tags/cityam/
 ---

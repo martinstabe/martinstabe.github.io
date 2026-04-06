@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ofcom
+title: Ofcom
 tag: ofcom
 permalink: /tags/ofcom/
 ---

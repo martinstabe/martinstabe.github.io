@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bbc-worldwide
+title: BBC Worldwide
 tag: bbc-worldwide
 permalink: /tags/bbc-worldwide/
 ---

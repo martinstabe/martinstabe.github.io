@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: david-montgomery
+title: David Montgomery
 tag: david-montgomery
 permalink: /tags/david-montgomery/
 ---

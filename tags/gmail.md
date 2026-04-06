@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: gmail
+title: Gmail
 tag: gmail
 permalink: /tags/gmail/
 ---

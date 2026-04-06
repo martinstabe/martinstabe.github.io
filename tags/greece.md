@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: greece
+title: Greece
 tag: greece
 permalink: /tags/greece/
 ---

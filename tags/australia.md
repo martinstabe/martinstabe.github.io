@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: australia
+title: Australia
 tag: australia
 permalink: /tags/australia/
 ---

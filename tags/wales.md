@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: wales
+title: Wales
 tag: wales
 permalink: /tags/wales/
 ---

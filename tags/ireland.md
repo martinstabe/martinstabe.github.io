@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ireland
+title: Ireland
 tag: ireland
 permalink: /tags/ireland/
 ---

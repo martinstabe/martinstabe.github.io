@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: googlevideo
+title: Google Video
 tag: googlevideo
 permalink: /tags/googlevideo/
 ---

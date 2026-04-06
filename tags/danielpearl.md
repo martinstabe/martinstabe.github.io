@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: danielpearl
+title: Daniel Pearl
 tag: danielpearl
 permalink: /tags/danielpearl/
 ---

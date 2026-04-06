@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: adamboulton
+title: Adam Boulton
 tag: adamboulton
 permalink: /tags/adamboulton/
 ---

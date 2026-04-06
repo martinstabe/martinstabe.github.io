@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: birmingham
+title: Birmingham
 tag: birmingham
 permalink: /tags/birmingham/
 ---

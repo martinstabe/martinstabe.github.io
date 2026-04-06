@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: skynews
+title: Sky News
 tag: skynews
 permalink: /tags/skynews/
 ---

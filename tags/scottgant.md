@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: scottgant
+title: Scott Gant
 tag: scottgant
 permalink: /tags/scottgant/
 ---

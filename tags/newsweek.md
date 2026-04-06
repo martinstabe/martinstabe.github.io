@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newsweek
+title: Newsweek
 tag: newsweek
 permalink: /tags/newsweek/
 ---

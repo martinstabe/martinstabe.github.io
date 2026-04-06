@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: mattdrudge
+title: Matt Drudge
 tag: mattdrudge
 permalink: /tags/mattdrudge/
 ---

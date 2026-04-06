@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: focus
+title: Focus
 tag: focus
 permalink: /tags/focus/
 ---

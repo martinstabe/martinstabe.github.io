@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: alastaircampbell
+title: Alastair Campbell
 tag: alastaircampbell
 permalink: /tags/alastaircampbell/
 ---

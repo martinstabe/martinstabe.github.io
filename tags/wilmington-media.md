@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: wilmington-media
+title: Wilmington Media
 tag: wilmington-media
 permalink: /tags/wilmington-media/
 ---

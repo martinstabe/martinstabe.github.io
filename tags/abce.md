@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: abce
+title: ABCe
 tag: abce
 permalink: /tags/abce/
 ---

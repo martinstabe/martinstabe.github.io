@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: poynter
+title: Poynter
 tag: poynter
 permalink: /tags/poynter/
 ---

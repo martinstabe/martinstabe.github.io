@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: scotttrust
+title: Scott Trust
 tag: scotttrust
 permalink: /tags/scotttrust/
 ---

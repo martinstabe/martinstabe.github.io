@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: daily-telegraph
+title: Daily Telegraph
 tag: daily-telegraph
 permalink: /tags/daily-telegraph/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: iran
+title: Iran
 tag: iran
 permalink: /tags/iran/
 ---

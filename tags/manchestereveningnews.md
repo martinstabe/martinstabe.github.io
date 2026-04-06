@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: manchestereveningnews
+title: Manchester Evening News
 tag: manchestereveningnews
 permalink: /tags/manchestereveningnews/
 ---

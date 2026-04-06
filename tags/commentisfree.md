@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: commentisfree
+title: Comment Is Free
 tag: commentisfree
 permalink: /tags/commentisfree/
 ---

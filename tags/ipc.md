@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: ipc
+title: IPC
 tag: ipc
 permalink: /tags/ipc/
 ---

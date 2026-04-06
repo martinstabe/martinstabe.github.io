@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nuzzel
+title: Nuzzel
 tag: nuzzel
 permalink: /tags/nuzzel/
 ---

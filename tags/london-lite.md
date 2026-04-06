@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: london-lite
+title: London Lite
 tag: london-lite
 permalink: /tags/london-lite/
 ---

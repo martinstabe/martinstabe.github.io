@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: simon-kelner
+title: Simon Kelner
 tag: simon-kelner
 permalink: /tags/simon-kelner/
 ---

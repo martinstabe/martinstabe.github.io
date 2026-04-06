@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bbc
+title: BBC
 tag: bbc
 permalink: /tags/bbc/
 ---

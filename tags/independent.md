@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: independent
+title: Independent
 tag: independent
 permalink: /tags/independent/
 ---

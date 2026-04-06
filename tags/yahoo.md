@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: yahoo
+title: Yahoo
 tag: yahoo
 permalink: /tags/yahoo/
 ---

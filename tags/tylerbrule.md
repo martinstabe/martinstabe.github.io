@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: tylerbrule
+title: Tyler Brûlé
 tag: tylerbrule
 permalink: /tags/tylerbrule/
 ---

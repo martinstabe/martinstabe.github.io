@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: iht
+title: IHT
 tag: iht
 permalink: /tags/iht/
 ---

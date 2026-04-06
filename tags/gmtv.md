@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: gmtv
+title: GMTV
 tag: gmtv
 permalink: /tags/gmtv/
 ---

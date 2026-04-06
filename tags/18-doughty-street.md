@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: 18-doughty-street
+title: 18 Doughty Street
 tag: 18-doughty-street
 permalink: /tags/18-doughty-street/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newsnight
+title: Newsnight
 tag: newsnight
 permalink: /tags/newsnight/
 ---

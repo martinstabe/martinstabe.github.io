@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: twitter
+title: Twitter
 tag: twitter
 permalink: /tags/twitter/
 ---

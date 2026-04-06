@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: msn
+title: MSN
 tag: msn
 permalink: /tags/msn/
 ---

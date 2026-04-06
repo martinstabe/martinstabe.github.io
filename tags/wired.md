@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: wired
+title: Wired
 tag: wired
 permalink: /tags/wired/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: britishpressawards
+title: British Press Awards
 tag: britishpressawards
 permalink: /tags/britishpressawards/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: zdnet
+title: ZDNet
 tag: zdnet
 permalink: /tags/zdnet/
 ---

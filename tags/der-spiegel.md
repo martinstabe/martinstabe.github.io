@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: der-spiegel
+title: Der Spiegel
 tag: der-spiegel
 permalink: /tags/der-spiegel/
 ---

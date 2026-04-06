@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: radiotimes
+title: Radio Times
 tag: radiotimes
 permalink: /tags/radiotimes/
 ---

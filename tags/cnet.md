@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cnet
+title: CNET
 tag: cnet
 permalink: /tags/cnet/
 ---

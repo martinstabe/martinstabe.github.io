@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: daily-star
+title: Daily Star
 tag: daily-star
 permalink: /tags/daily-star/
 ---

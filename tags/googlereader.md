@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: googlereader
+title: Google Reader
 tag: googlereader
 permalink: /tags/googlereader/
 ---

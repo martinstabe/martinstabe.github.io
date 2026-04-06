@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: josh-marshall
+title: Josh Marshall
 tag: josh-marshall
 permalink: /tags/josh-marshall/
 ---

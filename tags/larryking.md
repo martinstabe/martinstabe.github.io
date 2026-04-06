@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: larryking
+title: Larry King
 tag: larryking
 permalink: /tags/larryking/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: russia
+title: Russia
 tag: russia
 permalink: /tags/russia/
 ---

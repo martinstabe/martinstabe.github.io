@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: financial-times
+title: Financial Times
 tag: financial-times
 permalink: /tags/financial-times/
 ---

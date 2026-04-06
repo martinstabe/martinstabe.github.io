@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: birminghammail
+title: Birmingham Mail
 tag: birminghammail
 permalink: /tags/birminghammail/
 ---

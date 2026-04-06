@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: timesonline
+title: Times Online
 tag: timesonline
 permalink: /tags/timesonline/
 ---

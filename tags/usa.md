@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: usa
+title: USA
 tag: usa
 permalink: /tags/usa/
 ---

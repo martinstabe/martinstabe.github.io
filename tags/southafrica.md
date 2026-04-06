@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: southafrica
+title: South Africa
 tag: southafrica
 permalink: /tags/southafrica/
 ---

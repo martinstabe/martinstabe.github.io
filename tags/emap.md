@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: emap
+title: Emap
 tag: emap
 permalink: /tags/emap/
 ---

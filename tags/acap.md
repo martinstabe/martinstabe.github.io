@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: acap
+title: ACAP
 tag: acap
 permalink: /tags/acap/
 ---

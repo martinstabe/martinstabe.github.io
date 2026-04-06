@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: e-p
+title: E&P
 tag: e-p
 permalink: /tags/e-p/
 ---

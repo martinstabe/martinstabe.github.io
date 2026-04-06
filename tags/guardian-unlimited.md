@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: guardian-unlimited
+title: Guardian Unlimited
 tag: guardian-unlimited
 permalink: /tags/guardian-unlimited/
 ---

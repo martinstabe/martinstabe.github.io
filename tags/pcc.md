@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: pcc
+title: PCC
 tag: pcc
 permalink: /tags/pcc/
 ---

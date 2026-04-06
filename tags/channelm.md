@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: channelm
+title: Channel M
 tag: channelm
 permalink: /tags/channelm/
 ---

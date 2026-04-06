@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: retail-week
+title: Retail Week
 tag: retail-week
 permalink: /tags/retail-week/
 ---

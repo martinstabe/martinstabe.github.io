@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: the-register
+title: The Register
 tag: the-register
 permalink: /tags/the-register/
 ---

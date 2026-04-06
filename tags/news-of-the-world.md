@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: news-of-the-world
+title: News of the World
 tag: news-of-the-world
 permalink: /tags/news-of-the-world/
 ---

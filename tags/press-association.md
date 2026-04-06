@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: press-association
+title: Press Association
 tag: press-association
 permalink: /tags/press-association/
 ---

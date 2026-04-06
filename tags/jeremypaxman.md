@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: jeremypaxman
+title: Jeremy Paxman
 tag: jeremypaxman
 permalink: /tags/jeremypaxman/
 ---

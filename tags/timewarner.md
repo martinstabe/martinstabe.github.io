@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: timewarner
+title: Time Warner
 tag: timewarner
 permalink: /tags/timewarner/
 ---

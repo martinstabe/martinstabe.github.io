@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: wikipedia
+title: Wikipedia
 tag: wikipedia
 permalink: /tags/wikipedia/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: evening-standard
+title: Evening Standard
 tag: evening-standard
 permalink: /tags/evening-standard/
 ---

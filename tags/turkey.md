@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: turkey
+title: Turkey
 tag: turkey
 permalink: /tags/turkey/
 ---

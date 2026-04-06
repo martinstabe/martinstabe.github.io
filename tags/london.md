@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: london
+title: London
 tag: london
 permalink: /tags/london/
 ---

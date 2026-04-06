@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: robertfisk
+title: Robert Fisk
 tag: robertfisk
 permalink: /tags/robertfisk/
 ---

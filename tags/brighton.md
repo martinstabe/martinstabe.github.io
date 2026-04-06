@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: brighton
+title: Brighton
 tag: brighton
 permalink: /tags/brighton/
 ---

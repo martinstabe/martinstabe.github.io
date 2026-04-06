@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: north-korea
+title: North Korea
 tag: north-korea
 permalink: /tags/north-korea/
 ---

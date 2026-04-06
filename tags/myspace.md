@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: myspace
+title: MySpace
 tag: myspace
 permalink: /tags/myspace/
 ---

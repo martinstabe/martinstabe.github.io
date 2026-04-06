@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nickdenton
+title: Nick Denton
 tag: nickdenton
 permalink: /tags/nickdenton/
 ---

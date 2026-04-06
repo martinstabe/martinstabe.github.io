@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: france
+title: France
 tag: france
 permalink: /tags/france/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: central-asia
+title: Central Asia
 tag: central-asia
 permalink: /tags/central-asia/
 ---

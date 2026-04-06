@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: daily-mail
+title: Daily Mail
 tag: daily-mail
 permalink: /tags/daily-mail/
 ---

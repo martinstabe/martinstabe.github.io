@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: egypt
+title: Egypt
 tag: egypt
 permalink: /tags/egypt/
 ---

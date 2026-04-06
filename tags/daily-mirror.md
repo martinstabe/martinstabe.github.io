@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: daily-mirror
+title: Daily Mirror
 tag: daily-mirror
 permalink: /tags/daily-mirror/
 ---

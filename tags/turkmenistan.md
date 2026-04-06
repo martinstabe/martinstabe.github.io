@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: turkmenistan
+title: Turkmenistan
 tag: turkmenistan
 permalink: /tags/turkmenistan/
 ---

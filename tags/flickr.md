@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: flickr
+title: Flickr
 tag: flickr
 permalink: /tags/flickr/
 ---

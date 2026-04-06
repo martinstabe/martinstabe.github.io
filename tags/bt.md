@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bt
+title: BT
 tag: bt
 permalink: /tags/bt/
 ---

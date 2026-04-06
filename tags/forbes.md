@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: forbes
+title: Forbes
 tag: forbes
 permalink: /tags/forbes/
 ---

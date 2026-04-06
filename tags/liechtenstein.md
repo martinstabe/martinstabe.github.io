@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: liechtenstein
+title: Liechtenstein
 tag: liechtenstein
 permalink: /tags/liechtenstein/
 ---

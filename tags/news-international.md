@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: news-international
+title: News International
 tag: news-international
 permalink: /tags/news-international/
 ---

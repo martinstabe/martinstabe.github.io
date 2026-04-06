@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: google-de
+title: Google.de
 tag: google-de
 permalink: /tags/google-de/
 ---

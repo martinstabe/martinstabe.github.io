@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: afp
+title: AFP
 tag: afp
 permalink: /tags/afp/
 ---

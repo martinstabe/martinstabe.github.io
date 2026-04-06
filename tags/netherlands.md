@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: netherlands
+title: Netherlands
 tag: netherlands
 permalink: /tags/netherlands/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: chicago
+title: Chicago
 tag: chicago
 permalink: /tags/chicago/
 ---

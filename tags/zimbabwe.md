@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: zimbabwe
+title: Zimbabwe
 tag: zimbabwe
 permalink: /tags/zimbabwe/
 ---

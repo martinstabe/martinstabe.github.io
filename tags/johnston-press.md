@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: johnston-press
+title: Johnston Press
 tag: johnston-press
 permalink: /tags/johnston-press/
 ---

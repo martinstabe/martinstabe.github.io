@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: telegraph-group
+title: Telegraph Group
 tag: telegraph-group
 permalink: /tags/telegraph-group/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: adrian-holovaty
+title: Adrian Holovaty
 tag: adrian-holovaty
 permalink: /tags/adrian-holovaty/
 ---

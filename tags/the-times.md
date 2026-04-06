@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: the-times
+title: The Times
 tag: the-times
 permalink: /tags/the-times/
 ---

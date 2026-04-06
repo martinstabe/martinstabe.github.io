@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: google-news
+title: Google News
 tag: google-news
 permalink: /tags/google-news/
 ---

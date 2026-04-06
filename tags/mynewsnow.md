@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: mynewsnow
+title: MyNewsNow
 tag: mynewsnow
 permalink: /tags/mynewsnow/
 ---

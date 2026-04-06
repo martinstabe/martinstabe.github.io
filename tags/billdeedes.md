@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: billdeedes
+title: Bill Deedes
 tag: billdeedes
 permalink: /tags/billdeedes/
 ---

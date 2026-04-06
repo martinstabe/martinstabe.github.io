@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: itv
+title: ITV
 tag: itv
 permalink: /tags/itv/
 ---

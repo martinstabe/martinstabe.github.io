@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: wsj
+title: WSJ
 tag: wsj
 permalink: /tags/wsj/
 ---

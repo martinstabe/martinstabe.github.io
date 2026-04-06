@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: press-gazette
+title: Press Gazette
 tag: press-gazette
 permalink: /tags/press-gazette/
 ---

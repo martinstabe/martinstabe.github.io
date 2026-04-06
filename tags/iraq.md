@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: iraq
+title: Iraq
 tag: iraq
 permalink: /tags/iraq/
 ---

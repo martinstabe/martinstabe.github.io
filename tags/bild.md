@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bild
+title: Bild
 tag: bild
 permalink: /tags/bild/
 ---

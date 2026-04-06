@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: sun-online
+title: Sun Online
 tag: sun-online
 permalink: /tags/sun-online/
 ---

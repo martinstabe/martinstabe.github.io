@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: mysun
+title: MySun
 tag: mysun
 permalink: /tags/mysun/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: washingtonpost
+title: Washington Post
 tag: washingtonpost
 permalink: /tags/washingtonpost/
 ---

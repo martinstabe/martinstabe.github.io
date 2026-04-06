@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: kate-middleton
+title: Kate Middleton
 tag: kate-middleton
 permalink: /tags/kate-middleton/
 ---

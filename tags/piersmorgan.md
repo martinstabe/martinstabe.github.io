@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: piersmorgan
+title: Piers Morgan
 tag: piersmorgan
 permalink: /tags/piersmorgan/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: portugal
+title: Portugal
 tag: portugal
 permalink: /tags/portugal/
 ---

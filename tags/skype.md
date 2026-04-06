@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: skype
+title: Skype
 tag: skype
 permalink: /tags/skype/
 ---

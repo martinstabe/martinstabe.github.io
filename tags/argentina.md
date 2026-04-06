@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: argentina
+title: Argentina
 tag: argentina
 permalink: /tags/argentina/
 ---

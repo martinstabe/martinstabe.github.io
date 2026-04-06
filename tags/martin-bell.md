@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: martin-bell
+title: Martin Bell
 tag: martin-bell
 permalink: /tags/martin-bell/
 ---

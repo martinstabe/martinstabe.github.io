@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: india
+title: India
 tag: india
 permalink: /tags/india/
 ---

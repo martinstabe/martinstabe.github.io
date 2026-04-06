@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: die-welt
+title: Die Welt
 tag: die-welt
 permalink: /tags/die-welt/
 ---

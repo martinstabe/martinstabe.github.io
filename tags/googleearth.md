@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: googleearth
+title: Google Earth
 tag: googleearth
 permalink: /tags/googleearth/
 ---

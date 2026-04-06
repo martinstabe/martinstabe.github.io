@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cctv
+title: CCTV
 tag: cctv
 permalink: /tags/cctv/
 ---

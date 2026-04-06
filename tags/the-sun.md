@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: the-sun
+title: The Sun
 tag: the-sun
 permalink: /tags/the-sun/
 ---

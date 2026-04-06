@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: sunday-herald
+title: Sunday Herald
 tag: sunday-herald
 permalink: /tags/sunday-herald/
 ---

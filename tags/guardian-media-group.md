@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: guardian-media-group
+title: Guardian Media Group
 tag: guardian-media-group
 permalink: /tags/guardian-media-group/
 ---

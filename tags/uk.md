@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: uk
+title: UK
 tag: uk
 permalink: /tags/uk/
 ---

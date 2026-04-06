@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: dan-gillmor
+title: Dan Gillmor
 tag: dan-gillmor
 permalink: /tags/dan-gillmor/
 ---

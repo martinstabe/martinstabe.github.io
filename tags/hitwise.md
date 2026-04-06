@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: hitwise
+title: Hitwise
 tag: hitwise
 permalink: /tags/hitwise/
 ---

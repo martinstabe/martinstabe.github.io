@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cardiffuniversity
+title: Cardiff University
 tag: cardiffuniversity
 permalink: /tags/cardiffuniversity/
 ---

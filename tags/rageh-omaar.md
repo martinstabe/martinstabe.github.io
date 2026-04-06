@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: rageh-omaar
+title: Rageh Omaar
 tag: rageh-omaar
 permalink: /tags/rageh-omaar/
 ---

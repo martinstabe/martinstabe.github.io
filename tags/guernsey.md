@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: guernsey
+title: Guernsey
 tag: guernsey
 permalink: /tags/guernsey/
 ---

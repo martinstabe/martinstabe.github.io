@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: aol
+title: AOL
 tag: aol
 permalink: /tags/aol/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: facebook
+title: Facebook
 tag: facebook
 permalink: /tags/facebook/
 ---

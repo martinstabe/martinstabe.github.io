@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cbs
+title: CBS
 tag: cbs
 permalink: /tags/cbs/
 ---

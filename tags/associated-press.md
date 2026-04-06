@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: associated-press
+title: Associated Press
 tag: associated-press
 permalink: /tags/associated-press/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: city-university
+title: City University
 tag: city-university
 permalink: /tags/city-university/
 ---

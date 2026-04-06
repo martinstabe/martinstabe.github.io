@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: nctj
+title: NCTJ
 tag: nctj
 permalink: /tags/nctj/
 ---

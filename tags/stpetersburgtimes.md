@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: stpetersburgtimes
+title: St Petersburg Times
 tag: stpetersburgtimes
 permalink: /tags/stpetersburgtimes/
 ---

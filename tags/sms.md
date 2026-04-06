@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: sms
+title: SMS
 tag: sms
 permalink: /tags/sms/
 ---

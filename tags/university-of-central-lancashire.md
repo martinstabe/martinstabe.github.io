@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: university-of-central-lancashire
+title: University of Central Lancashire
 tag: university-of-central-lancashire
 permalink: /tags/university-of-central-lancashire/
 ---

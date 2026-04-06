@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: bskyb
+title: BSkyB
 tag: bskyb
 permalink: /tags/bskyb/
 ---

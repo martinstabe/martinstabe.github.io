@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: michaelmartin
+title: Michael Martin
 tag: michaelmartin
 permalink: /tags/michaelmartin/
 ---

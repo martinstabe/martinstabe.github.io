@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: boltonnews
+title: Bolton News
 tag: boltonnews
 permalink: /tags/boltonnews/
 ---

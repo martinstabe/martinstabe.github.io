@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: newsvine
+title: Newsvine
 tag: newsvine
 permalink: /tags/newsvine/
 ---

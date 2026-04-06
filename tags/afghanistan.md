@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: afghanistan
+title: Afghanistan
 tag: afghanistan
 permalink: /tags/afghanistan/
 ---

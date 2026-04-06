@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: google-maps
+title: Google Maps
 tag: google-maps
 permalink: /tags/google-maps/
 ---

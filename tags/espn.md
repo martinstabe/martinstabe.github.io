@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: espn
+title: ESPN
 tag: espn
 permalink: /tags/espn/
 ---

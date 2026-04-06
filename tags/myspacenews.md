@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: myspacenews
+title: MySpace News
 tag: myspacenews
 permalink: /tags/myspacenews/
 ---

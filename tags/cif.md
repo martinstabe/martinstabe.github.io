@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cif
+title: Comment Is Free
 tag: cif
 permalink: /tags/cif/
 ---

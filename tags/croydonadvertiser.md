@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: croydonadvertiser
+title: Croydon Advertiser
 tag: croydonadvertiser
 permalink: /tags/croydonadvertiser/
 ---

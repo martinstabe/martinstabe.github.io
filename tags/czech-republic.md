@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: czech-republic
+title: Czech Republic
 tag: czech-republic
 permalink: /tags/czech-republic/
 ---

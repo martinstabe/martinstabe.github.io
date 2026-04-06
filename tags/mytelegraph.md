@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: mytelegraph
+title: MyTelegraph
 tag: mytelegraph
 permalink: /tags/mytelegraph/
 ---

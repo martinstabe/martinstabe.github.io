@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: associated-newspapers
+title: Associated Newspapers
 tag: associated-newspapers
 permalink: /tags/associated-newspapers/
 ---

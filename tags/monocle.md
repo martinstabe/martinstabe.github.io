@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: monocle
+title: Monocle
 tag: monocle
 permalink: /tags/monocle/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: guardian
+title: Guardian
 tag: guardian
 permalink: /tags/guardian/
 ---

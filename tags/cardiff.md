@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: cardiff
+title: Cardiff
 tag: cardiff
 permalink: /tags/cardiff/
 ---

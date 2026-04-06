@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: san-francisco-chronicle
+title: San Francisco Chronicle
 tag: san-francisco-chronicle
 permalink: /tags/san-francisco-chronicle/
 ---

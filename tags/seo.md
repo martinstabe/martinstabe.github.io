@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: seo
+title: SEO
 tag: seo
 permalink: /tags/seo/
 ---

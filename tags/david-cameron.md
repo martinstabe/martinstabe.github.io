@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: david-cameron
+title: David Cameron
 tag: david-cameron
 permalink: /tags/david-cameron/
 ---

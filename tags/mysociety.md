@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: Tag: mysociety
+title: mySociety
 tag: mysociety
 permalink: /tags/mysociety/
 ---
