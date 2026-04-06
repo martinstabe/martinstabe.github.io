@@ -25,6 +25,12 @@ Build the site:
 npm run build
 ```
 
+Sync the FT RSS feed into the local stories YAML source:
+
+```bash
+npm run sync:stories
+```
+
 Run a local Eleventy dev server:
 
 ```bash
@@ -77,6 +83,14 @@ The Eleventy build does not duplicate the archive into `src/`. Instead it import
 ## Additional Features Added During Migration
 
 The Eleventy implementation includes behavior that did not previously exist as a single coherent layer in the Jekyll site.
+
+### Stories Section From FT RSS
+
+Stories sourced from the FT RSS feed can now be synced into [_data/stories.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/stories.yml) with [scripts/sync_stories.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/sync_stories.js).
+
+Each synced entry is stored as YAML and preserves manual overrides on subsequent syncs, including the `include: false` switch to exclude an item from the generated site.
+
+Included stories are rendered into the new `/stories/` section and linked from the main navigation.
 
 ### Canonical Tag Definitions
 

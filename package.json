@@ -4,7 +4,8 @@
   "description": "Parallel Eleventy scaffold for martinstabe.com",
   "scripts": {
     "build": "node scripts/clean_dist.js && node scripts/build_sass.js && eleventy",
-    "dev": "node scripts/clean_dist.js && node scripts/build_sass.js && eleventy --serve"
+    "dev": "node scripts/clean_dist.js && node scripts/build_sass.js && eleventy --serve",
+    "sync:stories": "node scripts/sync_stories.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.5",
