@@ -1,0 +1,617 @@
+{
+  "source_decisions": "/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains.json",
+  "filtered_from_wayback": "/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains_wayback.json",
+  "summary": {
+    "decision_count": 18
+  },
+  "decisions": [
+    {
+      "url": "http://news.ft.com/cms/s/8819e1b6-942e-11d9-9d6e-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/8819e1b6-942e-11d9-9d6e-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/8819e1b6-942e-11d9-9d6e-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-03-14-clone-towns.md",
+          "line": 7,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-03-14-clone-towns.md"
+      ],
+      "posts": [
+        "/2005/03/14/clone-towns/"
+      ],
+      "sample_link_texts": [
+        "getting concerned"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/8bf76918-81da-11d9-9e19-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
+      "normalized_url": "http://news.ft.com/cms/s/8bf76918-81da-11d9-9e19-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/8bf76918-81da-11d9-9e19-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-02-19-european-parliament-head-excluded-from-bush-visit.md",
+          "line": 7,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-02-19-european-parliament-head-excluded-from-bush-visit.md"
+      ],
+      "posts": [
+        "/2005/02/19/european-parliament-head-excluded-from-bush-visit/"
+      ],
+      "sample_link_texts": [
+        "trying to “gatecrash”"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/98faaa4a-18f1-11da-8fe9-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/98faaa4a-18f1-11da-8fe9-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/98faaa4a-18f1-11da-8fe9-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-08-30-are-pricy-footballers-worth-the-cost.md",
+          "line": 13,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-08-30-are-pricy-footballers-worth-the-cost.md"
+      ],
+      "posts": [
+        "/2005/08/30/are-pricy-footballers-worth-the-cost/"
+      ],
+      "sample_link_texts": [
+        "the high cost of footballers’ transfer fees makes financial sense"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/a2808f20-6b50-11d9-9357-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/a2808f20-6b50-11d9-9357-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/a2808f20-6b50-11d9-9357-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-01-23-ethical-common-foreign-policy.md",
+          "line": 11,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-01-23-ethical-common-foreign-policy.md"
+      ],
+      "posts": [
+        "/2005/01/23/ethical-common-foreign-policy/"
+      ],
+      "sample_link_texts": [
+        "Japan"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/b30a6d44-754f-11d9-9608-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/b30a6d44-754f-11d9-9608-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/b30a6d44-754f-11d9-9608-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-02-03-eu-grand-strategy-in-china.md",
+          "line": 28,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-02-03-eu-grand-strategy-in-china.md"
+      ],
+      "posts": [
+        "/2005/02/03/eu-grand-strategy-in-china/"
+      ],
+      "sample_link_texts": [
+        "EU decision to end the arms export ban on China"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/bccbfd84-4fcf-11d9-86b3-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/bccbfd84-4fcf-11d9-86b3-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/bccbfd84-4fcf-11d9-86b3-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2004-12-18-more-foia-stuff.md",
+          "line": 3,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2004-12-18-more-foia-stuff.md"
+      ],
+      "posts": [
+        "/2004/12/18/more-foia-stuff/"
+      ],
+      "sample_link_texts": [
+        "comparing the British and German Freedom of Information Acts"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/be6a50e0-7096-11d9-b572-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
+      "normalized_url": "http://news.ft.com/cms/s/be6a50e0-7096-11d9-b572-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/be6a50e0-7096-11d9-b572-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-01-27-bbc-eu-coverage-criticised.md",
+          "line": 13,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-01-27-bbc-eu-coverage-criticised.md"
+      ],
+      "posts": [
+        "/2005/01/27/bbc-eu-coverage-criticised/"
+      ],
+      "sample_link_texts": [
+        "BBC’s coverage of the EU wanting"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/c3e700f0-9b5b-11d9-815d-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/c3e700f0-9b5b-11d9-815d-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/c3e700f0-9b5b-11d9-815d-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-04-07-blogospheric-intercourse-in-the-ft.md",
+          "line": 41,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-04-07-blogospheric-intercourse-in-the-ft.md"
+      ],
+      "posts": [
+        "/2005/04/07/blogospheric-intercourse-in-the-ft/"
+      ],
+      "sample_link_texts": [
+        "bashing"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/c527e41e-81ea-11d9-9e19-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/c527e41e-81ea-11d9-9e19-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/c527e41e-81ea-11d9-9e19-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-02-19-blogging-and-gatekeeping.md",
+          "line": 21,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-02-19-blogging-and-gatekeeping.md"
+      ],
+      "posts": [
+        "/2005/02/19/blogging-and-gatekeeping/"
+      ],
+      "sample_link_texts": [
+        "much weaker newspaper column on the same topic"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/d40a7046-78ad-11d9-9961-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/d40a7046-78ad-11d9-9961-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/d40a7046-78ad-11d9-9961-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-02-08-some-foia-advice.md",
+          "line": 9,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-02-08-some-foia-advice.md"
+      ],
+      "posts": [
+        "/2005/02/08/some-foia-advice/"
+      ],
+      "sample_link_texts": [
+        "some advice on the *FT* letters page"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/d48aadf6-104c-11da-bd5c-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/d48aadf6-104c-11da-bd5c-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/d48aadf6-104c-11da-bd5c-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-08-20-netherlands-to-reveal-eu-farm-subsidies.md",
+          "line": 23,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-08-20-netherlands-to-reveal-eu-farm-subsidies.md"
+      ],
+      "posts": [
+        "/2005/08/20/netherlands-to-reveal-eu-farm-subsidies/"
+      ],
+      "sample_link_texts": [
+        "Common Agricultural Policy increases the divide between rich and poor"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/defc002e-18f2-11da-8fe9-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/defc002e-18f2-11da-8fe9-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/defc002e-18f2-11da-8fe9-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-08-30-companies-disguise-foia-searches.md",
+          "line": 30,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-08-30-companies-disguise-foia-searches.md"
+      ],
+      "posts": [
+        "/2005/08/30/companies-disguise-foia-searches/"
+      ],
+      "sample_link_texts": [
+        "get it right"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/cms/s/e0be73a8-6c1b-11d9-94dc-00000e2511c8.html",
+      "normalized_url": "http://news.ft.com/cms/s/e0be73a8-6c1b-11d9-94dc-00000e2511c8.html",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/cms/s/e0be73a8-6c1b-11d9-94dc-00000e2511c8.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2005-01-23-britains-strong-ties-to-eurozone.md",
+          "line": 5,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2005-01-23-britains-strong-ties-to-eurozone.md"
+      ],
+      "posts": [
+        "/2005/01/23/britains-strong-ties-to-eurozone/"
+      ],
+      "sample_link_texts": [
+        "new figures showing how deep Britain’s economic ties to the 12-nation Eurozone"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1051390406371",
+      "normalized_url": "http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1051390406371",
+      "hostname": "news.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1051390406371",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2003-06-25-expert-witnesses.md",
+          "line": 13,
+          "source_type": "markdown_reference_definition"
+        }
+      ],
+      "files": [
+        "_posts/2003-06-25-expert-witnesses.md"
+      ],
+      "posts": [
+        "/2003/06/25/expert-witnesses/"
+      ],
+      "sample_link_texts": [
+        "biograf in an *FT* story"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
+      ]
+    },
+    {
+      "url": "http://www.ft.com/cms/s/11312522-7682-11db-8284-0000779e2340.html",
+      "normalized_url": "http://www.ft.com/cms/s/11312522-7682-11db-8284-0000779e2340.html",
+      "hostname": "www.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://www.ft.com/cms/s/11312522-7682-11db-8284-0000779e2340.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2006-11-18-links-for-2006-11-18.md",
+          "line": 102,
+          "source_type": "html_anchor"
+        }
+      ],
+      "files": [
+        "_posts/2006-11-18-links-for-2006-11-18.md"
+      ],
+      "posts": [
+        "/2006/11/18/links-for-2006-11-18/"
+      ],
+      "sample_link_texts": [
+        "FT.com: Universal sues MySpace on copyright"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
+      ]
+    },
+    {
+      "url": "http://www.ft.com/cms/s/4f547b54-2b38-11dc-85f9-000b5df10621.html",
+      "normalized_url": "http://www.ft.com/cms/s/4f547b54-2b38-11dc-85f9-000b5df10621.html",
+      "hostname": "www.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://www.ft.com/cms/s/4f547b54-2b38-11dc-85f9-000b5df10621.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2007-07-06-links-for-2007-07-06.md",
+          "line": 102,
+          "source_type": "html_anchor"
+        }
+      ],
+      "files": [
+        "_posts/2007-07-06-links-for-2007-07-06.md"
+      ],
+      "posts": [
+        "/2007/07/06/links-for-2007-07-06/"
+      ],
+      "sample_link_texts": [
+        "FT.com: Murdoch turns to new page on Wapping"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
+      ]
+    },
+    {
+      "url": "http://www.ft.com/cms/s/91268cf2-9d2b-11db-8ec6-0000779e2340.html",
+      "normalized_url": "http://www.ft.com/cms/s/91268cf2-9d2b-11db-8ec6-0000779e2340.html",
+      "hostname": "www.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://www.ft.com/cms/s/91268cf2-9d2b-11db-8ec6-0000779e2340.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2007-01-07-links-for-2007-01-07.md",
+          "line": 200,
+          "source_type": "html_anchor"
+        }
+      ],
+      "files": [
+        "_posts/2007-01-07-links-for-2007-01-07.md"
+      ],
+      "posts": [
+        "/2007/01/07/links-for-2007-01-07/"
+      ],
+      "sample_link_texts": [
+        "FT: Defra ordered to disclose confidential advice to minister"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
+      ]
+    },
+    {
+      "url": "http://www.ft.com/cms/s/97b20dc2-1cfa-11dc-9b58-000b5df10621.html",
+      "normalized_url": "http://www.ft.com/cms/s/97b20dc2-1cfa-11dc-9b58-000b5df10621.html",
+      "hostname": "www.ft.com",
+      "disposition": "manual-review",
+      "reason": "Automated live check was inconclusive: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "review_priority": "high",
+      "replacement_url": null,
+      "status": null,
+      "final_url": "http://www.ft.com/cms/s/97b20dc2-1cfa-11dc-9b58-000b5df10621.html",
+      "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "method": "GET",
+      "count": 1,
+      "occurrences": [
+        {
+          "file": "_posts/2007-06-18-links-for-2007-06-18.md",
+          "line": 46,
+          "source_type": "html_anchor"
+        }
+      ],
+      "files": [
+        "_posts/2007-06-18-links-for-2007-06-18.md"
+      ],
+      "posts": [
+        "/2007/06/18/links-for-2007-06-18/"
+      ],
+      "sample_link_texts": [
+        "FT.com: BBC plans foreign audience push"
+      ],
+      "notes": [
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
+      ]
+    }
+  ]
+}

@@ -1,24 +1,12 @@
 {
-  "source_report": "/Users/martin.stabe/Documents/martinstabe.github.io/data/link_check_report_target_domains.json",
+  "source_decisions": "/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains.json",
+  "source_inventory": "/Users/martin.stabe/Documents/martinstabe.github.io/data/link_inventory_posts.json",
   "summary": {
-    "generated_at": "2026-04-06T17:43:33.395679+00:00",
+    "generated_at": "2026-04-06T17:52:57.982404+00:00",
     "decision_count": 131,
-    "dispositions": {
-      "alive-but-redirected": 21,
-      "manual-review": 110
-    },
-    "by_hostname": {
-      "blogs.ft.com": 1,
-      "blogs.pressgazette.co.uk": 10,
-      "discuss.pressgazette.co.uk": 5,
-      "ftalphaville.ft.com": 1,
-      "news.ft.com": 26,
-      "rwkb.retail-week.com": 1,
-      "www.drapersonline.com": 2,
-      "www.ft.com": 10,
-      "www.pressgazette.co.uk": 71,
-      "www.retail-week.com": 4
-    }
+    "candidate_generated": 0,
+    "no_capture_found": 0,
+    "lookup_error": 131
   },
   "decisions": [
     {
@@ -82,8 +70,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "High-impact URL: appears 5 times in `_posts`."
-      ]
+        "High-impact URL: appears 5 times in `_posts`.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2003-05-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/fleetstreet",
@@ -130,8 +132,22 @@
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
         "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
-        "High-impact URL: appears 3 times in `_posts`."
-      ]
+        "High-impact URL: appears 3 times in `_posts`.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-03-03",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/",
@@ -180,8 +196,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "High-impact URL: appears 3 times in `_posts`."
-      ]
+        "High-impact URL: appears 3 times in `_posts`.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-05",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.retail-week.com",
@@ -228,8 +258,22 @@
       ],
       "notes": [
         "Legacy Retail Week links may now require login, paywall, or archive fallback.",
-        "High-impact URL: appears 3 times in `_posts`."
-      ]
+        "High-impact URL: appears 3 times in `_posts`.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-08-30",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/wire",
@@ -270,8 +314,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-01-10",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/200706/independent_website_second",
@@ -311,8 +369,22 @@
         "of the business case"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-28",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/220606/contrary_to_popular_opinion",
@@ -352,8 +424,22 @@
         "skeptical"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-28",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/250107/journalism_press_gazette_freedom_of_information_#petition",
@@ -393,8 +479,22 @@
         "signing the petition"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-02-13",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/10/12/journalists-micropubs-vs-big-publishing/",
@@ -434,8 +534,22 @@
         "demonstrated that it can be done"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-16",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/dog",
@@ -475,8 +589,22 @@
         "another blog"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-02-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&storycode=35548",
@@ -516,8 +644,22 @@
         "how it applies to journalism"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-09-16",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.ft.com/rachmanblog/2007/08/wikipedia-and-c.html",
@@ -550,8 +692,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-09-01",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/editor/2007/04/03/multimedia-inside-the-new-telegraph-newsroom/",
@@ -584,8 +740,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-04-03",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/fleetstreet/2007/04/11/a-double-standard-for-print-and-online-comments/",
@@ -618,8 +788,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-04-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/fleetstreet/2007/10/28/new-german-regional-newspaper-site-is-well-worth-watching/",
@@ -652,8 +836,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-10-29",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/fleetstreet/2008/08/28/news-media-apis-more-on-mashups/",
@@ -684,8 +882,22 @@
       "sample_link_texts": [],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2009-01-31",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/greycardigan/2008/09/doing-your-smalls/",
@@ -718,8 +930,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-09-22",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/students/2008/02/14/dreamweaver-does-not-make-an-online-journalist",
@@ -752,8 +978,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-02-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/students/2008/02/14/dreamweaver-does-not-make-an-online-journalist/#34",
@@ -786,8 +1026,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-02-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://blogs.pressgazette.co.uk/wire/1475",
@@ -820,8 +1074,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-01-10",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://discuss.pressgazette.co.uk/journalism-article.aspx?id_Content=5443",
@@ -854,8 +1122,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-09-16",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://discuss.pressgazette.co.uk/journalism-article.aspx?id_Content=5497",
@@ -888,8 +1170,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://discuss.pressgazette.co.uk/journalism-article.aspx?id_Content=5575",
@@ -922,8 +1218,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://discuss.pressgazette.co.uk/journalism-article.aspx?id_Content=5750",
@@ -956,8 +1266,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://discuss.pressgazette.co.uk/journalism-article.aspx?id_Content=5919",
@@ -990,8 +1314,22 @@
       ],
       "notes": [
         "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
-        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current."
-      ]
+        "This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-08",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://ftalphaville.ft.com/blog/2007/05/02/4257/dow-jones-and-murdoch-news-from-the-blogosphere/",
@@ -1024,8 +1362,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-05-02",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/17b12a2e-342a-11d9-a728-00000e2511c8.html",
@@ -1059,8 +1411,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2004-11-13",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/18b638a0-7af3-11d9-a8c9-00000e2511c8.html",
@@ -1094,8 +1460,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/1be85a9c-18f2-11da-8fe9-00000e2511c8.html",
@@ -1129,8 +1509,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-30",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/36403422-7b0f-11d9-a3ea-00000e2511c8.html",
@@ -1164,8 +1558,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-10",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/38043b06-7dfc-11d9-ac22-00000e2511c8.html",
@@ -1199,8 +1607,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-16",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/405f5cf8-7b96-11d9-9af4-00000e2511c8.html",
@@ -1234,8 +1656,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/5eb3544c-093b-11da-880b-00000e2511c8.html",
@@ -1269,8 +1705,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/5ebfb82c-6fd0-11d9-850d-00000e2511c8.html",
@@ -1304,8 +1754,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-01-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/6be27ed0-89da-11d9-aa18-00000e2511c8,_i_rssPage=7c2e2eb0-cbe5-11d7-81c6-0820abe49a01.html",
@@ -1338,8 +1802,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-03-01",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/71719630-5f99-11d9-8cca-00000e2511c8.html",
@@ -1373,8 +1851,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-01-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/7b619d0a-6a63-11d9-858c-00000e2511c8.html",
@@ -1408,8 +1900,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-01-23",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/8819e1b6-942e-11d9-9d6e-00000e2511c8.html",
@@ -1443,8 +1949,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-03-14",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/8bf76918-81da-11d9-9e19-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
@@ -1477,8 +1997,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/98faaa4a-18f1-11da-8fe9-00000e2511c8.html",
@@ -1512,8 +2046,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-30",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/a2808f20-6b50-11d9-9357-00000e2511c8.html",
@@ -1547,8 +2095,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-01-23",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/b30a6d44-754f-11d9-9608-00000e2511c8.html",
@@ -1582,8 +2144,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-03",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/bccbfd84-4fcf-11d9-86b3-00000e2511c8.html",
@@ -1617,8 +2193,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2004-12-18",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/be6a50e0-7096-11d9-b572-00000e2511c8,dwp_uuid=d4f2ab60-c98e-11d7-81c6-0820abe49a01.html",
@@ -1651,8 +2241,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-01-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/c3e700f0-9b5b-11d9-815d-00000e2511c8.html",
@@ -1686,8 +2290,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-04-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/c527e41e-81ea-11d9-9e19-00000e2511c8.html",
@@ -1721,8 +2339,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/d40a7046-78ad-11d9-9961-00000e2511c8.html",
@@ -1756,8 +2388,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-02-08",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/d48aadf6-104c-11da-bd5c-00000e2511c8.html",
@@ -1791,8 +2437,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-20",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/defc002e-18f2-11da-8fe9-00000e2511c8.html",
@@ -1826,8 +2486,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-30",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/cms/s/e0be73a8-6c1b-11d9-94dc-00000e2511c8.html",
@@ -1861,8 +2535,22 @@
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
         "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
-        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs."
-      ]
+        "Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-01-23",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1051390406371",
@@ -1895,8 +2583,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2003-06-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://news.ft.com/world/europe",
@@ -1929,8 +2631,22 @@
       ],
       "notes": [
         "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
-        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone."
-      ]
+        "This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2004-11-13",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://rwkb.retail-week.com/",
@@ -1962,8 +2678,22 @@
         "brilliant rich data product"
       ],
       "notes": [
-        "Legacy Retail Week links may now require login, paywall, or archive fallback."
-      ]
+        "Legacy Retail Week links may now require login, paywall, or archive fallback.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-10-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.drapersonline.com",
@@ -1995,8 +2725,22 @@
         "Drapers"
       ],
       "notes": [
-        "Drapers profile and article URLs may have changed structure and usually need manual verification."
-      ]
+        "Drapers profile and article URLs may have changed structure and usually need manual verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-10-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.drapersonline.com/keely-stocker/140.bio",
@@ -2028,8 +2772,22 @@
         "Keely Stocker"
       ],
       "notes": [
-        "Drapers profile and article URLs may have changed structure and usually need manual verification."
-      ]
+        "Drapers profile and article URLs may have changed structure and usually need manual verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-10-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/0/9ab06e46-4c03-11dc-b67f-0000779fd2ac.html",
@@ -2061,8 +2819,22 @@
         "FT.com: Interactive Feature: Scramble for the Arctic"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-08-22",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/0/dc2b80b8-5824-11dc-8c65-0000779fd2ac.html",
@@ -2094,8 +2866,22 @@
         "FT.com: Google News redirects its wire search web traffic"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-09-01",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/11312522-7682-11db-8284-0000779e2340.html",
@@ -2127,8 +2913,22 @@
         "FT.com: Universal sues MySpace on copyright"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-11-18",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/4f547b54-2b38-11dc-85f9-000b5df10621.html",
@@ -2160,8 +2960,22 @@
         "FT.com: Murdoch turns to new page on Wapping"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-06",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/872ad7da-190e-11dc-a961-000b5df10621.html",
@@ -2193,8 +3007,22 @@
         "FT.com: Google warrants an inquiry"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-06-13",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/91268cf2-9d2b-11db-8ec6-0000779e2340.html",
@@ -2226,8 +3054,22 @@
         "FT: Defra ordered to disclose confidential advice to minister"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/95a4a1d0-298d-11dc-a530-000b5df10621.html",
@@ -2259,8 +3101,22 @@
         "FT.com: Al-Jazeera English channel lures US subscribers"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/97b20dc2-1cfa-11dc-9b58-000b5df10621.html",
@@ -2292,8 +3148,22 @@
         "FT.com: BBC plans foreign audience push"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-06-18",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/cms/s/f3428cd4-48fb-11dc-b326-0000779fd2ac.html",
@@ -2325,8 +3195,22 @@
         "FT.com: ISPs warn BBC over new iPlayer service"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-08-13",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.ft.com/interactive",
@@ -2358,8 +3242,22 @@
         "FT.com’s interactive desk"
       ],
       "notes": [
-        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification."
-      ]
+        "Legacy FT links may map to modern ft.com article URLs, but exact canonical targets usually need verification.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-10-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/?t=article&l=guardian_aims_big_guns_at_web",
@@ -2391,8 +3289,22 @@
         "*Guardian* will soon be launching *Comment is Free*"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-02-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/?t=article&l=no_logic_in_police",
@@ -2424,8 +3336,22 @@
         "response"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/?t=workingweek",
@@ -2457,8 +3383,22 @@
         "says"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-11-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/010805/journalists_could_scupper_london_terror_trials",
@@ -2490,8 +3430,22 @@
         "might not be able to get a fair trial in Britain"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-02",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/011205/guardian_in_exclusive_gervais_podcast_deal",
@@ -2523,8 +3477,22 @@
         "no reason why the *Guardian* should’t also broadcast video"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-12-15",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/020805/broadcasters_slammed_for_irresponsible_use_of_mobile_phone_pics",
@@ -2556,8 +3524,22 @@
         "condemned the use of amateur photographs by broadcasters"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-02",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/040107/news_of_the_worlds_online_editor_promoted",
@@ -2589,8 +3571,22 @@
         "Press Gazette: News of the World promotes Bill Akass"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-05",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/050107/more_complaints_over_big_brother_than_saddam_hanging",
@@ -2622,8 +3618,22 @@
         "Press Gazette: More complaints over Big Brother than Saddam hanging"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/051206/wilmington_buys_press_gazette_magazine_journalism_newspaper",
@@ -2655,8 +3665,22 @@
         "The announcement has finally been made"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-05",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/070207/belfast_telegraph_internet_tv",
@@ -2688,8 +3712,22 @@
         "not as reluctant about multimedia integration"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-03-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/070207/virtual_newsreader_miranda_fox",
@@ -2721,8 +3759,22 @@
         "“virtual newsreader”"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-02-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/070906/journalists_should_understand_long_tails",
@@ -2754,8 +3806,22 @@
         "insights into how journalists misunderstand blogging"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-02-03",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/071206/press_gazette_new_contacts",
@@ -2787,8 +3853,22 @@
         "moving the magazine out of Fleet Street"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/071206/uk_journalism_off_shoring_move_press_gazette_journalism_newspapers",
@@ -2820,8 +3900,22 @@
         "out in print today"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/080107/plymouth_herald_headcam_afghanistan",
@@ -2853,8 +3947,22 @@
         "Afghanistan"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/080307/guardian_web_2_0_investment",
@@ -2886,8 +3994,22 @@
         "*Guardian* will spend another £15m"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-03-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/090207/times_online_archives",
@@ -2919,8 +4041,22 @@
         "*Times* this year spent £10m"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-03-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/110805/freelance_takes_council",
@@ -2952,8 +4088,22 @@
         "judicial review over access to public records"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-12",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/110805/is_the_bbc_mad",
@@ -2985,8 +4135,22 @@
         "BBC is mad"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-12",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/120106/too_much_freedom_to_block_foi_requests_is_hampering_progress",
@@ -3018,8 +4182,22 @@
         "the first year of FOI in Britain"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-01-12",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/130207/news_international_associated_newspapers_london_lite_thelondonpaper",
@@ -3051,8 +4229,22 @@
         "Press Gazette: NI ‘irresponsible’ to increase print run of London freesheet"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-02-14",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/140705/tms_sends_journalists",
@@ -3084,8 +4276,22 @@
         "reports"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-07-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/180107/journalism_press_gazette_freedom_of_information_",
@@ -3117,8 +4323,22 @@
         "the Government’s scheme to change the FOIA fees regime"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/180107/video_verdict_on_london_freesheets",
@@ -3150,8 +4370,22 @@
         "video vox pops"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/190107/pcc_newspapers_regulation_meyer",
@@ -3183,8 +4417,22 @@
         "Press Gazette: PCC to regulate newspapers’ video content"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-20",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/201005/commisioner_swapped_with",
@@ -3216,8 +4464,22 @@
         "“complaints were 25 per cent higher than had been anticipated”"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-12-14",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/230107/paul_dacre_bbc_subsidariat_media_journalism_daily_mail_associated_newspapers",
@@ -3249,8 +4511,22 @@
         "Press Gazette"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-23",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/231106/web_of_dispute",
@@ -3282,8 +4558,22 @@
         "rubbished"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-30",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/241106/press_gazette_closes_40_years_magazines_journalism",
@@ -3315,8 +4605,22 @@
         "weeks"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-11-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/250107/journalism_press_gazette_freedom_of_information_",
@@ -3348,8 +4652,22 @@
         "*Press Gazette’s* campaign against the Government’s proposed changes to the Freedom of Information Act fees regime"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-03-03",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/250805/the_pm_is_in_barbados",
@@ -3381,8 +4699,22 @@
         "Press Gazette"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2005-08-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/261006/evening_herald_stateoftheart_camera",
@@ -3414,8 +4746,22 @@
         "Sierra Leone"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-19",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/270207/british_press_awards_2007_shortlists",
@@ -3447,8 +4793,22 @@
         "Press Gazette: British Press Awards shortlists announced"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-02-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/270706/media_sites_must_take_on_nightmare_bloggers",
@@ -3480,8 +4840,22 @@
         "Blogs’ biggest disruption will affect specialist magazines and specialist sections"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-02-03",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/article/280906/reporter_uses_redundancy_cheque_to_set_up_sports_site",
@@ -3513,8 +4887,22 @@
         "continued covering the same patch"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-17",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/02/28/mines-a-latte-mate/",
@@ -3546,8 +4934,22 @@
         "we enjoyed"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/03/09/do-msm-blogs-stack-up/",
@@ -3579,8 +4981,22 @@
         "once a *PG* contributor"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-11-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/04/10/tailoring-journalism-for-google-users/",
@@ -3612,8 +5028,22 @@
         "isn’t the only site doing this"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-17",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/04/27/trevor-kavanagh-non-blogger/",
@@ -3645,8 +5075,22 @@
         "so-called “blogs”"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/04/28/google-news-is-like-a-newstand/",
@@ -3678,8 +5122,22 @@
         "Google is the Internet’s newsstand"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-17",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/08/31/moving-to-fleet-street/",
@@ -3711,8 +5169,22 @@
         "move to Fleet Street just three months ago"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-07",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/09/01/whistleblowing-on-youtube/",
@@ -3744,8 +5216,22 @@
         "post your revelations on YouTube"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-01-04",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/11/01/what-press-gazettes-staff-will-do/",
@@ -3777,8 +5263,22 @@
         "guess our future careers"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-11-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/11/11/networked-journalism-distributed-foi-requests/",
@@ -3810,8 +5310,22 @@
         "predicted"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-11-29",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/11/20/google-news-facing-new-copyright-rows/",
@@ -3843,8 +5357,22 @@
         "the latest copyright row"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2006/11/24/press-gazette-is-no-more/",
@@ -3876,8 +5404,22 @@
         "move your professional blog"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-12-02",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/blog/2007/03/21/all-the-news-that-fit-to-twit/",
@@ -3909,8 +5451,22 @@
         "it’s about Twitter"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-03-21",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/dog/2006/02/27/protecting-confidential-sources-online/",
@@ -3942,8 +5498,22 @@
         "accidentally burned a confidential source with an information security blunder"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-02-27",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/dog/feed/",
@@ -3975,8 +5545,22 @@
         "here"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-04-08",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=37858&#038;c=1",
@@ -4008,8 +5592,22 @@
         "Press Gazette: Does your website know its RSS from its elbow?"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-06-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38001&#038;c=1",
@@ -4041,8 +5639,22 @@
         "Press Gazette: BBC reporter tours Turkey in social media experiment"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-06-22",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38012",
@@ -4074,8 +5686,22 @@
         "Press Gazette: Blimey O’Reilly: The web revenue threat is no myth"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-06-25",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38172",
@@ -4107,8 +5733,22 @@
         "Press Gazette: Being ‘local’ is anything but a simple formula"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38236&#038;c=1",
@@ -4140,8 +5780,22 @@
         "Press Gazette: Don’t strip newspapers to feed the internet"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-16",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38280&#038;c=1",
@@ -4173,8 +5827,22 @@
         "Press Gazette: Guardian investigators share BAE bribery exposé on the web"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-24",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38282&#038;c=1",
@@ -4206,8 +5874,22 @@
         "Press Gazette: Video clips: end of the roll for stills"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-26",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38340&#038;c=1",
@@ -4239,8 +5921,22 @@
         "Press Gazette: It’s no con about the internet – deal with it"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-07-30",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&#038;storycode=38431&#038;c=1",
@@ -4272,8 +5968,22 @@
         "Press Gazette: Trinity Mirror hints at more hyperlocal titles"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-08-09",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=7&storycode=40967",
@@ -4305,8 +6015,22 @@
         "Reuters’ Open Calais project"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2009-01-31",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?storyCode=33421&sectioncode=1",
@@ -4338,8 +6062,22 @@
         "isn’t the first"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2008-03-11",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?storycode=37998",
@@ -4371,8 +6109,22 @@
         "Similar results were found in audits"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-12-28",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/story.asp?storycode=39555",
@@ -4404,8 +6156,22 @@
         "excellent comparative study between print and online carbon emissions"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2007-12-28",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.pressgazette.co.uk/template/axegrinder",
@@ -4437,8 +6203,22 @@
         "Axegrinder"
       ],
       "notes": [
-        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement."
-      ]
+        "Legacy Press Gazette content often needs archive lookup or a modern Press Gazette search replacement.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2006-04-08",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.retail-week.com/careers/etail-power-list-2010/bringing-a-personal-touch-to-ecommerce/5019204.article",
@@ -4470,8 +6250,22 @@
         "why Amazon can send me an individually-targeted email"
       ],
       "notes": [
-        "Legacy Retail Week links may now require login, paywall, or archive fallback."
-      ]
+        "Legacy Retail Week links may now require login, paywall, or archive fallback.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-11-18",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.retail-week.com/home/video-primark-founder-arthur-ryan-collects-outstanding-achievement-award/5011104.article",
@@ -4503,8 +6297,22 @@
         "preoccupied"
       ],
       "notes": [
-        "Legacy Retail Week links may now require login, paywall, or archive fallback."
-      ]
+        "Legacy Retail Week links may now require login, paywall, or archive fallback.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-03-06",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     },
     {
       "url": "http://www.retail-week.com/retail-week-conference",
@@ -4536,8 +6344,22 @@
         "little"
       ],
       "notes": [
-        "Legacy Retail Week links may now require login, paywall, or archive fallback."
-      ]
+        "Legacy Retail Week links may now require login, paywall, or archive fallback.",
+        "Wayback lookup failed for at least one request."
+      ],
+      "reference_post_date": "2010-03-06",
+      "wayback": {
+        "status": "lookup_error",
+        "latest_capture": null,
+        "closest_to_post_date": null,
+        "candidate_url": null,
+        "candidate_basis": null,
+        "lookup_errors": [
+          "latest_capture_lookup_failed: TimeoutError: The read operation timed out",
+          "closest_to_post_date_lookup_failed: TimeoutError: The read operation timed out"
+        ]
+      },
+      "archive_candidate_url": null
     }
   ]
 }

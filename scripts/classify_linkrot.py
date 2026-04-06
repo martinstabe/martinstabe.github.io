@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import re
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit
@@ -22,6 +23,11 @@ TARGET_DOMAIN_HINTS = {
     "retail-week.com": "Legacy Retail Week links may now require login, paywall, or archive fallback.",
     "drapersonline.com": "Drapers profile and article URLs may have changed structure and usually need manual verification.",
 }
+
+NEWS_FT_CONTENT_RE = re.compile(
+    r"^http://news\.ft\.com/cms/s/(?P<id>[0-9a-f-]+)\.html$",
+    re.IGNORECASE,
+)
 
 
 def get_hostname(url: str) -> str:
@@ -43,12 +49,24 @@ def classify_entry(entry: dict[str, Any]) -> dict[str, Any]:
     decision = "manual-review"
     reason = ""
     review_priority = "medium"
+    replacement_url = None
 
-    if isinstance(status, int) and 200 <= status < 300:
+    news_ft_match = NEWS_FT_CONTENT_RE.match(entry["url"])
+    if news_ft_match:
+        content_id = news_ft_match.group("id").lower()
+        replacement_url = f"https://www.ft.com/content/{content_id}"
+        decision = "alive-but-redirected"
+        reason = (
+            "Applied explicit migration rule for legacy news.ft.com CMS URLs to modern "
+            f"ft.com content URLs: {replacement_url}."
+        )
+        review_priority = "low"
+    elif isinstance(status, int) and 200 <= status < 300:
         if final_url and final_url != entry["url"]:
             decision = "alive-but-redirected"
             reason = f"Live check succeeded and redirected to {final_url}."
             review_priority = "low"
+            replacement_url = final_url
         else:
             decision = "alive-canonical"
             reason = "Live check succeeded without an observed redirect."
@@ -61,6 +79,7 @@ def classify_entry(entry: dict[str, Any]) -> dict[str, Any]:
         decision = "alive-but-redirected"
         reason = f"Live check returned redirect status {status}; canonical destination should be reviewed."
         review_priority = "medium"
+        replacement_url = final_url
     elif error:
         decision = "manual-review"
         reason = f"Automated live check was inconclusive: {error}"
@@ -76,6 +95,8 @@ def classify_entry(entry: dict[str, Any]) -> dict[str, Any]:
         notes.append(hint)
     if hostname in {"news.ft.com", "blogs.ft.com", "ftalphaville.ft.com"}:
         notes.append("This hostname is legacy FT infrastructure, so a canonical modern FT destination is plausible but not inferable safely from the URL alone.")
+    if news_ft_match:
+        notes.append("Used the explicit user-provided news.ft.com to ft.com/content rewrite rule for CMS article URLs.")
     if hostname in {"blogs.pressgazette.co.uk", "discuss.pressgazette.co.uk"}:
         notes.append("This legacy Press Gazette subdomain likely needs archive-first review because the original site structure no longer looks current.")
     if entry.get("count", 0) >= 3:
@@ -88,7 +109,7 @@ def classify_entry(entry: dict[str, Any]) -> dict[str, Any]:
         "disposition": decision,
         "reason": reason,
         "review_priority": review_priority,
-        "replacement_url": None,
+        "replacement_url": replacement_url,
         "status": status,
         "final_url": final_url,
         "error": error,

@@ -37,6 +37,8 @@ The workflow should produce the following repo-local artifacts:
 - [`data/link_inventory_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_inventory_posts.json): the phase 1 inventory output containing both occurrence-level records and grouped unique-URL summaries for `_posts`.
 - [`data/link_check_report_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_check_report_posts.json): the phase 2 check output for `_posts`, written when the audit script is run with `--check`.
 - [`data/linkrot_decisions.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.json) or [`data/linkrot_decisions.csv`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.csv): one record per unique URL with the chosen disposition and replacement target if any.
+- [`scripts/classify_linkrot.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/classify_linkrot.py): phase 3 classifier for turning link-check results into remediation dispositions.
+- [`scripts/enrich_wayback.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/enrich_wayback.py): phase 4 enrichment step for querying archive.org and attaching Wayback candidate captures.
 - [`scripts/apply_linkrot_fixes.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/apply_linkrot_fixes.py): applies approved replacements back to `_posts`.
 - An updated [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json) after each repair batch.
 - An updated [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md) summarising completed batches and remaining manual-review work.
@@ -158,6 +160,8 @@ Classification should consider more than HTTP status. A URL should not be treate
 
 ## Phase 4: Enrich Dead And Suspicious Links With Wayback Data
 
+Status: implemented for the target-domain pilot.
+
 For URLs classified as dead or suspicious, query the Wayback Machine and record:
 
 - whether any capture exists
@@ -172,6 +176,31 @@ Default policy:
 Additional review aid:
 
 - also record the capture closest to the post date, because the newest capture may sometimes be a later redirect, placeholder, or unrelated takeover page
+
+Current implementation details:
+
+- Run phase 4 with `python3 scripts/enrich_wayback.py`.
+- For the target-domain pilot, the input decision log is [`data/linkrot_decisions_target_domains.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains.json).
+- The full pilot output is written to [`data/linkrot_decisions_target_domains_wayback.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains_wayback.json).
+- The script queries the Wayback availability API twice per URL:
+  - once for a latest-available capture candidate
+  - once for a capture closest to the earliest post date using that URL
+- The script records:
+  - `reference_post_date`
+  - `wayback.latest_capture`
+  - `wayback.closest_to_post_date`
+  - `wayback.candidate_url`
+  - `wayback.candidate_basis`
+  - `wayback.lookup_errors`
+  - `archive_candidate_url`
+- The enrichment step now runs in parallel and records lookup errors instead of aborting the whole batch.
+
+Current target-domain pilot output:
+
+- 131 target-domain decisions processed
+- 25 decisions with a generated Wayback candidate URL
+- 24 decisions with no Wayback capture found
+- 82 decisions with lookup errors during the pilot run and therefore still needing follow-up
 
 ## Phase 5: Apply Editorial Replacement Rules
 
