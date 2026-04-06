@@ -2,6 +2,8 @@
 title: 'Switzerland&#8217;s Schengen referendum'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/06/03/switzerlands-schengen-referendum/
 views:
   - 72
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Speaking of EU-related referendums, there&rsquo;s another one coming up on Sunday: Switzerland, which is not a member of the EU, will be [deciding whether to join the Schengen Agreement][1], the treaty which abolishes border controls within the continental EU countries.
 

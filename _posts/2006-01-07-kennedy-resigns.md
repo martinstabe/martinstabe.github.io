@@ -2,6 +2,8 @@
 title: Kennedy resigns
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2006/01/07/kennedy-resigns/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 **Charles Kennedy** [has resigned][1].
 

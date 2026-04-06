@@ -2,6 +2,8 @@
 title: European Parliament head excluded from Bush visit
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/02/19/european-parliament-head-excluded-from-bush-visit/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 During his visit to Brussels, President **George W. Bush** will be meeting the heads of only two of the three European Union institutions. 
 

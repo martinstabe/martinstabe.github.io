@@ -2,6 +2,8 @@
 title: Merkel wins for Social Democrats
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/18/merkel-wins-for-social-democrats/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 One of the odder results from the German election was that both party leaders will have [namesakes on the other side of the aisle][1].
 

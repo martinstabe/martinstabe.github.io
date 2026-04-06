@@ -2,6 +2,8 @@
 title: Manhattan air, deciduous of letterhead
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/09/11/manhattan-air-deciduous-of-letterhead/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 There is a line in **John M. Ford**&rsquo;s *[110 Stories][1]* that mentions the detail that most haunts me from that day they attacked my home town:
 

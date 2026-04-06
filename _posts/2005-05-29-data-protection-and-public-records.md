@@ -2,6 +2,8 @@
 title: Data protection and public records
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/05/29/data-protection-and-public-records/
 views:
   - 40
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The United States may still have a better Freedom of Information regime that most of Europe, but it is lagging behind on its counterpart, data protection for the senstive personal data that frequently lurks in public records. 
 

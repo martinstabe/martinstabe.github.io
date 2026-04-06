@@ -2,6 +2,8 @@
 title: Retail censorship
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/19/retail-censorship/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A couple of months ago, I ranted about the tendency of the Sussex University Students&#8217; Union to censor ideas they don&#8217;t like by banning their sale at union-owned shops. A favourite target while I was a member of that organisation was the lad-mag *FHM,* which the Union deemed to be in violation of its equal-opportunities policy because of its portrayal of women. That&#8217;s left-wing student puritanism. But nobody does this better than good old conservative puritans. 
 

@@ -2,6 +2,11 @@
 title: Some print recognition for the journalist-bloggers
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
+  - press-gazette
+  - wilmington-media
 permalink: /2007/02/08/some-print-recognition-for-the-journalist-bloggers/
 views:
   - 578
@@ -9,11 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
-  - Press Gazette
-  - Wilmington Media
 ---
 <div align="center">
   <img src="http://farm1.static.flickr.com/153/383584027_1bb81a7f4f.jpg" width="460" />

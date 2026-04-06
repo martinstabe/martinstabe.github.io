@@ -2,6 +2,8 @@
 title: Boycott Fondue!
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/21/boycott-fondue/
 views:
   - 50
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 According to the BBC, even Switzerland has <a href="http://news.bbc.co.uk/1/hi/world/europe/2868127.stm" target="_top">expressing a view</a> on the war:  
 

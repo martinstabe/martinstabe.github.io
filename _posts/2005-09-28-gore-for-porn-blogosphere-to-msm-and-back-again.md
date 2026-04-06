@@ -2,6 +2,10 @@
 title: 'Gore-for-porn: blogosphere to MSM and back again'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - iraq
+  - journalism
 permalink: /2005/09/28/gore-for-porn-blogosphere-to-msm-and-back-again/
 views:
   - 80
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Iraq
-  - Journalism
 ---
 The [&ldquo;pornography for war gore&rdquo; story][1] that is in the *[New York Times][2], [Guardian][3]* and the London *Metro* today is an excellent example of a story flowing between the blogosphere and mainstream news outlets.
 

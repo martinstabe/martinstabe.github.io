@@ -2,6 +2,8 @@
 title: Mapes fired over Rathergate
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/01/11/mapes-fired-over-rathergate/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 CBS&rsquo;s investigation into the forged exas Air National Guard documents story has been released ([PDF][1]). Producer **Mary Mapes** has been [fired][2] and three others have been asked for the resignation of four others over the Bush Texas Air National memo story.
 

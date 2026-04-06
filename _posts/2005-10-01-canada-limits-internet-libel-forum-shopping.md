@@ -2,6 +2,8 @@
 title: Canada limits Internet libel forum shopping
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/10/01/canada-limits-internet-libel-forum-shopping/
 views:
   - 280
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 One of the great unanswered questions of online media law is where one can be sued for libel or defamation.
 

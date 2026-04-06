@@ -2,6 +2,8 @@
 title: '&#8220;Eurabia&#8221; watch'
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/02/12/eurabia-watch/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 Just as the US administration seems to be trying to mend relations with Europe, a very unhelpful concept is about become increasingly prominant in informing some American conservatives&rsquo; views of Europe&rsquo;s role in the world.
 

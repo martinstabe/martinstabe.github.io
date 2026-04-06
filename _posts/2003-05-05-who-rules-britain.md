@@ -2,6 +2,8 @@
 title: Who rules Britain?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/05/who-rules-britain/
 views:
   - 1
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *Guardian* today had a <a href="http://politics.guardian.co.uk/interviews/story/0,11660,949698,00.html" target="_top">profile</a> of New Labour&#8217;s rising star, the 37-year-old schools minister, **David Miliband**. The story observes that  
 

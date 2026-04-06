@@ -2,6 +2,9 @@
 title: 'Where in Europe is the CIA &#8216;gulag&#8217;?'
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
+  - transatlantic-relations
 permalink: /2005/11/04/where-in-europe-is-the-cia-gulag/
 views:
   - 15
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
-  - Transatlantic Relations
 ---
 **UPDATED**
 

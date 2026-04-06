@@ -2,6 +2,8 @@
 title: Citizen journalism debate on Today
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/13/citizen-journalism-debate-on-today/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 The *Today* programme this morning featured a package about &ldquo;citizen journalism&rdquo; ([RealAudio][1]).
 

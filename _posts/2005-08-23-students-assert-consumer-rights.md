@@ -2,6 +2,8 @@
 title: Students assert consumer rights
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/23/students-assert-consumer-rights/
 views:
   - 52
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 An investigation by the *Times Higher Education Supplement* using the Freedom of Information Act has found that [students at British universities are whinging more than ever before][1].
 

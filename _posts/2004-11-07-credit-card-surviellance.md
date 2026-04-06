@@ -2,6 +2,8 @@
 title: Credit card surviellance
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2004/11/07/credit-card-surviellance/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 The *Washington Post* has an article about the [use of credit card data][1] to label customers as abusers of returns policies. The article provides another refutation of the &ldquo;the innocent have nothing to fear&#8221; argument for increased data surviellance:
 

@@ -2,6 +2,8 @@
 title: Pentagon received 10,000 FOI requests since 2001
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/11/24/pentagon-received-10000-foi-requests-since-2001/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The [Pentagon has received more than 10,000 requests for information under the US Freedom of Information Act since 2000][1], but relatively few came from the news media, according to FOI logs released to a blogger.
 

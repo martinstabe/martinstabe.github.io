@@ -2,6 +2,10 @@
 title: UK media blackout on terror suspects
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - london
+  - uk
 permalink: /2005/08/18/uk-media-blackout-on-terror-suspects/
 views:
   - 56
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - London
-  - UK
 ---
 American newspapers are waking up to the fact that the Contempt of Court Act is effectivly [gagging the British media][1]&rsquo;s reporting of the investigations into suspected would-be suicide bombers.
 

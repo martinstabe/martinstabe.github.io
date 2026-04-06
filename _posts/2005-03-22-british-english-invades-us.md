@@ -2,6 +2,9 @@
 title: British English invades US
 author: Martin Stabe
 layout: post
+tags:
+  - uk
+  - usa
 permalink: /2005/03/22/british-english-invades-us/
 views:
   - 34
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
-  - USA
 ---
 How&rsquo;s this for reversed global cultural flows? Via [Political Animal][1], I see that at least one American journalism professor &mdash; **Timothy Kenny** of the University of Connecticut &mdash; is upset about the [invasion of Britspeak][2] that is apparently occuring in some segments of the U.S. media.
 

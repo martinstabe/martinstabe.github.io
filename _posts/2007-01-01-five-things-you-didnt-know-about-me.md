@@ -2,6 +2,9 @@
 title: 'Five Things You Didn&#8217;t Know About Me'
 author: Martin Stabe
 layout: post
+tags:
+  - announcements
+  - miscellanea
 permalink: /2007/01/01/five-things-you-didnt-know-about-me/
 views:
   - 157
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Announcements
-  - Miscellanea
 ---
 I watched with trepidation as [the &#8220;five things&#8221; meme][1] wound its way closer and closer towards me — It was really only a matter of time. And of course while I was away for the holidays, both [Bryan Murley][2] and [Graham Holliday][3] tagged me.
 

@@ -2,6 +2,8 @@
 title: Paramilitaries threaten press freedom
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/10/23/paramilitaries-threaten-press-freedom/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 The UK is ranked only 24th on in Reporters Sans Frontiers&rsquo; [annual Press Freedom Index][1] league table. According to the RSF press release ([PDF][2]), the apparently poor showing &ldquo;is due to the situation in Northern Ireland, where journalists continue to be threatened by paramilitary groups&rdquo;.
 

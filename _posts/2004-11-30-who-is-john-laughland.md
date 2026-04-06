@@ -2,6 +2,8 @@
 title: Who is John Laughland?
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/11/30/who-is-john-laughland/
 views:
   - 69
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Today&#8217;s *Guardian* column by **David Aaronovitch** begins [connecting the dots][1] on **John Laughland** and the **British Helsinki Human Rights Group**. 
 

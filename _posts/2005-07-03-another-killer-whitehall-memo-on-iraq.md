@@ -2,6 +2,8 @@
 title: Another killer Whitehall memo on Iraq?
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/07/03/another-killer-whitehall-memo-on-iraq/
 views:
   - 177
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 It&rsquo;s been reported that **Donald Rumsfeld** started [mulling an attack on Iraq on the afternoon of 11 September 2001][1].
 

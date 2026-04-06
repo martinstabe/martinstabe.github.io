@@ -2,6 +2,8 @@
 title: News values
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/05/18/news-values/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 If you live in Britain, you couldn&rsquo;t have missed it, because it was on all the front pages, including the *Guardian:* cheese pop singer [**Kylie Minogue** has breast cancer][1]. 
 

@@ -2,6 +2,8 @@
 title: Minister downplays growing FOIA appeals backlog
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/12/14/minister-downplays-growing-foia-appeals-backlog/
 views:
   - 51
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 In September, the *Times* reported that the Information Commissioner&rsquo;s Office had a [backlog of more than 1,200 unresolved appeals][1] to refused Freedom of Information Act requests.
 

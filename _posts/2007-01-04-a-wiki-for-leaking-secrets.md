@@ -2,6 +2,10 @@
 title: A wiki for leaking secrets
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - wikis
+  - youtube
 permalink: /2007/01/04/a-wiki-for-leaking-secrets/
 views:
   - 471
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - wikis
-  - YouTube
 ---
 The discerning modern whistleblower knows that making a little public-interest disclosure no longer requires cloak-and-dagger games with journalists — these days, you can just [post your revelations on YouTube][1].
 

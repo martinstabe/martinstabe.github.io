@@ -2,6 +2,8 @@
 title: Unilateralism explained
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/12/unilateralism-explained/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Brits? [We don&#8217;t need no Brits][1], says **Donald Rumsfeld.**That could make the [comparative coalition studies][2], 1990-2003, currently active over at **Daily Kos** even more interesting.
 

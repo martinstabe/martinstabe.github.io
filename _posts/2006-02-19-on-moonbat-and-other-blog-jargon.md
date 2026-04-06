@@ -2,6 +2,8 @@
 title: 'On &#8220;moonbat&#8221; and other blog jargon'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2006/02/19/on-moonbat-and-other-blog-jargon/
 views:
   - 49
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Columnist and language maven **William Safire** has a fun piece on [blog jargon][1] in the *New York Times Magazine.* 
 

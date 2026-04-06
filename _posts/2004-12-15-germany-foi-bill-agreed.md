@@ -2,6 +2,8 @@
 title: Germany FOI bill agreed
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2004/12/15/germany-foi-bill-agreed/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The ruling Social Democrat-Green coalition in Germany is forging ahead with its [freedom of information bill][1], despite objections from the Government.
 

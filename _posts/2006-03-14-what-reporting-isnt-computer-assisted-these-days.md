@@ -2,6 +2,10 @@
 title: 'What reporting isn&#8217;t &#8220;computer-assisted&#8221; these days?'
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
+  - journalism
+  - miscellanea
 permalink: /2006/03/14/what-reporting-isnt-computer-assisted-these-days/
 views:
   - 49
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
-  - Journalism
-  - Miscellanea
 ---
 Amy Gahran at the Poynter Institute says [&#8220;computer-assisted reporting&#8221; (CAR) is an anachronistic term][1]:
 

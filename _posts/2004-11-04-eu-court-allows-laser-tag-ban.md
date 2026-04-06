@@ -2,6 +2,8 @@
 title: EU Court allows laser tag ban
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/11/04/eu-court-allows-laser-tag-ban/
 views:
   - 31
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 The Eurosceptic British press is unlikely to pounce on the European Court of Justice&rsquo;s [decision][1] last month that EU law does not prevent national governments from [banning &#8220;laser tag&#8221;][2]-style games which &#8220;simulate homocide&#8221;.
 

@@ -2,6 +2,10 @@
 title: Feds frustrate New Orleans pollution queries
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - journalism
+  - katrina
 permalink: /2005/09/12/feds-frustrate-new-orleans-pollution-queries/
 views:
   - 12
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Journalism
-  - Katrina
 ---
 According to a press release issued by the [Society of Enviornmental Journalists][1], the [widely-lauded][2] New Orleans *Times-Picayune* has been frustrated in using the Federal Freedom of Information Act to obtain important information about pollution in the flooded city:
 

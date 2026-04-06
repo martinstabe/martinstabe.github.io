@@ -2,6 +2,8 @@
 title: Make your own Tory posters
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/04/12/make-your-own-tory-posters/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 Now you can make your own Conservative Party posters without committing criminal damage by using [this handy tool][1].
 

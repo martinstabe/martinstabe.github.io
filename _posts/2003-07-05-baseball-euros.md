@@ -2,6 +2,8 @@
 title: Baseball Euros
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/07/05/baseball-euros/
 views:
   - 33
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Looks like I&#8217;ll be going over to Amsterdam next week to watch Great Britain play Germany and the Netherlands play Sweden in the [European baseball championships][1]. The tournament is the biggest date in the European baseball calender. The stakes are high this year: the top six (or seven, if Greece qualify) teams will go on to a qualifying tournament for the 2004 Athens Olympics. 
 

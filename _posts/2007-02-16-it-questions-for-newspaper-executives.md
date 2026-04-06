@@ -2,6 +2,10 @@
 title: IT questions for newspaper executives
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - online
+  - video
 permalink: /2007/02/16/it-questions-for-newspaper-executives/
 views:
   - 36
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Online
-  - Video
 ---
 [Robb Montgomery][1] has left [a great comment][2] on a post over at Andy Dickinson&#8217;s place:
 

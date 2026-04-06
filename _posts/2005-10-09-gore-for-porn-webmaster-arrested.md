@@ -2,6 +2,8 @@
 title: Gore-for-porn webmaster arrested
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/10/09/gore-for-porn-webmaster-arrested/
 views:
   - 36
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 The man behind [a website that invited soldiers to post grisly photographs from the warzones][1] in Iraq and Afghanistan in exchange for access to pornography [has been arrested][2] in Florida.
 

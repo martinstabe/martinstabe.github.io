@@ -2,6 +2,8 @@
 title: Who may vote in an EU constitution referendum?
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/14/who-may-vote-in-an-eu-constitution-referendum/
 views:
   - 46
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Expatriates from EU states living in Spain are expected to demonstrate later this month in protest of being barred from voting Spain&rsquo;s referendum on the EU constitution, *EuropeanVoice* [reports][1] (subscription required).
 

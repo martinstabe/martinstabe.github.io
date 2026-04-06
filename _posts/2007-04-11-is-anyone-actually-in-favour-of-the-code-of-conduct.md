@@ -2,6 +2,10 @@
 title: Is anyone actually in favour of the code of conduct?
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - blogging
+  - blogs
 permalink: /2007/04/11/is-anyone-actually-in-favour-of-the-code-of-conduct/
 views:
   - 264
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - BBC
-  - blogging
-  - Blogs
 ---
 I&#8217;ve just had a call from someone on the BBC&#8217;s *Today* programme, who is looking for someone to come on the radio tomorrow morning to comment on [Tim O&#8217;Reilly&#8217;s proposed blogger Code of Conduct][1].
 

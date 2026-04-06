@@ -2,6 +2,8 @@
 title: 'EU a &#8220;Papist Plot&#8221;?'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/03/16/eu-a-papist-plot/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Tory [PPC position available in Slough][1]. Wingnuts need not apply:
 

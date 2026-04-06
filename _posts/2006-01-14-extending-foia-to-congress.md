@@ -2,6 +2,11 @@
 title: Extending FOIA to Congress
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - freedom-of-information
+  - uk
+  - usa
 permalink: /2006/01/14/extending-foia-to-congress/
 views:
   - 60
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Freedom of Information
-  - UK
-  - USA
 ---
 A number of American A-list [bloggers are calling for the coverage of the US Freedom of Information Act to be extended][1] so that it Congress itself is subject to citizens&rsquo; requests for information.
 

@@ -2,6 +2,8 @@
 title: 'Bernard-Henri L&eacute;vy in America'
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/04/12/bernard-henri-lvy-in-america/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 Celebrating the 200th anniversary of the birth of **Alexis de Tocqueville**, the *The Atlantic Monthly* has commissioned another Frenchman, **[Bernard-Henri L&eacute;vy][1]**, to travel around the United States to interpret the country through foreign eyes.
 

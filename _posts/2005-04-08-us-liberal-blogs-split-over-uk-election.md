@@ -2,6 +2,8 @@
 title: US liberal blogs split over UK election
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/04/08/us-liberal-blogs-split-over-uk-election/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 The American blogosphere is beginning to notice the UK election. 
 

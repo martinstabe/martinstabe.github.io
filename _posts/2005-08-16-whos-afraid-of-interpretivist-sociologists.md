@@ -2,6 +2,8 @@
 title: 'Who&#8217;s afraid of interpretivist sociologists?'
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/08/16/whos-afraid-of-interpretivist-sociologists/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 As part of this summer&rsquo;s installment of the annual media ritual of bashing Britain&rsquo;s system of secondary-school qualifications, the *Guardian* has sent 23-year-old journalist (and maths graduate) **Tom Whipple** undercover to take the AS-Level sociology exam. Next week, the paper will reveal how he did.
 

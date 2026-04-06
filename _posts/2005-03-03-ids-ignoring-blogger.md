@@ -2,6 +2,8 @@
 title: IDS ignoring blogger
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/03/03/ids-ignoring-blogger/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 How strange. For someone [apparently so enamoured of the blogosphere][1], former Tory leader **Iain Duncan Smith** seems [uninterested in actually engaging with bloggers][2].
 

@@ -2,6 +2,9 @@
 title: British investigative journalism lags behind Europe
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
+  - journalism
 permalink: /2005/10/06/british-investigative-journalism-lags-behind-europe/
 views:
   - 37
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
-  - Journalism
 ---
 [Investigative journalism in Britain is lagging behind other European countries][1], a new study by the [Dutch-Flemish Association of Investigative Journalists][2] (VVOJ) suggests.
 

@@ -2,6 +2,10 @@
 title: Watching watchers watching the watchers
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
+  - miscellanea
 permalink: /2006/02/09/watching-watchers-watching-the-watchers/
 views:
   - 36
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
-  - Miscellanea
 ---
 Well, well, well. It seems my blog has been been adopted &mdash; twice no less &mdash; by two journalism students in at the University of Central Lancashire.
 

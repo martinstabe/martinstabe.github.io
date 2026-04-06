@@ -2,6 +2,9 @@
 title: Brian Flynn, imbiber of own medicine
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - the-sun
 permalink: /2004/06/01/brian-flynn-imbiber-of-own-medicine/
 views:
   - 8
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - The Sun
 ---
 As Alexandra Polier, who was subject of false rumours of having had an affair with John Kerry, tells it, the *Sun* reporter who first picked up her name from the Drudge Report sure [can&#8217;t take it as well as he dishes it out][1]:
 

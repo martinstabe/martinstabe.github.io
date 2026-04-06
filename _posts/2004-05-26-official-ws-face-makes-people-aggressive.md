@@ -2,6 +2,8 @@
 title: 'Official: W&rsquo;s face makes people aggressive'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/05/26/official-ws-face-makes-people-aggressive/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The German newsmagazine *Der Spiegel* reports that a study to be presented at a conference of the American Psychological Society in Chicago tomorrow will reveal that [the sight of George W. Bush&#8217;s face provokes aggression][1] &#8212; and not only among his political opponants.
 

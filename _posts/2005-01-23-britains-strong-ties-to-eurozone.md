@@ -2,6 +2,8 @@
 title: 'Britain&rsquo;s strong ties to Eurozone'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/23/britains-strong-ties-to-eurozone/
 views:
   - 3
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Even the European Central bank was surprised by [new figures showing how deep Britain&rsquo;s economic ties to the 12-nation Eurozone][1] are. **Ralph Atkins** of the *FT* reports:
 

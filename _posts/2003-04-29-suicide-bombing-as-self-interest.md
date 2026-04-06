@@ -2,6 +2,8 @@
 title: Suicide bombing as self-interest?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/29/suicide-bombing-as-self-interest/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 This was buried on page 14 of the *Guardian* Higher Education section. **Chris Arnot** [ reports][1] on a paper by a Warwick University professor, **Mark Harrison**, that is attracting attention of social scientists studying the phenomenon of suicide bombing. What&#8217;s unusual about Harrison is that he is &#8220;an economist, not a psychologist nor a sociologist of religion.&#8221; Harrison&#8217;s brief essay, &#8220;The Logic of Suicide Terrorism&#8221; (<a href="http://www2.warwick.ac.uk/fac/soc/economics/staff/faculty/harrison/comment/logic.pdf" target="_blank">PDF</a>), applies the preoccupations of his discipline to this problem in a rather interesting way: he argues that suicide bombers act out of rational self-interest. 
 

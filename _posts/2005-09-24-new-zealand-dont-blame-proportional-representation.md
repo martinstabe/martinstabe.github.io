@@ -2,6 +2,8 @@
 title: 'New Zealand: don&#8217;t blame proportional representation'
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/24/new-zealand-dont-blame-proportional-representation/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 Via *Southerly Buster,* I see that some Australians are looking at the [outcome of the New Zealand election][1] and are making anti-PR comments that we are hearing in Britain about Germany.
 

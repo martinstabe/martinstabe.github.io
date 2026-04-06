@@ -2,6 +2,10 @@
 title: The great political blog flame war
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - comments
+  - journalism
 permalink: /2007/01/17/the-great-political-blog-flame-war/
 views:
   - 58
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - comments
-  - Journalism
 ---
 The [conflagration][1] currently consuming the British political blogsphere:
 

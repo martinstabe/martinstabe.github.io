@@ -2,6 +2,8 @@
 title: Two interviews
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/25/two-interviews/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 There were two interesting interviews on *Today,* the BBC&#8217;s morning current affairs radio program, this week. 
 

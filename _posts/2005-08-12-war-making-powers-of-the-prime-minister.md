@@ -2,6 +2,8 @@
 title: War-making powers of the Prime Minister
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/08/12/war-making-powers-of-the-prime-minister/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 If there&rsquo;s a good reason to scrap the Monarchy in Britain, it has nothing to do with the cost or symbolic arguments that often are raised.
 

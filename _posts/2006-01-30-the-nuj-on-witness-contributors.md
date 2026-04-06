@@ -2,6 +2,10 @@
 title: 'The NUJ on &#8220;witness contributors&#8221;'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - media-platforms
+  - uk
 permalink: /2006/01/30/the-nuj-on-witness-contributors/
 views:
   - 54
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Media Platforms
-  - UK
 ---
 The National Union of Journalists has launched [it&rsquo;s Code of Conduct for &ldquo;witness contributors&rdquo;][1], as the NUJ likes to call &ldquo;citizen journalists&rdquo;. 
 

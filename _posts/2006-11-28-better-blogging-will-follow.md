@@ -2,6 +2,8 @@
 title: Better blogging will follow
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2006/11/28/better-blogging-will-follow/
 views:
   - 43
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 [Several][1] [people][2] have noted that all I seem to be posting here are [my del.icio.us links][3].
 

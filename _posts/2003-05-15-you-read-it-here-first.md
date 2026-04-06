@@ -2,6 +2,8 @@
 title: You read it here first
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/15/you-read-it-here-first/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A week after I <a href="http://stabe.blogspot.com/2003_05_04_stabe_archive.html" target="_top">mentioned</> it, the <i>Guardian</i> has <a href="http://society.guardian.co.uk/societyguardian/story/0,7843,954947,00.html" target="_top">noticed</a> that the DTI has stopped collecting the &#8220;home accident surveillance system&#8221; statistics, which track how Brits hurt themselves. This is not only a major loss for journalists seeking cheap gags, but has dismayed people who deal with the prevention of accidents:<br /> 
 

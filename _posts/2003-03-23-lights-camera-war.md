@@ -2,6 +2,8 @@
 title: Lights, Camera, War!
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/23/lights-camera-war/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Somewhat hypocritically, given the <a href="http://www.matthewyglesias.com/archives/002780.html#002780"target="_top">screaming banner headlines</a> that it has been using since the start of hostilities, the *New York Times* notes the breathless cheerleading fashion in which this war is being reported in the mass media:  
 

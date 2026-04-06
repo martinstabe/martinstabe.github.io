@@ -2,6 +2,8 @@
 title: Academics use FOIA
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/01/15/academics-use-foia/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The *Guardian* reports on h[ow academics may be able to use the Freedom of Information Act][1]:
 

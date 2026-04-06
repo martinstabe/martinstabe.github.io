@@ -2,6 +2,8 @@
 title: Bend it like who?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/16/bend-it-like-who/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A future <a href="http://www.google.com/press/zeitgeist.html" target="_top">Google Zeitgeist</a> report will surely vindicate my otherwise baseless assumption that the **David Beckham** issue is the biggest sports story in the universe right now. Even the American *New York Times* has <a href="http://www.nytimes.com/2003/06/16/opinion/16MON3.html" target="_top">a view on Becks</a> &#8212; much to the chagrin of some of its more <a href="http://www.matthewyglesias.com/archives/000826.html#000826" target="_top">Yankocentric readers</a>. 
 

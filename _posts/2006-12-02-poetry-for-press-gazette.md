@@ -2,6 +2,9 @@
 title: Poetry for Press Gazette
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - press-gazette
 permalink: /2006/12/02/poetry-for-press-gazette/
 views:
   - 29
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Press Gazette
 ---
 Some bereaved bloggers are writing premature poetry for our dear departed magazine.
 

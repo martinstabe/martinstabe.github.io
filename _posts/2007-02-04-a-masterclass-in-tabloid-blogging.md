@@ -2,6 +2,11 @@
 title: A masterclass in tabloid blogging
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - evening-standard
+  - journalism
+  - mirror-co-uk
 permalink: /2007/02/04/a-masterclass-in-tabloid-blogging/
 views:
   - 41
@@ -9,11 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Evening Standard
-  - Journalism
-  - Mirror.co.uk
 ---
 *Mirror.co.uk* editor Steve Purcell had a blog post on Friday that could be read as [a masterclass in tabloid blogging][1].
 

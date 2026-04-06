@@ -2,6 +2,8 @@
 title: More openness in Ireland, less in Britain
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/10/26/more-openness-in-ireland-less-in-britain/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 While Ireland adds new public sector organisation to its list of bodies covered by Freedom of Information rules, Britain is allowing its list to erode.
 

@@ -2,6 +2,8 @@
 title: Blogosphere reality check
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/05/blogosphere-reality-check/
 views:
   - 45
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 A [new poll conducted for CNN][1] and *USA Today* by Gallup confirms the blog readership figures found by [Pew&rsquo;s research][2] a few months back. CNN gives it a decidedly negative spin:
 

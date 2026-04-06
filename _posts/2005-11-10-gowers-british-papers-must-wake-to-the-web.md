@@ -2,6 +2,8 @@
 title: 'Gowers: British papers must wake to the web'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/11/10/gowers-british-papers-must-wake-to-the-web/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Former *FT* editor **Andrew Gowers** has a new gig as a columnist for the London *Evening Standard.*
 

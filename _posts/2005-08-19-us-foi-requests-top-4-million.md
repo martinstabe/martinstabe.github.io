@@ -2,6 +2,8 @@
 title: US FOI requests top 4 million
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/19/us-foi-requests-top-4-million/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Most requests to federal agencies under the American Freedom of Information Act are for personal information, a new study shows.
 

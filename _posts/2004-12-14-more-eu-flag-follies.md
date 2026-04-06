@@ -2,6 +2,8 @@
 title: More EU flag follies
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/12/14/more-eu-flag-follies/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 On Friday, the *Worcestershire Evening News* ran the [following story][1]:
 

@@ -2,6 +2,8 @@
 title: CIA flights landed on Med islands
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/11/21/cia-flights-landed-on-med-islands/
 views:
   - 60
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 With (most) [European countries increasingly concerned about their airspace being used by CIA flights][1] linked to &ldquo;extraordinary rendition&rdquo; operations, newspapers in [Malta][2] and [Cyprus][3] today noted that some of the CIA flights made stopovers in those island nations.
 

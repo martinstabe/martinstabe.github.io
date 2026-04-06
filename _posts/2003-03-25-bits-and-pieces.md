@@ -2,6 +2,8 @@
 title: Bits and pieces
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/25/bits-and-pieces/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Today&#8217;s random reads: 
 

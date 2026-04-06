@@ -2,6 +2,8 @@
 title: Why Britain needs a Senate
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/06/why-britain-needs-a-senate/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Yesterday, the House of Lords apparently had nothing better to do than hold a lengthy, extraordinarily silly debate about the best way to open a tin of corned beef. 
 

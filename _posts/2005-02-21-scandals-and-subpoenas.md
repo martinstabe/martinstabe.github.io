@@ -2,6 +2,8 @@
 title: Scandals and subpoenas
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/02/21/scandals-and-subpoenas/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 **Hendrik Hertzberg** makes an [important observation][1] in the *New Yorker:*
 

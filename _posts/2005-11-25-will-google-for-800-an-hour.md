@@ -2,6 +2,8 @@
 title: 'Will Google for &pound;800 an hour'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/11/25/will-google-for-800-an-hour/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 *Guardian* editor **Alan Rusbridger** [says][1]:
 

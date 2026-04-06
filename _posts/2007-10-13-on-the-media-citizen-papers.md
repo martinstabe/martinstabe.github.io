@@ -2,6 +2,15 @@
 title: On the (Citizen) Media
 author: Martin Stabe
 layout: post
+tags:
+  - assignmentzero
+  - bbc
+  - crowdsourcing
+  - journalism
+  - links
+  - netj
+  - networked-journalism
+  - topix
 permalink: /2007/10/13/on-the-media-citizen-papers/
 ratings_users:
   - 0
@@ -15,15 +24,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - assignmentzero
-  - BBC
-  - crowdsourcing
-  - Journalism
-  - links
-  - netj
-  - Networked Journalism
-  - topix
 ---
 NPR&#8217;s *On the Media* has an excellent summary of the state of the art in networked journalism in the form of its [report from last week&#8217;s Networked Journalism summit][1] in New York.
 

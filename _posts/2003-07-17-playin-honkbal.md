@@ -2,6 +2,8 @@
 title: 'Playin&rsquo; honkbal'
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
 permalink: /2003/07/17/playin-honkbal/
 views:
   - 68
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
 ---
 I got back from Amsterdam late last night. I had been watching a couple of games of the [European Baseball Championships][1]. 
 

@@ -2,6 +2,8 @@
 title: Swearing on the Koran
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/07/20/swearing-on-the-koran/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 In a US court room, [can witnesses chose to swear on the Koran rather than the Bible?][1]
 

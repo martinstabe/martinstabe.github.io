@@ -2,6 +2,8 @@
 title: Zimbardo on Abu Ghraib
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/05/05/zimbardo-on-abu-ghraib/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 *Der Spiegel* [has obtained][1] a letter that psychologist Philip Zimbardo &#8212; he of the infamous 1971 [Stanford Prison Experiment][2] &#8212; has written a letter to members of the Society for Personality and Social Psychology. In the letter, Zimbardo blames the US goverment for the abuse of Iraqi prisoners at Abu Ghraib. 
 

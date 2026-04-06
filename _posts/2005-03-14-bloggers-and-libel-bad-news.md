@@ -2,6 +2,8 @@
 title: 'Bloggers and libel: bad news'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/14/bloggers-and-libel-bad-news/
 views:
   - 53
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Whether bloggers are journalists may be open to debate, and may have interesting and philosophically-important [ramifications in the Apple Computer cases][1], but it is clear that traditional media law applies to bloggers in some way.
 

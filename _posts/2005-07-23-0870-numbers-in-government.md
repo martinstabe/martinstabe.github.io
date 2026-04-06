@@ -2,6 +2,8 @@
 title: 0870 numbers in government
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/07/23/0870-numbers-in-government/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 A *Daily Telegraph* investigation today finds that &ldquo;Government agencies are making millions of pounds every year&rdquo; by [using expensive 0870 telephone numbers][1].
 

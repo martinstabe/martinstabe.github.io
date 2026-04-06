@@ -2,6 +2,8 @@
 title: Lib Dem fundraiser in Washington
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/04/20/lib-dem-fundraiser-in-washington/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 *MyDD* reports on a [Liberal Democrat &ldquo;war chest fundraising dinner&ldquo;][1] &mdash; in Washington DC. **Jerome Armstrong** says he would have attended if he had been in town:
 

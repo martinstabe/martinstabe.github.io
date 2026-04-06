@@ -2,6 +2,9 @@
 title: 'Censored parts of Pentagon&#8217;s Calipari report revealed'
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
+  - transatlantic-relations
 permalink: /2005/05/01/censored-parts-of-pentagons-calipari-report-revealed/
 views:
   - 27
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
-  - Transatlantic Relations
 ---
 Censored portions of a Pentagon report of the investigation into the circumstances under which U.S. troops shot and killed Italian agent **Nicola Calipari** at a checkpoint in Iraq have been uncovered by readers of an Italian newspaper.
 

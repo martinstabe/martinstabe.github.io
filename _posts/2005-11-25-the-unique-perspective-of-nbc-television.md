@@ -2,6 +2,9 @@
 title: The unique perspective of (NBC) television
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - sociology
 permalink: /2005/11/25/the-unique-perspective-of-nbc-television/
 views:
   - 39
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Sociology
 ---
 One of the classic texts of the much-derided discipline of media studies is **Kurt Lang** and **Gladys Lang**’s 1953 study of how the selective reporting by a television camera crew distorted viewers’s perception of a parade.
 

@@ -2,6 +2,8 @@
 title: Quirky commas
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/12/16/quirky-commas/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 I&#8217;m glad to hear that the House of Lords is so concerned [misplaced apostophes][1]. I&#8217;m even more delighted that the Parliamentary anachonism has a member called &#8220;Lord Quirk&#8221;.
 

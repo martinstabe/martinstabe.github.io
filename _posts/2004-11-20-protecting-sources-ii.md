@@ -2,6 +2,8 @@
 title: Protecting Sources II
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/11/20/protecting-sources-ii/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 In response to the string of recent court cases in which journalists have been compelled to reveal their sources &mdash; including the [Valerie Plame affair][1] and the [**Jim Taricani** case in Rhode Island][2] &mdash; Senator **Christopher Dodd** yesterday introduced a bill which would create a <a href=""http://www.editorandpublisher.com/eandp/news/article\_display.jsp?vnu\_content_id=1000724169">federal shield law for journalists</a>.
 

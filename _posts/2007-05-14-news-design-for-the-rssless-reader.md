@@ -2,6 +2,8 @@
 title: News design for the RSSless reader
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2007/05/14/news-design-for-the-rssless-reader/
 views:
   - 71
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 *Guardian Unlimited* has in the past week [drawn a teensy bit of criticism][1] from its readers over the redesign its new front page. [Responding to the feedback][2] today, the site&#8217;s editor, Emily Bell, noted a conversation she had with Jeff Jarvis about the allegedly declining importance of a web site&#8217;s front page.
 

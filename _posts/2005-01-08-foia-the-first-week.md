@@ -2,6 +2,8 @@
 title: 'FOIA: The first week'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/01/08/foia-the-first-week/
 views:
   - 2
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The British Freedom of Information Act has now been in force for a week. What has it revealed so far?
 

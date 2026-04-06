@@ -2,6 +2,8 @@
 title: 'Inanities <i>du jour</i>'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/20/inanities-du-jour/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Watch this space for today&#8217;s non-war-related signs that all is not well in the world. 
 

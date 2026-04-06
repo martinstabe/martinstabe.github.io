@@ -2,6 +2,8 @@
 title: Martial Musical Mayhem
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/11/martial-musical-mayhem/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 &#8230;and some other stuff: 
 

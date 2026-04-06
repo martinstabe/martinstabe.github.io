@@ -2,6 +2,13 @@
 title: Canada flexes Arctic muscles
 author: Martin Stabe
 layout: post
+tags:
+  - canada
+  - denmark
+  - globalization
+  - politics
+  - transatlantic-relations
+  - usa
 permalink: /2005/08/29/canada-flexes-arctic-muscles/
 views:
   - 132
@@ -9,13 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Canada
-  - Denmark
-  - Globalization
-  - Politics
-  - Transatlantic Relations
-  - USA
 ---
 For those who have missed it, the NATO allies [Canada and Denmark are in a border spat][1] over a tiny, remote island off Greenland north of the Arctic Circle.
 

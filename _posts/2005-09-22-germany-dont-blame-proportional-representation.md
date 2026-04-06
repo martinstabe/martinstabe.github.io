@@ -2,6 +2,8 @@
 title: 'Germany: don&#8217;t blame proportional representation'
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/22/germany-dont-blame-proportional-representation/
 views:
   - 58
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 I&rsquo;m with **Jarndyce**: [it makes no sense to use the situation in Germany as an argument against proportional representation][1] in Britain.
 

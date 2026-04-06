@@ -2,6 +2,8 @@
 title: Baseball Euros II
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
 permalink: /2003/07/12/baseball-euros-ii/
 views:
   - 40
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Baseball
 ---
 On day 1 of the baseball Euros yesterday, Great Britain lost to Russia, 4-1. Today they play Italy. Some more European baseball stories: 
 

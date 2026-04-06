@@ -2,6 +2,8 @@
 title: '<em>Today&rsquo;s</em> FOIA news'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2004/12/31/todays-foia-news/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The *Today* programme had some segments on the Freedom of Information Act this morning, including the implications for businesss ([RealAudio][1]) and an interview with Information Commissioner **Richard Thomas** ([RealAudio][2]), te official charged with enforcing the new openness law.
 

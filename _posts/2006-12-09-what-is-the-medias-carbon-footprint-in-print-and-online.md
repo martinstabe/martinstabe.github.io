@@ -2,6 +2,9 @@
 title: 'What is the media&#8217;s carbon footprint, in print and online?'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - miscellanea
 permalink: /2006/12/09/what-is-the-medias-carbon-footprint-in-print-and-online/
 views:
   - 673
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Miscellanea
 ---
 Saturday’s *Independent* splashed with [a story][1] based on a [study by the Carbon Trust][2] which found that the average Briton’s annual carbon footprint is 10.92 tons of CO<sub>2</sub>.
 

@@ -2,6 +2,8 @@
 title: Matrix database system still in use
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2005/07/19/matrix-database-system-still-in-use/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 Remember the [Matrix database][1]?
 

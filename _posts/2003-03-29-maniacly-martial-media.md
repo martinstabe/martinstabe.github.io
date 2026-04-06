@@ -2,6 +2,8 @@
 title: 'Maniacly Martial Media&#8482;'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/29/maniacly-martial-media/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *Washington Post* explains why the media coverage looks the way it does. It&#8217;s a function of market-driven journalism. The media consultants, including the aptly-named McVay Media, are saying that a <a href="http://www.washingtonpost.com/wp-dyn/articles/A40057-2003Mar27.html" target="_top">pro-war bias is good for business</a>. 
 

@@ -2,6 +2,8 @@
 title: EU News Review
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/11/13/eu-news-review/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 The BBC has appointed a [panel to review criticisms][1] of its coverage of the European Union. Euroskeptics think the Beeb has a pro-European bias, while pro-Europeans think the British public-service broadcaster&rsquo;s EU coverage is &ldquo;seen too much through a Westminster prism with the result that significant EU developments go unreported&rdquo;. 
 

@@ -2,6 +2,8 @@
 title: FOIA form letters published
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/05/foia-form-letters-published/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The Department for Constitutional Affairs has published a set of recommended response letters to Freedom of Information Act requests ([PDF][1]).
 

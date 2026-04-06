@@ -2,6 +2,8 @@
 title: Liberia, a short history
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/07/04/liberia-a-short-history/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Liberia and its relationship to the United States has been in the news again lately. It reminded me of something I read the last time Liberia was topical, in 2001. It&#8217;s an [excerpt][1] from **Ryszard Kapuscinski**&#8216;s *Shadow of the Sun.* This sad story is one of how a conflict in contemporary Africa has its roots in probably one of the least known legacies of the institution of slavery in the early United States:  
 

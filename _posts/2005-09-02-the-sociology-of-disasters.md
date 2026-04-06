@@ -2,6 +2,8 @@
 title: The sociology of disasters
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/09/02/the-sociology-of-disasters/
 views:
   - 53
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 In another example of [how sociology is useful for understanding events in the news][1], **Kieran Healy** looks at [Hurricane Katrina from a sociologist&rsquo;s perspective][2]:
 

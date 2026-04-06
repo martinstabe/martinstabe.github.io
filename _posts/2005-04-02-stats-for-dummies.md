@@ -2,6 +2,8 @@
 title: Stats for dummies
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/02/stats-for-dummies/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 After the Institute for Fiscal Studies released [figures on changing levels of income][1] in Britian, it was predictable that different newspapers would [manipulate the figures][2] to present them in a way that suits their political line.
 

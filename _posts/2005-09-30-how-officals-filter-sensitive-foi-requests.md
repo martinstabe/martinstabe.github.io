@@ -2,6 +2,8 @@
 title: How officals filter sensitive FOI requests
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/30/how-officals-filter-sensitive-foi-requests/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The *Times* today has a set of stories about the [functioning of the Freedom of Information Act][1] and how a Department of Constitutional Affairs body known as the Central Clearing House for Accessible Information, which is meant to ensure consistancy in central government responses to FOI requests, appears instead to be frustrating and delaying FOI requests.
 

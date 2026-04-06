@@ -2,6 +2,8 @@
 title: Gorgeous roundup of US blogs
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/05/17/gorgeous-roundup-of-us-blogs/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 Here&rsquo;s a roundup of how some American blogs saw the [testimony][1] by Respect MP &ldquo;Gorgeous&rdquo; **[George Galloway][2]** before a Senate subcommittee today. 
 

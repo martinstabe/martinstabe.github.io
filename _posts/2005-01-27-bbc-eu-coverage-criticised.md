@@ -2,6 +2,8 @@
 title: BBC EU coverage criticised
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/27/bbc-eu-coverage-criticised/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 The independent panel commissioned by BBC board of governors has issued its report; it found no bias, but found the quality [BBC&rsquo;s coverage of the EU wanting][1]:
 

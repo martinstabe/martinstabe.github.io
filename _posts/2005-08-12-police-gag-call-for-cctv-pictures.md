@@ -2,6 +2,8 @@
 title: Police gag call for CCTV pictures
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/08/12/police-gag-call-for-cctv-pictures/
 views:
   - 42
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 Sky News&rsquo; **Nick Pollard** says the [BBC is mad][1] for continuing to use the CCTV images of the men suspected of attempting to carry out the London bombings [on its web site][2].
 

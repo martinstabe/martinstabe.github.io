@@ -2,6 +2,8 @@
 title: Chilling effects of jailing reporters
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/07/10/chilling-effects-of-jailing-reporters/
 views:
   - 72
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 The jailing of **Judith Miller** of the *New York Times* and last-minute reprieve for *Time* magazine&rsquo;s **Matthew Cooper** is already showing signes of having major implications for the freedom of the press in the United States.
 

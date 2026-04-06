@@ -2,6 +2,8 @@
 title: Are GIs trading grisly war photos for porn?
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/09/21/are-gis-trading-grisly-war-photos-for-porn/
 views:
   - 108
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 The *Online Journalism Review&rsquo;s* **Mark Glaser** reports on [a web site that offers soldiers in Iraq access to pornography in exchange for grisly images][1] from the war zone.
 

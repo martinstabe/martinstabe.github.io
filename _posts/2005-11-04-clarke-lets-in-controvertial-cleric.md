@@ -2,6 +2,8 @@
 title: Clarke lets in controvertial cleric
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/11/04/clarke-lets-in-controvertial-cleric/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 Apparently not all controvertial clerics need to fear Home Secretary **Charles Clarke**. The founder of the Unification Church or &ldquo;Moonies&rdquo;, [**Sun Myung Moon**, will fly to London today][1] after his decade-old exclusion from Britain was lifted.
 

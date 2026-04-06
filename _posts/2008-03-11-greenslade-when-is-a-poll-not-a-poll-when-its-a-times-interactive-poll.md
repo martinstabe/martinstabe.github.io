@@ -2,6 +2,16 @@
 title: 'The plural of anecdote is not data — even when it&#8217;s &#8216;crowdsourced&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - crowdsourcing
+  - innumeracy
+  - journalism
+  - polling
+  - science
+  - statistics
+  - the-times
+  - timesonline
+  - wtf
 permalink: /2008/03/11/greenslade-when-is-a-poll-not-a-poll-when-its-a-times-interactive-poll/
 views:
   - 239
@@ -9,16 +19,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - crowdsourcing
-  - innueracy
-  - Journalism
-  - polling
-  - science
-  - statistics
-  - The Times
-  - timesonline
-  - wtf
 ---
 I really like what the Times does online, but I must say that Roy Greenslade&#8217;s analysis of [today&#8217;s Times splash][1] is right on the money.
 

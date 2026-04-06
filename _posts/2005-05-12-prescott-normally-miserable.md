@@ -2,6 +2,8 @@
 title: 'Prescott: normally miserable'
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/05/12/prescott-normally-miserable/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 All in [one superb BBC Online report][1]: **John Prescott** supports the silly [Bluewater ban on hoodies][2] because he was nearly the victim of a &ldquo;happy slapping&rdquo;.
 

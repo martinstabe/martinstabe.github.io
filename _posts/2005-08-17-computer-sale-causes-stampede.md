@@ -2,6 +2,8 @@
 title: Computer sale causes stampede
 author: Martin Stabe
 layout: post
+tags:
+  - notebook
 permalink: /2005/08/17/computer-sale-causes-stampede/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Notebook
 ---
 There was a [stampede][1] in Richmond, Virgina, as thousands of people rushed to a sale offering used Apple iBook computers for $50 each. Within seconds of the sale opeing at 7 am, there were &ldquo;several minor injuries&rdquo;, according to the *Richmond Times-Dispatch.*
 

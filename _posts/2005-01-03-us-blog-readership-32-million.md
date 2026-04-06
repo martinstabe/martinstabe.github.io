@@ -2,6 +2,8 @@
 title: 'U.S. blog readership: 32 million'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/03/us-blog-readership-32-million/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Two surveys by the Pew Internet & American Life Project ([PDF][1]) find that blog readership is increasing at a rate greater than the creation of new blogs.
 

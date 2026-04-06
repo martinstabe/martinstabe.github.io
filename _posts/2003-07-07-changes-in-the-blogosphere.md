@@ -2,6 +2,8 @@
 title: 'Changes in the  blogosphere'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/07/07/changes-in-the-blogosphere/
 views:
   - 3
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 First it was blog spin-offs like [Whiskey Bar][1] from [DailyKOS][2]. Now the trend in big-league blogging seems to have shifted to mergers and acquisitions. First the people behind [Tapped][3] hire [Matthew Yglesias][4]. Then [Ezra Klein][5], [Joe Rospars][6] and [Matt Singer][7] declare themselves [Not Geniuses][8]. 
 

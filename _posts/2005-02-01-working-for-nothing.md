@@ -2,6 +2,8 @@
 title: Working for nothing
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/02/01/working-for-nothing/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **Matthew Yglesias** announces that his employer, *The American Prospect* magazine in Washington, [is seeking interns][1].
 

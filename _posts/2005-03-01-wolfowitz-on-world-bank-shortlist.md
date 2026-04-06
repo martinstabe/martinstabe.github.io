@@ -2,6 +2,8 @@
 title: Wolfowitz on World Bank shortlist
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/03/01/wolfowitz-on-world-bank-shortlist/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 [Surely not][1]:
 

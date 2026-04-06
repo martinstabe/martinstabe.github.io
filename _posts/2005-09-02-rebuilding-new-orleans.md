@@ -2,6 +2,8 @@
 title: Rebuilding New Orleans
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/09/02/rebuilding-new-orleans/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 **UPDATED**
 

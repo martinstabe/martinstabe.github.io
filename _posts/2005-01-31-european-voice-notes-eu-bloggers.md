@@ -2,6 +2,8 @@
 title: '<em>European Voice</em> notes EU bloggers'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/31/european-voice-notes-eu-bloggers/
 views:
   - 41
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *[European Voice][1],* the *Economist&rsquo;s* Brussels-based specialist EU newspaper, has noticed blogging. In an article that doesn&rsquo;t appear to be on the newspaper&rsquo;s subscribers-only website, *TechCentralStation&rsquo;s* **[Craig Winneker][2]** writes:
 

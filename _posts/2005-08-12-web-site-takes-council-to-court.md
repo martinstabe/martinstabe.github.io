@@ -2,6 +2,8 @@
 title: Web site takes council to court
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/12/web-site-takes-council-to-court/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 **Richard Orange**, a freelance journalist who runs a [web site covering local government in Lincolnshire][1] is taking Lincolnshire County Council to a [judicial review over access to public records][2].
 

@@ -2,6 +2,8 @@
 title: '&#8220;Computer assisted reporting&#8221; needs a new name'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/01/computer-assisted-reporting-needs-a-new-name/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 *Statistical Modeling, Causal Inference, and Social Science* [complains about a newspaper article][1] claiming to be based on &ldquo;computer analysis&rdquo;:
 

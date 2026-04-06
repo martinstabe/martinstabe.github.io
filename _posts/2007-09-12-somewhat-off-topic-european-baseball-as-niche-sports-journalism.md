@@ -2,6 +2,10 @@
 title: '(Somewhat) off topic: European baseball as niche sports journalism'
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - blogs
+  - journalism
 permalink: /2007/09/12/somewhat-off-topic-european-baseball-as-niche-sports-journalism/
 ratings_users:
   - 0
@@ -15,10 +19,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - Blogs
-  - Journalism
 ---
 One of the best applications of blogging as journalism is to provide coverage of niche topics that are of deep interest to a particular community, but would never get much coverage in a publication that has to appeal to a mass audience.
 

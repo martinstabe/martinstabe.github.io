@@ -2,6 +2,9 @@
 title: Even MPs should present arguments
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - uk
 permalink: /2005/12/19/even-mps-should-present-arguments/
 views:
   - 20
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - UK
 ---
 Labour MP **Tom Watson** has a [very strange post][1] up today:
 

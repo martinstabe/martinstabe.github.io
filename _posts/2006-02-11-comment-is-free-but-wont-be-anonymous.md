@@ -2,6 +2,10 @@
 title: 'Comment is free, but won&#8217;t be anonymous'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - newspapers
+  - online
 permalink: /2006/02/11/comment-is-free-but-wont-be-anonymous/
 views:
   - 156
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Newspapers
-  - Online
 ---
 The [*Guardian* will soon be launching *Comment is Free*][1] &mdash; a new commentry blog modelled on the *Huffington Post.* 
 

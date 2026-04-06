@@ -2,6 +2,8 @@
 title: Media kowtowing to gag requests
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/28/media-kowtowing-to-gag-requests/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 There have been many examples in recent weeks of the [British media kowtowing to unofficial gag orders][1] from the political establishment.
 

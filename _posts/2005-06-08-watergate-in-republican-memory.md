@@ -2,6 +2,10 @@
 title: Watergate in Republican memory
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - journalism
+  - usa
 permalink: /2005/06/08/watergate-in-republican-memory/
 views:
   - 12
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Journalism
-  - USA
 ---
 The idea, prominant among American conservatives, that the media is dangerously liberal and biased against them, has become common in recent years &mdash; particularly in the blogosphere &mdash; but it stems at least from the era of **Richard Nixon**.
 

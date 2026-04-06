@@ -2,6 +2,8 @@
 title: World Cup announced
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
 permalink: /2005/05/12/world-cup-announced/
 views:
   - 62
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
 ---
 [Nice][1]:
 

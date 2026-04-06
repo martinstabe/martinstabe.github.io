@@ -2,6 +2,8 @@
 title: Some FOIA advice
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/02/08/some-foia-advice/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Having trouble with your Freedom of Information Act request? 
 

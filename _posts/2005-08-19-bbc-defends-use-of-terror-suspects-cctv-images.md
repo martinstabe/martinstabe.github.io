@@ -2,6 +2,10 @@
 title: 'BBC defends use of terror suspects&#8217; CCTV images'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - london
+  - uk
 permalink: /2005/08/19/bbc-defends-use-of-terror-suspects-cctv-images/
 views:
   - 30
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - London
-  - UK
 ---
 The current issue of the *Press Gazette* has a [response][1] by the BBC to [a rival journalist&rsquo;s allegation that it is in danger of prejudicing the would-be suicide bombers&rsquo;s trial][2] by continuting to use the CCTV images of the suspects, contrary to police pleas to discontinue their publication.
 

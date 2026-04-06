@@ -2,6 +2,8 @@
 title: More Faux News
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/20/more-faux-news/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *New York Times* <a href="http://www.nytimes.com/2003/03/20/international/worldspecial/20WATC.html" target="_top">calls it</a> an illustration of the &#8220;danger&#8221; of &#8220;rumors going unchecked&#8221; when professional journalists leave the war zone. I call it the worst francophobic slander yet:  
 

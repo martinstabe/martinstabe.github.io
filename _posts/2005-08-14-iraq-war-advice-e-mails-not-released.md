@@ -2,6 +2,8 @@
 title: 'Iraq war advice: e-mails not released'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/14/iraq-war-advice-e-mails-not-released/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 *The Sunday Times* reports that Downing Street is refusing its Freedom of Information Act [request to publish e-mails from **Baroness Morgan**][1] to **Tony Blair** regarding **Lord Goldsmith**&rsuo;s advice on the war on Iraq.
 

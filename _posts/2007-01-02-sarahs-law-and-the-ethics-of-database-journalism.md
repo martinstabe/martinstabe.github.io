@@ -2,6 +2,13 @@
 title: Sarah’s Law and the ethics of database journalism
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
+  - data-journalism
+  - ethics
+  - journalism
+  - miscellanea
+  - news-of-the-world
 permalink: /2007/01/02/sarahs-law-and-the-ethics-of-database-journalism/
 views:
   - 175
@@ -9,13 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
-  - Data Journalism
-  - Ethics
-  - Journalism
-  - Miscellanea
-  - News of the World
 ---
 Thanks to the wide availability of public records in digital form in the United States, some journalists there have long used &#8220;database journalism&#8221; or &#8220;computer-assisted reporting&#8221; (CAR) to produce sophisticated stories based on snippets of information drawn from public databases.
 

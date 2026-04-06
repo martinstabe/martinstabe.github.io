@@ -2,6 +2,8 @@
 title: Protecting sources
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/11/15/protecting-sources/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 With reporters **Judith Miller** and **Matthew Cooper** [facing 18 months in jail][1] for refusing to disclose their sources to the grand jury investigation of the **Valerie Plame** affair, the current issue of the *Atlantic Monthly* contains a timely item about the [legal postion of journalists protecting a source][2] in the United States. 
 

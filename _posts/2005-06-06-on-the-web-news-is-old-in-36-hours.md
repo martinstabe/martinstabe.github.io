@@ -2,6 +2,8 @@
 title: On the web, news is old in 36 hours
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/06/06/on-the-web-news-is-old-in-36-hours/
 views:
   - 179
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 *Der Spiegel* has [pointed out][1] (in German) some new research ([PDF][2])about the lifespan of news items on the web. 
 

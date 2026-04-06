@@ -2,6 +2,8 @@
 title: 'Google&#8217;s PR blunder'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/08/11/googles-pr-blunder/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 What&#8217;s the best PR strategy for ensuring that everybody in your major customer constituency reads a negative story about your company?
 

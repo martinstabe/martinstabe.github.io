@@ -2,6 +2,8 @@
 title: FOI documentary on Radio 4
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/27/foi-documentary-on-radio-4/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 **Martin Rosenbaum**, who heads the BBC Freedom of Information Unit, has a story on the BBC News web site today about food hygiene inspectors&rsquo;s [concerns about airline caterer Gate Gourmet][1].
 

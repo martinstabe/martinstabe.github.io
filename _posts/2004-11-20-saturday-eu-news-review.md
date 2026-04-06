@@ -2,6 +2,8 @@
 title: Saturday EU news review
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/11/20/saturday-eu-news-review/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 There&#8217;s not much EU news in the UK media today.
 

@@ -2,6 +2,10 @@
 title: 'Getting sacked: Good for blog readership'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - miscellanea
+  - press-gazette
 permalink: /2006/12/02/getting-sacked-good-for-blog-readership/
 views:
   - 17
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Miscellanea
-  - Press Gazette
 ---
 Since everyone — well, just [Robin Hamman][1] and [Richard Sambrook][2] — seems to be disclosing their blog traffic statistics this week, I thought I&#8217;d share, too.
 

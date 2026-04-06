@@ -2,6 +2,8 @@
 title: 'Comment dit-on &#8220;idiot&#8221; en allemand?'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/08/comment-dit-on-idiot-en-allemand/
 views:
   - 3
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Lest you get the idea that the &#8220;freedom fries&#8221; hot air blows exclusively east across the Atlantic, here are some people who are currently making the European anti-war movement look bad. First, <a href="http://www.expatica.com/germany.asp?pad=190,205,&#038;item_id=30269" target="_top">some dumb news</a> from my native city:  
 

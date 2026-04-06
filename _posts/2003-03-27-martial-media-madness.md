@@ -2,6 +2,8 @@
 title: 'Martial Media Madness&#8482;'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/27/martial-media-madness/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 From the *Guardian* Media section: 
 

@@ -2,6 +2,9 @@
 title: Google loses German domain
 author: Martin Stabe
 layout: post
+tags:
+  - germany
+  - google
 permalink: /2007/01/23/google-loses-german-domain/
 views:
   - 194
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Germany
-  - Google
 ---
 <p align="center">
   <img width="460" height="263" align="middle" alt="Google.de" title="Google.de" src="http://farm1.static.flickr.com/99/366409408_46c6fe3d01.jpg" />

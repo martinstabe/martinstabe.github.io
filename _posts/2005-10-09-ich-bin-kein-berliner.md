@@ -2,6 +2,8 @@
 title: Ich bin kein Berliner
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/10/09/ich-bin-kein-berliner/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 When is a *Berliner* not a Berliner? 
 

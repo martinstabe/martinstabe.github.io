@@ -2,6 +2,8 @@
 title: Regional Europhobia
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/12/14/regional-europhobia/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 I thought the national taboids set the standard, but for really strage Euroskeptic arguements, you need to trawl the regional papers. How about [this][1] from the Stoke *Sentinel* about the European force in Bosnia, published on 24 November:
 

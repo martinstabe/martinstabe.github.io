@@ -2,6 +2,9 @@
 title: Piracy on public computers
 author: Martin Stabe
 layout: post
+tags:
+  - canada
+  - freedom-of-information
 permalink: /2006/01/10/piracy-on-public-computers/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Canada
-  - Freedom of Information
 ---
 *Vancouver Sun:* [Canadian tax officials stored pirated MP3s on government computers][1].
 

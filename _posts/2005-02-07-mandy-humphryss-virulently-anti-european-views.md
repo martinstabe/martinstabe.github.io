@@ -2,6 +2,8 @@
 title: 'Mandy: Humphrys&rsquo;s &lsquo;virulently anti-European views&rsquo;'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/07/mandy-humphryss-virulently-anti-european-views/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 In in a letter to BBC Chairman **Michael Grade** [reported][1] by the *Times* today, European Union Trade Commissioner **Peter Mandelson** has accused **John Humphrys**, presenter of the BBC&rsquo;s flagship morning news programme, of having &ldquo;[virulently anti-European views][2]&rdquo;.
 

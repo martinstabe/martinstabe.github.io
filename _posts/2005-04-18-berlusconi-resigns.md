@@ -2,6 +2,10 @@
 title: Berlusconi resigns
 author: Martin Stabe
 layout: post
+tags:
+  - italy
+  - journalism
+  - rss
 permalink: /2005/04/18/berlusconi-resigns/
 views:
   - 47
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Italy
-  - Journalism
-  - RSS
 ---
 Er, or maybe he didn&#8217;t. 
 

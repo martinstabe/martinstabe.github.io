@@ -2,6 +2,8 @@
 title: Do wireless gadgets pose a terror risk?
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/12/do-wireless-gadgets-pose-a-terror-risk/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 There&rsquo;s no indication that the London bombings were set off by some sort of remote signal. There is no cell phone coverage in most of the London underground.
 

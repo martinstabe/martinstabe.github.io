@@ -2,6 +2,8 @@
 title: Companies disguise FOIA searches
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/30/companies-disguise-foia-searches/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 A trend long-established in the United States is coming to Britain &mdash; Freedom of Information c[onsultancies that conduct FOI-based research on behalf of corporate clients][1].
 

@@ -2,6 +2,15 @@
 title: 'Journalists&#8217; farm subsidy victory for European FOI and CAR'
 author: Martin Stabe
 layout: post
+tags:
+  - common-agricultural-policy
+  - computer-assisted-reporting
+  - denmark
+  - europe
+  - european-union
+  - freedom-of-information
+  - journalism
+  - uk
 permalink: /2007/01/23/journalists-farm-subsidy-victory-for-european-foi-and-car/
 views:
   - 202
@@ -9,15 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Common Agricultural Policy
-  - Computer Assisted Reporting
-  - Denmark
-  - Europe
-  - European Union
-  - Freedom of Information
-  - Journalism
-  - UK
 ---
 Yesterday&#8217;s *Guardian* had a fascinating story about the [EU&#8217;s decision to release all of its data][1] about the beneficiaries of its farming subsidies.
 

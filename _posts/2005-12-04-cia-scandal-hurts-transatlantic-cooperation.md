@@ -2,6 +2,8 @@
 title: CIA scandal hurts transatlantic cooperation
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/12/04/cia-scandal-hurts-transatlantic-cooperation/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 *Time* magazine opines that the (related) &ldquo;extraordinary rendition&rdquo; and &ldquo;black sites&rdquo; scandals are [hurting transatlantic intelligence cooperation][1], and has some interesting examples of how European cooperation with American intelligence agencies:
 

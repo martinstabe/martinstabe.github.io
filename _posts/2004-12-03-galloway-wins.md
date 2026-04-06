@@ -2,6 +2,8 @@
 title: Galloway wins
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/12/03/galloway-wins/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **George Galloway** has won his libel suit against the *Daily Telegraph,* and has collected a healthy &pound;150,000 in damages. Tapped&#8217;s **Mark Leon Goldberg** [provides the background][1], including some fascinating links that I missed at the time the story was developing.
 

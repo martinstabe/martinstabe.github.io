@@ -2,6 +2,8 @@
 title: Basque views on Europe
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/02/basque-views-on-europe/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Comments in a recent post on this site about the [concentration of British Euroscepticism in England][1] raised some interesting hypothicals regarding how Britain-EU and Scotland-EU relations would be affected if Scotland were one day to become independent.
 

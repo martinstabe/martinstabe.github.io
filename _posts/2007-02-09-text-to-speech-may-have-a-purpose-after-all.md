@@ -2,6 +2,10 @@
 title: Text-to-speech may have a purpose, after all
 author: Martin Stabe
 layout: post
+tags:
+  - archant
+  - text-to-speech
+  - welwyn-and-hatfield-times
 permalink: /2007/02/09/text-to-speech-may-have-a-purpose-after-all/
 views:
   - 63
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Archant
-  - text-to-speech
-  - 'Welwyn &amp; Hatfield Times'
 ---
 I tend to regard text-to-speech features on news web sites as something of a gimmick.
 

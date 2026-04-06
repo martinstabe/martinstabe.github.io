@@ -2,6 +2,8 @@
 title: Brussels bans U.S. quarts
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/05/07/brussels-bans-us-quarts/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 **Don Melvin** of the Cox News Service &mdash; a U.S. news agency that serves the [Cox Newspapers][1] chain of regional papers &mdash; has put together a nice series on the global influence of the European Union.
 

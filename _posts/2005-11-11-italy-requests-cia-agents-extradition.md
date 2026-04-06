@@ -2,6 +2,10 @@
 title: 'Italy requests CIA agents&#8217; extradition'
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
+  - intelligence
+  - transatlantic-relations
 permalink: /2005/11/11/italy-requests-cia-agents-extradition/
 views:
   - 25
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
-  - Intelligence
-  - Transatlantic Relations
 ---
 Italian prosecutors have [requested the extradition of 22 CIA agents][1] they suspect of involvement of kidnapping a radical Islamic preacher three years ago.
 

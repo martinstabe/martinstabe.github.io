@@ -2,6 +2,9 @@
 title: U.S. spends $44 billion on spooks
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - intelligence
 permalink: /2005/11/08/us-spends-44-billion-on-spooks/
 views:
   - 23
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Intelligence
 ---
 In an apparent slip, a CIA official has revealed that [the US intelligence budget is $44 billion][1].
 

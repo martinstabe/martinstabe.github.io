@@ -2,6 +2,8 @@
 title: A new liberal mag?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/08/06/a-new-liberal-mag/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *UK Press Gazette,* the journalists&#8217; trade magazine, is reporting that **Sidney Blumenthal** is a candidate for editior of a new *Guardian* magzine for the American market. The *Press Gazette* isn&#8217;t online free, but here&#8217;s [the story][1] from the New York *Daily News*. The *New York Observer* also mentioned it is [a story][2] about the influence of British journalism on American war reporting. 
 

@@ -2,6 +2,13 @@
 title: 'The Telegraph&#8217;s multimedia scoop'
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - daily-telegraph
+  - journalism
+  - newspapers
+  - online
+  - television
 permalink: /2006/11/29/the-telegraphs-multimedia-scoop/
 views:
   - 194
@@ -9,13 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - BBC
-  - Daily Telegraph
-  - Journalism
-  - Newspapers
-  - Online
-  - Television
 ---
 At a Fleet Street pub full of journalists last night, someone mentioned seeing *Newsnight* on Monday night, when the front page of the next day&#8217;s *Daily Telegraph* was held out to the cameras as the first news of Michael Grade&#8217;s move from the BBC to ITV.  
 Jeremy Paxman’s expression at the news that the Beeb had been scooped on an internal story by a print publication was, apparently, proof that even in the digital age, good old printed newspapers still set the daily news agenda.

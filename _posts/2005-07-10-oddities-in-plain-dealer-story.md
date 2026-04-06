@@ -2,6 +2,8 @@
 title: Oddities in Plain Dealer story
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/07/10/oddities-in-plain-dealer-story/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 So the Cleveland *Plain Dealer* is [sitting on two stories][1] to protect a source in the wake of **Judith Miller** being jailed for refusing to name her source in the Plame affair.
 

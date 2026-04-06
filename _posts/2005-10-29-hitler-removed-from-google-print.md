@@ -2,6 +2,8 @@
 title: Hitler removed from Google Print
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/10/29/hitler-removed-from-google-print/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Adolf Hitler**&rsquo;s [*Mein Kampf* has been removed from Google Print][1] after the German computer magazine [*Chip* reported that segments of the Nazi dictator&rsquo;s book were available][2] in English on Google&rsquo;s online full-text archive of books.
 

@@ -2,6 +2,8 @@
 title: Sounding like a Yank in Europe
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/11/sounding-like-a-yank-in-europe/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Is [this][1] true?
 

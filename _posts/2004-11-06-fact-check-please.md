@@ -2,6 +2,9 @@
 title: Fact check, please.
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - usa
 permalink: /2004/11/06/fact-check-please/
 views:
   - 15
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - USA
 ---
 **Myron Ebell**, the director of the Global Warming for the ([ExxonMobil-funded][1]) Competitive Enterprise Institute, gave an interview to the BBC&rsquo;s flagship *Today* programme on Thursday ([RealAudio][2] at 3:49), in which he questioned the credibility of non-American scientists and accused European environmental policy-makers of having an ulterior agenda against American business. The interview provoked [listener outgage][3] and a motion censuring him in the House of Commons ([RealAudio][4]).  
 <!--more-->

@@ -2,6 +2,8 @@
 title: CIA flights entered Swiss airspace
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/12/11/cia-flights-entered-swiss-airspace/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 Now they don&rsquo;t even need to land to raise eyebrows. The *Neue Z&uuml;rcher Zeitung* reports that &ldquo;a small jet chartered by [the CIA has flown over Switzerland 19 times since the start of 2003][1]&rdquo;.
 

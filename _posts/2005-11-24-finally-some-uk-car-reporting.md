@@ -2,6 +2,11 @@
 title: Finally some UK CAR reporting
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
+  - freedom-of-information
+  - journalism
+  - uk
 permalink: /2005/11/24/finally-some-uk-car-reporting/
 views:
   - 23
@@ -9,11 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
-  - Freedom of Information
-  - Journalism
-  - UK
 ---
 Finally — a good example of British journalism using freedom of information requests combined with computer-assisted reporting techniques.
 

@@ -2,6 +2,10 @@
 title: 'ID cards: why they matter'
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
+  - surveillance
+  - uk
 permalink: /2005/06/02/id-cards-why-they-matter/
 views:
   - 45
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
-  - Surveillance
-  - UK
 ---
 Thought the British blogosphere was as one in opposition to the introduction of national identity cards? Nope. **Monjo** provides some dissent by posting [in defence of ID cards][1], interestingly by deploying the very slippery slope argument many use to reject the same policy:
 

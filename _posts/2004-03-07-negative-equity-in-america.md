@@ -2,6 +2,8 @@
 title: Negative equity in America?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/03/07/negative-equity-in-america/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Nothing gets many ordinary people fascinated by macroeconomics like a good political fight that affects their morgage.
 

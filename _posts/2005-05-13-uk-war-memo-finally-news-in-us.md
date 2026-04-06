@@ -2,6 +2,8 @@
 title: UK war memo finally news in US
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/05/13/uk-war-memo-finally-news-in-us/
 views:
   - 23
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 The minutes of a Downing Street meeting before the Iraq war published by the *Sunday Times* two weeks ago are finally becoming news in the United States.
 

@@ -2,13 +2,13 @@
 title: Morning news roundup
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/21/morning-news-roundup/
 btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Some highlights from the day when &#8220;war&#8221; was the <a href="http://asia.reuters.com/newsArticle.jhtml;jsessionid=4CMEYV5DJAQ10CRBAEZSFEY?type=entertainmentNews&#038;storyID=2417505" target="_top">most popular Internet search term</a>, topping &#8220;sex&#8221; and &#8220;**Britney Spears**.&#8221; 
 

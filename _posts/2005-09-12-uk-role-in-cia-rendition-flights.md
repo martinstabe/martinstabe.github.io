@@ -2,6 +2,8 @@
 title: UK role in CIA rendition flights
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/09/12/uk-role-in-cia-rendition-flights/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 [<img alt="n379p.jpg" src="http://www.martinstabe.com/blog/archives/n379p/n379p-thumb.jpg" width="420" height="267" />][1]
 

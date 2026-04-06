@@ -2,6 +2,11 @@
 title: More evidence of CIA flights at UK airports
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
+  - germany
+  - intelligence
+  - transatlantic-relations
 permalink: /2005/12/07/more-evidence-of-cia-flights-at-uk-airports/
 views:
   - 67
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
-  - Germany
-  - Intelligence
-  - Transatlantic Relations
 ---
 The *Scotsman* reports on Danish government documents that provide [new evidence of that CIA planes stopped over at airports in Scotland][1]:
 

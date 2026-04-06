@@ -2,6 +2,10 @@
 title: Hersh has Blair documents
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
+  - journalism
+  - uk
 permalink: /2004/11/15/hersh-has-blair-documents/
 BX_post_type:
   - mini
@@ -11,10 +15,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Iraq
-  - Journalism
-  - UK
 ---
 The *San Francisco Chronicle* [watches **Seymour Hersh** dig through his briefcase][1]:
 

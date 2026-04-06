@@ -2,6 +2,8 @@
 title: 'Exploring an alleged CIA &#8216;black site&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/12/04/exploring-an-alleged-cia-black-site/
 views:
   - 59
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 The Associated Press was allowed to roam around [Michail Kogalniceau Air Base][1] in Romania, one of the locations suspsected of hosting the [alleged secret CIA detention facilities in Europe][2].
 

@@ -2,6 +2,14 @@
 title: New BBC media show
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - magazines
+  - media-platforms
+  - newspapers
+  - online
+  - radio
+  - television
 permalink: /2005/01/10/new-bbc-media-show/
 views:
   - 75
@@ -9,14 +17,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Magazines
-  - Media Platforms
-  - Newspapers
-  - Online
-  - Radio
-  - Television
 ---
 The Indy has an [interview][1] with **Tyler Br&ucirc;l&eacute;**, whose new media show, *The Desk,* is about to be launched on BBC4.
 

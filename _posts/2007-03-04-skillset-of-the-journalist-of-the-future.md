@@ -2,6 +2,13 @@
 title: Skillset of the journalist of the future
 author: Martin Stabe
 layout: post
+tags:
+  - chicago-tribune
+  - computer-assisted-reporting
+  - flash
+  - html
+  - journalism
+  - journalism-education
 permalink: /2007/03/04/skillset-of-the-journalist-of-the-future/
 views:
   - 316
@@ -9,13 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Chicago Tribune
-  - Computer Assisted Reporting
-  - Flash
-  - HTML
-  - Journalism
-  - Journalism Education
 ---
 The *Chicago Tribune&#8217;s* interactive division is hoping to [hire a journalist specialising in interactive database production][1] of the sort Adrian Holovaty [has been advocating][2].
 

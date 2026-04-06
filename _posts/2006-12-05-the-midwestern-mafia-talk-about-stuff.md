@@ -2,6 +2,12 @@
 title: 'The midwestern mafia talk about &#8220;stuff&#8221;'
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - blogging
+  - blogs
+  - miscellanea
+  - radio
 permalink: /2006/12/05/the-midwestern-mafia-talk-about-stuff/
 views:
   - 169
@@ -9,12 +15,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - BBC
-  - blogging
-  - Blogs
-  - Miscellanea
-  - Radio
 ---
 This evening I went to a * Journalism.co.uk* event at Imperial College featuring [Clyde Bentley][1], who founded MyMissourian.com at the University of Missouri, along with *Guardian* blogs editor [Kevin Anderson][2] and [Robin Hamman][3] of the BBC blogs project.
 

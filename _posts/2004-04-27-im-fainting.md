@@ -2,6 +2,8 @@
 title: 'I&rsquo;m fainting'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/04/27/im-fainting/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A pedant recently contacted me to take issue with my use of &#8220;feint praise&#8221; in the title of a previous post. My correspondent insisted on &#8220;faint praise&#8221;. Some googling revealed that both are in widespread use. I suspect that both are actually a corruption of &#8220;feigned praise&#8221;, which would seem to make the most sense. I&#8217;m not alone, it seems. According to [John L. Lepage][1] of Malaspina University College:  
 

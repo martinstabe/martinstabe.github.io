@@ -2,6 +2,8 @@
 title: 'McCain: Sunday Times memo wrong'
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/05/15/mccain-sunday-times-memo-wrong/
 views:
   - 23
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 Republican Sen. [**John McCain** &ldquo;does not agree&rdquo; the memo][1] showing that** Tony Blair** decided on the Iraq War on July 23, 2002, before the justifications were determined, is wrong.
 

@@ -2,6 +2,8 @@
 title: The sociology of Deep Throat
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/06/02/the-sociology-of-deep-throat/
 views:
   - 56
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 *Pub Sociology* links to the [1992 *Atlantic* article][1] that first named **Mark Felt** as Deep Throat, and points out that the [sociological significance of the Deep Throat saga][2], particularly the way it illustrates bureaucratic politics:
 

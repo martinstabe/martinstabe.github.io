@@ -2,11 +2,11 @@
 title: 'How to follow a conference with an automated Twitter list'
 author: Martin Stabe
 layout: post
+tags:
+  - twitter
+  - nuzzel
+  - ifttt
 permalink: /2016/03/12/automatic-twitter-lists/
-categories:
-  - Twitter
-  - Nuzzel
-  - IFTTT
 ---
 
 Some people attending the [NICAR](http://www.ire.org/conferences/nicar2016/) or [Malofiej](http://www.malofiejgraphics.com/) conferences have noticed that I added them to an auto-generated Twitter list ([/nicar16](https://twitter.com/martinstabe/lists/nicar16) or [/malofiej](https://twitter.com/martinstabe/lists/malofiej)) shortly after they used the conference hashtag, and have asked how to do this.

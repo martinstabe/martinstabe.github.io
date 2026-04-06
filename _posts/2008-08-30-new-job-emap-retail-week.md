@@ -2,6 +2,10 @@
 title: 'Full disclosure time: New job'
 author: Martin Stabe
 layout: post
+tags:
+  - emap
+  - journalism
+  - press-gazette
 permalink: /2008/08/30/new-job-emap-retail-week/
 oc_metadata:
   - "{		version:1.0,		tags: {'emap': {			text:'emap',			slug:'emap',			source:null,			bucketName:'current'		},'journalism': {			text:'Journalism',			slug:'journalism',			source:null,			bucketName:'current'		},'press-gazette': {			text:'Press Gazette',			slug:'press-gazette',			source:null,			bucketName:'current'		},'retail-week': {			text:'Retail Week',			slug:'retail-week',			source:null,			bucketName:'current'		}}	}"
@@ -11,10 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Emap
-  - Journalism
-  - Press Gazette
 ---
 As those who [stalk me on Twitter][1] or Facebook already know, yesterday was my final day working at [Press Gazette][2].
 

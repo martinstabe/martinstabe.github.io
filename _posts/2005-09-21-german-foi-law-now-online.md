@@ -2,6 +2,8 @@
 title: German FOI law now online
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/21/german-foi-law-now-online/
 views:
   - 36
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The German investigative journalists&rsquo; organisation, [*Netzwerk Recherche*][1], has published Germany&rsquo;s new Freedom of Information Act, the *Informationsfreiheitsgesetz (IFG),* on its web site ([PDF][2] in German).
 

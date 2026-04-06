@@ -2,6 +2,8 @@
 title: Telegraph appoints podcast editor
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/12/15/telegraph-appoints-podcast-editor/
 views:
   - 31
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 The *Daily Telegraph* has [appointed a Podcast Editor][1].
 

@@ -2,6 +2,8 @@
 title: Italy seeks US diplomat in CIA renditions case
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/10/01/italy-seeks-us-diplomat-in-cia-renditions-case/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 An [American diplomat is being sought for questioning by Italian authorities][1] investigating the alleged 2003 kidnapping of Egyptian-born cleric **[Hassan Mustafa Osama Nasr][2]**, who is also known as **Abu Omar**. 
 

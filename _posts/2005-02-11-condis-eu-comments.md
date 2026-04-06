@@ -2,6 +2,8 @@
 title: 'Condi&rsquo;s EU comments'
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/02/11/condis-eu-comments/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 U.S. Secretary of State **Condoleezza Rice** concluded her [surprisingly well-received][1] European trip with an hour-long meeting in Luxembourg with a small group of European journalists, including one from the *Financial Times.* According to that newspaper&rsquo;s [front page report][2] today,
 

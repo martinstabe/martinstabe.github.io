@@ -2,6 +2,8 @@
 title: Stupid waste of trees
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/03/09/stupid-waste-of-trees/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 There&rsquo;s not much I can add to **Brad DeLong**&rsquo;s [summary][1] of a recent *GQ* article by **Wil Hylton**:
 

@@ -2,6 +2,10 @@
 title: Who gets all that CAP cash?
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - freedom-of-information
+  - uk
 permalink: /2005/04/12/who-gets-all-that-cap-cash/
 views:
   - 33
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Freedom of Information
-  - UK
 ---
 Finding out which corporations and large aristocratic landowners reap the bulk of the [ &euro;4 billion in farm subsidies][1] distributed in Britain each year from the EU Common Agricultural Policy has to be the best use of the UK Freedom of Information Act so far.
 

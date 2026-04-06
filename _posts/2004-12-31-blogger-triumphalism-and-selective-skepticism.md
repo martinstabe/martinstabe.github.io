@@ -2,6 +2,8 @@
 title: Blogger triumphalism and selective skepticism
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2004/12/31/blogger-triumphalism-and-selective-skepticism/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 [**Dan Simon**][1] has a comment (in a *Crooked Timber* [discussion][2] of inconsistency of conservative bloggers&rsquo; criticism of mainstream media bias) that pretty elegently expresses the problem of bloggers taking themselves too seriously and journalists not taking them seriously enough:
 

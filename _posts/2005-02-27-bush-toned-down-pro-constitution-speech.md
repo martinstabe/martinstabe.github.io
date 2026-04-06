@@ -2,6 +2,8 @@
 title: Bush toned down pro-Constitution speech
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/02/27/bush-toned-down-pro-constitution-speech/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 Contrary to [reports before his speech][1], **George W. Bush** did not give a ringing endorcement to the EU constitution in his Brussels speech. The *Sunday Telegraph* [knows why][2]:
 

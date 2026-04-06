@@ -2,6 +2,12 @@
 title: BBC News via Twitter
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - bbcbackstage
+  - mashups
+  - miscellanea
+  - twitter
 permalink: /2007/01/10/bbc-news-via-twitter/
 ratings_users:
   - 0
@@ -15,12 +21,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - BBC
-  - BBCbackstage
-  - Mashups
-  - Miscellanea
-  - Twitter
 ---
 A second experimental Twitter mashup sends you [BBC News headlines][1] to you via SMS.
 

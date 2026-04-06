@@ -2,6 +2,19 @@
 title: Visualising the UK journalism-blogger network
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - blogs
+  - del-icio-us
+  - flickr
+  - guardian-media-group
+  - guardian-unlimited
+  - journalism
+  - links
+  - press-gazette
+  - social-network-analysis
+  - sun-online
+  - trinity-mirror
 permalink: /2007/02/08/visualising-the-uk-journalism-blogger-network/
 views:
   - 223
@@ -9,19 +22,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - BBC
-  - Blogs
-  - del.icio.us
-  - Flickr
-  - Guardian Media Group
-  - Guardian Unlimited
-  - Journalism
-  - links
-  - Press Gazette
-  - Social network analysis
-  - Sun Online
-  - Trinity Mirror
 ---
 <div align="center">
   <img src="http://farm1.static.flickr.com/167/384042043_c4ca3773c8_o.jpg" alt="The UK Journalism Blogger network" border="1" width="460" />

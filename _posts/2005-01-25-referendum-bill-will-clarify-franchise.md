@@ -2,6 +2,8 @@
 title: Referendum Bill will clarify franchise
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/01/25/referendum-bill-will-clarify-franchise/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 [Confusion][1] over who will be allowed to vote in Britain&rsquo;s referendum on the European Constitution will end tomorrow when the bill authorising the referendum is published.
 

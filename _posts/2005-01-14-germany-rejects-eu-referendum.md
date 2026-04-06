@@ -2,6 +2,9 @@
 title: Germany rejects EU referendum
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - germany
 permalink: /2005/01/14/germany-rejects-eu-referendum/
 views:
   - 21
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Germany
 ---
 [Germany will not be holding a referendum][1] on the EU consitition.
 

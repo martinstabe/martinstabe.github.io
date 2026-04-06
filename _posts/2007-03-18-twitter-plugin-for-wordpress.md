@@ -2,6 +2,9 @@
 title: Twitter plugin for WordPress
 author: Martin Stabe
 layout: post
+tags:
+  - announcements
+  - twitter
 permalink: /2007/03/18/twitter-plugin-for-wordpress/
 views:
   - 134
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Announcements
-  - Twitter
 ---
 I have just installed Victoria Chan&#8217;s [Twitter Updater][1] WordPress plugin , [as fixed by James Cridland][2]. Thank you to both for this excellent tool.
 

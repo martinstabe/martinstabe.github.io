@@ -2,6 +2,8 @@
 title: 'Home Office: Iraq is &#8216;safe&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/08/16/home-office-iraq-is-safe/
 views:
   - 43
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 The [Home Office has decided that Iraq is now safe][1] enough for Iraqi refugees and asylum seekers living in Britain to be forced to return there.
 

@@ -2,6 +2,8 @@
 title: Sauerkraut
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/12/sauerkraut/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 So much for German-American relations gradually healing. **Paul Wolfowitz** has written to the German newsmagazine *Der Spiegel* in response to [the interview][1] in which German foreign minister **Joschka Fischer** said that shortly after Sept. 11, 2001, Wolfowitz had intimated that in response to terrorism &#8220;the US had to liberate a whole string of countries from their terrorist rulers, if necessary by force.&#8221; 
 

@@ -2,6 +2,8 @@
 title: EU leads US on data protection
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/07/eu-leads-us-on-data-protection/
 views:
   - 44
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The IHT notices that [the data theft scandals that have plagued the United States ths year are strangely absent in Europe][1]:
 

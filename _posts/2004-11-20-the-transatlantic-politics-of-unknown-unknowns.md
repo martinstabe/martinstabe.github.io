@@ -2,6 +2,8 @@
 title: The transatlantic politics of unknown unknowns
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/11/20/the-transatlantic-politics-of-unknown-unknowns/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Now that the [new European Commission is finally approved][1], we can get back to everyday politics in Brussels.
 

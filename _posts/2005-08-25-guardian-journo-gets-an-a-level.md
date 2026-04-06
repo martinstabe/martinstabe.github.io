@@ -2,6 +2,8 @@
 title: Guardian journo gets an A-Level
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/08/25/guardian-journo-gets-an-a-level/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 *Guardian* journalist **Tom Whipple** &mdash; who is 23 and has a 2.1 in Maths from Cambridge &mdash; has the results of his [participant observation into AS-Level Sociology][1]. [He got a high A][2].
 

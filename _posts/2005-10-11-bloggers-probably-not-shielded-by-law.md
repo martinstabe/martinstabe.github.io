@@ -2,6 +2,8 @@
 title: 'Bloggers &#8216;probably not&#8217; shielded by law'
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/10/11/bloggers-probably-not-shielded-by-law/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 [Bloggers will &ldquo;probably not&rdquo; be considered journalists][1] for the purposes of the proposed US law to shield reporters from being compelled to testify in court, says the bill&rsquo;s sponsor.
 

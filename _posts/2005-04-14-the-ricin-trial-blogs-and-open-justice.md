@@ -2,6 +2,8 @@
 title: The ricin trial, blogs and open justice
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/14/the-ricin-trial-blogs-and-open-justice/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 Today, the mug of &ldquo;toxic terrorist&rdquo; **Kamel Bourgass** is on the front page of every national newspaper in Britain. 
 

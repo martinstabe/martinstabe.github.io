@@ -2,6 +2,8 @@
 title: 'Some postdated links&#8230;'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/21/some-postdated-links/
 views:
   - 1
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Sorry, forgot to post the things I&#8217;ve been collecting here over the past week: 
 

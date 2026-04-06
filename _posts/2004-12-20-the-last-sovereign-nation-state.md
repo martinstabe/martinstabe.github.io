@@ -2,6 +2,8 @@
 title: The last sovereign nation-state?
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2004/12/20/the-last-sovereign-nation-state/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 [Via **Jeff Jarvis**&rsquo; Buzzmachine][1], I noticed this paragraph from **Timothy Garton Ash**&rsquo;s [latest column][2] in the *New York Times*
 

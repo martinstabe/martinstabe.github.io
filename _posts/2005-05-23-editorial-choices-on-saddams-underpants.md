@@ -2,6 +2,10 @@
 title: 'Editorial choices on Saddam&#8217;s underpants'
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
+  - journalism
+  - usa
 permalink: /2005/05/23/editorial-choices-on-saddams-underpants/
 views:
   - 15
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
-  - Journalism
-  - USA
 ---
 *NewsDesigner.com* presents the four [options that newspaper editors had][1] when confronted with the question of how to present the *Sun&rsquo;s *story about the pictures of **Saddam Hussein** in his underwear.
 

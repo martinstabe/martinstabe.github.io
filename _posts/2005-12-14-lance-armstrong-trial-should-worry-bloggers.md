@@ -2,6 +2,8 @@
 title: Lance Armstrong trial should worry bloggers
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/12/14/lance-armstrong-trial-should-worry-bloggers/
 views:
   - 68
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Seven-time *Tour de France* winner **Lance Armstrong** will [be going on trial for defamation in Italy][1] at a trial beginning next year.
 

@@ -2,6 +2,8 @@
 title: Regional CAP data now available
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/07/22/regional-cap-data-now-available/
 views:
   - 71
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Two months after responding to a Freedom of Information Act request releasing the breakdown of [payments to farmers under the Common Agricultural Policy][1], the Rural Payments Agency this week released a promised [breakdown of the CAP subsidy data by region][2].
 

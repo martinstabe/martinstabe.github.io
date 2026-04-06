@@ -2,6 +2,8 @@
 title: More on Ali and the Beeb
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/29/more-on-ali-and-the-beeb/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *Independent* is reporting that the [BBC has fresh evidence][1] for its side of the story in the row with **Alastair Campbell** and the **Blair** government:  
 

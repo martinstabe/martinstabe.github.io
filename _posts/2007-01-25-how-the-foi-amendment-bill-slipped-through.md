@@ -2,6 +2,13 @@
 title: How the FOI (Amendment) Bill slipped through
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - guardian
+  - information-tribunal
+  - journalism
+  - miscellanea
+  - parliament
 permalink: /2007/01/25/how-the-foi-amendment-bill-slipped-through/
 views:
   - 94
@@ -9,13 +16,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Guardian
-  - Information Tribunal
-  - Journalism
-  - Miscellanea
-  - Parliament
 ---
 *The Guardian&#8217;s* David Hencke today looks at how the [Freedom of Information (Amendment) Bill][1] [slipped through its second reading][2] unopposed in the House of Commons:
 

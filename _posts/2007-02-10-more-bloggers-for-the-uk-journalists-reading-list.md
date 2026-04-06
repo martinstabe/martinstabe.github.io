@@ -2,6 +2,9 @@
 title: 'More bloggers for the UK journalist&#8217;s reading list'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
 permalink: /2007/02/10/more-bloggers-for-the-uk-journalists-reading-list/
 views:
   - 114
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
 ---
 The [*Press Gazette* journalist&#8217;s blogroll feature][1] started out as an IM conversation I had with its author, [Graham Holliday][2], about which blogs rise to the top of my RSS reader when I turn on &#8220;sort by attention&#8221;, a fantastic feature in [NetNewsWire][3] that ranks your feeds in order of the proportion of its headlines that you click through to read.
 

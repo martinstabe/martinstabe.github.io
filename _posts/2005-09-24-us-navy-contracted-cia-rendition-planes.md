@@ -2,6 +2,8 @@
 title: US Navy contracted CIA rendition planes
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/09/24/us-navy-contracted-cia-rendition-planes/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 The Associated Press has obtained documents indicating that an obscure agency of the [United States Navy secretly contracted airplanes used by the CIA][1] in &ldquo;extraordinary renditions&rdquo;.
 

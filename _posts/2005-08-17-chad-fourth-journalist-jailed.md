@@ -2,6 +2,8 @@
 title: 'Chad: fourth journalist jailed'
 author: Martin Stabe
 layout: post
+tags:
+  - africa
 permalink: /2005/08/17/chad-fourth-journalist-jailed/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Africa
 ---
 The central African state of [Chad is one of the most under-reported countries in the world][1].
 

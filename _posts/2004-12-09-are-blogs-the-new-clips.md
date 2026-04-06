@@ -2,6 +2,8 @@
 title: Are blogs the new clips?
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/12/09/are-blogs-the-new-clips/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 From TechCentralStation:
 

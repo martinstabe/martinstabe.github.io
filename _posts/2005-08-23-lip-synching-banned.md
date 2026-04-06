@@ -2,6 +2,8 @@
 title: Lip synching banned
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2005/08/23/lip-synching-banned/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **Saparmurat Niyazov**, the president of Turkmenistan, has [banned lip synching][1].
 

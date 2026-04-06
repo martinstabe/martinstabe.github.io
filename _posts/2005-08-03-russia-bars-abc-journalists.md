@@ -2,6 +2,8 @@
 title: Russia bars ABC journalists
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/03/russia-bars-abc-journalists/
 views:
   - 29
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 [Russia will not renew the press accreditation][1] of journalists working for ABC, after the Moscow correspondent of the American television network conducted an interview with Chechian warlord **Shamil Basayev**.
 

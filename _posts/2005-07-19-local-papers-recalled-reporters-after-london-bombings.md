@@ -2,6 +2,8 @@
 title: Local papers recalled reporters after London bombings
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/19/local-papers-recalled-reporters-after-london-bombings/
 views:
   - 62
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 The Dart Center for Journalism & Trauma has produced an excellent [roundup and assessment of the coverage][1] of the London bombings and has a [list of resources][2] for reporters covering events like the London bombings. Given the attention (and [criticism][3]) the &ldquo;citizen paparazzi&rdquo; have been getting on this story, perhaps bloggers and owners of camera-phones should read this, too.
 

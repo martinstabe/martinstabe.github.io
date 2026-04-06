@@ -2,6 +2,8 @@
 title: Scholar bloggers
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/30/scholar-bloggers/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *Chronicle of Higher Education&#8217;s* <a href="http://chronicle.com/free/v49/i39/39a01401.htm" target="_top">story on scholar-bloggers</a> is out. Some of my favourite names get a mention. 
 

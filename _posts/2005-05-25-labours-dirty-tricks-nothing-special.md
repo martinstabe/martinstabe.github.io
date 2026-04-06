@@ -2,6 +2,8 @@
 title: 'Labour&#8217;s &#8220;dirty tricks&#8221;: nothing special'
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/05/25/labours-dirty-tricks-nothing-special/
 views:
   - 46
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 I agree with **Mike Smithson** of *Political Betting:* (and **[Allan Scullion][1]**) the Channel 4 *Dispatches* documentary about Labour&rsquo;s &ldquo;dirty tricks&rdquo; told us [nothing particularly shocking][2]. 
 

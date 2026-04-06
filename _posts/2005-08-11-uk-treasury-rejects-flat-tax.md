@@ -2,6 +2,8 @@
 title: UK Treasury rejects flat tax
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/08/11/uk-treasury-rejects-flat-tax/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 The Treasury has [rejected calls for introducing a &ldquo;flat tx&rdquo;][1] system in the UK, accourding to documents ([PDF][2]) obtained by the *Financial Times* [under the Freedom of Information Act][3].
 

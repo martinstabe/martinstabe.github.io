@@ -2,6 +2,13 @@
 title: Downing Street memo story gathering pace in US
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - iraq
+  - journalism
+  - special-relationships
+  - uk
+  - usa
 permalink: /2005/06/09/downing-street-memo-story-gathering-pace-in-us/
 views:
   - 17
@@ -9,13 +16,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Iraq
-  - Journalism
-  - Special Relationships
-  - UK
-  - USA
 ---
 For weeks now, liberal American [media activists][1], [bloggers][2] (and [some journalists][3]) have been perplexed about why the 2 May [*Sunday Times* story about the 2002 Downing Street memo][4] has not been picked up more widely by American newspapers.
 

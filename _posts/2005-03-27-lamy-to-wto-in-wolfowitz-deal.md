@@ -2,6 +2,8 @@
 title: Lamy to WTO in Wolfowitz deal?
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/03/27/lamy-to-wto-in-wolfowitz-deal/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 Has part of the [global horse-trading][1] over **Paul Wolfowitz**&rsquo;s appointment to the presidency of the World Bank, it seems the EU countries are demanding U.S. backing for the candidacy of former EU trade Commissioner **Pascal Lamy** as the new director-general of the World Trade Organisation. 
 

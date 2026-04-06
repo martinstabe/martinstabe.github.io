@@ -2,6 +2,8 @@
 title: Katrina aid to be burned over BSE fears
 author: Martin Stabe
 layout: post
+tags:
+  - katrina
 permalink: /2005/09/19/katrina-aid-to-be-burned-over-bse-fears/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Katrina
 ---
 In the past week, it emerged that US authorities were worried about the potential [risk of BSE in NATO rations][1] being sent to Katrina victims from Germany. 
 

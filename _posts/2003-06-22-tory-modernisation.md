@@ -2,6 +2,8 @@
 title: Tory modernisation
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/22/tory-modernisation/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 From the <a href="http://www.timesonline.co.uk/article/0,,2087-721430,00.html" target="_top"><i>Sunday Times:</i></a>  
 

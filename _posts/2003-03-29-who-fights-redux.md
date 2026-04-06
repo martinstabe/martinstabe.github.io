@@ -2,6 +2,10 @@
 title: Who Fights? Redux
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
+  - military
+  - sociology
 permalink: /2003/03/29/who-fights-redux/
 views:
   - 77
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Iraq
-  - Military
-  - Sociology
 ---
 The *New York Times* has an excellent piece today about <a href="http://www.nytimes.com/2003/03/30/international/worldspecial/30DEMO.html" target="_top">military demographics</a>:  
 

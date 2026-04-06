@@ -2,6 +2,8 @@
 title: Bush meets German opposition
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/07/29/bush-meets-german-opposition/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 The German election in September could dramatically change that country&rsquo;s foreign policy, putting it far closer to the Blair in Europe and Bush everywhere else.
 

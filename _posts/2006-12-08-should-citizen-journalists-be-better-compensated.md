@@ -2,6 +2,8 @@
 title: 'Should &#8216;citizen journalists&#8217; be better compensated?'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2006/12/08/should-citizen-journalists-be-better-compensated/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Graham Holliday helped me out of a bind earlier this week when he helped [reanimate the *Press Gazette* mummy][1] by writing the first new blog post for */discuss Journalism* on extremely short notice.
 

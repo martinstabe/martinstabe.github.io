@@ -2,6 +2,8 @@
 title: 'British blogs: irrelevant to the election?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/12/british-blogs-irrelevant-to-the-election/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Regular readers will know that I&#8217;m [not a huge optimist][1] when it comes to the potential for an effective British political blogosphere. The market is still too small to approximate anything like what has emerged in the United States over the last few years, and the political and media culture doesn&#8217;t lend itself toward anything like the U.S. blogosphere.
 

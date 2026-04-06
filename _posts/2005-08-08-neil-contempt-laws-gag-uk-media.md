@@ -2,6 +2,11 @@
 title: 'Neil: Contempt laws gag UK media'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - london
+  - uk
+  - usa
 permalink: /2005/08/08/neil-contempt-laws-gag-uk-media/
 views:
   - 55
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - London
-  - UK
-  - USA
 ---
 In the *Guardian,* **Andrew Neil** today became the [second][1] media commentator to condemn Liberty&rsquo;s strange defense of Britain&rsquo; contempt of court law, which in the last few weeks has had the effect of [gagging the British media&rsquo;s reporting of the investigation][2] into the London bombings.
 

@@ -2,6 +2,8 @@
 title: AFP coming off Google News
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/23/afp-coming-off-google-news/
 views:
   - 49
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Less news is bad news for bloggers, especially when a major global news agency&#8217;s reporting network is no longer at their fingertips.
 

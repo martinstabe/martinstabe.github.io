@@ -2,6 +2,8 @@
 title: Iran blogger sentenced to 14 years in prison
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/24/iran-blogger-sentenced-to-14-years-in-prison/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 [<img alt="ctpb2.gif" src="http://www.martinstabe.com/blog/ctpb2/ctpb2.gif" width="468" height="60" />  
 ][1]

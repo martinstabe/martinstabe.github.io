@@ -2,6 +2,8 @@
 title: Iraq not safe enough to return refugees
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/08/17/iraq-not-safe-enough-to-return-refugees/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 The London office of the UN refugee agency UNHCR has issued a statement [contradicting][1] the Home Office&rsquo;s claim that Iraq is now safe enough to begin deporting refugees back to that country.
 

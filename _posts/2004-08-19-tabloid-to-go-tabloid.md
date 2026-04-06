@@ -2,6 +2,11 @@
 title: Tabloid to go tabloid
 author: Martin Stabe
 layout: post
+tags:
+  - germany
+  - journalism
+  - newspapers
+  - uk
 permalink: /2004/08/19/tabloid-to-go-tabloid/
 views:
   - 27
@@ -9,11 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Germany
-  - Journalism
-  - Newspapers
-  - UK
 ---
 [The German tabloid *Bild* is to go, um, tabloid][1].
 

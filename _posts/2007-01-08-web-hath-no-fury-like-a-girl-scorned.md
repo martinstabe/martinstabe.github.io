@@ -2,6 +2,11 @@
 title: Web hath no fury like a Girl scorned
 author: Martin Stabe
 layout: post
+tags:
+  - ethics
+  - google
+  - sunday-times
+  - times-online
 permalink: /2007/01/08/web-hath-no-fury-like-a-girl-scorned/
 views:
   - 71
@@ -9,11 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Ethics
-  - Google
-  - Sunday Times
-  - Times Online
 ---
 The woman who was [outed by the ][1]*[Sunday Times][1] *last year as the blogger who wrote the sex blog (and book) “Girl With a One Track Mind”, seems to be [Googlebomb][2]ing her way to revenge.
 

@@ -2,6 +2,8 @@
 title: Another Downing Street memo?
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/11/23/another-downing-street-memo/
 views:
   - 31
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 Ho hum. [Nothing to see here][1]:
 

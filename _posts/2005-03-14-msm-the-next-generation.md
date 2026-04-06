@@ -2,6 +2,11 @@
 title: 'MSM: The Next Generation'
 author: Martin Stabe
 layout: post
+tags:
+  - europe
+  - journalism
+  - sport
+  - uk
 permalink: /2005/03/14/msm-the-next-generation/
 views:
   - 36
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Europe
-  - Journalism
-  - Sport
-  - UK
 ---
 Blogging here has been light in the past week because I&rsquo;ve been extraordinarily busy helping launch *Metrovox.co.uk,* a web site produced by students on the postgraduate [international journalism course at City University][1] in London. 
 

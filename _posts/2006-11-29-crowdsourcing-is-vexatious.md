@@ -2,6 +2,8 @@
 title: 'Crowdsourcing is &#8216;vexatious&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2006/11/29/crowdsourcing-is-vexatious/
 views:
   - 127
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Durham County Council is rejecting as &#8220;vexatious&#8221; the 106 Freedom of Information Act requests it has received after *Guardian* columnist Ben [Goldacre attempted to mobilise his readers][1] to file the requests on his behalf.
 

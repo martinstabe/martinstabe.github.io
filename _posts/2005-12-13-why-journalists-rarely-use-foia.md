@@ -2,6 +2,8 @@
 title: Why journalists rarely use FOIA
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/12/13/why-journalists-rarely-use-foia/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Unlike [some other outlets][1], *Mother Jones* magazine&rsquo;s *MoJoBlog* [understands][2] the significance of the recently-released Pentagon FOIA logs.
 

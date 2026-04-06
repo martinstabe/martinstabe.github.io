@@ -2,6 +2,15 @@
 title: 'A different online strategy: Lag behind deliberately'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - guardian-unlimited
+  - independent
+  - independent-news-and-media
+  - independent-on-sunday
+  - podcasting
+  - telegraph-co-uk
+  - times-online
 permalink: /2007/03/25/a-different-online-strategy-lag-behind-deliberately/
 views:
   - 279
@@ -9,15 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Guardian Unlimited
-  - Independent
-  - 'Independent News &amp; Media'
-  - Independent on Sunday
-  - podcasting
-  - Telegraph.co.uk
-  - Times Online
 ---
 *The Independent on Sunday* today contains [an article][1] that seeks to justify [its editor-in-chief&#8217;s famous scepticism][2] about new media.
 

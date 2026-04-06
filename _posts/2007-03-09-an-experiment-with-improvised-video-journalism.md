@@ -2,6 +2,8 @@
 title: An experiment with improvised video journalism
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2007/03/09/an-experiment-with-improvised-video-journalism/
 views:
   - 41
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 <div align="center">
 </div>

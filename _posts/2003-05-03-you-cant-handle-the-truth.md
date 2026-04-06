@@ -2,6 +2,8 @@
 title: '&#8230;You can&#8217;t handle the truth'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/03/you-cant-handle-the-truth/
 views:
   - 1
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A 38-year-old U.S. Marine, Sgt. **Gus Covarrubias**, is <a href="http://www.mediainfo.com/editorandpublisher/headlines/article_display.jsp?vnu_content_id=1878760" traget="_top">under investigation</a> by the Naval Criminal Investigative Service after he told his hometown newspaper, the *Las Vega Review-Journal,* that he had <a href="http://www.reviewjournal.com/lvrj_home/2003/Apr-25-Fri-2003/news/21188509.html" target="_top">executed a prisoner</a> in Iraq.
 

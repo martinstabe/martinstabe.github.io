@@ -2,6 +2,8 @@
 title: Ukraine election summary
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/09/ukraine-election-summary/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 **Chrystia Freeland**&rsquo;s article in this weekend&rsquo;s *FTmagazine* is an excellent summary of the politics surrounding the [elections in Ukraine][1].
 

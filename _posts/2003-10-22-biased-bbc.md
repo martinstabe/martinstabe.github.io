@@ -2,6 +2,8 @@
 title: Biased BBC?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/10/22/biased-bbc/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Next time someone tells you the BBC is a bastion of The Liberal Media, here&#8217;s yet another not-so-radical reporting convention to point out. Compare and contrast. 
 

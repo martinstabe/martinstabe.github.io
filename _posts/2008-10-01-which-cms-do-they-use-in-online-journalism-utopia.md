@@ -2,6 +2,10 @@
 title: Which CMS do they use in online journalism utopia?
 author: Martin Stabe
 layout: post
+tags:
+  - content-management-systems
+  - journalism
+  - online-journalism
 permalink: /2008/10/01/which-cms-do-they-use-in-online-journalism-utopia/
 oc_commit_id:
   - http://www.martinstabe.com/blog/2008/10/01/which-cms-do-they-use-in-online-journalism-utopia/1222842157
@@ -15,10 +19,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - content management systems
-  - Journalism
-  - Online Journalism
 ---
 Following [Paul Bradshaw&rsquo;s recent recommendation][1], I read [Making Online News][2], a brilliant collection of academic articles edited by Chris Paterson and [David Domingo][3]. 
 

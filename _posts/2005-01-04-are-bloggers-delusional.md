@@ -2,6 +2,8 @@
 title: 'Are bloggers &lsquo;delusional&rsquo;?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/04/are-bloggers-delusional/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Regular readers will by now have noticed that I&#8217;m increasingly skeptical when it comes to the grand claims of some blog evangelists. Blogging is just not as important as it&rsquo;s been hyped up to be by those of us whom it happens to affect most: bloggers and journalists.
 

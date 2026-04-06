@@ -2,6 +2,8 @@
 title: 'EU Commissioner&rsquo;s blog now live'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/14/eu-commissioners-blog-now-live/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 EU Commissioner for Institutional Relations and Communication **Margot Wallstr&ouml;m** has [a blog][1], which was lauched today. 
 

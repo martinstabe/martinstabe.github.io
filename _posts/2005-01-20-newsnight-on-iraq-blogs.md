@@ -2,6 +2,8 @@
 title: Newsnight on Iraq Blogs
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/20/newsnight-on-iraq-blogs/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Following a video diary by **Salam Pax**, the BBC&rsquo;s [*Newsnight*][1] just had an item on Iraqi blogs *[Healing Iraq][2]* and *[Baghdad Burning][3]* as well as *[Too Fucking Scared to Create][4]*, the blog by Spc. **Michael Smith**, who was [killed on 11 January][5].
 

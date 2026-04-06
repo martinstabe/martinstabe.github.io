@@ -2,9 +2,9 @@
 title: Multiple modernities
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/02/05/multiple-modernities/
-categories:
-  - Sociology
 ---
 It&rsquo;s framed as an attack on Bush&rsquo;s State of the Union address and current American foreign policy generally, but **Martin Jacques**&rsquo;s <a href="http://www.guardian.co.uk/usa/story/0,12271,1406484,00.html">column</a> in the *Guardian* today actually makes a more significant long-term point: as India and China grow, globalisation will change.
 

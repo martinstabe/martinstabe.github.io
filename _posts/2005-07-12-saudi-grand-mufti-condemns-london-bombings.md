@@ -2,6 +2,10 @@
 title: Saudi grand mufti condemns London bombings
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - london
+  - miscellanea
 permalink: /2005/07/12/saudi-grand-mufti-condemns-london-bombings/
 views:
   - 20
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - London
-  - Miscellanea
 ---
 Saudi Arabia&rsquo;s highest religious figure[, the Grand Mufti of the mosque in Mecca has condemned the London bombings][1].
 

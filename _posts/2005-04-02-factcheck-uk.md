@@ -2,6 +2,8 @@
 title: FactCheck UK
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/02/factcheck-uk/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 Channel 4&rsquo;s new [FactCheck][1] site is &ldquo;putting a UK spin on the idea behind FactCheck.org&rdquo;, [according to][2] *dotJournalism.* Good idea.
 

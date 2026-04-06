@@ -2,6 +2,8 @@
 title: German FOIA by mid-2005
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2004/12/18/german-foia-by-mid-2005/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The British Freedom of Information Act was passed in 2000 after nearly three decades of advocacy for it. It comes into force on New Year&rquo;s Day.
 

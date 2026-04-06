@@ -2,6 +2,8 @@
 title: Fashion police gets serious
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/05/11/fashion-police-gets-serious/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 This is almost too pathetic for words: Bluewater shopping centre is so concerned about &ldquo;anti-social behaviour&rdquo; that they have opted for the obvious solution: [banning baseball caps and hooded jumpers][1] from the premises.
 

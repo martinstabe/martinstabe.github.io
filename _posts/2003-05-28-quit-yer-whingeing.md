@@ -2,6 +2,8 @@
 title: Quit yer whingeing
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/28/quit-yer-whingeing/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 One of the most annoying features of university life in Britain is the way student unions like to ban things to protect students from themselves, and the ability of student politicians to interpret every new service offered by a university as an assault on students&#8217; precarious finances and the start of creeping privatisation. 
 

@@ -2,6 +2,8 @@
 title: Electronic dragnets
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2004/05/21/electronic-dragnets/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 While the UK debates its national ID card proposal, reader **TJ** alerts me to this Associated Press report from the United States that illustrates how the real issue in in contemporary political debates about privacy is that [large centralised identity databases can be used to automate discrimination][1].
 

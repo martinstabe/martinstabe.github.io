@@ -2,6 +2,8 @@
 title: Red oblasts and blue oblasts
 author: Martin Stabe
 layout: post
+tags:
+  - ukraine
 permalink: /2004/11/25/red-oblasts-and-blue-oblasts/
 views:
   - 49
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Ukraine
 ---
 So you think the United States has a red-state-blue-state problem? Try <s>red</s> orange and blue Ukrainian *oblasts:*</p> 
 

@@ -2,6 +2,8 @@
 title: Some EU notes
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/10/some-eu-notes/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Yesterday&rsquo;s *New York Times Magazine* had a [excruciatingly-long profile of **Robert Kilroy-Silk**][1]. It also includes an unusually pan-European introduction to Euroskepticism and its relationship to the transatlantic relationship.
 

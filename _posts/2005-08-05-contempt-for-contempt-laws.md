@@ -2,6 +2,8 @@
 title: Contempt for contempt laws
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/08/05/contempt-for-contempt-laws/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - London
 ---
 Four years ago, **T.R. Reid**, who was at the time the London bureau chief of the *Washington Post,* came to visit American politics students at Sussex University. His speech puzzled many people in the audience because he spent a lot of time complaining about how restricted the British conception of a free press is compared to the United States.
 

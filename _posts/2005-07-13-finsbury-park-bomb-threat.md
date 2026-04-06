@@ -2,6 +2,8 @@
 title: Finsbury Park bomb threat
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/13/finsbury-park-bomb-threat/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 Finsbury Park station was closed this morning after a bomb threat.
 

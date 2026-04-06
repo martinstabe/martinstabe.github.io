@@ -2,6 +2,8 @@
 title: 'Keep on Rockin&#8217; in the Free World'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/04/keep-on-rockin-in-the-free-world/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 It&#8217;s been a tough week, and blogging has had to take a back seat. So just some links. 
 

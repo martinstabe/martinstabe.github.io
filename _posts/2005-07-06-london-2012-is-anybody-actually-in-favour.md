@@ -2,6 +2,13 @@
 title: 'London 2012: Is anybody actually in favour?'
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - london-2012
+  - olympics
+  - politics
+  - sport
+  - uk
 permalink: /2005/07/06/london-2012-is-anybody-actually-in-favour/
 views:
   - 49
@@ -9,13 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - London 2012
-  - Olympics
-  - Politics
-  - Sport
-  - UK
 ---
 Pass your ID card: Is another UK blogosphere consensus is in the making? *[Diamond Geezer][1])* and *[Shot By Both Sides][2]* appear to be lonely voices in favour of hosting the Olympics in London.
 

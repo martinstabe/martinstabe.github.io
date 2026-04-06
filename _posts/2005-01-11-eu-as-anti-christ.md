@@ -2,6 +2,8 @@
 title: EU as anti-Christ
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/11/eu-as-anti-christ/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Recently, [*The Periscope*][1] and [*Lose the Delusion*][2], and [*Demystifying&#8230;*][3] have been amused by the view among some American Christian fundimentalists that the EU is the anti-Christ.
 

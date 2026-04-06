@@ -2,6 +2,8 @@
 title: Blogging and the law
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/27/blogging-and-the-law/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Established media law is adapting to the Internet on both sides of the Atlantic these days.
 

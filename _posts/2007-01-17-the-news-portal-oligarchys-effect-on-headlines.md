@@ -2,6 +2,14 @@
 title: 'The news portal oligarchy&#8217;s effect on headlines'
 author: Martin Stabe
 layout: post
+tags:
+  - google
+  - google-news
+  - journalism
+  - miscellanea
+  - search
+  - seo
+  - times-online
 permalink: /2007/01/17/the-news-portal-oligarchys-effect-on-headlines/
 views:
   - 69
@@ -9,14 +17,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Google
-  - Google News
-  - Journalism
-  - Miscellanea
-  - search
-  - seo
-  - Times Online
 ---
 *Editors&#8217; Weblog*&#8216;s Jean Yves Chainon [looks at][1] the recent *Wall Street Journal* report that* Times Online* is doing some search engine optimisation with their headlines:
 

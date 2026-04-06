@@ -2,6 +2,10 @@
 title: Apologies for blog silence
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - miscellanea
+  - uk
 permalink: /2006/04/08/apologies-for-blog-silence/
 views:
   - 37
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Miscellanea
-  - UK
 ---
 It&#8217;s been a while since I&#8217;ve posted here. The fact is, I&#8217;ve been rather busy [relaunching a web site][1], and sleep had to take priority over even more blogging.
 

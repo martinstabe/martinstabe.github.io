@@ -2,6 +2,18 @@
 title: Planning applications as hyperlocal news
 author: Martin Stabe
 layout: post
+tags:
+  - data-journalism
+  - everyblock
+  - google-maps
+  - hyperlocal
+  - local
+  - localdata
+  - mobile-phones
+  - newspapers
+  - newsprint
+  - online
+  - outside-in
 permalink: /2008/09/22/planning-applications-hyperlocal-news/
 oc_metadata:
   - |
@@ -30,18 +42,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Data Journalism
-  - everyblock
-  - Google Maps
-  - hyperlocal
-  - local
-  - localdata
-  - Mobile Phones
-  - Newspapers
-  - newsprint
-  - Online
-  - outside.in
 ---
 The mysterious Grey Cardigan this weekend blogged about his infuriation with his local weekly&#8217;s habit of using news of local [planning applications to fill the space left over above the birth, death and marriage announcements][1] in the classified section:
 

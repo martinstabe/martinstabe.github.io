@@ -2,6 +2,8 @@
 title: Tsunami-blogging
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2004/12/29/tsunami-blogging/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 I&rsquo;ve been back from my Christmas trip to Germany for a few days now, but haven&#8217;t found the energy to blog. 
 

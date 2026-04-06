@@ -2,6 +2,8 @@
 title: British Katrina aid barred over BSE fears?
 author: Martin Stabe
 layout: post
+tags:
+  - katrina
 permalink: /2005/09/10/british-katrina-aid-barred-over-bse-fears/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Katrina
 ---
 A German air force plane carrying 15 tonnes of relief supplies for victims of hurricane Katrina was denied authorisation to land by US authorities, *[Der Spiegel][1]* and now the [Associated Press][2] are reporting.
 

@@ -2,6 +2,10 @@
 title: 'North Korea not amused by <em>Team America</em>'
 author: Martin Stabe
 layout: post
+tags:
+  - czech-republic
+  - miscellanea
+  - north-korea
 permalink: /2005/02/08/north-korea-not-amused-by-team-america/
 views:
   - 65
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Czech Republic
-  - Miscellanea
-  - North Korea
 ---
 [According to the CBC][1] (via the Czech newspaper *Lidove Noviny),* the North Korean embassy in Prague wants the film *Team America: World Police* to be banned in the Czech Republic.
 

@@ -2,6 +2,15 @@
 title: No need to e-mail the Indy; the conversation will go on
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - comment-is-free
+  - comments
+  - guardian
+  - independent
+  - independent-on-sunday
+  - interactive-graphics
+  - journalism
 permalink: /2007/01/09/sindy-joel-stein/
 views:
   - 52
@@ -9,15 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Comment is Free
-  - comments
-  - Guardian
-  - Independent
-  - Independent on Sunday
-  - Interactive graphics
-  - Journalism
 ---
 In his column this weekend (which is either not online or behind the paywall), *Independent on Sunday* readers’ editor Michael Williams noted that “the only column on the *IoS* with an e-mail address attached is this one”.
 

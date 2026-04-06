@@ -2,6 +2,8 @@
 title: Blame the messenger
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/23/blame-the-messenger/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 **Camilla Cavendish** [writes][1] in the *Times&rsquo;* &ldquo;Thunderer&ldquo; column:
 

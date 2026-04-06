@@ -2,6 +2,9 @@
 title: Referendum franchise revealed
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - uk
 permalink: /2005/01/26/referendum-franchise-revealed/
 views:
   - 52
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - UK
 ---
 The [franchise for Britain&rsquo;s referendum on the EU constitution][1] is, as expected, based on the franchise for Westminster elections:
 

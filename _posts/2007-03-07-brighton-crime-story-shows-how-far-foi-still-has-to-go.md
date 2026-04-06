@@ -2,6 +2,13 @@
 title: Brighton crime story shows how far FOI still has to go
 author: Martin Stabe
 layout: post
+tags:
+  - brighton-argus
+  - computer-assisted-reporting
+  - freedom-of-information
+  - journalism
+  - mashups
+  - online
 permalink: /2007/03/07/brighton-crime-story-shows-how-far-foi-still-has-to-go/
 views:
   - 157
@@ -9,13 +16,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Brighton Argus
-  - Computer Assisted Reporting
-  - Freedom of Information
-  - Journalism
-  - Mashups
-  - Online
 ---
 Roy Greenslade yesterday [pointed out][1] that the *Argus* had used the Freedom of Information Act to produce a ward-by-ward breakdown of [crime figures in Brighton][2].
 

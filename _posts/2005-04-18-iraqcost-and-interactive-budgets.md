@@ -2,6 +2,8 @@
 title: Iraqcost and interactive budgets
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/04/18/iraqcost-and-interactive-budgets/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 *WorldChanging* points out a little [Java app for mobile phones that the Liberal Democrats are distributing][1]. The [Iraqcost][2] software allows users to reallocate the &pound;5 billion that the UK has spent on the war in Iraq and send their chosen budget priorities back to the party.
 

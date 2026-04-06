@@ -2,6 +2,8 @@
 title: Red states, blue states, and ecological fallacies
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/04/12/red-states-blue-states-and-ecological-fallacies/
 views:
   - 31
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 [*Marginal Revolution*][1] sums up an [excellent post][2] from a fascinating blog called [*Statistical Modeling, Causal Inference, and Social Science*][3] about why some people were led to wrong conclusions by all those red and blue maps after the U.S. Presidental election:
 

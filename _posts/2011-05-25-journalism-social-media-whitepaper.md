@@ -2,15 +2,15 @@
 title: Journalism and social media whitepaper
 author: Martin Stabe
 layout: post
-permalink: /2011/05/25/journalism-social-media-whitepaper/
-categories:
-  - Facebook
-  - Hitwise
-  - Journalism
-  - socialnetworks
+tags:
+  - facebook
+  - hitwise
+  - journalism
+  - social-networks
   - tumblr
-  - Twitter
-  - YouTube
+  - twitter
+  - youtube
+permalink: /2011/05/25/journalism-social-media-whitepaper/
 ---
 [Daryl Willcox publishing][1] has today released a [whitepaper about how journalists have adapted to the rise of social media][2] over the last five years, which I wrote for them.
 

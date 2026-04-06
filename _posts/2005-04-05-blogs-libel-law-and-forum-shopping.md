@@ -2,6 +2,8 @@
 title: Blogs, libel law, and forum shopping
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/05/blogs-libel-law-and-forum-shopping/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 By closely following the [Adscam case in Canada][1], **Tim Worstall** has been posting about a topic that every blogger should be watching carefully: the fraught problem of [defamation law as it applies to the internet][2]. He asks exactly the right question:
 

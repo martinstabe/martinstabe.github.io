@@ -2,6 +2,15 @@
 title: What a shocker
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - czech-republic
+  - germany
+  - greece
+  - italy
+  - netherlands
+  - spain
+  - uk
 permalink: /2005/07/18/what-a-shocker/
 views:
   - 94
@@ -9,15 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - Czech Republic
-  - Germany
-  - Greece
-  - Italy
-  - Netherlands
-  - Spain
-  - UK
 ---
 The Netherlands have [defended their European baseball championship][1], beating Italy 15-0 in the final in Prague. The Dutch are the dominant in Europe, having now won [won 19 of the 29 championships since 1954][2]. Italy is Europe&rsquo;s second power, having won eight.
 

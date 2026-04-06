@@ -2,6 +2,8 @@
 title: Modern Profiteering 101
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/29/modern-profiteering-101/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Blogger just ate up a ton of work I did translating parts of <a href="http://www.spiegel.de/wirtschaft/0,1518,242394,00.html" target="_top">this article</a> from *Der Spiegel* about the role of Private Military Companies (PMCs) in the war on Iraq. Since most of it&#8217;s a rewrite from this excellent <a href="http://www.fortune.com/fortune/articles/0,15114,427948,00.html" target="_top"><i>Fortune</i> magazine article</a>, I won&#8217;t do it all again. Go read either version: it features **Dick Cheney&#8217;s** former employers, **Halliburton,** whose PMC subsidary, **Kellogg, Brown & Root** stands to make a packet on the Iraq war. What a surprise. 
 

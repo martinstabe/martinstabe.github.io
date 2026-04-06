@@ -2,6 +2,8 @@
 title: More Deep Throat rumours
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/02/06/more-deep-throat-rumours/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 According to a [column][1] in the *LA Times* by **John Dean** [noted][2] by *TheCorrection.org,* we may soon know who Deep Throat is:
 

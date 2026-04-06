@@ -2,6 +2,8 @@
 title: More Francophobic madness
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/13/more-francophobic-madness/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 So you thought the &#8220;freedom fries&#8221; episode was bizarre? It gets worse. Now a Republican congresswoman from Florida is calling for the repatriation of American war dead buried in France. Seriously. 
 

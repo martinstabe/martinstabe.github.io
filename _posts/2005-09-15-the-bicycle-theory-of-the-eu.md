@@ -2,6 +2,8 @@
 title: 'The &#8220;bicycle theory&#8221; of the EU'
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/09/15/the-bicycle-theory-of-the-eu/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 The European Union&rsquo;s ambassador to the United States, **John Bruton**, says Americans are &ldquo;unfazed&rdquo; by the EU&rsquo;s constitutional difficulties.
 

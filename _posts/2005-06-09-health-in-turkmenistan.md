@@ -2,6 +2,8 @@
 title: Health in Turkmenistan
 author: Martin Stabe
 layout: post
+tags:
+  - central-asia
 permalink: /2005/06/09/health-in-turkmenistan/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Central Asia
 ---
 A few weeks ago, the leader of Turkmenistan, **Saparmyrat Niyazov**, announced a plan to shut all the hospitals in the country outside the capital &mdash; [not that you would have noticed in the British media or the blogosphere][1].
 

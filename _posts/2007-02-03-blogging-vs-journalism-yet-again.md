@@ -2,6 +2,17 @@
 title: Blogging vs journalism, yet again
 author: Martin Stabe
 layout: post
+tags:
+  - adsense
+  - blogs
+  - comment-is-free
+  - comments
+  - digg
+  - google
+  - interactive-graphics
+  - journalism
+  - journalism-education
+  - rss
 permalink: /2007/02/03/blogging-vs-journalism-yet-again/
 views:
   - 617
@@ -9,17 +20,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - AdSense
-  - Blogs
-  - Comment is Free
-  - comments
-  - Digg
-  - Google
-  - Interactive graphics
-  - Journalism
-  - Journalism Education
-  - RSS
 ---
 A set of questions e-mailed to me by a journalism student have given me the opportunity to organise my thoughts on the relationship between &#8220;blogging&#8221; and &#8220;established media&#8221;.
 

@@ -2,6 +2,9 @@
 title: Request charges would harm FOI use
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - uk
 permalink: /2006/01/12/request-charges-would-harm-foi-use/
 views:
   - 27
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - UK
 ---
 The director of the Campaign for Freedom of Information, **Maurice Frankel**, has an article today on [my new favourite web site][1] about [the first year of FOI in Britain][2]. He&rsquo;s fairly optimistic. But there&rsquo;s one issue of ptotential concern that has received surprisingly little media coverage: the government&rsquo;s apparent proposals to [introduce fees for information requests][3] &mdash; to combat time-wasting [frivolous requests][4].
 

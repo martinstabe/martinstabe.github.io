@@ -2,6 +2,8 @@
 title: More on Matrix
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2004/05/24/more-on-matrix/
 views:
   - 31
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 The [Matrix database story][1] is more interesting than I first thought.
 

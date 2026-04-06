@@ -2,6 +2,8 @@
 title: Auntie objectively pro-war?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/07/05/auntie-objectively-pro-war/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 In a [content analysis of war reporting][1] on the four major British television newscasts &#8212; BBC, ITN, Channel 4 and Sky&nbsp;&#8212; **Justin Lewis** of Cardiff University&#8217;s journalism department found that the Beeb was twice as likely as ITN and Channel 4 News to use the British government as a source than the other three channels. Moreover, it found that  
 

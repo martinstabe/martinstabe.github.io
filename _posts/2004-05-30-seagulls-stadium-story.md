@@ -2,6 +2,8 @@
 title: Seagulls stadium story
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/05/30/seagulls-stadium-story/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Today, about 30,000 fans of Brighton & Hove Albion FC will be travelling to Cardiff for the Second Division playoff final against Bristol City. The *Sunday Times* uses this as a peg to cover a local politics issue that I have been following for a few years: The controversy surrounding the [construction of a new football stadium in Brighton][1]. The *Telegraph* finds the [same angle][2].
 

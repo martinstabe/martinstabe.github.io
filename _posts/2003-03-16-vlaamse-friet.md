@@ -2,6 +2,8 @@
 title: '<i>Vlaamse friet?</i>'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/16/vlaamse-friet/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Fine. So you want to rename french fries? At least use the opportunity to <a href="http://www.belgianfries.com/" target="_top">get it right</a>. 
 

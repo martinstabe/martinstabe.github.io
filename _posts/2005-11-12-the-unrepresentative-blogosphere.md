@@ -2,6 +2,8 @@
 title: The unrepresentative blogosphere
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/11/12/the-unrepresentative-blogosphere/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Duncan Stephen** makes a very important point: [Joe Blogs and Joe Public are very different][1].
 

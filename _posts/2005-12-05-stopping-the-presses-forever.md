@@ -2,6 +2,8 @@
 title: 'Stopping the presses &#8211; forever?'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/12/05/stopping-the-presses-forever/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **Jeff Jarvis** [mentions][1] an incident last month when *Guardian* editor **Alan Rusbridger** casually told him that the paper&rsquo;s costly new Berliner printing plant &ldquo;may be the last presses we ever own.&rdquo;
 

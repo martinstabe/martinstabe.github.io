@@ -2,6 +2,8 @@
 title: 'ID Cards: &#8216;Secrecy for secrecy&#8217;s sake&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2005/12/06/id-cards-secrecy-for-secrecys-sake/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 *ComputerWeekly&rsquo;s* [paper on the implications of ID Cards][1], produced for the Commons Public Administration Comittee, is avaoialble online.
 

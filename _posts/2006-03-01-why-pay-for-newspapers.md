@@ -2,6 +2,10 @@
 title: Why pay for newspapers?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - newspapers
+  - online
 permalink: /2006/03/01/why-pay-for-newspapers/
 views:
   - 70
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Newspapers
-  - Online
 ---
 On *We Want Media,* the new blog being produced by journalism students at New York University, an anonymous commenter reponds to a post about the [choice between paid-for print subscriptions and free online news][1]:
 

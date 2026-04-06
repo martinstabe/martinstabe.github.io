@@ -2,6 +2,8 @@
 title: Home plus sun
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/03/home-plus-sun/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *Fistful of Euros&rsquo;* **Scott Martens** has an entertaining recollection of his visit to the [well-known British enclave of Benidorm, Valencia, Spain][1].
 

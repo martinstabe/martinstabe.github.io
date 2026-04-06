@@ -2,6 +2,8 @@
 title: Free speech? Whatever.
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/01/31/free-speech-whatever/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 Yikes!
 

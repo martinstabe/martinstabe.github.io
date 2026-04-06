@@ -2,6 +2,8 @@
 title: 'Stop thinking &#8216;broadcast&#8217;, you morons!'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/06/06/stop-thinking-broadcast-you-morons/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Suw Charman** has come up with a standard response for every time there&rsquo;s a [silly article about blogging][1] in the papers:
 

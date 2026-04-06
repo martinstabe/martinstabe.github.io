@@ -2,6 +2,14 @@
 title: '&#8216;Head-cam&#8217; video voxpops at Press Gazette'
 author: Martin Stabe
 layout: post
+tags:
+  - evening-standard
+  - london-lite
+  - plymouth-herald
+  - press-gazette
+  - thelondonpaper
+  - video
+  - youtube
 permalink: /2007/01/19/head-cam-video-voxpops-at-press-gazette/
 views:
   - 89
@@ -9,14 +17,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Evening Standard
-  - London Lite
-  - Plymouth Herald
-  - Press Gazette
-  - thelondonpaper
-  - Video
-  - YouTube
 ---
 Press Gazette reporter Rachael Gallagher filmed some [video vox pops][1] this week to gauge Londoners’ opinions of the *Evening Standard* and the free newspapers *London Lite* and *thelondonpaper. *You can [watch the results on YouTube][2].
 

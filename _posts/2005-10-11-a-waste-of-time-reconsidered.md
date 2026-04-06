@@ -2,6 +2,8 @@
 title: '&#8216;A waste of time&#8217; reconsidered'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/10/11/a-waste-of-time-reconsidered/
 views:
   - 41
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 In February, I scribbed something about how [political blogging can&rsquo;t be understood outside the context of the particular political and media culture in which it operates][1]. The post was supposed to show why the experience of the high-profile, anti-media blogging culture that has emerged in the United States would not quickly be replicated in the United States &mdash; contrary to the hopes of some people like **Iain Duncan-Smith**.
 

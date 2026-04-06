@@ -2,6 +2,8 @@
 title: Perle to sue Hersh in UK
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/12/perle-to-sue-hersh-in-uk/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Now **Richard Perle** <a href="http://daily.nysun.com/Repository/getFiles.asp?Style=OliveXLib:ArticleToMail&Type=text/html&Path=NYS/2003/03/12&ID=Ar00200" target="_top">plans to sue</a> **Seymour Hersh** for libel in a British court. **Atrios **<a href="http://atrios.blogspot.com/2003_03_09_atrios_archive.html#90610674" target="_top">hopes</a> for a **Jeffrey Archer** outcome. 
 

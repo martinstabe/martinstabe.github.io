@@ -2,6 +2,8 @@
 title: Regressive taxation
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2004/12/01/regressive-taxation/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 **Jim** at Our Word is Our Weapon has compiled this excellent graph illustrating the effective [rates of taxation endured by various income groups][1] under the present British tax regime. [[ADDED 8.1.2006][2]]
 

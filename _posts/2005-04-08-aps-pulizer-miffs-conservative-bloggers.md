@@ -2,6 +2,8 @@
 title: 'AP&#8217;s Pulizer miffs conservative bloggers'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/04/08/aps-pulizer-miffs-conservative-bloggers/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 *LGF* is [outraged][1] that the [Pulizer Prize for Breaking News Photography][2] was awarded to the Associated Press &mdash; you know, one of those MSM organisations whose local stringers in Iraq have been putting their necks on the line to provide blog-fodder for those of us in our pyjamas.
 

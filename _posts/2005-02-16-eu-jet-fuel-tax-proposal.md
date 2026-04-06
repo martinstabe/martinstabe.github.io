@@ -2,6 +2,8 @@
 title: EU jet fuel tax proposal
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/16/eu-jet-fuel-tax-proposal/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 The German finance minister **Hans Eichel** will propose a [European tax on aviation fuel][1] at the meeting of European finance ministers tomorrow. <s>The *Telegraph* reports that [European Commission favours the proposal][2], but other reports indicate that Taxation and Customs Union Commissioner **L&aacute;szl&oacute; Kov&aacute;cs**, at least, is [more skeptical][3].</s>
 

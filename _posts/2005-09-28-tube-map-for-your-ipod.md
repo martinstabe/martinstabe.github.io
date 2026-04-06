@@ -2,6 +2,8 @@
 title: Tube map for your iPod
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/09/28/tube-map-for-your-ipod/
 views:
   - 259
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - London
 ---
 Download a [London tube map for your iPod][1] while you still can. 
 

@@ -2,6 +2,8 @@
 title: The danger of defining journalism
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/06/the-danger-of-defining-journalism/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Apple Computer&rsquo;s attempt to subpoena web site owners to discover who has been leaking confidential company information to them took a worrying twist for bloggers this week when a California judge ruled that the [web sites do not qualify for protection][1] under a law that protects journalists from being charged with contempt of court.
 

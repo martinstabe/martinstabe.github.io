@@ -2,6 +2,11 @@
 title: Police increasingly use Oyster card data
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - sociology
+  - surveillance
+  - uk
 permalink: /2006/03/13/police-increasingly-use-oyster-card-data/
 views:
   - 130
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Sociology
-  - Surveillance
-  - UK
 ---
 Oh dear&#8230; All of my pet subjects come together in one story: The [Freedom of Information Act][1], [Radio Frequency Identification][2] technology and the theory of the [&ldquo;surviellant assemblage&rdquo;][3].
 

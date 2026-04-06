@@ -2,6 +2,8 @@
 title: Fun with databases
 author: Martin Stabe
 layout: post
+tags:
+  - links
 permalink: /2004/02/26/fun-with-databases/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - links
 ---
 Chris Applegate has a fun web site that includes such gems of technological political satire as the [*Daily Mail-*o-Matic][1], the [David Blunkett Policy Maker][2] and [Alastair Campbell&#8217;s Wheel of Retribution][3].
 

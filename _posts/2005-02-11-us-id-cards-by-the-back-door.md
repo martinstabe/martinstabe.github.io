@@ -2,6 +2,8 @@
 title: U.S. ID cards by the back door
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/02/11/us-id-cards-by-the-back-door/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 The UK isn&#8217;t the only place where identity cards are on the national agenda.
 

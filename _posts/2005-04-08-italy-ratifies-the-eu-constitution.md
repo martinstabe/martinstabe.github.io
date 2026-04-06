@@ -2,6 +2,8 @@
 title: Italy ratifies the EU Constitution
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/04/08/italy-ratifies-the-eu-constitution/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Some news from Rome that you may have missed: [Italy&#8217;s Senate has ratified the EU Constitutional treaty][1].
 

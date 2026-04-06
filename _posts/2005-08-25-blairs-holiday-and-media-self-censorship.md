@@ -2,6 +2,8 @@
 title: 'Blair&#8217;s holiday and media self-censorship'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/25/blairs-holiday-and-media-self-censorship/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 In recent weeks, a number of stories have shown how British media laws, secrecy conventions and unnecessary self-censorship have had effects on press freedom that baffle American journalists.
 

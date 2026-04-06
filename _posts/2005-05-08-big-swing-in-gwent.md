@@ -2,6 +2,8 @@
 title: Big swing in Gwent
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/05/08/big-swing-in-gwent/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 I wonder how much [**John Prescott**&rsquo;s moment of madness][1] in Wales contributed to the Blaenau Gwent constituency returning the biggest swing against Labour.
 

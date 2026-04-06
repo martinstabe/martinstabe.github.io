@@ -2,6 +2,8 @@
 title: Sack John Reid
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/06/09/sack-john-reid/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Tony Blair has hinted that his government may allow local councils to [ban smoking in enclosed public places][1]. This is good news.
 

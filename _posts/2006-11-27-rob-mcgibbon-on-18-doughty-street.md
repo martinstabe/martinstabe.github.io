@@ -2,6 +2,9 @@
 title: Rob McGibbon on 18 Doughty Street
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - press-gazette
 permalink: /2006/11/27/rob-mcgibbon-on-18-doughty-street/
 views:
   - 24
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Press Gazette
 ---
 [Rob McGibbon][1], who wrote *Press Gazette&#8217;s* [&#8220;Press Conference&#8221; celebrity interviews][2], will be on [18 Doughty Street][3] [with Iain Dale][4] tonight at 9pm.
 

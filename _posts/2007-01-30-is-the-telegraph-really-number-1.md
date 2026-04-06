@@ -2,6 +2,20 @@
 title: Is the Telegraph really Number 1?
 author: Martin Stabe
 layout: post
+tags:
+  - abce
+  - bbc
+  - comscore
+  - daily-telegraph
+  - guardian-media-group
+  - guardian-unlimited
+  - hitwise
+  - metrics
+  - nielsen-netratings
+  - sun-online
+  - telegraph-group
+  - telegraph-co-uk
+  - times-online
 permalink: /2007/01/30/is-the-telegraph-really-number-1/
 views:
   - 163
@@ -9,20 +23,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - ABCe
-  - BBC
-  - Comscore
-  - Daily Telegraph
-  - Guardian Media Group
-  - Guardian Unlimited
-  - Hitwise
-  - metrics
-  - Nielson/Netratings
-  - Sun Online
-  - Telegraph Group
-  - Telegraph.co.uk
-  - Times Online
 ---
 The long-simmering feud between the *Telegraph* and Britain&#8217;s other quality newspapers about who really has the biggest online reach is heating up again.
 

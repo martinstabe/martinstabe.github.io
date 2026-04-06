@@ -2,6 +2,8 @@
 title: Brits vs. Yanks
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/06/16/brits-vs-yanks/
 views:
   - 23
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 With more and more English-speaking people routinely reading newspapers from both sides of the Atlantic on the Internet and having to learn to parse information from the very different conventions of British and American journalism, the *Columbia Journalism Review* has an timely piece [comparing the American and British journalistic attitudes toward &#8220;objectivity&#8221;][1]. The story is an interview with *WaPo* ombudsman Michael Getler and *Indy* foreign editor Leonard Doyle. My scare quotes should tell you where I stand on this issue.
 

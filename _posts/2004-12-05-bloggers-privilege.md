@@ -2,6 +2,8 @@
 title: 'Bloggers&rsquo; privilege'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/12/05/bloggers-privilege/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **Terence Blacker** of the *Independent* is [way off the mark][1] in his discussion of a [think tank report][2] suggesting that the line between amateur and professional in all manner of activities &mdash; including journalism &mdash; is being blurred:
 

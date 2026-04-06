@@ -2,6 +2,10 @@
 title: Blog-MSM convergence
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - general-election-2005
+  - journalism
 permalink: /2005/04/08/blog-msm-convergence/
 views:
   - 53
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - General Election 2005
-  - Journalism
 ---
 **Nosemonkey**, posting at the excellent new group blog about the [2005 UK General Election][1], has more about[ how British political campaigns are using new media][2].
 

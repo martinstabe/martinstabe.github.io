@@ -2,6 +2,15 @@
 title: A whole new Focus in Germany
 author: Martin Stabe
 layout: post
+tags:
+  - der-spiegel
+  - die-welt
+  - focus
+  - germany
+  - msn
+  - online
+  - tagging
+  - video
 permalink: /2007/01/02/a-whole-new-focus-in-germany/
 views:
   - 88
@@ -9,15 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Der Spiegel
-  - Die Welt
-  - Focus
-  - Germany
-  - MSN
-  - Online
-  - Tagging
-  - Video
 ---
 Several German news web sites will be relaunching in early 2007 with a host of “web 2.0” features in a bid to catch up with the dominant *[Spiegel Online][1]. *
 

@@ -2,6 +2,8 @@
 title: Iraq War legal advice developments
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/03/24/iraq-war-legal-advice-developments/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Channel 4 News has [obtained the excised part][1] of the resignation letter by Government legal advisor **Elizabeth Wilmshurst** that was [released by the Foreign Office][2] last month under the Freedom of Information Act.
 

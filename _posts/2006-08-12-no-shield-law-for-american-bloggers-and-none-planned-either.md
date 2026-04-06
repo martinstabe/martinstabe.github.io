@@ -2,6 +2,9 @@
 title: 'No shield law for American bloggers &#8211; and none planned, either'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
 permalink: /2006/08/12/no-shield-law-for-american-bloggers-and-none-planned-either/
 views:
   - 37
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
 ---
 I&#8217;ve already argued that bloggers&rsquo; celebration about the outcome of [the *Apple v. Does* case][1] [was premature][2]. The structure of the American judicial system ensures that extending California&#8217;s journalist shield law is only useful to cases brought in California state courts, but not in Federal cases.
 

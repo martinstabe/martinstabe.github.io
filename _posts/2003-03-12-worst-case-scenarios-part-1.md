@@ -2,6 +2,8 @@
 title: Worst-case scenarios (Part 1)
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/12/worst-case-scenarios-part-1/
 views:
   - 1
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 I&#8217;m a few days behind on this one, but the conservative blogs have been passing a very worrying piece around, and it&#8217;s worth a mention. In last Friday&#8217;s *Daily Telegraph,*** <a href="http://www.stephenpollard.net/" target="_top">Stephen Pollard</a>,** a senior fellow at the **<a href="http://www.centrefortheneweurope.org/" target="_top">Centre for the New Europe</a> **wrote a <a href="http://www.portal.telegraph.co.uk/opinion/main.jhtml?xml=/opinion/2003/03/07/do0701.xml&sSheet=/opinion/2003/03/07/i opinion.html" target="_top">lot of stuff</a>, but I&#8217;m interested in only one paragraph:  
 

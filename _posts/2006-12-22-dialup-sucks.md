@@ -2,6 +2,9 @@
 title: Dialup sucks
 author: Martin Stabe
 layout: post
+tags:
+  - announcements
+  - miscellanea
 permalink: /2006/12/22/dialup-sucks/
 views:
   - 50
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Announcements
-  - Miscellanea
 ---
 I am currently in a place without broadband, and it&#8217;s painful. Even something as simple as checking e-mail is an agonisingly slow experience.
 

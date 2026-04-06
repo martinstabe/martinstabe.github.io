@@ -2,6 +2,8 @@
 title: Ralph Nader, fool
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/03/16/ralph-nader-fool/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 This [AP report][1] says it all:  
 

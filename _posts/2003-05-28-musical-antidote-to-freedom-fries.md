@@ -2,6 +2,8 @@
 title: Musical antidote to Freedom Fries
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/28/musical-antidote-to-freedom-fries/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 If you are in the Chicago area, I would strongly encourage you to attend the <a href="http://www.ravinia.org/box_office/event_detail.cfm?xid_show=3222060" target="_top">Bastille Day French Marathon</a> concert being put on at the Ravinia Festival on 14 July. Here&#8217;s what you get:  
 

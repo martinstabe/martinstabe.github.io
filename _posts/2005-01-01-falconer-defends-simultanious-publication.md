@@ -2,6 +2,8 @@
 title: Falconer defends simultanious publication
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/01/01/falconer-defends-simultanious-publication/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The *Guardian* today has a [follow-up][1] to Lord Falconer&rsquo;s plan to publish all infomation released under the Freedom of Information Act on government web sites:
 

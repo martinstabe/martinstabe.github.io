@@ -2,6 +2,11 @@
 title: Welcome, cifa.mil readers
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - military
+  - miscellanea
+  - usa
 permalink: /2005/01/14/welcome-cifamil-readers/
 BX_post_type:
   - mini
@@ -11,11 +16,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Military
-  - Miscellanea
-  - USA
 ---
 Like *Jesus&rsquo; General* [a few months back][1], my blog today received a visit (referred via *[Straight Banana][2])* from someone at the domain cifa.mil, which belongs to the U.S. [Counterintelligence Field Activity][3]. Who? [[ADDED 10.1.2006][4]]
 
