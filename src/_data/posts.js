@@ -75,6 +75,23 @@ function relativizeInternalLinks(html, permalink) {
   });
 }
 
+function absolutizeInternalLinks(html, site) {
+  return html.replace(/\b(href|src)="\/(?!\/)([^"]*)"/g, (_match, attr, target) => {
+    return `${attr}="${site.url}/${target}"`;
+  });
+}
+
+function stripHtml(value) {
+  return decodeHTML(
+    value
+      .replace(/<script[\s\S]*?<\/script>/gi, " ")
+      .replace(/<style[\s\S]*?<\/style>/gi, " ")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
+}
+
 function renderBody(body, site, permalink) {
   const bodyWithVariables = applySiteVariables(body, site);
   const isDeliciousPost = bodyWithVariables.trimStart().startsWith('<ul class="delicious">');
@@ -97,9 +114,9 @@ module.exports = function () {
     const date = data.date || fileDate;
     const permalink = data.permalink || `/${fileDate.replaceAll("-", "/")}/`;
     const tags = normalizeArray(data.tags).filter(Boolean);
-    const excerptText = decodeHTML(
-      body.split("<!--more-->")[0].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()
-    );
+    const content = renderBody(body, site, permalink);
+    const absoluteContent = absolutizeInternalLinks(content, site);
+    const excerptText = stripHtml(content);
 
     return {
       ...data,
@@ -112,7 +129,8 @@ module.exports = function () {
       fileName,
       sourcePath: filePath,
       body,
-      content: renderBody(body, site, permalink),
+      content,
+      absoluteContent,
       excerpt: excerptText
     };
   });

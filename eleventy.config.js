@@ -1,4 +1,5 @@
 const path = require("path");
+const { encodeXML } = require("entities");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ img: "img" });
@@ -28,6 +29,27 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("currentYear", () => {
     return new Date().getFullYear();
+  });
+
+  eleventyConfig.addShortcode("currentDateRfc822", () => {
+    return new Date().toUTCString();
+  });
+
+  eleventyConfig.addFilter("rfc822Date", (value) => {
+    if (!value) {
+      return "";
+    }
+
+    const date = value instanceof Date ? value : new Date(value);
+    if (Number.isNaN(date.getTime())) {
+      return "";
+    }
+
+    return date.toUTCString();
+  });
+
+  eleventyConfig.addFilter("xmlEscape", (value) => {
+    return encodeXML(String(value ?? ""));
   });
 
   eleventyConfig.addFilter("relativeUrl", (targetUrl, currentUrl = "/") => {
