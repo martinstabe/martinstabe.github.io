@@ -3,10 +3,11 @@
   "private": true,
   "description": "Parallel Eleventy scaffold for martinstabe.com",
   "scripts": {
-    "build": "eleventy",
-    "dev": "eleventy --serve"
+    "build": "node scripts/build_sass.js && eleventy",
+    "dev": "node scripts/build_sass.js && eleventy --serve"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.5"
+    "@11ty/eleventy": "^3.1.5",
+    "sass": "^1.93.2"
   }
 }
