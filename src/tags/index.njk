@@ -1,0 +1,15 @@
+---
+layout: layouts/page.njk
+title: Tags
+permalink: /tags/
+---
+<ul class="post-list">
+  {% for tag in tags %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ ('/tags/' + tag.slug + '/') | relativeUrl(page.url) }}">{{ tag.name }}</a>
+      </h2>
+      <p>{{ tag.count }} post{% if tag.count != 1 %}s{% endif %}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ '/' | relativeUrl(page.url) }}">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -12,9 +12,9 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="/blog/">Blog</a>
-        <a class="page-link" href="/links/">Links</a>
-        <a class="page-link" href="/about/">About</a>
+        <a class="page-link" href="{{ '/blog/' | relativeUrl(page.url) }}">Blog</a>
+        <a class="page-link" href="{{ '/links/' | relativeUrl(page.url) }}">Links</a>
+        <a class="page-link" href="{{ '/about/' | relativeUrl(page.url) }}">About</a>
       </div>
     </nav>
   </div>

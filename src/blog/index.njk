@@ -1,0 +1,9 @@
+---
+layout: layouts/page.njk
+title: All blog posts.
+permalink: /blog/
+---
+<p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relativeUrl(page.url) }}">via RSS</a></p>
+
+{% set posts = posts %}
+{% include "partials/post-list.njk" %}

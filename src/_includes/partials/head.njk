@@ -9,7 +9,7 @@
     content="{% if description %}{{ description | striptags }}{% else %}{{ site.description | striptags }}{% endif %}"
   >
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  <link rel="stylesheet" href="{{ '/css/main.css' | relativeUrl(page.url) }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relativeUrl(page.url) }}">
 </head>
