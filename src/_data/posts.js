@@ -36,14 +36,50 @@ function decodeValue(value) {
   return typeof value === "string" ? decodeHTML(value) : value;
 }
 
-function renderBody(body, site) {
-  return markdown.render(
-    body
-      .replaceAll("{{ site.url }}", site.url)
-      .replaceAll("{{site.url}}", site.url)
-      .replaceAll("{{ site.baseurl }}", site.baseurl)
-      .replaceAll("{{site.baseurl}}", site.baseurl)
-  );
+function applySiteVariables(body, site) {
+  return body
+    .replaceAll("{{ site.url }}", site.url)
+    .replaceAll("{{site.url}}", site.url)
+    .replaceAll("{{ site.baseurl }}", site.baseurl)
+    .replaceAll("{{site.baseurl}}", site.baseurl);
+}
+
+function relativeUrl(targetUrl, currentUrl) {
+  if (!targetUrl || /^([a-z]+:)?\/\//i.test(targetUrl) || targetUrl.startsWith("#")) {
+    return targetUrl;
+  }
+
+  const cleanTarget = String(targetUrl);
+  const cleanCurrent = String(currentUrl || "/");
+  const targetPath = cleanTarget.replace(/^\/+/, "");
+  const currentPath = cleanCurrent.replace(/^\/+/, "").replace(/\/+$/, "");
+  const fromPath = currentPath || ".";
+  const relativePath = path.posix.relative(fromPath, targetPath || ".");
+  const normalized = relativePath === "" ? "." : relativePath;
+
+  if (cleanTarget.endsWith("/") && normalized !== "." && !normalized.endsWith("/")) {
+    return `${normalized}/`;
+  }
+
+  if (cleanTarget.endsWith("/") && normalized === ".") {
+    return "./";
+  }
+
+  return normalized;
+}
+
+function relativizeInternalLinks(html, permalink) {
+  return html.replace(/\b(href|src)="\/(?!\/)([^"]*)"/g, (_match, attr, target) => {
+    const relativeTarget = relativeUrl(`/${target}`, permalink);
+    return `${attr}="${relativeTarget}"`;
+  });
+}
+
+function renderBody(body, site, permalink) {
+  const bodyWithVariables = applySiteVariables(body, site);
+  const isDeliciousPost = bodyWithVariables.trimStart().startsWith('<ul class="delicious">');
+  const rendered = isDeliciousPost ? bodyWithVariables : markdown.render(bodyWithVariables);
+  return relativizeInternalLinks(rendered, permalink);
 }
 
 module.exports = function () {
@@ -76,7 +112,7 @@ module.exports = function () {
       fileName,
       sourcePath: filePath,
       body,
-      content: renderBody(body, site),
+      content: renderBody(body, site, permalink),
       excerpt: excerptText
     };
   });
