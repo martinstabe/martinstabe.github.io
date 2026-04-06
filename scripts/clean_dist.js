@@ -12,13 +12,13 @@ function removeDirectory(targetPath) {
     const entryPath = path.join(targetPath, entry.name);
 
     if (entry.isDirectory()) {
-      removeDirectory(entryPath);
+      fs.rmSync(entryPath, { recursive: true, force: true, maxRetries: 5, retryDelay: 50 });
     } else {
       fs.unlinkSync(entryPath);
     }
   }
 
-  fs.rmdirSync(targetPath);
+  fs.rmSync(targetPath, { recursive: true, force: true, maxRetries: 5, retryDelay: 50 });
 }
 
 removeDirectory(DIST_DIR);
