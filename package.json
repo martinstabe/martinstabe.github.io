@@ -1,0 +1,12 @@
+{
+  "name": "martinstabe-com",
+  "private": true,
+  "description": "Parallel Eleventy scaffold for martinstabe.com",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
