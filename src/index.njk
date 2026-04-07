@@ -8,3 +8,61 @@ permalink: /
 <p>I am currently migrating my much-neglected old <a href="{{ '/blog/' | relativeUrl(page.url) }}">blog</a> here.</p>
 
 <p>For now, you can find me on <a href="https://bsky.app/profile/martinstabe.ft.com">Bluesky</a>, <a href="https://www.x.com/martinstabe/">Twitter/X</a>, <a href="https://github.com/MartinStabe">Github</a>, <a href="https://uk.linkedin.com/in/martinstabe">LinkedIn</a>, <a href="https://www.facebook.com/martinstabe">Facebook</a>, or <a href="https://www.instagram.com/martin.stabe/">Instagram</a>.</p>
+
+<section class="home-section">
+  <div class="home-section-header">
+    <div>
+      <h2 class="home-section-title">Stories</h2>
+      <p class="home-section-copy">A curated selection of recent Financial Times reporting and features.</p>
+    </div>
+    <p class="home-section-cta"><a href="{{ '/stories/' | relativeUrl(page.url) }}">More stories</a></p>
+  </div>
+
+  {% if homepage.stories.length > 0 %}
+  <div class="home-card-grid home-card-grid--stories">
+    {% for story in homepage.stories %}
+    <article class="home-card">
+      <a class="home-card-image-link home-card-image-link--stories" href="{{ story.link }}">
+        <img class="home-card-image home-card-image--cover" src="{{ story.promo_image }}" alt="" loading="lazy">
+      </a>
+      <div class="home-card-body">
+        <p class="home-card-meta">{{ story.pubDate | displayDate }}</p>
+        <h3 class="home-card-title"><a href="{{ story.link }}">{{ story.title }}</a></h3>
+        {% if story.description %}
+        <p class="home-card-summary">{{ story.description }}</p>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
+
+<section class="home-section">
+  <div class="home-section-header">
+    <div>
+      <h2 class="home-section-title">Data Visualisation</h2>
+      <p class="home-section-copy">Recent graphics and interactives selected from the Financial Times archive.</p>
+    </div>
+    <p class="home-section-cta"><a href="{{ '/data-visualisation/' | relativeUrl(page.url) }}">More data visualisation</a></p>
+  </div>
+
+  {% if homepage.graphics.length > 0 %}
+  <div class="home-card-grid home-card-grid--graphics">
+    {% for graphic in homepage.graphics %}
+    <article class="home-card">
+      <a class="home-card-image-link home-card-image-link--graphics" href="{{ graphic.flourish_url }}">
+        <img class="home-card-image home-card-image--auto" src="{{ graphic.homepage_display_image }}" alt="" loading="lazy">
+      </a>
+      <div class="home-card-body">
+        <p class="home-card-meta">{{ graphic.date | displayDate }}{% if graphic.flourish_template %} • {{ graphic.flourish_template }}{% endif %}</p>
+        <h3 class="home-card-title"><a href="{{ graphic.url }}">{{ graphic.story_title }}</a></h3>
+        {% if graphic.story_description %}
+        <p class="home-card-summary">{{ graphic.story_description }}</p>
+        {% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
