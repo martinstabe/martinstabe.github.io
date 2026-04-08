@@ -4,18 +4,24 @@
   link: https://www.ft.com/content/2c473393-35fb-479d-8bba-236a1a98087c
   pubDate: Mon, 30 Mar 2026 15:26:53 GMT
   include: true
+  homepage: true
+  promo_image: https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff87cced8-d74a-49b1-857d-b4beaf68af14.jpg?source=ig&fit=scale-down&dpr=2&width=480
 - guid: 7e2fbc9c-19ba-41a7-9e33-d06fb3361c31
   title: Spain’s angry young men turn to the radical right
   description: Young women still lean to the left but male youth is more rightwing than it has been for decades
   link: https://www.ft.com/content/7e2fbc9c-19ba-41a7-9e33-d06fb3361c31
   pubDate: Sun, 22 Mar 2026 05:00:08 GMT
   include: true
+  homepage: false
+  promo_image: https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e1c5dd9-c406-4897-8a4f-6589c13a813f.jpg?source=ig&fit=scale-down&dpr=2&width=480
 - guid: 152766ba-072d-4f5d-948e-d60f93e406d1
   title: Five ways demographics are transforming the world economy
   description: Longer work lives, use of AI, stress on welfare systems — 45 experts set out their analysis
   link: https://www.ft.com/content/152766ba-072d-4f5d-948e-d60f93e406d1
   pubDate: Fri, 06 Mar 2026 05:00:11 GMT
   include: true
+  homepage: false
+  promo_image: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F879de8ca-f3bb-4162-979c-dc4534bd8763.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down
 - guid: 8280412c-df99-4eb2-b447-f29872d0439d
   title: Uber enters seven new European markets in food delivery push
   description: Ride-hailing company plans to step up competition to DoorDash-owned rival Wolt in Norway and Finland
@@ -28,12 +34,14 @@
   link: https://www.ft.com/content/ec11dcb6-4f53-4215-a1a1-0b72b4bc7e29
   pubDate: Fri, 13 Feb 2026 12:33:32 GMT
   include: true
+  homepage: true
+  promo_image: https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce59a8ad-8152-4284-b7ef-cb72de629a7e.jpg?source=ig&fit=scale-down&dpr=2&width=480
 - guid: d9936aff-98e8-436e-ad68-50d883513509
   title: Venezuelans optimistic after US intervention, poll finds
   description: Majority want election this year and would vote for María Corina Machado, according to first in-person poll since leader overthrown
   link: https://www.ft.com/content/d9936aff-98e8-436e-ad68-50d883513509
   pubDate: Fri, 13 Feb 2026 05:00:20 GMT
-  include: true
+  include: false
 - guid: b6808beb-a40a-4a6f-975d-d6593eec2cdf
   title: Labour to avoid risk of 10 council losses by delaying May elections
   description: More than 200 of party’s councillors due to face voters will now serve for another year
@@ -58,6 +66,7 @@
   link: https://www.ft.com/content/580c9a0c-a93c-44f8-a545-0ef48ca99836
   pubDate: Mon, 20 Oct 2025 04:00:23 GMT
   include: true
+  homepage: true
 - guid: ad96b6d2-e834-49c1-9032-6025b6d53a73
   title: Are the Tories facing oblivion?
   description: With the Conservatives at their lowest ebb ever, leader Kemi Badenoch faces a fierce struggle to maintain the party’s relevance
@@ -88,6 +97,8 @@
   link: https://www.ft.com/content/9d3ebaed-50b6-477a-bf62-3a35a22fc222
   pubDate: Tue, 29 Apr 2025 04:01:00 GMT
   include: true
+  homepage: true
+  promo_image: https://images.ft.com/v3/image/raw/ftcms%3A5dcee69d-11d1-4618-9038-a9ac647e68da?source=ig&fit=scale-down&quality=highest&width=700&dpr=2
 - guid: 43df338b-f6c8-4cbe-a34d-76fdc9a02fbf
   title: Who will win England’s local elections on Thursday?
   description: Vote could signal beginning of end of Labour-Tory grip on politics as Reform UK and Lib Dems seek gains, analysts say
@@ -112,12 +123,14 @@
   link: https://www.ft.com/content/9d0773f6-d3c3-4a05-a301-603de435d3bf
   pubDate: Sun, 23 Mar 2025 10:10:28 GMT
   include: true
+  homepage: true
 - guid: 4bc5438f-2deb-4026-aa99-746a7d3f9284
   title: Five takeaways from Germany’s historic election — in charts
   description: Non-voters and young people turned out for the AfD and far left, depriving the CDU of an enthusiastic mandate
   link: https://www.ft.com/content/4bc5438f-2deb-4026-aa99-746a7d3f9284
   pubDate: Mon, 24 Feb 2025 10:22:14 GMT
   include: true
+  homepage: true
 - guid: 6a6d45c1-b259-4976-98f6-8ea8347f832b
   title: 'German federal election 2025: what’s at stake?'
   description: Everything you need to know about the parties, policies and voting in Sunday’s polls
@@ -147,4 +160,802 @@
   description: The FT tracks polling in every state and the possible paths to electoral college victory for Kamala Harris and Donald Trump
   link: https://ig.ft.com/us-elections/2024/polls
   pubDate: Tue, 05 Nov 2024 16:34:08 GMT
+  include: true
+- guid: aa242205-8ec6-4b4f-98bf-0bcd2a66e4cd
+  title: 'Live results map: US presidential election 2024'
+  description: Full live details of the election between Donald Trump and Kamala Harris from every state and county in the US
+  link: https://ig.ft.com/us-elections/2024/results/president
+  pubDate: Tue, 05 Nov 2024 05:01:57 GMT
+  include: true
+- guid: ee5c90c3-fffc-4849-aa8e-19c861db781a
+  title: 'Live results: US House of Representatives election 2024'
+  description: Details of the results in every Congressional district
+  link: https://ig.ft.com/us-elections/2024/results/house/
+  pubDate: Tue, 05 Nov 2024 05:00:58 GMT
+  include: true
+- guid: 285302f8-2e9e-4805-9b48-258fd4fb5d31
+  title: 'Live results: US Senate election 2024'
+  description: Details of the results in every state holding Senate elections
+  link: https://ig.ft.com/us-elections/2024/results/senate/
+  pubDate: Tue, 05 Nov 2024 05:00:58 GMT
+  include: true
+- guid: 6a317b97-8f76-46a1-af4a-ee48f5d32224
+  title: New Labour MP is biggest landlord in House of Commons
+  description: Analysis of UK parliament’s register of interests raises concerns over potential opposition to rental reforms
+  link: https://www.ft.com/content/6a317b97-8f76-46a1-af4a-ee48f5d32224
+  pubDate: Fri, 23 Aug 2024 04:00:17 GMT
+  include: true
+- guid: f7c426b0-3fdd-40b0-9110-39a280ada513
+  title: 'Results map: The winners in every seat'
+  description: Full details of who has won in every constituency
+  link: https://ig.ft.com/uk-general-election/2024/results/
+  pubDate: Fri, 05 Jul 2024 09:52:54 GMT
+  include: true
+- guid: c7b4fa91-3601-4b82-b766-319af3c261a5
+  title: UK general election poll tracker
+  description: Live-updating state of the parties polling ahead of the general election on July 4
+  link: https://www.ft.com/content/c7b4fa91-3601-4b82-b766-319af3c261a5
+  pubDate: Thu, 04 Jul 2024 09:57:23 GMT
+  include: true
+- guid: d73b0134-f307-42a1-8077-71637a1649b1
+  title: Use the FT’s model to predict the UK election result
+  description: Use our model to estimate the result in every constituency using the latest polls or what you think the result will be
+  link: https://ig.ft.com/uk-general-election/2024/projection
+  pubDate: Wed, 26 Jun 2024 13:25:53 GMT
+  include: true
+- guid: 17e9add6-1a5a-478c-ac30-f46978a6f8f6
+  title: 'Super Tuesday primaries: live results map'
+  description: Full results from 15 US states where Donald Trump and Nikki Haley are vying for the Republican presidential nomination
+  link: https://www.ft.com/content/17e9add6-1a5a-478c-ac30-f46978a6f8f6
+  pubDate: Tue, 05 Mar 2024 23:48:23 GMT
+  include: true
+- guid: 8867cf98-9c8f-48de-b8fa-2a4ed8002132
+  title: English private schools focus on recruiting overseas as Labour VAT hit looms
+  description: Independent school leaders move to shore up their finances ahead of general election
+  link: https://www.ft.com/content/8867cf98-9c8f-48de-b8fa-2a4ed8002132
+  pubDate: Sun, 18 Feb 2024 05:00:13 GMT
+  include: true
+- guid: e786505d-93bc-4909-bd7a-f7684bfe0e32
+  title: More Tories set to quit than before landslide 1997 defeat
+  description: Veterans as well as relative newcomers are among party members planning to stand down at next general election
+  link: https://www.ft.com/content/e786505d-93bc-4909-bd7a-f7684bfe0e32
+  pubDate: Mon, 12 Feb 2024 05:01:00 GMT
+  include: true
+- guid: eb0062eb-08e6-4409-8e45-aafe6dee1c57
+  title: Equities rally takes FT stock pickers by surprise
+  description: 2023’s market moves prove hard to predict for entrants in our competition
+  link: https://www.ft.com/content/eb0062eb-08e6-4409-8e45-aafe6dee1c57
+  pubDate: Fri, 12 Jan 2024 05:00:21 GMT
+  include: true
+- guid: 7b618433-ba5f-4e92-a3e0-d5d41d6d17f8
+  title: The Gaza Strip — in charts
+  description: A humanitarian crisis is unfolding in the Palestinian enclave which is more crowded than Manhattan in parts
+  link: https://www.ft.com/content/7b618433-ba5f-4e92-a3e0-d5d41d6d17f8
+  pubDate: Mon, 16 Oct 2023 09:24:20 GMT
+  include: true
+- guid: 37ce99b5-8cf3-4301-946d-d346f2d57b16
+  title: 'The ungovernable Republicans: ‘Their goal is chaos’'
+  description: House Speaker Kevin McCarthy’s defenestration is the latest example of America’s conservative movement eating its own
+  link: https://www.ft.com/content/37ce99b5-8cf3-4301-946d-d346f2d57b16
+  pubDate: Fri, 06 Oct 2023 18:03:13 GMT
+  include: true
+- guid: 3996c757-3395-413c-a490-3af257cab18f
+  title: The calculations behind Sunak’s potential inheritance tax shake-up
+  description: Though unpopular, IHT is paid by few in UK and revenue lost would have to be made up for elsewhere
+  link: https://www.ft.com/content/3996c757-3395-413c-a490-3af257cab18f
+  pubDate: Tue, 26 Sep 2023 04:00:54 GMT
+  include: true
+- guid: 4a533f2a-0303-417c-a868-593ddcdf76cf
+  title: 'Extreme renting: London’s bidding war escalates as rising rates hit buy-to-let'
+  description: Tenants in the UK capital face surging rents and eviction as landlords pass on pressure from higher borrowing costs
+  link: https://www.ft.com/content/4a533f2a-0303-417c-a868-593ddcdf76cf
+  pubDate: Tue, 05 Sep 2023 04:00:25 GMT
+  include: true
+- guid: 44aea392-b729-47fa-8b88-93cd6ddc8fde
+  title: 'How Erdoğan beat the odds: Turkey’s election in charts'
+  description: President held together a coalition of conservative voters despite problems with economy
+  link: https://www.ft.com/content/44aea392-b729-47fa-8b88-93cd6ddc8fde
+  pubDate: Tue, 16 May 2023 15:01:24 GMT
+  include: true
+- guid: 2b79aea6-afcc-46b6-8f3e-0f21cc7f0564
+  title: Sunak and Starmer go head to head in battle for local council seats
+  description: Contest across much of England will be scrutinised for clues to outcome of next general election
+  link: https://www.ft.com/content/2b79aea6-afcc-46b6-8f3e-0f21cc7f0564
+  pubDate: Thu, 04 May 2023 03:00:03 GMT
+  include: true
+- guid: a7c2b2f6-e106-436d-a599-cfcc69d18b05
+  title: China’s ports dominance undermines western aims to loosen trade ties
+  description: Shipping hubs in India and south-east Asia lack capacity to compete, according to freight data
+  link: https://www.ft.com/content/a7c2b2f6-e106-436d-a599-cfcc69d18b05
+  pubDate: Mon, 03 Apr 2023 04:00:32 GMT
+  include: true
+- guid: 45cdbf60-26c3-420e-b1ad-fa4529f9d346
+  title: Sunak defends UK levelling-up funding despite claims of unfairness
+  description: Allocations from £2bn regional aid programme under fire and PM runs into seatbelt row on trip to promote aid
+  link: https://www.ft.com/content/45cdbf60-26c3-420e-b1ad-fa4529f9d346
+  pubDate: Thu, 19 Jan 2023 21:54:06 GMT
+  include: true
+- guid: 0ff10a13-a88c-4f8a-ba7c-6b988eb5f0d0
+  title: Shorts triumph in tough year for FT stockpickers
+  description: Winners in our annual contest bet against tech and crypto, while backing energy
+  link: https://www.ft.com/content/0ff10a13-a88c-4f8a-ba7c-6b988eb5f0d0
+  pubDate: Sat, 14 Jan 2023 05:00:40 GMT
+  include: true
+- guid: 6a2ef26f-e50b-4a4f-b103-c4fd263ea60e
+  title: 'Live results map: US midterm elections 2022'
+  description: Live results of elections that will determine control of the US Senate and House of Representatives during the second half of Joe Biden’s term as president
+  link: https://www.ft.com/content/6a2ef26f-e50b-4a4f-b103-c4fd263ea60e
+  pubDate: Wed, 07 Dec 2022 03:34:47 GMT
+  include: true
+- guid: 11a826bf-6cd2-410f-8d05-254ad833fb75
+  title: 'Autumn Statement: What it means for your money'
+  description: Key changes affecting personal taxes, investments, pensions and property
+  link: https://www.ft.com/content/11a826bf-6cd2-410f-8d05-254ad833fb7
+  pubDate: Thu, 17 Nov 2022 14:16:31 GMT
+  include: true
+- guid: c0f03ded-f821-4e4d-a0b4-830be041fcac
+  title: 'Online calculator: how much is your pay rise really worth?'
+  description: Find out what your new take-home pay will be after tax and national insurance
+  link: https://www.ft.com/content/c0f03ded-f821-4e4d-a0b4-830be041fcac
+  pubDate: Thu, 17 Nov 2022 13:48:56 GMT
+  include: true
+- guid: 0cf99f77-c41c-4fab-a15f-4fef98323704
+  title: Tory leadership election tracker
+  description: Who did Conservative MPs support to become their party leader and the UK’s next prime minister?
+  link: https://www.ft.com/content/0cf99f77-c41c-4fab-a15f-4fef98323704
+  pubDate: Mon, 24 Oct 2022 15:36:49 GMT
+  include: true
+- guid: 5ed407bd-ac0d-4293-a0fe-c01dfa15d9d2
+  title: Tory leadership election tracker
+  description: How much support do each of the candidates have to become the party’s leader and the UK’s next prime minister?
+  link: https://www.ft.com/content/5ed407bd-ac0d-4293-a0fe-c01dfa15d9d2
+  pubDate: Wed, 20 Jul 2022 15:27:54 GMT
+  include: true
+- guid: c8334a2a-cef9-4ed8-9470-5a4dbcfcd351
+  title: Older population in England and Wales hits record high
+  description: Census shows nearly one-fifth of people are over 65 as two nations report largest-ever number of residents
+  link: https://www.ft.com/content/c8334a2a-cef9-4ed8-9470-5a4dbcfcd351
+  pubDate: Tue, 28 Jun 2022 16:04:54 GMT
+  include: true
+- guid: 6855ef17-643c-4cfd-b249-0bbbb9a85195
+  title: 'Macron vs Le Pen: Latest polls for the French presidential election'
+  description: Latest data ahead of the run-off on April 24
+  link: https://www.ft.com/content/6855ef17-643c-4cfd-b249-0bbbb9a85195
+  pubDate: Fri, 22 Apr 2022 20:41:14 GMT
+  include: true
+- guid: eed614b1-932a-48fb-8cb2-5c1cd946f07c
+  title: Macron to face Le Pen in French election run-off
+  description: President and far-right rival qualify for second round of voting on April 24
+  link: https://www.ft.com/content/eed614b1-932a-48fb-8cb2-5c1cd946f07c
+  pubDate: Sun, 10 Apr 2022 23:16:06 GMT
+  include: true
+- guid: 5a364a63-6bc3-4a6e-b660-b17e797cd08a
+  title: 'FT stockpicking contest: winners revealed and 2022 launch'
+  description: Central bank support kept many stock prices high last year — this year could be very different
+  link: https://www.ft.com/content/5a364a63-6bc3-4a6e-b660-b17e797cd08a
+  pubDate: Fri, 28 Jan 2022 05:00:10 GMT
+  include: true
+- guid: a6635901-6d58-4441-96b9-d9cbd84fd510
+  title: 'Covid-19 vaccine tracker: Lowest-income countries lag further behind rest of the world'
+  description: With more than 9bn doses administered globally, wealthier countries forge ahead with booster campaigns
+  link: https://ig.ft.com/coronavirus-vaccine-tracker/
+  pubDate: Tue, 04 Jan 2022 15:49:12 GMT
+  include: true
+- guid: a2901ce8-5eb7-4633-b89c-cbdf5b386938
+  title: 'Coronavirus tracker: the latest figures as countries fight the Covid-19 resurgence'
+  description: The FT analyses the scale of outbreaks and tracks the vaccine rollouts around the world
+  link: https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938
+  pubDate: Mon, 20 Dec 2021 12:49:20 GMT
+  include: true
+- guid: 5144cd19-2c67-46d0-a37d-a869006bfbdb
+  title: Covid boosters in rich countries outnumber all jabs among poor nations
+  description: Patchy provision heightens risk of new variants emerging where fewer people have been inoculated
+  link: https://www.ft.com/content/5144cd19-2c67-46d0-a37d-a869006bfbdb
+  pubDate: Sun, 19 Dec 2021 11:00:30 GMT
+  include: true
+- guid: 501b1f94-67e7-4418-b2e9-eee6022bb12c
+  title: Germany’s election results in charts and maps
+  description: Social Democrats win on night as parties head for coalition talks
+  link: https://www.ft.com/content/501b1f94-67e7-4418-b2e9-eee6022bb12c
+  pubDate: Mon, 27 Sep 2021 11:07:08 GMT
+  include: true
+- guid: 5885e964-6d54-46ba-be63-8fb7009075f2
+  title: 'Germany poll tracker: the race to succeed Angela Merkel'
+  description: Live-updating data indicating potential coalitions after September 26 election
+  link: https://www.ft.com/content/5885e964-6d54-46ba-be63-8fb7009075f2
+  pubDate: Fri, 17 Sep 2021 15:13:09 GMT
+  include: true
+- guid: 3d4dbaa0-68cd-488e-9437-8d8216c7713b
+  title: Tokyo Olympics alternative medal table
+  description: "Which countries\_are under- or over-performing?"
+  link: https://ig.ft.com/tokyo-olympics-alternative-medal-table
+  pubDate: Fri, 23 Jul 2021 04:02:25 GMT
+  include: true
+- guid: 1625ef6f-83d5-4a0d-8bbf-7a61b06a963b
+  title: 'FT stockpicking contest: winners and losers at the half way mark'
+  description: Elon Musk, GameStop and Airbnb keep investors guessing in 2021
+  link: https://www.ft.com/content/1625ef6f-83d5-4a0d-8bbf-7a61b06a963b
+  pubDate: Fri, 23 Jul 2021 04:00:25 GMT
+  include: true
+- guid: 3ea5b867-9a3c-404e-b2f9-c644fee4e3bd
+  title: 'Poll tracker: how will the SNP fare in Scotland’s May elections?'
+  description: The FT has updated its analysis of opinion polls ahead of Scottish and Welsh votes
+  link: https://www.ft.com/content/3ea5b867-9a3c-404e-b2f9-c644fee4e3bd
+  pubDate: Wed, 05 May 2021 15:14:50 GMT
+  include: true
+- guid: dcc1d02f-e1f1-4195-99f8-750ab9e7a3fa
+  title: 'Interactive calculator: How will Alex Salmond’s new party affect Scottish elections?'
+  description: Use the FT’s tool to see whether Alba will help or hinder pro-independence parties
+  link: https://ig.ft.com/scottish-election-2021-calculator
+  pubDate: Mon, 19 Apr 2021 14:48:31 GMT
+  include: true
+- guid: 0ca2372a-efad-440c-b737-3cc989006ba3
+  title: 'Coronavirus tracked: has the epidemic peaked near you?'
+  description: Find any country or US state in the customisable version of the Covid-19 trajectory charts
+  link: https://ig.ft.com/coronavirus-chart
+  pubDate: Wed, 16 Dec 2020 07:45:48 GMT
+  include: true
+- guid: cadc1f6c-14f7-40a9-a68a-f1409fd25997
+  title: Scotland’s Covid death rate prompts questions over Sturgeon’s strategy
+  description: Proportionately more people north of border have been dying of coronavirus than in England
+  link: https://www.ft.com/content/cadc1f6c-14f7-40a9-a68a-f1409fd25997
+  pubDate: Thu, 26 Nov 2020 04:00:55 GMT
+  include: true
+- guid: acf263dc-8f7b-45be-96eb-f406f17bdbfe
+  title: 'Biden vs Trump: live results map 2020'
+  description: Map and results of the US presidential and congressional elections
+  link: https://ig.ft.com/us-election-2020/
+  pubDate: Sat, 07 Nov 2020 16:58:25 GMT
+  include: true
+- guid: 9b1cd9a7-56dd-4321-8f14-42716d264500
+  title: 'Biden vs Trump: US presidential election 2020 poll tracker'
+  description: See how state-by-state polls translate into electoral college votes and use the FT’s interactive calculator to zero in on the battlegrounds
+  link: https://www.ft.com/content/9b1cd9a7-56dd-4321-8f14-42716d264500
+  pubDate: Tue, 03 Nov 2020 22:05:29 GMT
+  include: true
+- guid: 46e3e015-28f9-4b2e-9849-21e1e3c5ca6b
+  title: 'Covid-19: The global crisis — in data'
+  description: Charts and maps show insights — and paradoxes — of a pandemic that has claimed more than a million lives
+  link: https://ig.ft.com/coronavirus-global-data
+  pubDate: Sun, 18 Oct 2020 06:00:22 GMT
+  include: true
+- guid: c011e214-fb95-4a64-b23c-2bd87ebb29d7
+  title: Why UK coronavirus deaths are falling even as cases are rising
+  description: Changing age profile of infections and improved care are among the factors driving a reduction in mortality rates
+  link: https://www.ft.com/content/c011e214-fb95-4a64-b23c-2bd87ebb29d7
+  pubDate: Tue, 25 Aug 2020 03:00:38 GMT
+  include: true
+- guid: 36636d14-84a3-456d-b3a1-23dad90d8790
+  title: Best business books
+  description: All the books longlisted for the FT & McKinsey Business Book of the Year since 2005
+  link: https://ig.ft.com/sites/business-book-award
+  pubDate: Fri, 14 Aug 2020 12:59:56 GMT
+  include: true
+- guid: 1a657a04-863a-11ea-b555-37a289098206
+  title: "Coronavirus tracked: has the epidemic peaked near you?\_|\_Free\_to\_read"
+  description: Find any country or US state in the customisable version of the Covid-19 trajectory charts
+  link: https://ig.ft.com/coronavirus-chart
+  pubDate: Thu, 25 Jun 2020 15:43:52 GMT
+  include: true
+- guid: 80704444-9500-11ea-af4b-499244625ac4
+  title: "US states coronavirus tracker\_|\_Free\_to\_read"
+  description: Find any US state in the live-updating and customisable version of the FT’s Covid-19 trajectory charts
+  link: https://ig.ft.com/coronavirus-chart/?scrollTo=united-states
+  pubDate: Fri, 15 May 2020 13:11:31 GMT
+  include: true
+- guid: e14d023a-863b-11ea-b555-37a289098206
+  title: "Loosening lockdowns: tracking governments’ changing coronavirus responses\_|\_Free\_to\_read"
+  description: From business closures to movement restrictions, some countries’  policies show first signs of easing
+  link: https://ig.ft.com/coronavirus-lockdowns/
+  pubDate: Sat, 02 May 2020 00:06:57 GMT
+  include: true
+- guid: f3bb0944-4437-11ea-abea-0c7a29cd66fe
+  title: How the coronavirus pandemic has disrupted the US Democratic primary calendar
+  description: Joe Biden is the presumptive nominee after Bernie Sanders suspended his campaign
+  link: https://www.ft.com/content/f3bb0944-4437-11ea-abea-0c7a29cd66fe
+  pubDate: Mon, 30 Mar 2020 15:27:32 GMT
+  include: true
+- guid: b07f9e78-5a40-11ea-a528-dd0f971febbc
+  title: 'Super Tuesday: what to know about Democratic primaries'
+  description: More than one-third of delegates up for grabs as 14 states head to the polls
+  link: https://www.ft.com/content/b07f9e78-5a40-11ea-a528-dd0f971febbc
+  pubDate: Mon, 02 Mar 2020 23:03:14 GMT
+  include: true
+- guid: 9f9cb13a-3205-11ea-9703-eea0cae3f0de
+  title: Who will succeed Jeremy Corbyn? The candidates bidding to become the next Labour leader
+  description: A guide to the race to lead the UK’s opposition
+  link: http://ig.ft.com/labour-leadership-2020
+  pubDate: Wed, 22 Jan 2020 15:49:53 GMT
+  include: true
+- guid: f9e5204a-150f-11ea-9ee4-11f260415385
+  title: 'UK general election 2019: full results'
+  description: Find who your local MP is
+  link: https://ig.ft.com/uk-general-election-2019-results
+  pubDate: Fri, 13 Dec 2019 10:33:34 GMT
+  include: true
+- guid: 263615ca-d873-11e9-8f9b-77216ebe1f17
+  title: UK general election poll tracker
+  description: Poll of polls tracks voting intention ahead of the general election
+  link: https://www.ft.com/content/263615ca-d873-11e9-8f9b-77216ebe1f17
+  pubDate: Thu, 12 Dec 2019 12:55:33 GMT
+  include: true
+- guid: 20dca3e8-0166-11ea-be59-e49b2a136b8d
+  title: Three anti-Brexit parties launch election pact in 60 seats
+  description: Lib Dems, Plaid Cymru and Greens seek to boost number of pro-Remain MPs
+  link: https://www.ft.com/content/20dca3e8-0166-11ea-be59-e49b2a136b8d
+  pubDate: Thu, 07 Nov 2019 16:20:45 GMT
+  include: true
+- guid: d72b13b2-eb42-11e9-a240-3b065ef5fc55
+  title: The general election battleground constituencies
+  description: The marginal seats where the national poll will likely be won and lost
+  link: https://ig.ft.com/uk-general-election-2019-battlegrounds/
+  pubDate: Wed, 06 Nov 2019 04:00:32 GMT
+  include: true
+- guid: 3c102df6-f4e6-11e9-b018-3ef8794b17c6
+  title: How MPs voted on Brexit legislation
+  description: Bittersweet moment for Johnson as legislation victory is swiftly followed by defeat on timetable
+  link: https://ig.ft.com/brexit-withdrawal-agreement-bill-vote/
+  pubDate: Tue, 22 Oct 2019 20:46:27 GMT
+  include: true
+- guid: 513fddb4-f28b-11e9-a79c-bc9acae3b654
+  title: Brexit amendment vote suggests MPs may pass Boris Johnson’s deal
+  description: FT analysis shows narrow majority likely if Commons votes on withdrawal pact next week
+  link: https://www.ft.com/content/513fddb4-f28b-11e9-a79c-bc9acae3b654
+  pubDate: Sat, 19 Oct 2019 17:35:58 GMT
+  include: true
+- guid: ffb6a8bc-82f3-11e9-b592-5fe435b57a3b
+  title: The race for UK’s next prime minister — latest results
+  description: Latest results and candidates in race
+  link: https://ig.ft.com/uk-prime-minister-leadership-contest/
+  pubDate: Thu, 20 Jun 2019 12:21:32 GMT
+  include: true
+- guid: 80363684-7bbe-11e9-81d2-f785092ab560
+  title: "European elections 2019: Full\_results"
+  description: EU citizens have elected a new European Parliament
+  link: https://ig.ft.com/european-elections-2019-results/
+  pubDate: Sun, 26 May 2019 22:03:16 GMT
+  include: true
+- guid: c1d1dd56-6ce5-11e9-a9a5-351eeaef6d84
+  title: 'UK local elections: What to watch for and where to find it'
+  description: Theresa May’s Tories steel themselves for defeats in races across England
+  link: https://www.ft.com/content/c1d1dd56-6ce5-11e9-a9a5-351eeaef6d84
+  pubDate: Thu, 02 May 2019 21:01:37 GMT
+  include: true
+- guid: 41de1e38-4031-11e9-b896-fe36ec32aece
+  title: 'EU parliament elections: live country-by-country poll tracker'
+  description: Continuously-updated FT projection now includes UK polls
+  link: https://ig.ft.com/european-parliament-election-polls/
+  pubDate: Wed, 17 Apr 2019 11:20:30 GMT
+  include: true
+- guid: 99e63a90-5619-11e9-a3db-1fe89bedc16e
+  title: Why a May-Corbyn Brexit deal would not be certain of MPs’ backing
+  description: FT analysis shows a Labour-Tory compromise is likely to have only a small margin of victory
+  link: https://www.ft.com/content/99e63a90-5619-11e9-a3db-1fe89bedc16e
+  pubDate: Thu, 04 Apr 2019 12:46:03 GMT
+  include: true
+- guid: a436b822-54ab-11e9-91f9-b6515a54c5b1
+  title: How MPs voted on the second round of indicative votes
+  description: MPs again fail to reach a majority for any Brexit option
+  link: https://ig.ft.com/brexit-second-round-indicative-votes/
+  pubDate: Mon, 01 Apr 2019 23:34:50 GMT
+  include: true
+- guid: a206aa7c-5225-11e9-b401-8d9ef1626294
+  title: How MPs voted on May’s withdrawal deal defeat
+  description: 'Visual analysis: see how your MP voted'
+  link: https://ig.ft.com/brexit-exit-deal-vote/
+  pubDate: Fri, 29 Mar 2019 15:00:05 GMT
+  include: true
+- guid: de87885a-517a-11e9-9c76-bf4a0ce37d49
+  title: 'The Brexit vote: why May needs a clean sweep of Tories'
+  description: Unless DUP changes stance, PM needs all her MPs or to win round numerous Labour rebels
+  link: https://www.ft.com/content/de87885a-517a-11e9-9c76-bf4a0ce37d49
+  pubDate: Thu, 28 Mar 2019 19:01:47 GMT
+  include: true
+- guid: 62a2fc6e-50b8-11e9-b401-8d9ef1626294
+  title: How MPs voted on the indicative votes
+  description: 'Visual analysis: see the MP votes and who best shares your views'
+  link: https://ig.ft.com/brexit-indicative-votes/
+  pubDate: Wed, 27 Mar 2019 22:51:28 GMT
+  include: true
+- guid: 3e301db4-466b-11e9-b168-96a37d002cd3
+  title: "How MPs voted on Brexit\_delay"
+  description: 'Interactive database: See how every MP voted'
+  link: https://ig.ft.com/brexit-article-50-extension-vote/
+  pubDate: Thu, 14 Mar 2019 20:17:31 GMT
+  include: true
+- guid: 8e7ec5d0-45b8-11e9-b168-96a37d002cd3
+  title: How pro-EU MPs humbled May on no-deal Brexit
+  description: Europhile Conservative MPs helped inflict defeat on prime minister
+  link: https://www.ft.com/content/8e7ec5d0-45b8-11e9-b168-96a37d002cd3
+  pubDate: Wed, 13 Mar 2019 23:57:45 GMT
+  include: true
+- guid: bbd37122-44da-11e9-b168-96a37d002cd3
+  title: One in four Tories votes against Brexit deal as May’s escape bid fails
+  description: 'Interactive: see how every MP voted'
+  link: https://www.ft.com/content/bbd37122-44da-11e9-b168-96a37d002cd3
+  pubDate: Tue, 12 Mar 2019 21:40:05 GMT
+  include: true
+- guid: 28f97dac-2f85-11e9-8744-e7016697f225
+  title: The Conservative party’s Brexit tribes — an interactive guide
+  description: The FT has obtained details of the members of Eurosceptic Tory backbench groups
+  link: https://www.ft.com/content/28f97dac-2f85-11e9-8744-e7016697f225
+  pubDate: Thu, 14 Feb 2019 13:41:21 GMT
+  include: true
+- guid: cdbcada0-18dd-11e9-9e64-d150b3105d21
+  title: Find out how your MP voted on the Brexit amendments — interactive
+  description: Enter your postcode or MP’s name to see how they voted on all the key Brexit votes
+  link: https://www.ft.com/content/cdbcada0-18dd-11e9-9e64-d150b3105d21
+  pubDate: Wed, 30 Jan 2019 08:28:58 GMT
+  include: true
+- guid: 8ad96a18-c195-11e8-95b1-d36dfef1b89a
+  title: UK’s Leading Management Consultants 2019
+  description: Which consultancies are rated most highly by clients and peers?
+  link: https://ig.ft.com/special-reports/rankings/uk-management-consultants/2019/
+  pubDate: Wed, 30 Jan 2019 04:31:27 GMT
+  include: true
+- guid: 8768bb06-231d-11e9-b329-c7e6ceb5ffdf
+  title: MPs line up against no-deal Brexit ahead of Commons vote
+  description: Analysis of who backed amendments and made public statements highlights problems for May
+  link: https://www.ft.com/content/8768bb06-231d-11e9-b329-c7e6ceb5ffdf
+  pubDate: Tue, 29 Jan 2019 04:00:30 GMT
+  include: true
+- guid: c7a0cc96-1903-11e9-b93e-f4351a53f1c3
+  title: Brexit withdrawal deal rejected by both Leave and Remain MPs
+  description: PM failed to persuade Eurosceptic Tories or more than handful of Labour
+  link: https://www.ft.com/content/c7a0cc96-1903-11e9-b93e-f4351a53f1c3
+  pubDate: Tue, 15 Jan 2019 21:32:38 GMT
+  include: true
+- guid: 23eac4b2-1822-11e9-9e64-d150b3105d21
+  title: MP headcount shows Theresa May facing triple-digit Brexit loss
+  description: Tally of MPs’ public statements suggests PM could lose motion by more than 200 votes
+  link: https://www.ft.com/content/23eac4b2-1822-11e9-9e64-d150b3105d21
+  pubDate: Tue, 15 Jan 2019 04:00:25 GMT
+  include: true
+- guid: 25b3cc2e-2171-11e8-a895-1ba1f72c2c11
+  title: "US midterm elections 2018\_— results"
+  description: Counting continues in final races
+  link: https://ig.ft.com/us-midterm-elections/
+  pubDate: Wed, 07 Nov 2018 03:26:06 GMT
+  include: true
+- guid: 203c69e0-5dd0-11e8-9334-2218e7146b04
+  title: "Innovative Lawyers:\_the\_complete\_rankings"
+  description: Explore the past and present annual rankings for each region, assessing lawyers on their innovation for clients and in their own businesses
+  link: https://ig.ft.com/special-reports/innovative-lawyers/
+  pubDate: Thu, 07 Jun 2018 16:02:55 GMT
+  include: true
+- guid: 7cbf6024-2ce2-11e8-9b4b-bc4b9f08f381
+  title: Qantas pushes boundaries with 17-hour ‘kangaroo route’
+  description: Airline plans more ultra-long-hauls as it launches direct flight from Australia to UK
+  link: https://www.ft.com/content/7cbf6024-2ce2-11e8-9b4b-bc4b9f08f381
+  pubDate: Fri, 23 Mar 2018 05:01:04 GMT
+  include: true
+- guid: 04715cce-0840-11e8-9650-9c0ad2d7c5b5
+  title: Unclassified Nunes memo into Russia probe — annotated
+  description: Allegation that FBI flouted surveillance rules contained in three-and-a-half page document released Friday
+  link: https://ig.ft.com/documents/gop-memo/
+  pubDate: Fri, 02 Feb 2018 18:49:07 GMT
+  include: true
+- guid: b22bdb36-c561-11e7-a1d2-6786f39ef675
+  title: Catalonia election poll tracker
+  description: Will the secessionists hold on to the slim majority?
+  link: https://ig.ft.com/catalonia-poll-tracker/
+  pubDate: Thu, 21 Dec 2017 10:52:07 GMT
+  include: true
+- guid: b8a3bb1b-9dda-4041-a90d-4e61c2c22fff
+  title: 'Budget 2017 podcast: Fiscal Phil''s housing gamble'
+  description: Philip Hammond delivered his autumn Budget on Wednesday. Was it enough to placate his Conservative critics?
+  link: https://www.ft.com/video/b8a3bb1b-9dda-4041-a90d-4e61c2c22fff
+  pubDate: Wed, 22 Nov 2017 17:34:15 GMT
+  include: false
+- guid: e7c7d918-a17e-11e7-b797-b61809486fe2
+  title: Germany’s election results in charts and maps
+  description: Voters create a large and fractured Bundestag as Merkel enters fourth term
+  link: https://www.ft.com/content/e7c7d918-a17e-11e7-b797-b61809486fe2
+  pubDate: Mon, 25 Sep 2017 06:02:27 GMT
+  include: true
+- guid: a0140919-e5e6-3d65-9da0-4a8a33d3d594
+  title: German election results — as it happened
+  description: ''
+  link: https://www.ft.com/content/a0140919-e5e6-3d65-9da0-4a8a33d3d594
+  pubDate: Sun, 24 Sep 2017 22:25:02 GMT
+  include: true
+- guid: 1e3facea-9d48-11e7-8cd4-932067fbf946
+  title: 'German election: AfD’s advance in six charts'
+  description: How the populist party could upend the country’s politics on Sunday
+  link: https://www.ft.com/content/1e3facea-9d48-11e7-8cd4-932067fbf946
+  pubDate: Wed, 20 Sep 2017 04:02:13 GMT
+  include: true
+- guid: e52ec40c-42d0-382f-babf-0313412b4dfd
+  title: ECB leaves rates unchanged, more news on QE to come in October
+  description: ''
+  link: https://www.ft.com/content/e52ec40c-42d0-382f-babf-0313412b4dfd
+  pubDate: Thu, 07 Sep 2017 14:08:17 GMT
+  include: false
+- guid: fad1bd09-82ff-4dd9-b559-299d49681ba4
+  title: What's next in the Korean nuclear crisis?
+  description: On Sunday, North Korea  tested what is says was a hydrogen bomb. How is the latest escalation in the nuclear crisis on the Korean peninsula seen from Seoul and Washington?
+  link: https://www.ft.com/video/fad1bd09-82ff-4dd9-b559-299d49681ba4
+  pubDate: Thu, 07 Sep 2017 11:03:11 GMT
+  include: false
+- guid: 10d73870-6cb0-11e7-bfeb-33fe0c5b7eaa
+  title: German political poll tracker
+  description: What outcomes are likely if there are fresh elections?
+  link: https://ig.ft.com/germany-poll-tracker/
+  pubDate: Mon, 04 Sep 2017 16:10:54 GMT
+  include: true
+- guid: ea06115b-c499-43b7-a94c-07e5a89ffc5c
+  title: The human consequences and market impact of Harvey
+  description: What are the consequences of the hurricane and floods in Houston?
+  link: https://www.ft.com/video/ea06115b-c499-43b7-a94c-07e5a89ffc5c
+  pubDate: Thu, 31 Aug 2017 17:27:11 GMT
+  include: false
+- guid: 403f64b4-2423-11e7-8691-d5f7e0cd0a16
+  title: UK general election 2017 poll tracker
+  description: Poll of polls tracking voting intention ahead of the election on June 8
+  link: https://ig.ft.com/elections/uk/2017/polls
+  pubDate: Thu, 08 Jun 2017 20:20:35 GMT
+  include: true
+- guid: 44aee8d6-28d7-11e7-9ec8-168383da43b7
+  title: 'In charts: Brexit factor puts election battleground seats in flux'
+  description: Parties will be taking referendum result into account in tightest marginals
+  link: https://www.ft.com/content/44aee8d6-28d7-11e7-9ec8-168383da43b7
+  pubDate: Tue, 25 Apr 2017 20:25:22 GMT
+  include: true
+- guid: 97fc24fa-0428-11e7-ace0-1ce02ef0def9
+  title: Europe’s fastest-growing companies
+  description: Full FT 1000 ranking with data, plus methodology
+  link: https://ig.ft.com/ft-1000/
+  pubDate: Fri, 07 Apr 2017 03:09:35 GMT
+  include: true
+- guid: 41d3ef6c-1469-11e7-80f4-13e067d5072c
+  title: Women still miss out on management in finance
+  description: FT research reveals failure to close gender gap in middle and senior roles
+  link: https://ig.ft.com/managements-missing-women-data
+  pubDate: Tue, 04 Apr 2017 08:08:55 GMT
+  include: true
+- guid: 9b6dbf92-1533-11e7-80f4-13e067d5072c
+  title: The EU’s Brexit negotiation guidance decoded
+  description: The full text of the European Council’s guidance for handling Britain’s withdrawal
+  link: https://ig.ft.com/eu-brexit-guidelines-annotated
+  pubDate: Fri, 31 Mar 2017 07:00:24 GMT
+  include: true
+- guid: 1888b166-13b9-11e7-80f4-13e067d5072c
+  title: UK’s Brexit Article 50 letter decoded
+  description: FT journalists explain the key passages of the UK government’s letter triggering the exit process
+  link: https://ig.ft.com/article-50-annotated/
+  pubDate: Wed, 29 Mar 2017 11:58:22 GMT
+  include: true
+- guid: 66cb1c3e-d52c-11e3-9187-00144feabdc0
+  title: Meet the Feds
+  description: An FT guide to the 2017 voting members of the Federal Reserve’s Open Market Committee
+  link: https://ig.ft.com/sites/profiles/fomc/
+  pubDate: Wed, 15 Mar 2017 22:30:09 GMT
+  include: true
+- guid: 32897c9a-d984-11e6-944b-e7eb37a6aa8e
+  title: Donald Trump’s inauguration speech — annotated
+  description: FT reporters interpret the new president’s address
+  link: https://ig.ft.com/sites/trump-inauguration-annotations/
+  pubDate: Fri, 20 Jan 2017 17:03:53 GMT
+  include: true
+- guid: 520c6834-adba-11e6-9cb3-bb8207902122
+  title: Donald Trump’s cabinet and administration
+  description: The FT guide to the president’s incoming team
+  link: https://ig.ft.com/sites/trump-cabinet/
+  pubDate: Thu, 12 Jan 2017 17:53:37 GMT
+  include: true
+- guid: e6ed3ba2-a016-11e5-8613-08e211ea5317
+  title: Every FT Person of the Year since 1970
+  description: Every winner since 1970
+  link: https://ig.ft.com/sites/person-of-the-year
+  pubDate: Mon, 12 Dec 2016 18:29:05 GMT
+  include: true
+- guid: 3685bf9e-a4cc-11e6-8b69-02899e8bd9d1
+  title: The search for a better US election map
+  description: The FT’s data team plotted a third way between election maps and cartograms
+  link: https://www.ft.com/content/3685bf9e-a4cc-11e6-8b69-02899e8bd9d1
+  pubDate: Wed, 09 Nov 2016 01:45:55 GMT
+  include: true
+- guid: e01abff0-5292-11e6-9664-e0bdc13c3bef
+  title: 'Trump vs Clinton: presidential election poll tracker'
+  description: Who is ahead in national and swing state polls?
+  link: https://ig.ft.com/us-elections/
+  pubDate: Fri, 04 Nov 2016 15:56:33 GMT
+  include: true
+- guid: 638fbab2-8faa-11e6-a72e-b428cb934b78
+  title: 'Quiz: Which password is more secure?'
+  description: Large scale data breaches are increasing the vulnerability of our online accounts
+  link: https://ig.ft.com/password-strength-quiz
+  pubDate: Wed, 12 Oct 2016 12:20:33 GMT
+  include: true
+- guid: c62b21c6-7feb-11e6-8e50-8ec15fb462f4
+  title: Why the FT creates so few clickable graphics
+  description: Cool visuals are seductive, but they can lead to confusion
+  link: https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4
+  pubDate: Mon, 03 Oct 2016 11:57:39 GMT
+  include: true
+- guid: cc215d78-2e21-11e6-bf8d-26294ad519fc
+  title: Bank chief executives’ pay 2013-2015
+  description: ''
+  link: https://ig.ft.com/sites/bank-ceo-compensation/2016/
+  pubDate: Tue, 12 Jul 2016 12:55:50 GMT
+  include: true
+- guid: 21f22854-fa7e-11e5-8e04-8600cef2ca75
+  title: Who is winning the US primaries?
+  description: Current delegate counts of the Republican and Democratic races
+  link: http://ig.ft.com/sites/elections/2016/us/primaries-results/
+  pubDate: Mon, 04 Apr 2016 16:18:53 GMT
+  include: true
+- guid: aa9af71e-e505-11e5-a09b-1f8b0d268c39
+  title: Larger UK families to bear brunt of £13bn in welfare cuts
+  description: Areas with big Asian communities will be hit hard in fresh round of changes
+  link: http://ig.ft.com/sites/welfare-map/
+  pubDate: Wed, 09 Mar 2016 05:31:49 GMT
+  include: true
+- guid: 2225074e-e096-11e5-96b7-9f778349aba2
+  title: Calculate the hidden cost of fund fees
+  description: How fees could erode your investment returns
+  link: http://ig.ft.com/sites/isa-calculator/
+  pubDate: Thu, 03 Mar 2016 06:05:42 GMT
+  include: true
+- guid: acdb07ba-cf27-11e5-92a1-c5e23ef99c77
+  title: 'Britain and Europe: The view from the FT archive'
+  description: The UK’s four tumultuous decades of membership have fuelled controversy and featured huge change
+  link: https://www.ft.com/content/acdb07ba-cf27-11e5-92a1-c5e23ef99c77
+  pubDate: Mon, 22 Feb 2016 16:28:53 GMT
+  include: true
+- guid: 6f97311e-c69c-11e5-b3b1-7b2481276e45
+  title: 'The 2016 US primaries: A calendar of all the races and results'
+  description: 'The 2016 US primaries: A calendar of all the races and results'
+  link: https://ig.ft.com/sites/elections/2016/us/primaries-calendar/
+  pubDate: Mon, 01 Feb 2016 16:14:33 GMT
+  include: true
+- guid: fed43766-a020-11e5-beba-5e33e2b79e46
+  title: 'Guffipedia: Lucy Kellaway’s dictionary of corporate speak'
+  description: 'Guffipedia: Lucy Kellaway’s dictionary of corporate speak'
+  link: https://ig.ft.com/sites/guffipedia/
+  pubDate: Sun, 13 Dec 2015 19:04:33 GMT
+  include: false
+- guid: bcf1ac02-af16-11e5-b955-1a1d298b6250
+  title: New Year honours 2016
+  description: ''
+  link: https://ig.ft.com/sites/new-year-honours-2016/
+  pubDate: Mon, 07 Dec 2015 14:47:40 GMT
+  include: false
+- guid: 514f00a0-a0fe-3b2c-99e0-3be8201f9e8c
+  title: FT digital archives open to academic research
+  description: ''
+  link: https://www.ft.com/content/514f00a0-a0fe-3b2c-99e0-3be8201f9e8c
+  pubDate: Wed, 23 Sep 2015 06:30:49 GMT
+  include: true
+- guid: b5c976d4-6043-11e5-9846-de406ccb37f2
+  title: 'EU referendum: history repeated'
+  description: Parallels between Wilson’s challenge in 1975 and Cameron’s task to keep Britain in the EU
+  link: http://ig.ft.com/sites/2015/eu-referendum-1975-archive/
+  pubDate: Wed, 23 Sep 2015 06:30:06 GMT
+  include: true
+- guid: e7fe9f25-542b-369f-83b2-5e67c8fa3dbf
+  title: 'Bank fines: get the data'
+  description: ''
+  link: https://web.archive.org/web/20220901035550/http://ig-legacy.ft.com/content/e7fe9f25-542b-369f-83b2-5e67c8fa3dbf
+  pubDate: Wed, 22 Jul 2015 13:00:19 GMT
+  include: false
+- guid: d0291e90-2a50-11e5-acfb-cbd2e1c81cca
+  title: 'Interactive: Iran’s nuclear sites'
+  description: As Iran agrees a historic nuclear deal, the FT profiles seven key nuclear sites around the country
+  link: http://ig.ft.com/sites/2013/iran-nuclear-sites/
+  pubDate: Tue, 14 Jul 2015 17:54:56 GMT
+  include: false
+- guid: 1ec76054-1e92-11e5-aa5a-398b2169cf79
+  title: Bank chiefs’ pay in 2014
+  description: Compare bank CEOs’ pay from 2009 to 2014, including details on the split between salary and bonuses
+  link: http://ig.ft.com/sites/2015/bank-ceo-compensation-2015/
+  pubDate: Thu, 02 Jul 2015 13:06:12 GMT
+  include: false
+- guid: f1fe6258-d494-11e4-8be8-00144feab7de
+  title: 'UK general election: the 4 key battles'
+  description: A closer look at the types of constituency races that are likely to have a pivotal role in the outcome
+  link: https://ig.ft.com/uk-general-election-2015/projections/
+  pubDate: Mon, 30 Mar 2015 09:30:23 GMT
+  include: true
+- guid: 893d5dc2-ac6d-11e4-9d32-00144feab7de
+  title: 'Interactive: Climbing the global debt mountain'
+  description: The world is awash with even more debt than before the financial crisis. Use the FT interactive tool to compare countries’ debt levels
+  link: http://ig-legacy.ft.com/content/893d5dc2-ac6d-11e4-9d32-00144feab7de
+  pubDate: Thu, 05 Feb 2015 01:05:07 GMT
+  include: true
+- guid: 51fd2510-902d-11e4-a0e5-00144feabdc0
+  title: The New Year Honours list in full
+  description: A breakdown of all of the recipients
+  link: http://ig-legacy.ft.com/content/51fd2510-902d-11e4-a0e5-00144feabdc0
+  pubDate: Tue, 30 Dec 2014 22:31:03 GMT
+  include: false
+- guid: e718e2b8-3e59-11e4-a620-00144feabdc0
+  title: 'Scotland’s referendum count: When to expect what'
+  description: ''
+  link: https://www.ft.com/content/e718e2b8-3e59-11e4-a620-00144feabdc0
+  pubDate: Thu, 18 Sep 2014 19:22:47 GMT
+  include: true
+- guid: 2a5bdce0-c4a4-11e3-b2fb-00144feabdc0
+  title: Scottish independence poll tracker
+  description: The FT takes a closer look at polling data in an interactive poll of polls
+  link: https://web.archive.org/web/20191001025826/http://ig-legacy.ft.com/content/2a5bdce0-c4a4-11e3-b2fb-00144feabdc0
+  pubDate: Wed, 10 Sep 2014 18:06:25 GMT
+  include: true
+- guid: 0923dfe0-243a-334f-9a38-4e09cd63bff3
+  title: Interactive – the quest for gender equality in top corporate positions
+  description: ''
+  link: http://ig-legacy.ft.com/content/0923dfe0-243a-334f-9a38-4e09cd63bff3
+  pubDate: Mon, 04 Aug 2014 13:27:17 GMT
+  include: false
+- guid: e2c19bbe-7093-11e2-85d0-00144feab49a
+  title: The problem with education statistics
+  description: ''
+  link: http://ig-legacy.ft.com/content/e2c19bbe-7093-11e2-85d0-00144feab49a
+  pubDate: Thu, 07 Feb 2013 10:40:04 GMT
+  include: true
+- guid: 7e790798-ddda-3f99-8823-e4fa2948e4e1
+  title: First data shows largest population growth in UK census history
+  description: ''
+  link: https://web.archive.org/web/20191021190628/http://ig-legacy.ft.com/content/7e790798-ddda-3f99-8823-e4fa2948e4e1  
+  pubDate: Mon, 16 Jul 2012 10:24:17 GMT
+  include: true
+- guid: ffc76c66-abfe-11e1-a8a0-00144feabdc0
+  title: London’s housing affordability gap
+  description: ''
+  link: http://ig-legacy.ft.com/content/ffc76c66-abfe-11e1-a8a0-00144feabdc0
+  pubDate: Wed, 06 Jun 2012 20:30:45 GMT
+  include: true
+- guid: 05a16196-ac13-11e1-a8a0-00144feabdc0
+  title: Sharing banks’ spoils
+  description: ''
+  link: http://ig-legacy.ft.com/content/05a16196-ac13-11e1-a8a0-00144feabdc0
+  pubDate: Tue, 05 Jun 2012 17:55:13 GMT
+  include: true
+- guid: ff589e40-8d3a-11e1-8b49-00144feab49a
+  title: Facebook valuation calculator
+  description: ''
+  link: http://ig-legacy.ft.com/content/ff589e40-8d3a-11e1-8b49-00144feab49a
+  pubDate: Wed, 02 May 2012 18:34:56 GMT
+  include: true
+- guid: 826aeefe-6f6e-11e1-b368-00144feab49a
+  title: The jinxed generation
+  description: ''
+  link: http://ig-legacy.ft.com/content/826aeefe-6f6e-11e1-b368-00144feab49a
+  pubDate: Fri, 16 Mar 2012 21:21:20 GMT
+  include: true
+- guid: 5e95fb2a-644e-11e1-b30e-00144feabdc0
+  title: 'Timeline: The Costa Concordia disaster'
+  description: ''
+  link: http://ig-legacy.ft.com/content/5e95fb2a-644e-11e1-b30e-00144feabdc0
+  pubDate: Fri, 02 Mar 2012 20:41:46 GMT
+  include: true
+- guid: 06b9f73c-48f9-11e1-974a-00144feabdc0
+  title: London house prices by postcode
+  description: ''
+  link: https://web.archive.org/web/20190917191847/http://ig-legacy.ft.com/content/06b9f73c-48f9-11e1-974a-00144feabdc0  
+  pubDate: Fri, 27 Jan 2012 17:45:53 GMT
+  include: true
+- guid: 3b769bc4-f5ac-11e0-be8c-00144feab49a
+  title: Scotland’s new parliamentary constituencies
+  description: This interactive map shows how Scotland’s representation in Westminster could be affected by proposed constituency boundary changes.
+  link: https://web.archive.org/web/20191002221409/http://ig-legacy.ft.com/content/3b769bc4-f5ac-11e0-be8c-00144feab49a  
+  pubDate: Thu, 13 Oct 2011 16:23:59 GMT
+  include: true
+- guid: eec36524-a3f7-11e0-8b4f-00144feabdc0
+  title: The changing UK high street
+  description: ''
+  link: https://web.archive.org/web/20190930160445/http://ig-legacy.ft.com/content/eec36524-a3f7-11e0-8b4f-00144feabdc0
+  pubDate: Sun, 10 Jul 2011 16:37:57 GMT
+  include: true
+- guid: 71bb7526-69b9-11e0-826b-00144feab49a
+  title: The UK electoral reform referendum
+  description: ''
+  link: https://web.archive.org/web/20191002221403/http://ig-legacy.ft.com/content/71bb7526-69b9-11e0-826b-00144feab49a  
+  pubDate: Wed, 04 May 2011 10:33:45 GMT
+  include: false
+- guid: 5ffd879e-f33e-11df-a4fa-00144feab49a
+  title: 'UK government spending: Search the data'
+  description: ''
+  link: https://web.archive.org/web/20191016194442/http://ig-legacy.ft.com/content/5ffd879e-f33e-11df-a4fa-00144feab49a
+  pubDate: Fri, 19 Nov 2010 16:14:46 GMT
   include: true

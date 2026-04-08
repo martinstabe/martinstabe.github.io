@@ -144,67 +144,6 @@ The sync currently:
 - stores the results in `_data/graphics.yml`
 - preserves manual `include: false` overrides on existing items
 
-- build command: `npm run build`
-- output directory: `dist`
-
-## Implementation Structure
-
-### Eleventy App
-
-- [eleventy.config.js](/Users/martin.stabe/Documents/martinstabe.github.io/eleventy.config.js)
-- [package.json](/Users/martin.stabe/Documents/martinstabe.github.io/package.json)
-- [src](/Users/martin.stabe/Documents/martinstabe.github.io/src)
-
-The Eleventy config:
-
-- uses `src/` as the input directory
-- uses Nunjucks for layouts and templates
-- outputs to `dist/`
-- passthrough-copies `img/`, `slides/`, `CNAME`, and the Google verification file
-- adds custom filters for relative URLs, human-readable dates, RFC 822 dates, and XML escaping
-
-### Layouts And Partials
-
-Shared templates are in:
-
-- [src/_includes/layouts/default.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/layouts/default.njk)
-- [src/_includes/layouts/page.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/layouts/page.njk)
-- [src/_includes/partials](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/partials)
-
-These replicate the old Jekyll page shell, header, footer, analytics, social, comments, and head metadata in Eleventy form.
-
-### Content Sources
-
-The Eleventy build does not duplicate the archive into `src/`. Instead it imports the existing source content:
-
-- blog posts from [_posts](/Users/martin.stabe/Documents/martinstabe.github.io/_posts)
-- tag metadata from [tags](/Users/martin.stabe/Documents/martinstabe.github.io/tags)
-- links archive data from [_data/links.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/links.yml)
-
-## Additional Features Added During Migration
-
-The Eleventy implementation includes behavior that did not previously exist as a single coherent layer in the Jekyll site.
-
-### Stories Section From FT RSS
-
-Stories sourced from the FT RSS feed can now be synced into [_data/stories.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/stories.yml) with [scripts/sync_stories.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/sync_stories.js).
-
-Each synced entry is stored as YAML and preserves manual overrides on subsequent syncs, including the `include: false` switch to exclude an item from the generated site.
-
-Included stories are rendered into the new `/stories/` section and linked from the main navigation.
-
-### Canonical Tag Definitions
-
-Tag behavior is now centralized in [src/_data/tagDefinitions.js](/Users/martin.stabe/Documents/martinstabe.github.io/src/_data/tagDefinitions.js).
-
-Each legacy `tags/*.md` file is interpreted with a Jekyll-like distinction:
-
-- `tag`: the tag token matched against post front matter
-- `title`: the display label used on rendered pages
-- `permalink`: the canonical output location
-
-This makes it possible to change how a tag is displayed without changing the raw tag token in the post front matter.
-
 ### Tag Deduplication And Alias Merging
 
 Multiple tag tokens can now map to the same rendered tag page simply by pointing their legacy `tags/*.md` files at the same permalink.
@@ -214,8 +153,6 @@ Example:
 - `ft`
 - `financialtimes`
 - `financial-times`
-
-can all resolve to one canonical page such as `/tags/financial-times/`.
 
 This affects:
 
