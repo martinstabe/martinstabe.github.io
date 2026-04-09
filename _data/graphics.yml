@@ -3182,7 +3182,7 @@
   flourish_id: '25679244'
   flourish_title: UK batteries by revenue
   flourish_date: '2025-10-17'
-  flourish_template: Scatter
+  flourish_template: Beeswarm plot
   flourish_img: https://public.flourish.studio/visualisation/25679244/thumbnail
   include: true
   homepage: true
