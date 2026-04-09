@@ -39,6 +39,44 @@ npm run dev
 
 The current build target is `dist/`. The build script cleans `dist/` before each build so removed routes do not leave stale files behind.
 
+## URL Parity Check
+
+The repository includes a repeatable parity check for the deployment contract defined in the migration spec: any internal `martinstabe.com` URL reachable by recursively following links from `https://www.martinstabe.com/blog/` must also exist in the new build output.
+
+Build the site first:
+
+```bash
+npm run build
+```
+
+Run the full parity workflow:
+
+```bash
+npm run parity:blog
+```
+
+This writes:
+
+- `data/url_parity_live_blog.json`: crawl inventory from the live site
+- `data/url_parity_dist.json`: local route inventory from `dist/`
+- `data/url_parity_report.json`: parity diff report
+
+The full parity command exits non-zero if the live crawl finds internal paths that do not exist in `dist/`.
+
+You can also run the stages individually:
+
+```bash
+npm run parity:blog:live
+npm run parity:blog:dist
+npm run parity:blog:check
+```
+
+For bounded smoke tests while iterating on the crawler, you can cap the live crawl:
+
+```bash
+node scripts/crawl_live_blog.js --limit 200
+```
+
 ## Deployment
 
 This implementation is intended for Cloudflare Pages.

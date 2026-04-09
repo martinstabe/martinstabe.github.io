@@ -269,6 +269,12 @@ For this audit, URL comparison should:
 - treat `/index.html` and the directory URL as equivalent
 - preserve path semantics closely enough to catch real permalink drift, including trailing-slash differences where relevant
 
+Allowed exclusions may be recorded when the audit detects legacy behavior that should not be preserved.
+
+Current allowed exclusion:
+
+- `/slides/css/theme/`: the live site currently serves a page derived from `slides/css/theme/README.md`, but this is now treated as an original-site publishing error and should not be preserved in the new deployment. `README.md` files under `slides/` should not be published.
+
 No migration should proceed to cutover until this `/blog/`-rooted URL parity has been validated against the current live site.
 
 ## Content Integrity Risks
@@ -317,6 +323,15 @@ Before switching production to the new site:
 8. Verify the `links/` archive page output.
 9. Verify that `slides/` assets are still accessible where they are part of the generated site contract.
 10. Confirm Cloudflare Pages build output matches expectations.
+
+Current verification outcome as of 2026-04-09:
+
+- a repeatable crawl-and-diff workflow has been implemented in the repository
+- the live crawl from `https://www.martinstabe.com/blog/` visited 2,597 internal URLs and resolved them to 1,152 reachable normalized paths
+- the local Eleventy build currently exposes 4,314 normalized paths from `dist/`
+- the parity diff found one missing live-reachable path: `/slides/css/theme/`
+- that path is now an explicit allowed exclusion because it exists only due to unintended publication of `slides/css/theme/README.md` on the legacy site
+- `README.md` files under `slides/` are now removed from the built output and should not be considered part of the deployment contract
 
 ## Recommended Delivery Sequence
 
@@ -388,8 +403,6 @@ Despite the amount of completed implementation work, the migration should not ye
 
 The main unresolved concerns are:
 
-- the `/blog/`-rooted live URL parity contract has not yet been formalized into a repeatable crawl-and-diff check
-- no migration-specific parity audit artifacts are currently recorded in the repository
 - Cloudflare Pages deployment is documented, but an actual Pages configuration or verified deployment setup has not yet been confirmed in-repo
 - metadata parity is only partial: canonical URLs, titles, descriptions, and feed behavior still need explicit verification against the live site before deployment
 - `package.json` does not explicitly declare all packages used directly by the Eleventy data layer, including `js-yaml`, `markdown-it`, and `entities`
@@ -412,7 +425,7 @@ The current status against the migration plan is:
 In practical terms, most of the migration build has already been done. The remaining work is primarily verification and hardening:
 
 1. declare direct Node dependencies explicitly
-2. implement and run a repeatable `/blog/`-rooted live URL crawl and parity diff against `dist/`
+2. keep the `/blog/`-rooted parity crawl and diff as a repeatable pre-deploy check, with `/slides/css/theme/` recorded as an explicit allowed exclusion
 3. spot-audit representative old posts, tags, links pages, and feed output
 4. complete Phase 5 metadata parity work
 5. confirm a reproducible Cloudflare Pages deployment path before cutover

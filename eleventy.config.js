@@ -1,5 +1,25 @@
+const fs = require("fs");
 const path = require("path");
 const { encodeXML } = require("entities");
+
+function removeReadmes(targetDir) {
+  if (!fs.existsSync(targetDir)) {
+    return;
+  }
+
+  for (const entry of fs.readdirSync(targetDir, { withFileTypes: true })) {
+    const entryPath = path.join(targetDir, entry.name);
+
+    if (entry.isDirectory()) {
+      removeReadmes(entryPath);
+      continue;
+    }
+
+    if (entry.isFile() && entry.name === "README.md") {
+      fs.unlinkSync(entryPath);
+    }
+  }
+}
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ img: "img" });
@@ -74,6 +94,10 @@ module.exports = function (eleventyConfig) {
     }
 
     return normalized;
+  });
+
+  eleventyConfig.on("eleventy.after", ({ dir }) => {
+    removeReadmes(path.join(dir.output, "slides"));
   });
 
   return {
