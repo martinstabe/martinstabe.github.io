@@ -24,11 +24,16 @@ module.exports = function () {
   return readStories()
     .filter((story) => story && story.include !== false && story.guid && story.title && story.link && story.pubDate)
     .map((story) => {
+      const description = decodeValue(story.description);
+      const commentary = decodeValue(story.commentary);
+
       return {
         ...story,
         guid: String(story.guid),
         title: decodeValue(story.title),
-        description: decodeValue(story.description),
+        description,
+        commentary,
+        displayDescription: commentary || description,
         link: decodeValue(story.link),
         pubDate: story.pubDate
       };

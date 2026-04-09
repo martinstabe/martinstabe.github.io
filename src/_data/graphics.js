@@ -33,22 +33,29 @@ module.exports = function () {
         graphic.flourish_id
       );
     })
-    .map((graphic) => ({
-      ...graphic,
-      id: String(graphic.id),
-      url: decodeValue(graphic.url),
-      story_title: decodeValue(graphic.story_title),
-      story_description: decodeValue(graphic.story_description),
-      story_link: decodeValue(graphic.story_link),
-      type: decodeValue(graphic.type),
-      flourish_url: decodeValue(graphic.flourish_url),
-      flourish_id: decodeValue(graphic.flourish_id),
-      flourish_title: decodeValue(graphic.flourish_title),
-      flourish_template: decodeValue(graphic.flourish_template),
-      flourish_img: decodeValue(graphic.flourish_img),
-      homepage_image: decodeValue(graphic.homepage_image),
-      date: graphic.date,
-      flourish_date: graphic.flourish_date
-    }))
+    .map((graphic) => {
+      const storyDescription = decodeValue(graphic.story_description);
+      const commentary = decodeValue(graphic.commentary);
+
+      return {
+        ...graphic,
+        id: String(graphic.id),
+        url: decodeValue(graphic.url),
+        story_title: decodeValue(graphic.story_title),
+        story_description: storyDescription,
+        commentary,
+        displayDescription: commentary || storyDescription,
+        story_link: decodeValue(graphic.story_link),
+        type: decodeValue(graphic.type),
+        flourish_url: decodeValue(graphic.flourish_url),
+        flourish_id: decodeValue(graphic.flourish_id),
+        flourish_title: decodeValue(graphic.flourish_title),
+        flourish_template: decodeValue(graphic.flourish_template),
+        flourish_img: decodeValue(graphic.flourish_img),
+        homepage_image: decodeValue(graphic.homepage_image),
+        date: graphic.date,
+        flourish_date: graphic.flourish_date
+      };
+    })
     .sort((a, b) => new Date(b.date) - new Date(a.date));
 };

@@ -28,8 +28,8 @@ permalink: /
       <div class="home-card-body">
         <p class="home-card-meta">{{ story.pubDate | displayDate }}</p>
         <h3 class="home-card-title"><a href="{{ story.link }}">{{ story.title }}</a></h3>
-        {% if story.description %}
-        <p class="home-card-summary">{{ story.description }}</p>
+        {% if story.displayDescription %}
+        <p class="home-card-summary">{{ story.displayDescription }}</p>
         {% endif %}
       </div>
     </article>
@@ -57,8 +57,8 @@ permalink: /
       <div class="home-card-body">
         <p class="home-card-meta">{{ graphic.date | displayDate }}{% if graphic.flourish_template %} • {{ graphic.flourish_template }}{% endif %}</p>
         <h3 class="home-card-title"><a href="{{ graphic.url }}">{{ graphic.story_title }}</a></h3>
-        {% if graphic.story_description %}
-        <p class="home-card-summary">{{ graphic.story_description }}</p>
+        {% if graphic.displayDescription %}
+        <p class="home-card-summary">{{ graphic.displayDescription }}</p>
         {% endif %}
       </div>
     </article>

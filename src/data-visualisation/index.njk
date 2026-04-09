@@ -12,8 +12,8 @@ permalink: /data-visualisation/
     <div class="graphics-list-body">
       <p class="home-card-meta">{{ graphic.date | displayDate }}{% if graphic.flourish_template %} • {{ graphic.flourish_template }}{% endif %}</p>
       <h2 class="home-card-title"><a href="{{ graphic.url }}">{{ graphic.story_title }}</a></h2>
-      {% if graphic.story_description %}
-      <p class="home-card-summary">{{ graphic.story_description }}</p>
+      {% if graphic.displayDescription %}
+      <p class="home-card-summary">{{ graphic.displayDescription }}</p>
       {% endif %}
     </div>
     <a class="graphics-list-image-link" href="{{ graphic.flourish_url }}">

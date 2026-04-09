@@ -5,8 +5,8 @@
       <h2>
         <a class="post-link" href="{{ story.link }}">{{ story.title }}</a>
       </h2>
-      {% if story.description %}
-      <p>{{ story.description }}</p>
+      {% if story.displayDescription %}
+      <p>{{ story.displayDescription }}</p>
       {% endif %}
     </li>
   {% endfor %}
