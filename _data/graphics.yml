@@ -25,7 +25,7 @@
   flourish_id: '28330027'
   flourish_title: Iran War polls partisan breakdown
   flourish_date: '2026-04-02'
-  flourish_template: Likert scale diverging stacked bar chart
+  flourish_template: Likert scale diverging bar chart
   flourish_img: https://public.flourish.studio/visualisation/28330027/thumbnail
   include: true
   homepage: true
@@ -208,7 +208,7 @@
   flourish_id: '23503214'
   flourish_title: '[LIVE] ETR - all countries with selector'
   flourish_date: '2026-02-19'
-  flourish_template: Line, bar and pie charts
+  flourish_template: Interactive column-and-line chart
   flourish_img: https://public.flourish.studio/visualisation/23503214/thumbnail
   include: true
   homepage: true
@@ -317,7 +317,7 @@
   flourish_date: '2026-03-23'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/28183915/thumbnail
-  include: true
+  include: false
 - id: 7e2fbc9c-19ba-41a7-9e33-d06fb3361c31::28098584
   story: 7e2fbc9c-19ba-41a7-9e33-d06fb3361c31
   url: https://www.ft.com/content/7e2fbc9c-19ba-41a7-9e33-d06fb3361c31
@@ -360,7 +360,7 @@
   flourish_id: '28115147'
   flourish_title: Spain relative ideology (new age buckets)
   flourish_date: '2026-03-18'
-  flourish_template: Line, bar and pie charts
+  flourish_template: Line chart
   flourish_img: https://public.flourish.studio/visualisation/28115147/thumbnail
   include: true
   homepage: true
@@ -453,7 +453,7 @@
   flourish_date: '2026-03-16'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/28083130/thumbnail
-  include: true
+  include: false
 - id: b46fa7c5-1dcd-4d08-96fd-7d5ef7915524::28104180
   story: b46fa7c5-1dcd-4d08-96fd-7d5ef7915524
   url: https://www.ft.com/content/b46fa7c5-1dcd-4d08-96fd-7d5ef7915524
@@ -543,7 +543,7 @@
   flourish_date: '2026-03-17'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/28096341/thumbnail
-  include: true
+  include: false
 - id: 3afde091-d7a2-495f-9d7d-856ca2a50ee5::28042931
   story: 3afde091-d7a2-495f-9d7d-856ca2a50ee5
   url: https://www.ft.com/content/3afde091-d7a2-495f-9d7d-856ca2a50ee5
@@ -618,7 +618,7 @@
   flourish_date: '2026-03-11'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/28004454/thumbnail
-  include: true
+  include: false
 - id: e11b798a-8ba3-49ab-8ecc-15b0181569d8::27979764
   story: e11b798a-8ba3-49ab-8ecc-15b0181569d8
   url: https://www.ft.com/content/e11b798a-8ba3-49ab-8ecc-15b0181569d8
@@ -633,7 +633,7 @@
   flourish_date: '2026-03-10'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/27979764/thumbnail
-  include: true
+  include: false
 - id: e11b798a-8ba3-49ab-8ecc-15b0181569d8::27979936
   story: e11b798a-8ba3-49ab-8ecc-15b0181569d8
   url: https://www.ft.com/content/e11b798a-8ba3-49ab-8ecc-15b0181569d8
@@ -648,7 +648,7 @@
   flourish_date: '2026-03-10'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/27979936/thumbnail
-  include: true
+  include: false
 - id: e11b798a-8ba3-49ab-8ecc-15b0181569d8::27979974
   story: e11b798a-8ba3-49ab-8ecc-15b0181569d8
   url: https://www.ft.com/content/e11b798a-8ba3-49ab-8ecc-15b0181569d8
@@ -663,7 +663,7 @@
   flourish_date: '2026-03-10'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/27979974/thumbnail
-  include: true
+  include: false
 - id: 366de11e-d967-41e1-afa7-dc714c7a1180::27978085
   story: 366de11e-d967-41e1-afa7-dc714c7a1180
   url: https://www.ft.com/content/366de11e-d967-41e1-afa7-dc714c7a1180
@@ -693,7 +693,7 @@
   flourish_date: '2026-03-09'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/27949559/thumbnail
-  include: true
+  include: false
 - id: a60e29d7-8810-4152-92f0-03120eed4f97::27949931
   story: a60e29d7-8810-4152-92f0-03120eed4f97
   url: https://www.ft.com/content/a60e29d7-8810-4152-92f0-03120eed4f97
@@ -2074,7 +2074,7 @@
   flourish_date: '2026-01-12'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/27172935/thumbnail
-  include: true
+  include: false
 - id: 8a818ae9-ffef-449f-8d08-1571f3cd1296::27146259
   story: 8a818ae9-ffef-449f-8d08-1571f3cd1296
   url: https://www.ft.com/content/8a818ae9-ffef-449f-8d08-1571f3cd1296
@@ -3167,7 +3167,7 @@
   flourish_id: '25677981'
   flourish_title: UK Battery capacity by supplier
   flourish_date: '2025-10-17'
-  flourish_template: Hierarchy
+  flourish_template: Beeswarm plot
   flourish_img: https://public.flourish.studio/visualisation/25677981/thumbnail
   include: true
 - id: 580c9a0c-a93c-44f8-a545-0ef48ca99836::25679244
@@ -3395,7 +3395,7 @@
   flourish_date: '2025-10-03'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/25445242/thumbnail
-  include: true
+  include: false
 - id: 75256dfa-4679-4d51-9cc7-9257c7895bbf::25451709
   story: 75256dfa-4679-4d51-9cc7-9257c7895bbf
   url: https://www.ft.com/content/75256dfa-4679-4d51-9cc7-9257c7895bbf
@@ -3410,7 +3410,7 @@
   flourish_date: '2025-10-03'
   flourish_template: Line, bar and pie charts
   flourish_img: https://public.flourish.studio/visualisation/25451709/thumbnail
-  include: true
+  include: false
 - id: c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa::25396929
   story: c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa
   url: https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa
@@ -4999,7 +4999,7 @@
   flourish_id: '22197840'
   flourish_title: Congressional Districts federal employees by party
   flourish_date: '2025-03-20'
-  flourish_template: Scatter
+  flourish_template: Scatter plot
   flourish_img: https://public.flourish.studio/visualisation/22197840/thumbnail
   include: true
   homepage: true
@@ -5978,6 +5978,7 @@
   flourish_template: Scatter
   flourish_img: https://public.flourish.studio/visualisation/21337299/thumbnail
   include: true
+  homepage: true
 - id: f05d8f52-7131-4cc8-bd8e-9b875b04a14f::21266236
   story: f05d8f52-7131-4cc8-bd8e-9b875b04a14f
   url: https://www.ft.com/content/f05d8f52-7131-4cc8-bd8e-9b875b04a14f
@@ -8426,7 +8427,7 @@
 - id: a2901ce8-5eb7-4633-b89c-cbdf5b386938::6718632
   story: a2901ce8-5eb7-4633-b89c-cbdf5b386938
   url: https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938
-  story_title: 'Coronavirus tracker: the latest figures as countries fight the Covid-19 resurgence | Free to read'
+  story_title: 'Covid tracker: the latest figures'
   story_description: The FT analyses the scale of outbreaks and tracks the vaccine rollouts around the world
   story_link: https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938
   date: '2021-12-20 12:49:20'
@@ -8435,7 +8436,7 @@
   flourish_id: '6718632'
   flourish_title: '[tracker] Streamgraph from live tracker data'
   flourish_date: '2022-12-22'
-  flourish_template: Line, bar and pie charts
+  flourish_template: Streamgraph
   flourish_img: https://public.flourish.studio/visualisation/6718632/thumbnail
   include: true
   homepage: true
