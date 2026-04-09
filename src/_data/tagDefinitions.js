@@ -1,58 +1,5 @@
-const fs = require("fs");
-const path = require("path");
-const yaml = require("js-yaml");
+const definitionsData = require("./tag-definitions.json");
 const { decodeHTML } = require("entities");
-
-const ROOT = path.resolve(__dirname, "..", "..");
-const TAGS_DIR = path.join(ROOT, "tags");
-
-function parseFrontMatter(fileContents) {
-  const match = fileContents.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
-  if (!match) {
-    return {};
-  }
-
-  try {
-    return yaml.load(match[1]) || {};
-  } catch (_error) {
-    const result = {};
-    let currentListKey = null;
-
-    for (const rawLine of match[1].split(/\r?\n/)) {
-      if (!rawLine.trim()) {
-        continue;
-      }
-
-      const listMatch = rawLine.match(/^\s*-\s*(.+)\s*$/);
-      if (listMatch && currentListKey) {
-        if (!Array.isArray(result[currentListKey])) {
-          result[currentListKey] = [];
-        }
-
-        result[currentListKey].push(listMatch[1]);
-        continue;
-      }
-
-      const entryMatch = rawLine.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
-      if (!entryMatch) {
-        currentListKey = null;
-        continue;
-      }
-
-      const [, key, value] = entryMatch;
-      if (value === "") {
-        result[key] = [];
-        currentListKey = key;
-        continue;
-      }
-
-      result[key] = value;
-      currentListKey = null;
-    }
-
-    return result;
-  }
-}
 
 function normalizeArray(value) {
   if (!value) {
@@ -80,9 +27,10 @@ function stripTagPrefix(title, fallbackTag) {
   return cleanTitle.replace(/^Tag:\s*/i, "") || fallbackTag;
 }
 
-function createDefinition(data, fallbackTag) {
-  const tag = decodeValue(data.tag || fallbackTag);
+function createDefinition(data) {
+  const tag = decodeValue(data.tag);
   const title = decodeValue(data.title) || `Tag: ${tag}`;
+  const commentary = decodeValue(data.commentary);
   const displayTitle = stripTagPrefix(title, tag);
   const permalink = ensureWrappedSlashes(data.permalink || `/tags/${tag}/`);
   const slug = permalink.replace(/^\/+|\/+$/g, "");
@@ -99,6 +47,7 @@ function createDefinition(data, fallbackTag) {
   return {
     tag,
     title,
+    commentary,
     displayTitle,
     heading: `Tag: ${displayTitle}`,
     permalink,
@@ -109,23 +58,13 @@ function createDefinition(data, fallbackTag) {
 
 module.exports = function () {
   const byAlias = {};
-  const definitions = fs
-    .readdirSync(TAGS_DIR)
-    .filter((file) => file.endsWith(".md"))
-    .sort()
-    .map((fileName) => {
-      const filePath = path.join(TAGS_DIR, fileName);
-      const raw = fs.readFileSync(filePath, "utf8");
-      const data = parseFrontMatter(raw);
-      const fallbackTag = path.basename(fileName, ".md");
-      const definition = createDefinition(data, fallbackTag);
+  const definitions = definitionsData.map((entry) => createDefinition(entry));
 
-      for (const alias of definition.aliases) {
-        byAlias[alias] = definition;
-      }
-
-      return definition;
-    });
+  for (const definition of definitions) {
+    for (const alias of definition.aliases) {
+      byAlias[alias] = definition;
+    }
+  }
 
   return {
     all: definitions,
