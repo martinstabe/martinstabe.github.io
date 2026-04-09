@@ -193,7 +193,6 @@ This phase should also cover:
 - canonical URLs
 - page titles
 - meta descriptions
-- social metadata if added
 
 ### Phase 6: Styling Pipeline
 
@@ -219,6 +218,17 @@ The final build should:
 
 Cloudflare Pages should become the source of production deploys after parity is confirmed.
 
+### Phase 8: Post-Migration Enhancements
+
+After deployment parity has been achieved, low-priority enhancements can be tackled separately from the launch-critical migration work.
+
+This phase may include:
+
+- Open Graph metadata
+- Twitter card metadata or equivalent social-sharing metadata
+- richer page-type-specific metadata beyond the minimum needed for deployment
+- optional tidy-up work that improves presentation but does not affect URL parity or launch readiness
+
 ## Cloudflare Pages Requirements
 
 The migration should assume:
@@ -240,17 +250,26 @@ Optional later improvements:
 
 ## URL Preservation Requirements
 
-These URLs must continue to work exactly as they do now:
+For the initial deployment, the parity contract is intentionally narrower than "every URL currently on the domain".
 
-- dated post permalinks such as `/2016/03/12/automatic-twitter-lists/`
-- tag URLs under `/tags/<tag>/`
-- `/tags/`
-- `/blog/`
-- `/links/`
-- `/feed.xml`
-- static page URLs such as `/about/`
+The required contract is:
 
-No migration should proceed to cutover until URL parity has been validated against the current site.
+- any URL on `martinstabe.com` or `www.martinstabe.com` that is linked to from `https://www.martinstabe.com/blog/`, either directly or by recursive traversal of internal links starting from that page, must also exist on the new site
+
+This means:
+
+- all dated post permalinks reachable from the blog archive must continue to exist
+- all tag pages, archive pages, and other internal HTML routes reachable from the blog archive must continue to exist
+- additional pages may be present on the new site, even if they are not present on the current live site
+
+For this audit, URL comparison should:
+
+- normalize away scheme and host
+- ignore fragments
+- treat `/index.html` and the directory URL as equivalent
+- preserve path semantics closely enough to catch real permalink drift, including trailing-slash differences where relevant
+
+No migration should proceed to cutover until this `/blog/`-rooted URL parity has been validated against the current live site.
 
 ## Content Integrity Risks
 
@@ -286,13 +305,18 @@ The `slides/` directory should remain a passthrough static section in the first 
 
 Before switching production to the new site:
 
-1. Build both old and new sites locally.
-2. Compare generated URLs for posts, tags, pages, and feed.
-3. Spot-check representative posts across different years.
-4. Verify links, image paths, and canonical tags.
-5. Verify the `links/` archive page output.
-6. Verify that `slides/` assets are still accessible.
-7. Confirm Cloudflare Pages build output matches expectations.
+1. Crawl `https://www.martinstabe.com/blog/` and recursively follow only internal links on `martinstabe.com` and `www.martinstabe.com`.
+2. Record every discovered internal URL path and normalize it into a parity inventory.
+3. Build the new Eleventy site from a clean `dist/`.
+4. Enumerate all generated local routes from `dist/` into the same normalized path format.
+5. Compare the live `/blog/`-rooted inventory against the built local route inventory.
+6. Triage every missing path as either:
+   - a required compatibility route to add
+   - an allowed exclusion with a written reason
+7. Spot-check representative posts across different years, including HTML-heavy and link-roundup posts.
+8. Verify the `links/` archive page output.
+9. Verify that `slides/` assets are still accessible where they are part of the generated site contract.
+10. Confirm Cloudflare Pages build output matches expectations.
 
 ## Recommended Delivery Sequence
 
@@ -317,6 +341,100 @@ The following should be explicitly deferred until after the initial migration:
 - large-scale link-rot remediation
 - replacing or removing legacy embeds
 - restructuring the `slides/` section
+
+## Current Progress Assessment
+
+Assessment date: 2026-04-09
+
+The repository is no longer at the planning or scaffold stage. A substantial parallel Eleventy implementation already exists alongside the legacy Jekyll site, and most of the initial migration scope described in this spec has been implemented.
+
+### Implemented
+
+The following migration work is present in the repository:
+
+- a parallel Eleventy app with [`package.json`](./package.json), [`eleventy.config.js`](./eleventy.config.js), and a dedicated [`src/`](./src/) tree
+- Node-based build output targeting `dist/`
+- passthrough handling for `img/`, `slides/`, `CNAME`, and the Google verification file
+- shared Eleventy layouts and partials covering the page shell, header, footer, analytics, comments, and head metadata
+- direct post import from `_posts/` into Eleventy data
+- generated post pages using legacy permalinks
+- generated tag index and tag detail pages driven from legacy tag definitions
+- a links archive page rebuilt from `_data/links.yml`
+- an Eleventy RSS feed
+- a Node-based Sass compilation step that reuses the existing Jekyll Sass sources
+
+The current Eleventy implementation also includes additional sections beyond the initial migration scope, notably `stories/` and `data-visualisation/`.
+
+### Verified Repository State
+
+The following observations are confirmed from the current codebase:
+
+- `_posts/` contains 1,145 posts, and the Eleventy post importer currently reads all 1,145
+- `tags/` contains 1,237 legacy tag definition files
+- the generated tag model resolves those legacy definitions into 1,235 rendered tag routes with no missing legacy tag permalinks
+- the main routes in scope for the initial migration are present in Eleventy source:
+  - home page
+  - blog index
+  - individual post pages
+  - tag index
+  - tag detail pages
+  - links archive
+  - about page
+  - RSS feed
+
+### Remaining Gaps And Risks
+
+Despite the amount of completed implementation work, the migration should not yet be treated as cutover-ready.
+
+The main unresolved concerns are:
+
+- the `/blog/`-rooted live URL parity contract has not yet been formalized into a repeatable crawl-and-diff check
+- no migration-specific parity audit artifacts are currently recorded in the repository
+- Cloudflare Pages deployment is documented, but an actual Pages configuration or verified deployment setup has not yet been confirmed in-repo
+- metadata parity is only partial: canonical URLs, titles, descriptions, and feed behavior still need explicit verification against the live site before deployment
+- `package.json` does not explicitly declare all packages used directly by the Eleventy data layer, including `js-yaml`, `markdown-it`, and `entities`
+- a clean rebuild after manually clearing `dist/` completed successfully on 2026-04-09 and did not reproduce the earlier `2003 2` / `2004 2` style directory anomalies, which strongly suggests those paths were caused by a local-machine interaction rather than current Eleventy routing logic
+- at least one imported legacy post lacks a `title` field and will need editorial review during parity checking
+
+### Phase Status Summary
+
+The current status against the migration plan is:
+
+- Phase 1: substantially implemented
+- Phase 2: substantially implemented
+- Phase 3: substantially implemented
+- Phase 4: substantially implemented
+- Phase 5: partially implemented
+- Phase 6: implemented
+- Phase 7: only partially evidenced
+- Phase 8: not started and intentionally deferred
+
+In practical terms, most of the migration build has already been done. The remaining work is primarily verification and hardening:
+
+1. declare direct Node dependencies explicitly
+2. implement and run a repeatable `/blog/`-rooted live URL crawl and parity diff against `dist/`
+3. spot-audit representative old posts, tags, links pages, and feed output
+4. complete Phase 5 metadata parity work
+5. confirm a reproducible Cloudflare Pages deployment path before cutover
+
+### Next Steps For Phase 5
+
+Phase 5 is no longer blocked by the earlier `dist/` anomaly. The next work to complete this phase should focus on feed and metadata parity that is necessary for deployment, not optional social enhancements:
+
+1. review the generated RSS feed against the legacy Jekyll feed and document any differences in item count, content encoding, category output, GUIDs, and timestamps
+2. verify that canonical URLs always resolve to the intended public production domain and are not still pointing at a legacy or temporary hostname
+3. decide whether posts, pages, and tag pages need distinct metadata behavior, then implement the minimum page-type-specific defaults required for parity and sane search/index behavior
+4. audit a representative sample of old posts with difficult content, including HTML-heavy entries and link roundup posts, to ensure their feed descriptions and page descriptions are not malformed
+5. record the accepted Phase 5 launch criteria in this spec or a deployment note so deployment is not blocked by non-essential metadata work
+
+### Phase 8 Backlog
+
+The following items are intentionally out of scope for launch and should be handled only after deployment parity is complete:
+
+1. add Open Graph metadata to the shared head partial
+2. add Twitter card metadata or equivalent social-sharing tags if still useful
+3. extend metadata behavior for richer social previews and sharing presentation
+4. perform non-essential metadata tidy-up that does not affect routing, indexing, or feed parity
 
 ## Recommendation Summary
 
