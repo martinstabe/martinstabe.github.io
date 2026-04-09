@@ -20,8 +20,33 @@ function decodeValue(value) {
   return typeof value === "string" ? decodeHTML(value) : value;
 }
 
+function getTimeValue(value) {
+  const time = new Date(value).getTime();
+  return Number.isNaN(time) ? Number.POSITIVE_INFINITY : time;
+}
+
+function dedupeByFlourishImage(graphics) {
+  const byImage = new Map();
+  const withoutImage = [];
+
+  for (const graphic of graphics) {
+    if (!graphic.flourish_img) {
+      withoutImage.push(graphic);
+      continue;
+    }
+
+    const existing = byImage.get(graphic.flourish_img);
+
+    if (!existing || getTimeValue(graphic.date) < getTimeValue(existing.date)) {
+      byImage.set(graphic.flourish_img, graphic);
+    }
+  }
+
+  return withoutImage.concat(Array.from(byImage.values()));
+}
+
 module.exports = function () {
-  return readGraphics()
+  const graphics = readGraphics()
     .filter((graphic) => {
       return (
         graphic &&
@@ -58,4 +83,6 @@ module.exports = function () {
       };
     })
     .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  return dedupeByFlourishImage(graphics).sort((a, b) => new Date(b.date) - new Date(a.date));
 };
