@@ -2,6 +2,8 @@
 title: Bits and pieces
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/08/bits-and-pieces/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 After some reflection, I&#8217;ve decided not to post my rant about the nonsense that 24-year-old *Independent *columnist **Johann Hari** wrote yesterday about our &#8220;generation.&#8221; Hari thinks we&#8217;re all <a href="http://news.independent.co.uk/uk/politics/story.jsp?story=384638" target="_top">Ketamine-popping cynics</a> who have nothing nice to say about politicians and only root for &#8220;sneerers&#8221; like **Jeremy Paxman**. Whatever. Zzzz. 
 

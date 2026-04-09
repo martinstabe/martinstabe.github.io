@@ -2,6 +2,8 @@
 title: '<em>Gecybercshaft?!</em>'
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/01/09/gecybercshaft/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 **Mary Ann Allison** has coined the term &rdquo;[gecyberschaft][1]&ldquo;.
 

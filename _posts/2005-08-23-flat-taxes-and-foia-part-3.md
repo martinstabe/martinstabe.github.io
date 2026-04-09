@@ -2,6 +2,8 @@
 title: Flat taxes and FOIA, part 3
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/23/flat-taxes-and-foia-part-3/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 In the [continuing saga of the redacted flat tax documents][1], the issue is [whether or not the Treasury used a Section 36 examption to the Freedom of Information Act][2] to redact the documents that were reported in the *Financial Times.*
 

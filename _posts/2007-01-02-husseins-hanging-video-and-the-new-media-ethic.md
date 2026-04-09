@@ -2,6 +2,15 @@
 title: 'Hussein&#8217;s hanging video and the &#8216;new media ethic&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - broadcasting
+  - ethics
+  - guardian
+  - iraq
+  - journalism
+  - newspapers
+  - online
 permalink: /2007/01/02/husseins-hanging-video-and-the-new-media-ethic/
 views:
   - 49
@@ -9,15 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - BBC
-  - Broadcasting
-  - Ethics
-  - Guardian
-  - Iraq
-  - Journalism
-  - Newspapers
-  - Online
 ---
 The emergence of a cameraphone video showing the execution of Saddam Hussein last week unleashed the usual torrent of stories examining the difficult decisions newspaper and television editors faced programmes should use it. The [*Guardian*][1] and the [BBC][2] discussed their decisions on their respective editors’ blogs in the last few days.
 

@@ -2,6 +2,8 @@
 title: 'Journalists: Please learn to Google!'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/05/15/journalists-please-learn-to-google/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The latest issue of the UK *Press Gazette* (not online, unfortunatly) exposes the shocking level of fact-checking in British regional journalism. Roger Stachis, trying to promote his new web site, duped &#8220;more than 10&#8243; regional papers &#8212; including the *[Cambridge Evening News][1],* the *Croydon Guardian* the *[Bath Chronicle][2],* the *Middleton Guardian,* and the *Solihull Times* &#8212; into believing he was a local boy done good.
 

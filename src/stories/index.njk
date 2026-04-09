@@ -1,0 +1,9 @@
+---
+layout: layouts/page.njk
+title: Stories
+permalink: /stories/
+---
+<p>Recent <a href="https://www.ft.com/martin-stabe">stories I have worked on at the Financial Times</a>:</p>
+
+{% set stories = stories %}
+{% include "partials/story-list.njk" %}

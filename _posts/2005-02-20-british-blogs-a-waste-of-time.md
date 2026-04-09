@@ -2,6 +2,8 @@
 title: 'British blogs: A waste of time?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/20/british-blogs-a-waste-of-time/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 A recent [*Times* article][1] has given the British political blogosphere some much-needed attention — including some from some rather [unsavoury sources][2].
 

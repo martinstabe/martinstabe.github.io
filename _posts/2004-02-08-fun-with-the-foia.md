@@ -2,6 +2,8 @@
 title: Fun with the FoIA
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/02/08/fun-with-the-foia/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The U.S. Freedom of Information Act and state- and local-level &#8220;sunshine&#8221; laws are a wonderful thing. In theory.
 

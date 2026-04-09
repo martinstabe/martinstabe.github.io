@@ -2,6 +2,8 @@
 title: More research on (U.S.) political blogging
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/13/more-research-on-us-political-blogging/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 *Mystery Pollster* **Mark Blumenthal** [links to][1] Gallup&rsquo;s report on the [survey about blogging][2] that it produced for CNN and *USA Today.*
 

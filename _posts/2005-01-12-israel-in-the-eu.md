@@ -2,6 +2,8 @@
 title: Israel in the EU?
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/12/israel-in-the-eu/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Writing in the German journal *Internationale Politik,* EU Industry Commissioner **G&uuml;nter Verheugen**, indicated that he could imagine a [closer economic relationship between the EU and Israel][1], even including Israeli membership in the euro.
 

@@ -2,6 +2,9 @@
 title: 'The race for Africa&#8217;s oil'
 author: Martin Stabe
 layout: post
+tags:
+  - africa
+  - globalization
 permalink: /2005/09/26/the-race-for-africas-oil/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Africa
-  - Globalization
 ---
 The scramble for African oil: [a Chinese view][1]. [[ADDED 8.1.2006][2]]
 

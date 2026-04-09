@@ -2,6 +2,8 @@
 title: Times calls for openness
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/30/times-calls-for-openness/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 A [*Times* leader][1] today calls for Information Commissioner **Richard Thomas** &ldquo;issue some boldly liberal judgments&rdquo; on appeals under the Freedom of Information Act.
 

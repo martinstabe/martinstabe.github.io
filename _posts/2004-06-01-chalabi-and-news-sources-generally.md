@@ -2,6 +2,8 @@
 title: Chalabi (and news sources generally)
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/06/01/chalabi-and-news-sources-generally/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 [*New York* magazine][1]:  
 

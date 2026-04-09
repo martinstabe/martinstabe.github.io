@@ -2,6 +2,9 @@
 title: Blogs and libel
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - usa
 permalink: /2005/03/09/blogs-and-libel/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - USA
 ---
 Another day, another essential post from **Dan Gillmor**. This time, he explains [bloggers&rsquo; and libel law][1], by pointing out *BusinessWeek&rsquo;s* mistaken notion that bloggers are somehow immune by pointing out an [old but important post][2] by Yale law professor **Jack Balkin**.
 

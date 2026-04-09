@@ -2,6 +2,9 @@
 title: Internet tops radio for UK ad spending
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - uk
 permalink: /2005/04/08/internet-tops-radio-for-uk-ad-spending/
 views:
   - 9
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - UK
 ---
 In case you missed it: *The Periscope* notes that [spending on Internet advertising in the UK has overtaken radio][1] advertising. 
 

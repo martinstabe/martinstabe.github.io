@@ -2,6 +2,8 @@
 title: 'Today&#8217;s random reads'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/14/todays-random-reads/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
   * **Joe Conason** discusses why **Tony Blair** has such <a href="http://www.guardian.co.uk/usa/story/0,12271,936314,00.html" target="_top">broad appeal in the United States</a>, and why, because even New Labour liberalism is too left-wing for the Washington neo-conservatives to tolerate, the love affair can&#8217;t last.
   * Elsewhere in the *Guardian,* **Martin Kettle** <a href="http://www.guardian.co.uk/comment/story/0,3604,936166,00.html" target="_top">reports</a> that before Blair departed for the March 18 Iraq debate in Parliament, &#8220;Downing Street had drawn up contingency plans for the withdrawal of British troops from the build-up in the Gulf and also for Blair&#8217;s resignation, should the votes have gone against him.&#8221;

@@ -2,6 +2,9 @@
 title: Resurrection, resuscitation, revival or relaunch?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - press-gazette
 permalink: /2006/12/06/resurrection-resuscitation-revival-or-relaunch/
 views:
   - 32
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Press Gazette
 ---
 *Press Gazette* is not dead, it was just resting. Honest. Some morbid metaphors were really inevitable in today&#8217;s blog responses.
 

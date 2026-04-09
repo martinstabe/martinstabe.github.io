@@ -2,6 +2,8 @@
 title: What fun awaits!
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/10/what-fun-awaits/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Since I spend a lot of my time thinking about a PhD proposal, <a href="http://education.guardian.co.uk/higher/news/story/0,9830,911076,00.html" target="_top">this story</a> about British academia in today&#8217;s *Guardian* made me sit up:  
 

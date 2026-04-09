@@ -2,6 +2,8 @@
 title: Crime fighting by media
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/01/10/crime-fighting-by-media/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 Sir **Stephen Lander**, head of the Britain&rsquo;s new Serious and Organised Crime Agency, has told the *Indy* that his agency &ldquo;will be set priorities by the Home Office that are partly based on how much newspapers write about different types of organised crime.&rdquo;
 

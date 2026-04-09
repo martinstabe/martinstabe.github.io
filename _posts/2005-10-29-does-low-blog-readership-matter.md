@@ -2,6 +2,8 @@
 title: Does low blog readership matter?
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/10/29/does-low-blog-readership-matter/
 views:
   - 35
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Third Avenue**, posting at *The Sharpener,* bemoans the [low readership of British political blogs][1] compared to the big American blogs. 
 

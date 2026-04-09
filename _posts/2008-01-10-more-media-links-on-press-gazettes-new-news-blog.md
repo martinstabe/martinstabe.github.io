@@ -2,6 +2,8 @@
 title: 'More media links on Press Gazette&#8217;s new news blog'
 author: Martin Stabe
 layout: post
+tags:
+  - press-gazette
 permalink: /2008/01/10/more-media-links-on-press-gazettes-new-news-blog/
 views:
   - 211
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Press Gazette
 ---
 As far as search-engine optimisation goes, this might not have been the best week to launch a new journalism blog called The Wire. But [we&#8217;ve done it anyway][1].
 

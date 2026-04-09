@@ -2,6 +2,11 @@
 title: Protecting online sources
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - miscellanea
+  - newspapers
+  - usa
 permalink: /2006/02/27/protecting-online-sources/
 views:
   - 56
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Miscellanea
-  - Newspapers
-  - USA
 ---
 Sorry about my long silence. I&#8217;m busy trying to get [another blog][1] slowly off the ground and have been doing most of my posting over there lately.
 

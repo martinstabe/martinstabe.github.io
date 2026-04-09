@@ -2,6 +2,8 @@
 title: British political blogosphere readership
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/12/british-political-blogosphere-readership/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Furthering my [increasing disillusionment with British blogging][1], here are some sobering facts about our circulation.
 

@@ -2,6 +2,8 @@
 title: The Pope and meta-news
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/04/01/the-pope-and-meta-news/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 As with any global developing story, the continuing coverage today of the Pope&rsquo;s deteriorating condition has produced, almost as rapidly, some secondary stories about the media coverage itself.
 

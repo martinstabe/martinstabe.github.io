@@ -2,6 +2,8 @@
 title: 'EU &lsquo;grand strategy&rsquo; in China'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/03/eu-grand-strategy-in-china/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Hidden away behind the *Financial Times&rsquo;* subscription wall, **Quentin Peel**&rsquo;s column today provides an excellent summary of the [EU decision to end the arms export ban on China][1]. 
 

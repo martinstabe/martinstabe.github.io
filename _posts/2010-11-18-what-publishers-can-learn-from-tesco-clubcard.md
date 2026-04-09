@@ -2,11 +2,11 @@
 title: What publishers can learn from Tesco Clubcard
 author: Martin Stabe
 layout: post
-permalink: /2010/11/18/what-publishers-can-learn-from-tesco-clubcard/
-categories:
-  - Journalism
-  - Learning from Retail
+tags:
+  - journalism
+  - learning-from-retail
   - personalisation
+permalink: /2010/11/18/what-publishers-can-learn-from-tesco-clubcard/
 ---
 Every since [leaving Retail Week][1], I&#8217;ve been mulling a series of posts about what online publishers can learn from online retailers, particularly in the area of [personalising content][2].
 

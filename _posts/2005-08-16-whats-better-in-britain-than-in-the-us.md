@@ -2,6 +2,8 @@
 title: 'What&#8217;s better in Britain than in the US'
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/08/16/whats-better-in-britain-than-in-the-us/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 **Lionel Shriver** returns to the United States and reminds Brits what she is missing:
 

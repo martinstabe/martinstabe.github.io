@@ -2,6 +2,8 @@
 title: Cowardly Editors
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/06/01/cowardly-editors/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 As *The Guardian* noted last week, the syndicated political cartoon *Doonesbury* is [causing certain American newspaper editors a lot of trouble][1] of late. [Atrios commenters][2] around the United States reported the following editorial decisions about Sunday&#8217;s *Doonesbury* Memorial Day strip [listing all the American dead in Iraq][3]: 
 

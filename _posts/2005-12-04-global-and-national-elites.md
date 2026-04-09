@@ -2,6 +2,9 @@
 title: Global and national elites
 author: Martin Stabe
 layout: post
+tags:
+  - globalization
+  - sociology
 permalink: /2005/12/04/global-and-national-elites/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Globalization
-  - Sociology
 ---
 **Robert Reich** on [the world&rsquo;s rich are splitting into two seperate elites][1]: one national and one global. [[ADDED 8.1.2006][2]]
 

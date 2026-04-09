@@ -2,6 +2,8 @@
 title: Sunday EU news roundup
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/30/sunday-eu-news-roundup/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 The *Independent on Sunday* says Britain could be &ldquo;in hot water&rdquo; with the European Commission because Trade and Industry Secretary **Patricia Hewitt** is considering [allowing MG Rover to defer paying millions of pounds in VAT][1], in an attempt to rescue takeover deal by a Chinese firm. This might be considered illegal state aid for the motor group. 
 

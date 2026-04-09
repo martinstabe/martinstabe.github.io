@@ -2,6 +2,12 @@
 title: Canada warns the US (and Europe) over Arctic
 author: Martin Stabe
 layout: post
+tags:
+  - canada
+  - denmark
+  - european-union
+  - military
+  - usa
 permalink: /2006/01/29/canada-warns-the-us-and-europe-over-arctic/
 views:
   - 97
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Canada
-  - Denmark
-  - European Union
-  - Military
-  - USA
 ---
 Canada&#8217;s incoming Conservative government was supposed to forge warmer relations with Washington. But the Canadian prime minster-designate, **Stephen Harper** has already started making [decidedly frosty noises][1] about the United States meddling in some of the coldest places on Earth:
 

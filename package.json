@@ -1,0 +1,21 @@
+{
+  "name": "martinstabe-com",
+  "private": true,
+  "description": "Parallel Eleventy scaffold for martinstabe.com",
+  "scripts": {
+    "build": "node scripts/clean_dist.js && node scripts/build_sass.js && eleventy",
+    "dev": "node scripts/clean_dist.js && node scripts/build_sass.js && eleventy --serve",
+    "sync:stories": "node scripts/sync_stories.js",
+    "parity:blog:live": "node scripts/crawl_live_blog.js",
+    "parity:blog:dist": "node scripts/inventory_dist.js",
+    "parity:blog:check": "node scripts/check_url_parity.js",
+    "parity:blog": "node scripts/crawl_live_blog.js && node scripts/inventory_dist.js && node scripts/check_url_parity.js"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "entities": "^6.0.1",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^14.1.0",
+    "sass": "^1.93.2"
+  }
+}

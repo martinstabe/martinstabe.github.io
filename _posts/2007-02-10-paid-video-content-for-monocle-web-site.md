@@ -2,6 +2,10 @@
 title: Paid video content for Monocle web site
 author: Martin Stabe
 layout: post
+tags:
+  - monocle
+  - sunday-herald
+  - video
 permalink: /2007/02/10/paid-video-content-for-monocle-web-site/
 views:
   - 17
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Monocle
-  - Sunday Herald
-  - Video
 ---
 *Sunday Herald* media correspondent Stephen Vass has an excellent report on [next week&#8217;s launch of *Monocle,*][1] Tyler Brul&eacute;&rsquo;s new highbrow international newsmagazine. In it he looks at some of the plans for Monocle.com:
 

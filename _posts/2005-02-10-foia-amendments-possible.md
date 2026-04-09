@@ -2,6 +2,8 @@
 title: FOIA amendments possible?
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/02/10/foia-amendments-possible/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The *Financial Times* [story about Black Wednesday][1] that has been causing all the fuss about the Freedom of Information Act finally came out today. [Sterling withdrawl from European Exchange Rate Mechanism in 1992][2] cost the British taxpayer &pound;3.3 billion.
 

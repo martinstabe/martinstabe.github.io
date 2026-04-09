@@ -2,6 +2,8 @@
 title: Only in England
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/07/14/only-in-england/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *New York Times* today had an amusing story about the growing problem of neighbourly [disputes over hedges][1] in England. The article contains all sorts of wonderful factoids about hedge wars. Did you know, for example, that there is an organisation dedicated to lobbying on behalf of those aggreived by nuisence hedge-growers? It&#8217;s called [Hedgeline][2]. A lengthy legal dispute by the organisation&#8217;s founder led to the case of *Stanton v. Jones,* which &#8220;established for the first time the formal definition of &#8216;hedge&#8217; in British common law.&#8221; 
 

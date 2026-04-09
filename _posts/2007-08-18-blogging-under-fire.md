@@ -2,6 +2,10 @@
 title: Blogging under fire
 author: Martin Stabe
 layout: post
+tags:
+  - blogging
+  - blogs
+  - guardian
 permalink: /2007/08/18/blogging-under-fire/
 ratings_users:
   - 0
@@ -15,10 +19,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - blogging
-  - Blogs
-  - Guardian
 ---
 From Peter Bradshaw&#8217;s [*Guardian* review of *The Bourne Ultimatum,*][1] which features a scene in which a *Guardian *investigative journalist comes under fire from a baddie sniper in Waterloo station:
 

@@ -2,6 +2,8 @@
 title: Bees in Brussels
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/05/bees-in-brussels/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 **Turlough** of the honeybee blog *Propolis* has some insight into [the beekeeping lobby in Brussels][1]. 
 

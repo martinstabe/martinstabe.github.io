@@ -2,6 +2,10 @@
 title: Court reporting rules apply to bloggers, too
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
+  - media-law
 permalink: /2006/12/09/court-reporting-rules-apply-to-bloggers-too/
 views:
   - 285
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
-  - Media Law
 ---
 Blogger Jackie Danicki caused a stir several weeks ago when she [published a cameraphone photograph][1] on her blog of a young man who had allegedly harassed and assaulted her on the London Underground.
 

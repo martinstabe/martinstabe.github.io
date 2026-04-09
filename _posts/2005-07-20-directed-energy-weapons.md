@@ -2,6 +2,9 @@
 title: Directed-energy weapons
 author: Martin Stabe
 layout: post
+tags:
+  - military
+  - usa
 permalink: /2005/07/20/directed-energy-weapons/
 views:
   - 21
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Military
-  - USA
 ---
 CNet news.com has [photos][1] of those US military&rsquo;s experimental &ldquo;[directed energy weapons][2]&rdquo;. Is this for real, and why is this being publicised now?
 

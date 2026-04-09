@@ -2,6 +2,8 @@
 title: Privatising data
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/05/27/privatising-data/
 views:
   - 35
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The flip side of [government surviellance technologies][1] is citizens&#8217; freedom to access the data collected for the administrative purposes of their government. 
 

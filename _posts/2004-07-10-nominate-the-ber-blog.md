@@ -2,6 +2,8 @@
 title: 'Nominate the &uuml;ber-blog'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/07/10/nominate-the-ber-blog/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 WaPo political reporter Dana Milbank is [seeking nominations][1]:  
 

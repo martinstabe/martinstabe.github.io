@@ -2,6 +2,10 @@
 title: Five tests for newspaper blogs
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - independent
+  - miscellanea
 permalink: /2007/01/02/five-tests-for-newspaper-blogs/
 views:
   - 126
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Independent
-  - Miscellanea
 ---
 Andrew Grant-Adamson thinks my assessment of the [*Independent&#8217;s* half-hearted blogging effort][1] was &#8220;almost too kind&#8221; and neatly summarises the long-running debate about the purpose of mainstream news sites&#8217; blogs into [five tests for newspaper blogs][2] to help editors avoid similarly poor results.
 

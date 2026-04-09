@@ -2,6 +2,12 @@
 title: News is what matters, not newspapers
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - miscellanea
+  - newspapers
+  - online
+  - television
 permalink: /2007/01/16/news-is-what-matters-not-newspapers/
 views:
   - 119
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Miscellanea
-  - Newspapers
-  - Online
-  - Television
 ---
 Lots of people have been blogging about John Nichol’s piece in *The Nation* about the state of [newspapers in America][1].
 

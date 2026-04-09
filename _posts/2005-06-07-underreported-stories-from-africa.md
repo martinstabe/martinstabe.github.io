@@ -2,6 +2,11 @@
 title: Underreported stories from Africa
 author: Martin Stabe
 layout: post
+tags:
+  - africa
+  - globalization
+  - journalism
+  - miscellanea
 permalink: /2005/06/07/underreported-stories-from-africa/
 views:
   - 45
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Africa
-  - Globalization
-  - Journalism
-  - Miscellanea
 ---
 I&rsquo;ve only discovered it now, nearly two months after it was published, but every blogger and journalist ought to read **Koranteng Ofosu-Amaah**&rsquo;s amazing, rambling post about the [underreported stories from Africa][1]. 
 

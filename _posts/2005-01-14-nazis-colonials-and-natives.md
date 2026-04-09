@@ -2,6 +2,8 @@
 title: Nazis, colonials and natives
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/01/14/nazis-colonials-and-natives/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 *The Times* has the obvious follow-up article I&#8217;ve been waiting for about the Prince Harry Rommelgate brouhaha.
 

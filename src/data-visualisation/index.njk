@@ -1,0 +1,25 @@
+---
+layout: layouts/page.njk
+title: Data Visualisation
+permalink: /data-visualisation/
+---
+<p>Recent charts and interactives I have produced for the <a href="https://www.ft.com/martin-stabe">Financial Times</a>:</p>
+
+{% if graphics.length > 0 %}
+<div class="graphics-list">
+  {% for graphic in graphics %}
+  <article class="graphics-list-item">
+    <div class="graphics-list-body">
+      <p class="home-card-meta">{{ graphic.date | displayDate }}{% if graphic.flourish_template %} • {{ graphic.flourish_template }}{% endif %}</p>
+      <h2 class="home-card-title"><a href="{{ graphic.url }}">{{ graphic.story_title }}</a></h2>
+      {% if graphic.displayDescription %}
+      <p class="home-card-summary">{{ graphic.displayDescription }}</p>
+      {% endif %}
+    </div>
+    <a class="graphics-list-image-link" href="{{ graphic.flourish_url }}">
+      <img class="graphics-list-image" src="{{ graphic.homepage_image or graphic.flourish_img }}" alt="" loading="lazy">
+    </a>
+  </article>
+  {% endfor %}
+</div>
+{% endif %}

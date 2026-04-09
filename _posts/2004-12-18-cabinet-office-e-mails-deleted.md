@@ -2,6 +2,8 @@
 title: Cabinet office e-mails deleted
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2004/12/18/cabinet-office-e-mails-deleted/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 *The Times* today reports that the Cabinet Office has ruled that [civil servants must delete e-mails more than three years old][1] , 11 days before the FOIA comes into force.
 

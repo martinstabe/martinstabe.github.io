@@ -2,6 +2,8 @@
 title: 'Fury at &lsquo;fury&rsquo;'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/03/03/fury-at-fury/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 One of the favourite clich&eacute;s of British tabloid headline writers is the &ldquo;Fury At *x&rdquo;* construction.
 

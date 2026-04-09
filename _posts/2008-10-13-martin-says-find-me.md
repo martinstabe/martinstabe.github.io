@@ -2,6 +2,8 @@
 title: 'Martin says: find me'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2008/10/13/martin-says-find-me/
 oc_metadata:
   - '{		version:1.0,		tags: {}	}'
@@ -18,8 +20,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Pssst. It&#8217;s [somewhere][1] near this:
 

@@ -2,6 +2,9 @@
 title: Media FOI requests in Scotland
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - journalism
 permalink: /2005/06/03/mainly-media-in-scotlan/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Journalism
 ---
 *Scotsman:* [ Freedom of information leads to a media free-for-all][1]. [[ADDED 10.1.2006][2]]
 

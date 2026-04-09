@@ -2,6 +2,8 @@
 title: '&lsquo;Sheikh of Wapping&rsquo; arrested in Czech Republic'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/01/19/sheikh-of-wapping-arrested-in-czech-republic/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Czech media are reporting that the *News of the World&rsquo;s* famous investigations editor, the &ldquo;fake sheikh&rdquo; **Mahmood Mazher**, was arrested last year in the Czech Republic. [According to][1] *The Daily Czech:*
 

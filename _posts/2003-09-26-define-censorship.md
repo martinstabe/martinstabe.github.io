@@ -2,6 +2,8 @@
 title: Define censorship.
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/09/26/define-censorship/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The [2004 edition of &#8220;Project Censored&#8221;][1], housed at the sociology department at Sonoma State University, has been released.
 

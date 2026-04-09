@@ -2,6 +2,8 @@
 title: Member states may veto release of EU documents
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/12/20/member-states-may-veto-release-of-eu-documents/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *The Times&rsquo;* law reports are unfortunatly not available online, but today they note a case decided by the Court of First Instance of the European Court of Justice that is interesting given the current interest in Freedom of Information legislation in the UK and Germany.
 

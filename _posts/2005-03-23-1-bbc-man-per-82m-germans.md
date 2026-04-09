@@ -2,6 +2,8 @@
 title: 1 BBC man per 82m Germans
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/03/23/1-bbc-man-per-82m-germans/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 So much for that [ideal gig][1] for Anglophone expat German trainee hacks:
 

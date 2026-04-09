@@ -2,6 +2,8 @@
 title: Applied sociology
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/26/applied-sociology/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **Chris Mooney** discusses the role of <a href="http://www.prospect.org/print/V14/4/mooney-c.html" target="_top">&#8220;frames&#8221; in political communication</a> and a group of <a href="http://www.frameworksinstitute.org/" target="_top">communications consultants</a> who are doing something called &#8220;strategic frame analysis.&#8221; to help liberal advocacy groups better present their position in public discussion. Surely is isn&#8217;t a real-world, strategic application of the sort of frames **Erving Goffman** was talking about? Ah, but it is. Very cool. 
 

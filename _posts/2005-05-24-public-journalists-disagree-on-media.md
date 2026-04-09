@@ -2,6 +2,8 @@
 title: Public, journalists disagree on media
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/05/24/public-journalists-disagree-on-media/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Here&rsquo;s a shock: journalists and non-media types in the United States have [very divergent views on press freedom][1], bias and journalists&rsquo; rights.
 

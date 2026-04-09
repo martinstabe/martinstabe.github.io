@@ -2,6 +2,16 @@
 title: 'Midwest mafia: the video'
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - blogging
+  - blogs
+  - guardian
+  - journalism
+  - miscellanea
+  - newspapers
+  - online
+  - rss
 permalink: /2006/12/06/midwest-mafia-the-video/
 views:
   - 55
@@ -9,16 +19,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - BBC
-  - blogging
-  - Blogs
-  - Guardian
-  - Journalism
-  - Miscellanea
-  - Newspapers
-  - Online
-  - RSS
 ---
 Journalism.co.uk has [posted three YouTube videos][1] of the speakers at their [Reader&#8217; Revolution event][2] on Monday evening.
 

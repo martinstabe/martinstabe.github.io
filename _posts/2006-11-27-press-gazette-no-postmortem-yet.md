@@ -2,6 +2,9 @@
 title: 'Press Gazette: No postmortem yet'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - press-gazette
 permalink: /2006/11/27/press-gazette-no-postmortem-yet/
 views:
   - 83
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Press Gazette
 ---
 It has been a [long][1], [extremely][2] [exhausting][3] [few][4] [weeks][5] at *Press Gazette.*
 

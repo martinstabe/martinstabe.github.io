@@ -2,6 +2,8 @@
 title: Interviews by Instant Message
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/12/interviews-by-instant-message/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Are mainstream journalists finally waking up to the potential of new technologies in their line of work? I nearly spewed my coffee yesterday morning when I read [this line][1] about **David Krane**, Google&rsquo;s director of public relations, in the *New York Times:*
 

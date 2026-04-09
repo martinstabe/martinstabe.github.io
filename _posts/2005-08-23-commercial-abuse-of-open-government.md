@@ -2,6 +2,8 @@
 title: 'Commercial &#8216;abuse&#8217; of open government'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/23/commercial-abuse-of-open-government/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The *Times* has [picked up][1] the [*Eastern Daily Press* story][2] about how commercial firms&rsquo; use of the Freedom of Information Act. For some reason, they kept the angle that this somehow constitutes &ldquo;abuse&rdquo; of the open government law.
 

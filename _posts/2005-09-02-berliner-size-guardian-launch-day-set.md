@@ -2,6 +2,8 @@
 title: Berliner-size Guardian launch day set
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/09/02/berliner-size-guardian-launch-day-set/
 views:
   - 2
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 [*Guardian* re-launch day is 12 September][1].
 

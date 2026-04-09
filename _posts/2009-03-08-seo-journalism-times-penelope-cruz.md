@@ -2,13 +2,13 @@
 title: 'How not to write search-friendly headlines: A lesson from Times Online'
 author: Martin Stabe
 layout: post
+tags:
+  - seo
 permalink: /2009/03/08/seo-journalism-times-penelope-cruz/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - seo
 ---
 [<img width="450" border="1" src="http://www.martinstabe.com/blog/wp-content/upl/times-penelope-cruz-seo.jpg" alt="Times Online SEO" />][1]
 

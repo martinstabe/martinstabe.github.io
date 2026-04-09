@@ -2,6 +2,9 @@
 title: 'Lowri Turner: &#8216;most of my best friends are gay&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - uk
 permalink: /2006/01/29/lowri-turner-most-of-my-best-friends-are-gay/
 views:
   - 142
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - UK
 ---
 Writing in the *Western Mail,* **Lowri Turner** [outs herself as a fool][1]:
 

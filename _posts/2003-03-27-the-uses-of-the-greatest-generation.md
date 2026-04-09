@@ -2,6 +2,8 @@
 title: The uses of the Greatest Generation
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/27/the-uses-of-the-greatest-generation/
 views:
   - 1
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The new issue of *Prospect* (the British magazine) is out and is, as usual, a very impressive book. **William I Hitchcock** takes on something that I have long been suspicious of: the sentimental <a href="http://www.prospect-magazine.co.uk/ArticleView.asp?accessible=yes&#038;P_Article=11888" target="_top">myth of &#8220;the greatest generaton&#8221;</a> that **Tom Hanks, Steven Spielberg, Tom Brokow** and especially the late historian **Stephen Ambrose** were instrumental in building up in the United States over the last few years. 
 

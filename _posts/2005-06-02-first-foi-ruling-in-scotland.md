@@ -2,6 +2,8 @@
 title: First FOI ruling in Scotland
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/06/02/first-foi-ruling-in-scotland/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The [first ruling on the Freedom of Information (Scotland) Act][1] has been published by the Scottish Information Commissioner.
 

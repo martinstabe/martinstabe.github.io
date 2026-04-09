@@ -2,6 +2,8 @@
 title: 'Headline-writers&rsquo; Europhobia'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/02/headline-writers-europhobia/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Sometimes the appearance of knee-jerk Europhobia in British newspapers is not the reporter&rsquo;s fault, but the headline-writing sub-editpr&rsquo;s. Consider [this story][1] by **Isabel Oakshott** in today&rsquo;s London *Evening Standard:*
 

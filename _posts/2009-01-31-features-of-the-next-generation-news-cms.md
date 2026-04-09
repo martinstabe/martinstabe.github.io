@@ -2,13 +2,13 @@
 title: Features of the next generation editorial CMS
 author: Martin Stabe
 layout: post
+tags:
+  - cms
 permalink: /2009/01/31/features-of-the-next-generation-news-cms/
 btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - cms
 ---
 This morning&#8217;s displacement activity for a very-last-minute double-check of my tax return was an interesting Twitter conversation about the functionality of future news content management systems started by [Mark Ng][1] (who is, BTW, doing some very interesting work with the Media Standards Trust on developing [microformats for increasing the transparency of news][2]).
 

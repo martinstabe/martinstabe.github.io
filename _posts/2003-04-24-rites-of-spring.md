@@ -2,6 +2,8 @@
 title: Rites of spring
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/24/rites-of-spring/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Well, it&#8217;s late April, and that can mean only one thing; the usual baseball narrative is being rehearsed in the Big Apple: 
 

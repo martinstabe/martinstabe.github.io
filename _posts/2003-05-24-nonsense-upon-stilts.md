@@ -2,6 +2,8 @@
 title: Nonsense upon stilts
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/24/nonsense-upon-stilts/
 views:
   - 2
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The controvertial Australian philospoher **Peter Singer** has been doing the publicity rounds for the thirtieth anniversary of the publication of his book *Animal Liberation,* the founding document of the modern animal rights movement. In this *Guardian* piece Singer <a href="http://www.guardian.co.uk/comment/story/0,3604,958733,00.html" target="_top">outlines</a> the mainstreaming of the idea of animal rights over the last three decades. 
 

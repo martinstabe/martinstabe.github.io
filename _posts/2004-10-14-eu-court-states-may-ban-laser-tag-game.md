@@ -2,16 +2,16 @@
 title: 'EU Court: states may ban laser-tag game'
 author: Martin Stabe
 layout: post
+tags:
+  - cuttings
+  - europe
+  - european-union
+  - germany
 permalink: /2004/10/14/eu-court-states-may-ban-laser-tag-game/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - cuttings
-  - Europe
-  - European Union
-  - Germany
 ---
 European Union law does not prevent EU member states from banning games that simulate homocide, the European Court of Justice in Luxembourg has ruled.
 

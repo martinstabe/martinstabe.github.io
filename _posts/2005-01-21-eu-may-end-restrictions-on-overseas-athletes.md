@@ -2,6 +2,8 @@
 title: EU may end restrictions on overseas athletes
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/21/eu-may-end-restrictions-on-overseas-athletes/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Restictions on the number of non-EU players allowed to play in European professional sports leagues may be on the way out.
 

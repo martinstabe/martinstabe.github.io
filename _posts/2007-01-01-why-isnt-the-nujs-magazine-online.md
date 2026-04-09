@@ -2,6 +2,9 @@
 title: 'Why isn&#8217;t the NUJ&#8217;s magazine online?'
 author: Martin Stabe
 layout: post
+tags:
+  - nuj
+  - the-journalist-nuj
 permalink: /2007/01/01/why-isnt-the-nujs-magazine-online/
 views:
   - 39
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - NUJ
-  - The Journalist (NUJ)
 ---
 There is a story in the current issue of *[The Journalist][1],* the monthly magazine for members of the National Union of Journalists, that I’d like to discuss here.
 

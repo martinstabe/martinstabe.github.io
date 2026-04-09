@@ -2,6 +2,8 @@
 title: CIA agent claims Rome knew of rendition
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/12/01/cia-agent-claims-rome-knew-of-rendition/
 views:
   - 46
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 The lawyer for one of the [22 CIA agents wanted in Italy][1] for the kidnapping of terror suspect **Abu Omar** has [claimed the Italian government knew about the &ldquo;extraordinary rendition&rdquo;][2] operation.
 

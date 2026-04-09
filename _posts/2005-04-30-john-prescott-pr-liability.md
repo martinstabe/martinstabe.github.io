@@ -2,6 +2,8 @@
 title: John Prescott, PR liability
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/04/30/john-prescott-pr-liability/
 views:
   - 36
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 How did I manage to miss [this gem][1]? Here&rsquo;s a [exchange][2] in Gwent last week: 
 

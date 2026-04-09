@@ -2,6 +2,8 @@
 title: 'Isn&rsquo;t it ironic?'
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/01/21/isnt-it-ironic/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 [Priceless stuff][1] from a CNN poll:
 

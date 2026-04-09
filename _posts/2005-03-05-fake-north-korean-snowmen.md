@@ -2,6 +2,8 @@
 title: Fake North Korean snowmen
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/03/05/fake-north-korean-snowmen/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 In a [column about faked photographs][1], *Guardian* ombudsman **Ian Mayes** suggests that a North Korean picture run on Monday may have been faked:
 

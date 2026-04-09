@@ -2,6 +2,14 @@
 title: Online media is greener than print — but only for some time
 author: Martin Stabe
 layout: post
+tags:
+  - environment
+  - magazines
+  - newspapers
+  - online
+  - online-journalism
+  - print
+  - wired
 permalink: /2007/12/28/online-media-is-greener-than-print-%e2%80%94-but-only-for-some-time/
 views:
   - 555
@@ -9,14 +17,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - environment
-  - Magazines
-  - Newspapers
-  - Online
-  - Online Journalism
-  - Print
-  - Wired
 ---
 Chris Anderson today argues that [&#8220;dead-tree&#8221; magazines have a smaller net carbon footprint than web media][1].
 

@@ -2,6 +2,8 @@
 title: Wire services in the digital age
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/08/13/wire-services-in-the-digital-age/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 As **Jeff Jarvis** points out, the internet has seriously [upset the major international wire services&rsquo; business model][1]:
 

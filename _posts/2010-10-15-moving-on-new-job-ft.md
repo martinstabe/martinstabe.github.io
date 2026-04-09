@@ -2,11 +2,11 @@
 title: 'Moving on: a new job'
 author: Martin Stabe
 layout: post
+tags:
+  - emap
+  - financial-times
+  - retail-week
 permalink: /2010/10/15/moving-on-new-job-ft/
-categories:
-  - Emap
-  - Financial Times
-  - Retail Week
 ---
 It&#8217;s my last day at Emap and [Retail Week][1] today. On Monday, I&#8217;ll be joining the the Financial Times as a producer on [FT.com&#8217;s interactive desk][2]. It&#8217;s a great opportunity to finally <s>practice</s> practise the area of journalism that has most fascinated me in recent years — the visualisation of data and integration of multimedia elements in online journalism. I&#8217;m very excited about it. Expect the focus of this blog to shift a bit towards tags like Flash, HTML5, graphics, visualisation and data.
 

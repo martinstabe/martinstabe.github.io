@@ -2,6 +2,8 @@
 title: Iraq metajournalism
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/24/iraq-metajournalism/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The conventions of sports reporting have been sneaking into war correspondants&#8217; work. Now it seems the same genre-sneak is also occuring at the receiving end: Some pubs here in London are rolling down the big screens normally reserved for the weekend soccer madness, and are showing the war madness on their projection televisions. Just what you need when you&#8217;re trying to relax with a pint: a ten-foot high **Ari Fleischer**. Aaaaaargh! 
 

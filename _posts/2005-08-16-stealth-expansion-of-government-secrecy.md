@@ -2,6 +2,11 @@
 title: Stealth expansion of government secrecy
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - special-relationships
+  - uk
+  - usa
 permalink: /2005/08/16/stealth-expansion-of-government-secrecy/
 views:
   - 46
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Special Relationships
-  - UK
-  - USA
 ---
 In many countries, Freedom of Information laws are gradually emasculated by later legislation that specifically prohibits the disclosure of information. 
 

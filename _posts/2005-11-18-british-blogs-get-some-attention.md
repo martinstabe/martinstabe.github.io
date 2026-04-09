@@ -2,6 +2,8 @@
 title: British blogs get some attention
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/11/18/british-blogs-get-some-attention/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 *[2005 Blogged][1]* hits the bookshops today. The **Tim Worstall**-edited tome is a retrospective of 2005 seen through the eyes of those &ldquo;rising stars of online journalism&rdquo;, the British bloggers. I haven&rsquo;t received my copy yet, but rumour has it [one of my more infamous posts][2] is in there somewhere. Since the publishers have been, um, pretty stingy on the royalties front, do me a favour and buy <s>several dozen copies</s> a copy through [my Amazon associates link][1].
 

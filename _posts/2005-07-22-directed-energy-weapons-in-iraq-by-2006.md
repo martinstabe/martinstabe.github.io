@@ -2,6 +2,9 @@
 title: Directed energy weapons in Iraq by 2006?
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - iraq
 permalink: /2005/07/22/directed-energy-weapons-in-iraq-by-2006/
 views:
   - 45
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Iraq
 ---
 **David Hambling**, writing in the *New Scientist* has [more information][1] about the microwave weapons story I&rsquo;ve been watching (AP report [here][2] and pictures [here][3]).
 

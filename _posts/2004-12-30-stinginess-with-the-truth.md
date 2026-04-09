@@ -2,6 +2,8 @@
 title: Stinginess with the truth
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2004/12/30/stinginess-with-the-truth/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 The blogosphere&#8217;s miserable failure on the tsunami stor
 

@@ -2,6 +2,8 @@
 title: Greece ratifies EU constitution
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/04/20/greece-ratifies-eu-constitution/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 [Link][1] via [*TFPotEC*][2].
 

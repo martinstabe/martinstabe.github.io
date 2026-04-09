@@ -2,6 +2,9 @@
 title: Surveillance online
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - surveillance
 permalink: /2006/01/25/surveillance-online/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Surveillance
 ---
 *NY Times:* [A Growing Web of Watchers Builds a Surveillance Society][1].
 

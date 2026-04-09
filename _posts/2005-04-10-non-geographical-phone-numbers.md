@@ -2,6 +2,8 @@
 title: Non-geographical phone numbers
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/10/non-geographical-phone-numbers/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 A few weeks ago, there was a piece in one of the Islington rags about local GPs&rsquo;s surgeries using 0870 telephone number to make a few pennies off their patients.
 

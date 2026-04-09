@@ -2,6 +2,8 @@
 title: Why the global dark spots matter
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2005/06/21/why-the-global-dark-spots-matter/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **Ethan Zuckerman** at Harvard Law School&rsquo;s Berkman Center has done a lot to encourage bloggers to pay more attention to the underreported corners of the globe. In a recent post, he rehearses [why covering the underreported world matters][1]:
 

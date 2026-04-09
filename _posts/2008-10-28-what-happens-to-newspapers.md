@@ -2,6 +2,8 @@
 title: What happens to newspapers?
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2008/10/28/what-happens-to-newspapers/
 oc_metadata:
   - 
@@ -14,8 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 I&#8217;ll be participating in a New Media Knowledge debate tonight entitled [What Happens to Newspapers?][1].
 

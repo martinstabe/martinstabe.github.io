@@ -2,6 +2,8 @@
 title: Italy may try CIA agents in absentia
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/11/23/italy-may-try-cia-agents-in-absentia/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 The Italian prosecutor dealing with the case of the 22 CIA agents accused of kidnapping **Abu Omar** in an &ldquo;extraordinary rendition&rdquo; operation may seek to put them [on trial in absentia][1].
 

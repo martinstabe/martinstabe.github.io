@@ -2,6 +2,8 @@
 title: BNP leader arrested
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2004/12/14/bnp-leader-arrested/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 The leader of the far-right British National Party, **Nick Griffin**, [was arrested this morning][1] on suspicion of incitement to commit racial hatred.
 

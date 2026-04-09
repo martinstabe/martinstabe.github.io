@@ -2,6 +2,9 @@
 title: Why teach journalism students Dreamweaver?
 author: Martin Stabe
 layout: post
+tags:
+  - education
+  - journalism
 permalink: /2008/02/15/why-teach-journalism-students-dreamweaver/
 views:
   - 1166
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - education
-  - Journalism
 ---
 Over on Press Gazette&#8217;s Student Journalism Blog, Dave Lee has revived a very interesting discussion about [whether journalism students should be taught to build websites in Dreamweaver][1].
 

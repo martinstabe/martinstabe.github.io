@@ -2,6 +2,8 @@
 title: Open-source muck-raking
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/04/open-source-muck-raking/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Looks like a new 900-pound gorilla is about to join the left side of the American blogosphere. 
 

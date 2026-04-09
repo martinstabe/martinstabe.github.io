@@ -2,6 +2,9 @@
 title: Describing the relationship between bloggers and journalists
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
 permalink: /2005/07/12/describing-the-relationship-between-bloggers-and-journalists/
 views:
   - 49
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
 ---
 Bloggers, particularly American ones, love to hate journalists and journalism. And yet, blogging is generally parasitic on journalism. 
 

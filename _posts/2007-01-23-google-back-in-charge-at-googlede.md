@@ -2,6 +2,9 @@
 title: Google back in charge at google.de
 author: Martin Stabe
 layout: post
+tags:
+  - google
+  - google-de
 permalink: /2007/01/23/google-back-in-charge-at-googlede/
 views:
   - 115
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Google
-  - google.de
 ---
 After a [strange few hours][1] in the middle of the night, when the German version of Google went offline and the domain Google.de seemed to have changed owners, Google this morning appears to have regained full [ownership of its German domain][2] name.
 

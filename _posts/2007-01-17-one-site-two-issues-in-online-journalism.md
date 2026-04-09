@@ -2,6 +2,12 @@
 title: One site, two issues in online journalism
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - journalism-education
+  - newspapers
+  - online
+  - print
 permalink: /2007/01/17/one-site-two-issues-in-online-journalism/
 views:
   - 84
@@ -9,12 +15,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Journalism Education
-  - Newspapers
-  - Online
-  - Print
 ---
 Rick Waghorn is a sports journalist who I ([and others][1]) have written about and talked about on a number of occasions ini recent months. He is a great example of both the risks and opportunities that the Internet&#8217;s disruption of traditional publishing is bringing to journalists.  
 After being made redundant by a regional newspaper earlier this year, he set up [his own web site][2] and [continued covering the same patch][3] he had covered for the paper — the local football club.

@@ -2,6 +2,8 @@
 title: Secrets of the dead
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/10/25/secrets-of-the-dead/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Are deceased people&rsquo;s medical records are exempt from disclosure under the UK Freedom of Information Act? For much of the last two weeks, a debate has been raging on an e-mail discussion list of FOI practitioners about this topic.
 

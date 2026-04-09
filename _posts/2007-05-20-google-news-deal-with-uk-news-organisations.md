@@ -2,6 +2,9 @@
 title: Google News deal with UK news organisations?
 author: Martin Stabe
 layout: post
+tags:
+  - google
+  - google-news
 permalink: /2007/05/20/google-news-deal-with-uk-news-organisations/
 views:
   - 86
@@ -9,10 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Google
-  - Google News
-  - googlenews
 ---
 The *Sunday Herald&#8217;s* media correspondent Stephen Vass today reports that [Google has reached some sort of licencing deal][1] with &#8220;several large UK news groups&#8221; to use their material on Google News.
 

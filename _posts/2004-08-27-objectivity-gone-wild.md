@@ -2,6 +2,8 @@
 title: '&ldquo;Objectivity&rdquo; gone wild'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/08/27/objectivity-gone-wild/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 According to *Washinton Post* executive editor Leonard Downie, simply repeating competing claims as he-said-she-said quotations is an adequate methodology for <s>stenography</s> journalism to arrive at fairness:
 

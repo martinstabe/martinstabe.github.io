@@ -2,6 +2,8 @@
 title: Pentagon inquiry on PDF goof
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/05/02/pentagon-inquiry-on-pdf-goof/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 The Pentagon has [launched an inquiry][1] on how secret parts of their report into the death of the Italian agent **Nicola Calipari** in Iraq came to be made public.
 

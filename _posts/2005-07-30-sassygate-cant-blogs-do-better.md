@@ -2,6 +2,8 @@
 title: 'Sassygate: Can&#8217;t blogs do better?'
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/30/sassygate-cant-blogs-do-better/
 views:
   - 223
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 *EasyJetsetter* has what ought to be the [definitive statement on the whole **Dilpazier Aslam** brouhaha][1]:
 

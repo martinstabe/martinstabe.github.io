@@ -2,6 +2,8 @@
 title: Foreign Policy on Blogging
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2004/11/04/foreign-policy-on-blogging/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 *Foreign Policy* magazine has an [article about blogging written by two well-known scholar-bloggers][1], **Daniel Drezner** and **Henry Farrell**, that provides a valuable reality check: 
 

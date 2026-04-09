@@ -2,13 +2,13 @@
 title: Universally challenged
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/08/universally-challenged/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Whenever some new problem arises in the British university system, the first place some people look for a panacea is the United States. Not always a good idea. In light of the **Bristol University** admissions row, [the leader in the *Independent*][1] calls for something akin to the American **Scholastic Aptitude Test** (SAT) as an alternative university selection mechanism for British colleges. This is a really, really bad idea. Clearly the *Indy* hasn&#8217;t heard that the SAT is controversial in the United States for exacerbating precisely in the problem that they hope it would solve in Britain. As the leader notes,
 

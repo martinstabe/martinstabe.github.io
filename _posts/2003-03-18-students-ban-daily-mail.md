@@ -2,6 +2,8 @@
 title: 'Students ban <i>Daily Mail</i>'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/18/students-ban-daily-mail/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 In *The Badger,* the student newspaper at **Sussex Univeristy** (that, for my sins, I was once the editor of), I see that the board of the Sussex University Students&#8217; Union Services, which manages all the student-run shops on campus, has <a href="http://badger.ussu.info/news/v8i16_mail.shtml" target="_top">decided to ban</a> sales of the *Daily Mail. * The tabloid, it seems, has violated the Union&#8217;s policy &#8220;regarding xenophobic, homophobic, racist and fascistic action&#8221; and &#8220;seriously contravened a USSU policy condemning imperialist action in the Middle East.&#8221; 
 

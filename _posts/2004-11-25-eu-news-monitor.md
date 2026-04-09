@@ -2,6 +2,8 @@
 title: EU News Monitor
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/11/25/eu-news-monitor/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *The Times* is thrilled at the [European Union&#8217;s &#8220;bonfire of the diktats&#8221;][1]. Apparently the EU Competitiveness Council &mdash; that&#8217;s the meeting of trade ministers to you and me &mdash; is planning to &#8220;simplify and abolish items of legislation, rather than multiplying and complicating them&#8221;. The spin is predictable, though:  
 

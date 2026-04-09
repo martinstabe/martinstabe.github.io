@@ -2,6 +2,8 @@
 title: Promoting computer-assisted reporting in Britain
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
 permalink: /2007/01/03/promoting-computer-assisted-reporting-in-britain/
 views:
   - 75
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
 ---
 Commenting on my [post about computer-assisted reporting][1] yesterday, [Danny Sanchez][2] [suggests][3] that anyone interested in learning more about CAR should join the [listserve][4] run by the National Institute for Computer Assisted Reporting in the United States.
 

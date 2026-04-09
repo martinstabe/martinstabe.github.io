@@ -2,6 +2,8 @@
 title: 'British blogs: mass medium or elite opinion-leading?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/27/british-blogs-mass-medium-or-elite-opinion-leading/
 views:
   - 54
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 It&rsquo;s pretty telling that a link from a [Channel 4 special report][1] (to [a post][2] I wrote months ago) has not resulted in an avalanche of traffic to this site. Perhaps it has something to do with the fact that one of their bloody links is broken. Oi. 
 

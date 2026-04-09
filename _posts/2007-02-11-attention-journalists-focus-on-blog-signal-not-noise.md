@@ -2,6 +2,13 @@
 title: 'Attention journalists: Focus on blog signal, not noise'
 author: Martin Stabe
 layout: post
+tags:
+  - 18-doughty-street
+  - bbc
+  - blogs
+  - independent
+  - journalism
+  - newspapers
 permalink: /2007/02/11/attention-journalists-focus-on-blog-signal-not-noise/
 enclosure:
   - |
@@ -16,13 +23,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - 18 Doughty Street
-  - BBC
-  - Blogs
-  - Independent
-  - Journalism
-  - Newspapers
 ---
 <div align="center">
   <a href="http://news.bbc.co.uk/1/hi/programmes/sunday_am/default.stm"><img src="http://farm1.static.flickr.com/134/386522265_ef1042104e.jpg" alt="SundayAM, 11/2/2007" width="460" border="1" /></a>

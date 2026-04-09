@@ -2,6 +2,8 @@
 title: Privatization and Freedom of Information
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/16/privatization-and-freedom-of-information/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 In an excellent how-to article about [investigative blogging][1], *Unbossed* makes an important observation about Freedom of Information laws:
 

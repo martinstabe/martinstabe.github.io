@@ -2,6 +2,8 @@
 title: Iraq decision predated justifications
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/05/01/iraq-decision-predated-justifications/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 Forget WMDs. Forget liberating the Iraqi people. Forget the technicalities of who saw what legal advice when. Forget all the pretexts and constantly-shifting goalposts in the political rhetoric about the Iraq war.
 

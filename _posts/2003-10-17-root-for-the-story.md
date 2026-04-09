@@ -2,6 +2,8 @@
 title: Root for the story
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/10/17/root-for-the-story/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A couple of years ago, I read an interview with a sports reporter &#8212; can&#8217;t remember who &#8212; on the topic of objectivity in sports journalism. How does one prevent being a &#8220;homer,&#8221; and reflecting support for the home team that you cover every day? &#8220;You root for the story,&#8221; he said. I hadn&#8217;t heard the cliche before, but it struck me as a good way of watching sporting events that you have no vested interst in. Which for me, being as a Mets fan, means most postseaon baseball games.
 

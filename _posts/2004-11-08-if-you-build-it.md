@@ -2,6 +2,8 @@
 title: 'If you build it&#8230;'
 author: Martin Stabe
 layout: post
+tags:
+  - sport
 permalink: /2004/11/08/if-you-build-it/
 views:
   - 54
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sport
 ---
 [<img alt="olympic_park.jpg" src="http://www.martinstabe.com/blog/images/olympicpark/olympic_park-thumb.jpg" width="462" height="327" border="0" />][1]
 

@@ -2,6 +2,8 @@
 title: 'America&#8217;s bizarre newspaper business'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/11/15/americas-bizarre-newspaper-business/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **Matthew Yglesias** notes the [bizarre nature of the American newspaper business][1], which is organised as a series of regional monopolies, and one of commenters [ponders][2] why the British model of national newspapers hasn&rsquo;t caught on in the United States.
 

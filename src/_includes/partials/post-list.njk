@@ -1,0 +1,10 @@
+<ul class="post-list">
+  {% for post in posts %}
+    <li>
+      <span class="post-meta">{{ post.date | displayDate }}</span>
+      <h2>
+        <a class="post-link" href="{{ post.permalink | relativeUrl(page.url) }}">{{ post.title }}</a>
+      </h2>
+    </li>
+  {% endfor %}
+</ul>

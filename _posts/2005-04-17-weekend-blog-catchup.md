@@ -2,6 +2,18 @@
 title: Weekend blog catchup
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - blogs
+  - european-union
+  - france
+  - general-election-2005
+  - germany
+  - journalism
+  - london-2012
+  - politics
+  - uk
+  - ukraine
 permalink: /2005/04/17/weekend-blog-catchup/
 views:
   - 35
@@ -9,18 +21,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - Blogs
-  - European Union
-  - France
-  - General Election 2005
-  - Germany
-  - Journalism
-  - London 2012
-  - Politics
-  - UK
-  - Ukraine
 ---
 **Jeff Jarvis** of *Buzzmachine* says &ldquo;there&rsquo;s something very wrong with your life when you start looking on [Saturday as blog catch-up day][1].&rdquo; 
 

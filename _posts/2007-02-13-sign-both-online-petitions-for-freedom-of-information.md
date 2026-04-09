@@ -2,6 +2,12 @@
 title: Sign both online petitions for Freedom of Information
 author: Martin Stabe
 layout: post
+tags:
+  - daily-express
+  - daily-mail
+  - freedom-of-information
+  - mysociety
+  - press-gazette
 permalink: /2007/02/13/sign-both-online-petitions-for-freedom-of-information/
 views:
   - 1427
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Daily Express
-  - Daily Mail
-  - Freedom of Information
-  - MySociety
-  - Press Gazette
 ---
 More than 1.1m people have [signed an petition against road tolls][1] on the Downing Street e-petition site created by MySociety.
 

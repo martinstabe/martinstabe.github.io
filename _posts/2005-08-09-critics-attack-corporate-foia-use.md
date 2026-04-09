@@ -2,6 +2,8 @@
 title: Critics attack corporate FOIA use
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/09/critics-attack-corporate-foia-use/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 A report in the* Eastern Daily Press* says [companies&rsquo; use of the Freedom of Information Act][1] is putting NHS bodies in Norfolk under strain.
 

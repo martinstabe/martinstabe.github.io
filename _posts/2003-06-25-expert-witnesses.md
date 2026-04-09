@@ -2,6 +2,8 @@
 title: Expert Witnesses
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/25/expert-witnesses/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 What the hell were they thinking on *Today *this morning? Discussing the <a href="http://news.independent.co.uk/uk/this_britain/story.jsp?story=418723" target="_top">racially-motivated riots in Wrexham</a>, the BBC&#8217;s flagship morning news programme brought on **Nick Griffin** to comment (<a href="http://www.bbc.co.uk/radio4/today/listenagain/ram/today3_griffin_20030625.ram" target="_top">RealAudio</a>). Nick Who? He&#8217;s a Cambridge law graduate and leader of the fascist British National Party. According to this [biograf in an *FT* story][1],  
 

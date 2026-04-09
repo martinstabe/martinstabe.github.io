@@ -2,6 +2,8 @@
 title: Europhobia and perpetual peace
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/14/europhobia-and-perpetual-peace/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 I&#8217;m glad **Mark Kleiman** wrote these two excellent rebuttals (<a href="http://markarkleiman.blogspot.com/2003_04_01_markarkleiman_archive.html#200088306" target="_top">here</a> and <a href="http://markarkleiman.blogspot.com/2003_04_01_markarkleiman_archive.html#200125141" target="_top">here</a>) of **Amatai Etzioni**&#8217;s <a href="http://www.amitai-notes.com/blog/archives/000035.html" target="_top">view of France</a>. Kleiman is right to say that when someone of Etzioni&#8217;s stature and intellect starts making &#8220;freedom fries&#8221; arguments, &#8220;some sort of limit has been reached, and it&#8217;s time to call the meeting to order.&#8221; 
 

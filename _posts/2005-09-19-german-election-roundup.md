@@ -2,6 +2,8 @@
 title: German election roundup
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/19/german-election-roundup/
 views:
   - 23
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 A *Fistful of Euros* has the [preliminary final results][1] of the German election:
 

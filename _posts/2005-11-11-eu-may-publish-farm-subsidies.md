@@ -2,6 +2,9 @@
 title: EU may publish farm subsidies
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - freedom-of-information
 permalink: /2005/11/11/eu-may-publish-farm-subsidies/
 views:
   - 47
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Freedom of Information
 ---
 European Commissioner for adminstration [**Siim Kallas** wants the EU to publish details of who receives subsidies under the Common Agricultural Policy][1] as part of a new drive for transparency in the European Union institutions.
 

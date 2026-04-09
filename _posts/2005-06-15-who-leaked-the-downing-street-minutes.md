@@ -2,6 +2,8 @@
 title: Who leaked the Downing Street Minutes?
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/06/15/who-leaked-the-downing-street-minutes/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 Now that Deep Throat, the most most famous confidential source in journalism, has been outed, **Kevin Drum** has a new object for speculation: Who leaked the Downing Street <s>Memo</s> Minutes to the *Sunday Times?* Unlike here in the UK, the [*Times&rsquo;* story on the 2002 meeting in Downing Street][1] about Iraq is now a hot story in the US blogosphere.
 

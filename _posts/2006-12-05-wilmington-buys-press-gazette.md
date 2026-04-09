@@ -2,6 +2,9 @@
 title: Wilmington buys Press Gazette
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - press-gazette
 permalink: /2006/12/05/wilmington-buys-press-gazette/
 views:
   - 78
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - Press Gazette
 ---
 [The announcement has finally been made][1]: [Wilmington Media][2] is the new owner of Press Gazette.
 

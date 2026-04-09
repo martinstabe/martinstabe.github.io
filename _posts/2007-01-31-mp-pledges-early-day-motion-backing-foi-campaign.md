@@ -2,6 +2,13 @@
 title: 'MP pledges Early Day Motion backing journalists&#8217; FOI campaign'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - freedom-of-information-amendment-bill
+  - journalism
+  - press-gazette
+  - uk
+  - welwyn-and-hatfield-times
 permalink: /2007/01/31/mp-pledges-early-day-motion-backing-foi-campaign/
 views:
   - 81
@@ -9,13 +16,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Freedom of Information (Amendment) Bill
-  - Journalism
-  - Press Gazette
-  - UK
-  - 'Welwyn &amp; Hatfield Times'
 ---
 The *Welwyn & Hatfield Times* reports that local MP [Grant Shapps][1] is backing the paper&#8217;s opposition to Government plans that would water down the Freedom of Information Act.
 

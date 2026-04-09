@@ -2,6 +2,8 @@
 title: No Giuliani run for governor or senator
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/04/04/no-giuliani-run-for-governor-or-senator/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 Former New York City Mayor **Rudolph Giuliani** is &ldquo;[too busy][1]&rdquo; to run for governor of New York or to challenge **Hillary Clinton**&rsquo;s New York Senate seat in 2006.
 

@@ -2,13 +2,13 @@
 title: Things that go bang
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/22/things-that-go-bang/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 I wasn&#8217;t alone in my gut reaction to yesterday&#8217;s images. As the *New York Times* <a href="http://www.nytimes.com/2003/03/22/international/worldspecial/22YORK.html" target="_top">reports</a>:  
 

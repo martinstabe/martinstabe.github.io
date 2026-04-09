@@ -2,6 +2,9 @@
 title: Black sites investigator hopes for Senate leak
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
+  - transatlantic-relations
 permalink: /2005/11/28/black-sites-investigator-hopes-for-senate-leak/
 views:
   - 73
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
-  - Transatlantic Relations
 ---
 **UPDATED**
 

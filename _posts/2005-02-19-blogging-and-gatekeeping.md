@@ -2,6 +2,8 @@
 title: Blogging and gatekeeping
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/19/blogging-and-gatekeeping/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 It looks like **Paul Burka** of the *Texas Monthly,* is deliberatly trying to draw fire from the blogosphere with a [provocative column][1] about *l&rsquo;affaire Rather* and the relationship between blogging and journalism:
 

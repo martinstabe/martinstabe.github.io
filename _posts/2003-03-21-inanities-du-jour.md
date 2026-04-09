@@ -2,6 +2,8 @@
 title: 'Inanities <i>du jour</i>'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/21/inanities-du-jour/
 views:
   - 3
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The war can no longer be excluded from the realm of the bizzare, as the **Optimus Prime** story made clear yesterday 
 

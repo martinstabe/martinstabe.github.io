@@ -2,6 +2,8 @@
 title: 'London&#8217;s &#8216;citizen paparazzi&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/15/londons-citizen-paparazzi/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 The *Online Jounralism Review* has a story about the Londoners who provided the first pictures of last Thursday&rsquo;s underground and bus bombings using their camera phones.
 

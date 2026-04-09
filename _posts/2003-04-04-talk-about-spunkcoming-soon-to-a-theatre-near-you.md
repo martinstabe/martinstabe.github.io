@@ -2,13 +2,13 @@
 title: '&#8220;Talk About Spunk&#8221;<br />Coming soon to a theatre near you'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/04/talk-about-spunkcoming-soon-to-a-theatre-near-you/
 btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The big story from Iraq this week has been that a 19-year-old female soldier from West Virginia, who had been Missing in Action since 23 March, was rescued by American special forces in a raid on a hospital in Nasiriya. This is obviously very good news for Private First Class **Jessica Lynch** and her family. But this story raises three interesting issues: the way women are portrayed in the media; the use of unsubstantiated rumour in war reporting, and the way heroes and myths are constructed out of a kernel of truth. 
 

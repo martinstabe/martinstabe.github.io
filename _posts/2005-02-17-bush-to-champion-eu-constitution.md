@@ -2,6 +2,8 @@
 title: Bush to champion EU constitution
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/02/17/bush-to-champion-eu-constitution/
 views:
   - 44
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 Via *[Eursoc][1],* I see the *Times* is reporting that **George W. Bush** may make a speech in favour of the EU Consititution: 
 

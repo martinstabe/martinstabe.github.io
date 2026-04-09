@@ -2,6 +2,8 @@
 title: Site invites GIs to trade grisly war photos for porn
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/08/21/site-invites-gis-to-trade-grisly-war-photos-for-porn/
 views:
   - 55
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 An Italian blogger has discolved a web site that is inviting American troops in Iraq and Afganistan to send pictures of mutilated and bloated corpses in lieu of payment for access to hard-core pornography, *La Repubblica* [reports][1] ([translation][2]).
 

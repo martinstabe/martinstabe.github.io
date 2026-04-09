@@ -2,6 +2,10 @@
 title: Google News Norway removes thumbnails
 author: Martin Stabe
 layout: post
+tags:
+  - google-news
+  - journalism
+  - norway
 permalink: /2006/12/09/google-news-norway-removes-thumbnails/
 views:
   - 125
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Google News
-  - Journalism
-  - Norway
 ---
 Poynter&#8217;s E-media Tidbits is reporting that Google has bowed to the Norwegian media businesses&#8217; association, *Mediebedriftenes Landsforening,* in [the latest copyright row][1] involving Google News.
 

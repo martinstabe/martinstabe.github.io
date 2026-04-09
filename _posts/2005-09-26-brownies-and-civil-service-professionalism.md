@@ -2,6 +2,8 @@
 title: '&#8216;Brownies&#8217; and civil service professionalism'
 author: Martin Stabe
 layout: post
+tags:
+  - katrina
 permalink: /2005/09/26/brownies-and-civil-service-professionalism/
 views:
   - 29
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Katrina
 ---
 The revelation that **Michael Brown**, the head of the Federal Emergency Management Agency, was [even less qualified in emergency management than previously thought][1] has strangly not raised to prominance the fundimental issue about the constitutional structure of the United States that allowed someone like this to lead an important federal agency.
 

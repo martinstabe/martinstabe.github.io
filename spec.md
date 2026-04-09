@@ -1,0 +1,281 @@
+# Link Rot Remediation Spec
+
+## Scope
+
+This spec defines a systematic process for analysing and repairing outbound links in this repository's blog posts.
+
+Current scope:
+
+- Include only files under [`_posts/`](/Users/martin.stabe/Documents/martinstabe.github.io/_posts/).
+- Exclude links whose host is `martinstabe.com` or any subdomain of `martinstabe.com`; these are treated as internal links and are out of scope for this remediation effort.
+- Ignore [`slides/`](/Users/martin.stabe/Documents/martinstabe.github.io/slides/) entirely for now.
+- Ignore other top-level pages such as [`index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/index.html), [`about/index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/about/index.html), and [`links/index.md`](/Users/martin.stabe/Documents/martinstabe.github.io/links/index.md) until the `_posts` workflow is complete.
+
+Goal:
+
+- Identify which external outbound links in `_posts` still point at their intended resource.
+- Update links that have drifted to better canonical live URLs where appropriate.
+- Replace dead links with Wayback Machine URLs when an archived capture still preserves the intended destination.
+- Leave an auditable record of every decision.
+
+This work should build on the current audit state documented in [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md) and [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json).
+
+## Principles
+
+- Treat link repair as an editorial task supported by automation, not as a blind search-and-replace exercise.
+- Preserve authorial intent. A live URL is only "good" if it still points at the resource originally being referenced.
+- Prefer live canonical URLs over archive links when the intended resource still exists on the live web.
+- Prefer archive.org links when the original resource is gone but a faithful archived capture exists.
+- Avoid replacing a dead link with an archive capture unless the capture clearly matches the intended resource.
+- Record decisions outside the content files before applying bulk edits.
+
+## Deliverables
+
+The workflow should produce the following repo-local artifacts:
+
+- [`scripts/linkrot_audit.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/linkrot_audit.py): scans `_posts`, builds the canonical link inventory, and can check each unique outbound URL with `HEAD`/`GET` fallback to produce a phase 2 report.
+- [`data/link_inventory_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_inventory_posts.json): the phase 1 inventory output containing both occurrence-level records and grouped unique-URL summaries for `_posts`.
+- [`data/link_check_report_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_check_report_posts.json): the phase 2 check output for `_posts`, written when the audit script is run with `--check`.
+- [`data/linkrot_decisions.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.json) or [`data/linkrot_decisions.csv`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions.csv): one record per unique URL with the chosen disposition and replacement target if any.
+- [`scripts/classify_linkrot.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/classify_linkrot.py): phase 3 classifier for turning link-check results into remediation dispositions.
+- [`scripts/enrich_wayback.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/enrich_wayback.py): phase 4 enrichment step for querying archive.org and attaching Wayback candidate captures.
+- [`scripts/apply_linkrot_fixes.py`](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/apply_linkrot_fixes.py): applies approved replacements back to `_posts`.
+- An updated [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json) after each repair batch.
+- An updated [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md) summarising completed batches and remaining manual-review work.
+
+## Phase 1: Build A Canonical Link Inventory
+
+Status: implemented.
+
+Implement an audit script that scans only `_posts` and extracts every outbound `http://` and `https://` URL.
+
+Links to `martinstabe.com` and its subdomains are excluded from this inventory and from all later phases, because they are internal to the site being repaired.
+
+For each occurrence, capture:
+
+- original URL
+- normalized URL
+- source file
+- line number
+- link text where available
+- nearby context, ideally the containing sentence or paragraph
+- post date derived from filename or front matter
+- post title if available
+
+Normalization should:
+
+- preserve the original URL for reporting and patching
+- group obvious duplicates for analysis
+- handle trivial differences such as trailing slashes where appropriate
+- avoid collapsing URLs that may point to genuinely different resources
+
+The output of this phase should support both:
+
+- unique-URL analysis
+- occurrence-level patching back into source files
+
+Current implementation details:
+
+- The inventory is generated by running `python3 scripts/linkrot_audit.py`.
+- Output is written to [`data/link_inventory_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_inventory_posts.json).
+- The extractor handles HTML anchor tags, inline Markdown links, reference-style Markdown link definitions, and uncaptured raw URLs.
+- The extractor excludes URLs on `martinstabe.com` and its subdomains.
+- For reference-style Markdown links, the inventory records both the definition line and the usage lines where the reference is invoked.
+- The JSON output contains:
+  - `summary`: top-level counts for total occurrences and unique normalized URLs
+  - `occurrences`: one record per extracted outbound URL occurrence
+  - `unique_urls`: grouped summaries keyed by normalized URL for later classification work
+
+Current observed output from the first run:
+
+- 5,002 external outbound URL occurrences in `_posts`
+- 4,820 unique normalized URLs
+
+## Phase 2: Check Link Behaviour
+
+Status: implemented in the audit tool, but a full `_posts`-only report has not yet been run to completion and committed.
+
+For each unique outbound URL in `_posts`, record:
+
+- HTTP method used for checking
+- status code if available
+- final URL after redirects
+- transport or DNS errors
+- occurrence count
+- all source occurrences
+
+This should extend the current approach used to generate [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json), but narrowed to `_posts`.
+
+As with phase 1, phase 2 should exclude any URL on `martinstabe.com` or its subdomains.
+
+Because HTTP `HEAD` is often unreliable on legacy sites, the checker should support fallback rules such as:
+
+- use `HEAD` first where safe
+- retry with `GET` when `HEAD` returns 405, 403, unusual failures, or obviously misleading results
+- preserve both the observed result and the method actually used
+
+Current implementation details:
+
+- Run phase 2 with `python3 scripts/linkrot_audit.py --check`.
+- The report is written to [`data/link_check_report_posts.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/link_check_report_posts.json) unless overridden with `--report-output`.
+- The checker currently evaluates one representative original URL per normalized URL group and records:
+  - `url`
+  - `normalized_url`
+  - `original_urls`
+  - `status`
+  - `final_url`
+  - `error`
+  - `method`
+  - `occurrences`
+  - `count`
+  - `files`
+  - `posts`
+  - `sample_link_texts`
+- `HEAD` is attempted first, with automatic fallback to `GET` on transport errors and a defined set of suspicious or unreliable statuses.
+- A `--limit` option exists for bounded test runs during development.
+
+Current validation status:
+
+- bounded runs with `--check --limit N` completed successfully
+- the checker emitted the expected per-URL report shape for `_posts`
+- a full run across all unique `_posts` URLs remains to be executed as a separate long-running audit step
+
+## Phase 3: Classify Each Unique URL
+
+Each unique URL should be assigned one of these dispositions:
+
+- `alive-canonical`: still points to the intended resource and should remain unchanged
+- `alive-but-redirected`: still reaches the intended resource, but should be updated to a better canonical live URL
+- `dead-archivable`: no useful live target, but a trustworthy Wayback capture exists
+- `dead-unresolved`: dead and no trustworthy archive replacement is available
+- `manual-review`: automation cannot safely determine whether the live or archived target matches the original intent
+
+Classification should consider more than HTTP status. A URL should not be treated as healthy if it resolves to:
+
+- a generic homepage
+- a login wall
+- a consent wall
+- a generic corporate homepage after an acquisition
+- an unrelated replacement page
+
+## Phase 4: Enrich Dead And Suspicious Links With Wayback Data
+
+Status: implemented for the target-domain pilot.
+
+For URLs classified as dead or suspicious, query the Wayback Machine and record:
+
+- whether any capture exists
+- timestamp of the most recent available capture
+- archive URL for the most recent capture
+- optionally, the nearest capture to the post's publication date
+
+Default policy:
+
+- prefer the most recent available capture when it still preserves the intended resource
+
+Additional review aid:
+
+- also record the capture closest to the post date, because the newest capture may sometimes be a later redirect, placeholder, or unrelated takeover page
+
+Current implementation details:
+
+- Run phase 4 with `python3 scripts/enrich_wayback.py`.
+- For the target-domain pilot, the input decision log is [`data/linkrot_decisions_target_domains.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains.json).
+- The full pilot output is written to [`data/linkrot_decisions_target_domains_wayback.json`](/Users/martin.stabe/Documents/martinstabe.github.io/data/linkrot_decisions_target_domains_wayback.json).
+- The script queries the Wayback availability API twice per URL:
+  - once for a latest-available capture candidate
+  - once for a capture closest to the earliest post date using that URL
+- The script records:
+  - `reference_post_date`
+  - `wayback.latest_capture`
+  - `wayback.closest_to_post_date`
+  - `wayback.candidate_url`
+  - `wayback.candidate_basis`
+  - `wayback.lookup_errors`
+  - `archive_candidate_url`
+- The enrichment step now runs in parallel and records lookup errors instead of aborting the whole batch.
+
+Current target-domain pilot output:
+
+- 131 target-domain decisions processed
+- 25 decisions with a generated Wayback candidate URL
+- 24 decisions with no Wayback capture found
+- 82 decisions with lookup errors during the pilot run and therefore still needing follow-up
+
+## Phase 5: Apply Editorial Replacement Rules
+
+The decision log should include, at minimum:
+
+- original URL
+- disposition
+- replacement URL if any
+- reason for the decision
+- review status
+
+Apply these rules:
+
+- Keep live canonical links unchanged.
+- Update `alive-but-redirected` URLs to their canonical live destination when the redirected page is clearly the intended resource.
+- Replace dead URLs with Wayback links only when the archive capture clearly matches the intended resource.
+- Leave unresolved or ambiguous cases untouched until reviewed manually.
+
+Specific guidance:
+
+- Prefer live canonical URLs over archive.org whenever the original content is still substantively available.
+- Do not replace dead links with archive pages that only show generic domain placeholders, redirects, or navigation shells.
+- Treat old FT and FT blog links carefully. Some will have clean modern equivalents; others may require archive replacement or manual review.
+- Do not replace OpenCalais entity links with generic Thomson Reuters homepages. Either find a faithful archive capture or remove/rewrite the link as plain text after review.
+
+## Phase 6: Apply Fixes In Controlled Batches
+
+Do not update all `_posts` links in one pass. Use batches with low editorial risk.
+
+Recommended batch order:
+
+1. Obvious canonical redirect updates in `_posts`.
+2. Dead FT, FT blog, and FT project links in `_posts`.
+3. One-off dead links and ambiguous manual-review cases.
+
+For each batch:
+
+1. approve or update records in the decision log
+2. run the apply script against `_posts`
+3. regenerate [`link_check_report.json`](/Users/martin.stabe/Documents/martinstabe.github.io/link_check_report.json)
+4. update [`LINK_ROT_TODO.md`](/Users/martin.stabe/Documents/martinstabe.github.io/LINK_ROT_TODO.md)
+
+## Automation Design Notes
+
+The process should be explicitly split into:
+
+- audit
+- decision
+- apply
+
+This separation is important because editorial judgment should remain reviewable. The audit script should not silently rewrite content files.
+
+Suggested responsibilities:
+
+- `scripts/linkrot_audit.py`: extraction, normalization, status checking, and Wayback enrichment
+- `data/linkrot_decisions.*`: reviewed decisions and replacement targets
+- `scripts/apply_linkrot_fixes.py`: deterministic application of approved replacements
+
+## Success Criteria
+
+This `_posts`-only effort is successful when:
+
+- every outbound URL in `_posts` is present in the audit inventory
+- every unique URL in `_posts` has a recorded disposition
+- approved replacements can be applied reproducibly from the decision log
+- the highest-volume dead and redirected `_posts` links have been repaired
+- rerunning the audit shows a materially reduced count of dead and misleading outbound links in `_posts`
+
+## Out Of Scope For This Spec
+
+The following are intentionally excluded from this first phase:
+
+- anything under [`slides/`](/Users/martin.stabe/Documents/martinstabe.github.io/slides/)
+- top-level pages such as [`index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/index.html)
+- profile/about pages such as [`about/index.html`](/Users/martin.stabe/Documents/martinstabe.github.io/about/index.html)
+- bookmark-archive pages such as [`links/index.md`](/Users/martin.stabe/Documents/martinstabe.github.io/links/index.md)
+
+Those can be addressed later using the same audit/decision/apply model after the `_posts` workflow is proven.

@@ -2,6 +2,8 @@
 title: Ethical (common) foreign policy
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/01/23/ethical-common-foreign-policy/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 *Lose the Delusion* notes that the EU ready to lift its ban on [arms sales to China][1].
 

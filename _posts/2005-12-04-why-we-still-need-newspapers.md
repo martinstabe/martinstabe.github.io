@@ -2,6 +2,8 @@
 title: Why we still need newspapers
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/12/04/why-we-still-need-newspapers/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **John Branson** of the *Memphis Flyer* recently wrote a widely-mocked column about the [advantages of newspapers over new media][1].
 

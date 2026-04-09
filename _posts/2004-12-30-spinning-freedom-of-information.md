@@ -2,6 +2,8 @@
 title: Spinning freedom of information
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2004/12/30/spinning-freedom-of-information/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 With less than 48 hours to go before the British Freedom of Information Act comes in to force, the constitutional affairs secretary, **Lord Falconer**, has announced that any [information released under the Act will be simultaniously published on the web][1], the *Guardian* reports.
 

@@ -2,6 +2,8 @@
 title: Britain alone in indifference to CIA flights
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/11/18/britain-alone-in-indifference-to-cia-flights/
 views:
   - 29
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 Iceland and Sweden have joined the growing list of [European countries that want to know whether the CIA used their airports during &ldquo;extraordinary rendition&rdquo;][1] operations.  
 [  

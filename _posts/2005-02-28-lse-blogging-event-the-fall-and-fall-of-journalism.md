@@ -2,6 +2,8 @@
 title: 'LSE blogging event: The Fall and Fall of journalism'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/28/lse-blogging-event-the-fall-and-fall-of-journalism/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 I went to the London School of Economics&rsquo; Media Group event about blogging and &ldquo;[The Fall and Fall of Journalism][1]&rdquo;.
 

@@ -2,6 +2,8 @@
 title: '&#8216;Blogospheric intercourse&#8217; in the FT'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/07/blogospheric-intercourse-in-the-ft/
 views:
   - 40
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Stephen Coleman** is Cisco Visiting Professor in e-Democracy at the [Oxford Internet Institute][1] and, according to **John Lloyd** in today&rsquo;s *Financial Times,* Britain&rsquo;s &ldquo;expert on blogospheric intercourse&rdquo;.
 

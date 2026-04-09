@@ -2,6 +2,8 @@
 title: Voting in Germany, Part 2
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/05/voting-in-germany-part-2/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 After [struggling to get the application submitted in time][1], I&rsquo;ve received my postal ballot for the German election on 18 September. So now for part two in my public service explaination of the German electoral system.
 

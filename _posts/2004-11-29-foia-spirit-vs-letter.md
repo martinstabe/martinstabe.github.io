@@ -2,6 +2,8 @@
 title: 'FOIA: spirit vs. letter'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/11/29/foia-spirit-vs-letter/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Today&rsquo;s *Daily Telegraph* has an important story about the traditionally secretive British Government&rsquo;s response to the introduction of the UK&rsquo;s Freedom of Information Act, which comes into force on New Year&rsquo;s Day. The lede says it all:
 

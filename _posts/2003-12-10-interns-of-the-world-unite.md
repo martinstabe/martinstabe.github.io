@@ -2,6 +2,8 @@
 title: Interns of the world, unite!
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2003/12/10/interns-of-the-world-unite/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 I&#8217;ve heard a couple of mentions of this issue lately, so I assume the NUJ has been [issuing some press releases][1] about its criticism of the exploitative system of [&#8220;work experience&#8221;][2]. There can be no question that the uncompensated labour expected of students who aspire to journalism or other professions in the cultural industries bars entry to these influential positions to students who don&#8217;t have a trust fund to underwrite a couple of months of working for nothing. Then again, gainfully employed hacks [aren&#8217;t doing much better][3].
 

@@ -2,6 +2,8 @@
 title: Expert by echo chamber
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/06/07/expert-by-echo-chamber/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Deep inside the *Guardian* Education section today is [the tale][1] of how **Graham Barnfield**, a [journalism lecturer][2] at the University of East London, became an expert on &ldquo;happy slapping&rdquo; because a succession of journalists and PRs around the world failed to check their facts.
 

@@ -2,6 +2,8 @@
 title: 'Private policing: some other concerns'
 author: Martin Stabe
 layout: post
+tags:
+  - sociology
 permalink: /2005/06/06/private-policing-some-other-concerns/
 views:
   - 55
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Sociology
 ---
 **Eamonn Butler** at the Adam Smith Institute&rsquo;s blog [says][1]:
 

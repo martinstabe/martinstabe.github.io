@@ -2,13 +2,13 @@
 title: 'That other place&#8230;'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/06/that-other-place/
 btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 A UN press release:  
 

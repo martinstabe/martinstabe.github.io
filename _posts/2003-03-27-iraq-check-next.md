@@ -2,6 +2,8 @@
 title: Iraq? Check. Next!
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/27/iraq-check-next/
 views:
   - 2
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Although this doesn&#8217;t come as much surprise to me, **Josh Marshall** writes these <a href="" target="_top">frightening lines</a> In the *Washington Monthly:*  
 

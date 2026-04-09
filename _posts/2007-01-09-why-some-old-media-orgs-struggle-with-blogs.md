@@ -2,6 +2,11 @@
 title: Why (some) old media orgs struggle with blogs
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - journalism
+  - online
+  - video
 permalink: /2007/01/09/why-some-old-media-orgs-struggle-with-blogs/
 views:
   - 103
@@ -9,11 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - BBC
-  - Journalism
-  - Online
-  - Video
 ---
 Alan Morrison has a great post that neatly [summarises][1] the common strand underlying the things [Andrew Grant-Adamson][2] ([repeatedly][3]) [Kevin Anderson][4], [Paul Bradshaw][5] [and I][6] (not to mention loads of other people) have been saying over the past few months about established media&#8217;s sometimes clumsy efforts at tacking social media &#8220;stuff&#8221; onto their existing publishing business:
 

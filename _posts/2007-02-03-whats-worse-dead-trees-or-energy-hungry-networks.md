@@ -2,6 +2,9 @@
 title: 'What&#8217;s worse: dead trees or energy-hungry computers?'
 author: Martin Stabe
 layout: post
+tags:
+  - daily-mirror
+  - trinity-mirror
 permalink: /2007/02/03/whats-worse-dead-trees-or-energy-hungry-networks/
 views:
   - 380
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Daily Mirror
-  - Trinity Mirror
 ---
 Thinking about the environmental impact of the media, Adam Tinworth asks [some pertinent questions][1]:
 

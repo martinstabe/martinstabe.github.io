@@ -2,6 +2,14 @@
 title: Freedom of Information, mashups and online journalism
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
+  - crown-copyright
+  - environmental-information-regulations
+  - freedom-of-information
+  - maps-and-mapping
+  - mashups
+  - re-use-of-public-sector-information
 permalink: /2007/03/03/freedom-of-information-mashups-and-online-journalism/
 ratings_users:
   - 0
@@ -15,14 +23,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
-  - Crown Copyright
-  - Evironmental Information Regulations
-  - Freedom of Information
-  - 'Maps &amp; mapping'
-  - Mashups
-  - Re-Use of Public Sector Information
 ---
 My long silence here is due to the fact that every spare minute of my day job has lately involved building a rather complicated WordPress installation. More blogging on my own time would probably drive me a bit mad. 
 

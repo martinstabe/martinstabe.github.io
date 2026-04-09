@@ -2,6 +2,12 @@
 title: Blair for Secretary-General
 author: Martin Stabe
 layout: post
+tags:
+  - politics
+  - special-relationships
+  - uk
+  - united-nations
+  - usa
 permalink: /2006/01/29/blair-for-secretary-general/
 BX_post_type:
   - mini
@@ -11,12 +17,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Politics
-  - Special Relationships
-  - UK
-  - United Nations
-  - USA
 ---
 *USA Today:*** Tony Blair** is [more popular in the United States than in Britain][1]. Oh, and 66 per cent of Americans, including **Bill Clinton**, would like to see Blair running the United Nations.
 

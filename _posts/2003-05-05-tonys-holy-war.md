@@ -2,6 +2,8 @@
 title: 'Tony&#8217;s holy war'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/05/tonys-holy-war/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *Times&#8217;* hagiographic account of &#8220;<a href="http://www.timesonline.co.uk/printFriendly/0,,1-2-667543,00.html" target="_top">Blair&#8217;s War</a>,&#8221; published on Saturday, really didn&#8217;t live up to the hype. It&#8217;s the usual uncritical tick-tock inside-dope account that all journalists produce when they have been compromised by special access. The best part about it was the photography. 
 

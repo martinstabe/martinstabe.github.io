@@ -2,6 +2,10 @@
 title: China-Japan tensions
 author: Martin Stabe
 layout: post
+tags:
+  - china
+  - japan
+  - russia
 permalink: /2005/02/12/china-japan-tensions/
 views:
   - 50
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - China
-  - Japan
-  - Russia
 ---
 With all the attention on North Korea, perhaps Eurocentric blogs like this one should be keeping a closer eye on the increasing &#8220;bilateral estrangement&#8221; between China and Japan.
 

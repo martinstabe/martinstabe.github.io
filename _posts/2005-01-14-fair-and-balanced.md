@@ -2,6 +2,8 @@
 title: Fair and balanced
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/14/fair-and-balanced/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *The Sun* has appointed a European Correspondent based in Brussels. This is [how they announced the appointment][1] yesterday:
 

@@ -2,6 +2,8 @@
 title: Pentagon compiling database of high school students
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2005/07/05/pentagon-compiling-database-of-high-school-students/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 The Pentagon is creating a [database of all 16-to-18-year-old high school students][1] in the United States in an effort to improve dwindling recruitment efforts.
 

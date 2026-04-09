@@ -2,6 +2,11 @@
 title: 'Independent: robots.txt'
 author: Martin Stabe
 layout: post
+tags:
+  - acap
+  - independent
+  - links
+  - robots-txt
 permalink: /2008/03/13/independent-robotstxt/
 views:
   - 232
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - ACAP
-  - Independent
-  - links
-  - robotstxt
 ---
 The [Indy has adopted ACAP][1]. But while the old Robots Exclusion Standard commands include a link to a sitemap, the ACAP commands do not.
 

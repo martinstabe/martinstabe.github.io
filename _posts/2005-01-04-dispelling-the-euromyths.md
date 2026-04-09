@@ -2,6 +2,8 @@
 title: Dispelling the Euromyths
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/04/dispelling-the-euromyths/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 In the *IHT,* there is a story about the [European Commission&rsquo;s efforts to dispell Euromyths][1] in the British tabloids (and elsewhere).
 

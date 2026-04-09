@@ -2,6 +2,8 @@
 title: 'It&#8217;s not Florida, but&#8230;'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/16/its-not-florida-but/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The Liberals&#8217; victory in Qu&eacute;bec&#8217;s provincial elections this week has sparked a [lively discussion][1] on **Matthew Yglesias**&#8216; blog about the absurdity of single member plurality voting systems. But, as a reader from Montreal, who prefers to be known as **Le Professeur** (and should really start his own blog ASAP!), notes, the really strange effects of single-member plurality voting (&#8220;first past the post&#8221;) didn&#8217;t occur in this election, but in 1998. 
 

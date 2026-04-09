@@ -2,6 +2,8 @@
 title: Baseball in Europe
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
 permalink: /2003/03/19/baseball-in-europe/
 views:
   - 66
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
 ---
 The <a href="http://www.yomiuri.co.jp/newse/20030320wo51.htm" target="_top">game in Japan</a> may be cancelled, but Major League Baseball is still eager to build a bigger overseas profile, even here in baseball-parched Europe. On Monday, the Associated Press reported that a plan is afoot to play some games of the 2004 season <a href="http://sports.yahoo.com/mlb/news?slug=ap-mlb-europe" target="_top">in Europe</a>.The gist:  
 

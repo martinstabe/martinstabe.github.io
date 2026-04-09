@@ -2,6 +2,9 @@
 title: The conservatism of journalism students
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - journalism-education
 permalink: /2007/01/14/the-conservatism-of-journalism-students/
 views:
   - 482
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Journalism Education
 ---
 If you are a journalism student or are involved in teaching them, stop reading right now and go read [this post][1] by Mindy McAdams.
 

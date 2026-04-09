@@ -2,6 +2,9 @@
 title: 'Treasury: flat tax disclosure would &#8216;harm international relations&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - uk
 permalink: /2005/09/26/treasury-flat-tax-disclosure-would-harm-international-relations/
 views:
   - 27
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - UK
 ---
 The Treasury says it refused to release sections of documents about flat tax policies because doing so would &ldquo;prejudice the UK&rsquo;s international relations&rdquo; and the government&rsquo;s ability to formulate tax policy.
 

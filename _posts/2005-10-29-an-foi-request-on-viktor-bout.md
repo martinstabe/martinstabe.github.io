@@ -2,6 +2,8 @@
 title: An FOI request on Viktor Bout
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/10/29/an-foi-request-on-viktor-bout/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 **Tom Griffen** [wants some information][1] from the MoD about their dealings with **Viktor Bout**. 
 

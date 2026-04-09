@@ -2,6 +2,8 @@
 title: Now Bluewater bans free speech
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/05/15/now-bluewater-bans-free-speech/
 views:
   - 3
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 *Observer* reporter **Katy Weitz** [tried to orchistrate a joint interview with two hoodie-wearing teenagers][1] &mdash; unemployed **Daniel Luchford**, 18, and his friend **Lee**, 17, who did not want to give his surname &mdash; and a hoodie-fearing middle-class couple from Sidcup &mdash; &rdquo;**Cheryl Osborne**, 55, and her husband, **Eric**, 65&rdquo; &mdash; at the Bluewater shopping centre in Kent.
 

@@ -2,6 +2,8 @@
 title: 'Hollywood does 9/11: two movies in the works'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2005/08/17/hollywood-does-911-two-movies-in-the-works/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The taboo on Hollywood depictions of the terrorist attacks on 11 September 2001 appears to be over, the BBC World Service reports.
 

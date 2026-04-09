@@ -2,6 +2,8 @@
 title: 'Officials&#8217; names must be named'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/12/06/officials-names-must-be-named/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Public officials&rsquo; names must usually be released in response to requests under the Freedom of Information Act, a new ruling by Information Commissioner suggests.
 

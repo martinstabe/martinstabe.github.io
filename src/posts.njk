@@ -1,0 +1,50 @@
+---
+pagination:
+  data: posts
+  size: 1
+  alias: post
+permalink: "{{ post.permalink }}index.html"
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html>
+  {% set title = post.title %}
+  {% set description = post.excerpt %}
+  {% include "partials/head.njk" %}
+  <body>
+    {% include "partials/header.njk" %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+          <header class="post-header">
+            <h1 class="post-title">{{ post.title }}</h1>
+            <p class="post-meta">{{ post.date | displayDate }}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+          </header>
+
+          <article class="post-content">
+            {{ post.content | safe }}
+          </article>
+
+          {% if post.canonicalTags and post.canonicalTags.length > 0 %}
+          <small><strong>Tags:</strong> {% for tag in post.canonicalTags %}<a href="{{ tag.permalink | relativeUrl(post.permalink) }}">{{ tag.displayTitle }}</a>{% if not loop.last %} {% endif %}{% endfor %}</small>
+          {% endif %}
+
+          <p><small>{{ post.permalink }}</small></p>
+
+          <div class="social">
+            {% set title = post.title %}
+            {% include "partials/social.njk" %}
+          </div>
+
+          {% if post.comments != "no" %}
+          <div class="disqus">{% include "partials/comments.njk" %}</div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    {% include "partials/footer.njk" %}
+    {% include "partials/analytics.njk" %}
+  </body>
+</html>

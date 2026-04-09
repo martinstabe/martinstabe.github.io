@@ -2,6 +2,8 @@
 title: Deadliest year for journos in a decade
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/12/12/deadliest-year-for-journos-in-a-decade/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 According to the Committee to Protect Journalists, [2004 is already the deadliest year for journalists in a decade][1]. Fifty-four jounralists are known to have been killed this year, [including 23 in Iraq][2].
 

@@ -2,6 +2,8 @@
 title: 'Peak oil day: it&#8217;s all downhill from here'
 author: Martin Stabe
 layout: post
+tags:
+  - notebook
 permalink: /2005/11/26/peak-oil-day-its-all-downhill-from-here/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Notebook
 ---
 Global [oil production peaked on Thursday][1], if you believe the [estimate][2] by Princeton geology professor emeritus **Ken Deffeyes**.
 

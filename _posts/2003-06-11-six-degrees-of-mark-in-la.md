@@ -2,6 +2,8 @@
 title: Six degrees of Mark in LA
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/11/six-degrees-of-mark-in-la/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 I was just invited to join Friendster, the latest incarnation of the social networking web site genre. Yes, I know I&#8217;m a bit behind on the geek fads. 
 

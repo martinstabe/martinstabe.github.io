@@ -2,6 +2,8 @@
 title: Random reads
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/29/random-reads/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
   * The British military really knows what&#8217;s important: the <a href="http://news.bbc.co.uk/1/hi/uk/2898003.stm" target="_top">symbolic targets</a>.
   * Dolphins are reputed to be <a href="http://www.cbsnews.com/stories/2003/03/29/iraq/main546667.shtml" target="_top">very intelligent</a> animals. This may be the proof.

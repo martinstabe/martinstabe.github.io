@@ -2,6 +2,9 @@
 title: We are all journalists now (except you lot in the comments section)
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
 permalink: /2006/05/27/we-are-all-journalists-now-except-you-lot-in-the-comments-section/
 views:
   - 40
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
 ---
 There has been much celebration in the blogosphere about a [California court&#8217;s decision to extend the protection of the state&#8217;s journalism shield law][1] to cover a number of blogs. It is indeed very good news, but there&#8217;s another aspect to this case that is getting less attention — the judgment draws a distiction between those who run web sites and those who merely comment on them.
 

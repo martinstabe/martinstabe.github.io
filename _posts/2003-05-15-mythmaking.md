@@ -2,6 +2,8 @@
 title: Mythmaking
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/15/mythmaking/
 views:
   - 23
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 It seems my suspicions about the media coverage of the **Jessica Lynch** story were justified. BBC correspondent **John Kampfner** says the rescue was &#8220;one of the most stunning pieces of <a href="http://news.bbc.co.uk/1/hi/programmes/correspondent/3028585.stm" target="_top">news management</a> ever conceived.&#8221; 
 

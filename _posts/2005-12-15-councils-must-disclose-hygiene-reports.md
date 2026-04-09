@@ -2,6 +2,8 @@
 title: Councils must disclose hygiene reports
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/12/15/councils-must-disclose-hygiene-reports/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 [Local councils must disclose food hygiene inspections][1], the Information Commissioner has ruled.
 

@@ -2,6 +2,8 @@
 title: Playing politics with tragedy
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/03/playing-politics-with-tragedy/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Taking the tsunami as an opportunity for UN-bashing has been one of the more depressing reactions in some quarters of the blogosphere. 
 

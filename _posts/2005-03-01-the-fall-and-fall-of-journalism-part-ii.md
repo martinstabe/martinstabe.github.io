@@ -2,6 +2,8 @@
 title: The Fall and Fall of Journalism, Part II
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/01/the-fall-and-fall-of-journalism-part-ii/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Leslie Bunder**, one of the panelists at last night&rsquo;s LSE blogging and journalism event, [now has a post][1] up on *journalistic.co.uk* about what was said.
 

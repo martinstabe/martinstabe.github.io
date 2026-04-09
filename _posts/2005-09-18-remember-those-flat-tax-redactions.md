@@ -2,6 +2,8 @@
 title: Remember those flat tax redactions
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/18/remember-those-flat-tax-redactions/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Tomorrow it will have been 20 working days since I [filed my Freedom of Information Act request][1] with the Treasury, asking for the justification of the redactions in the earlier FOIA disclosure of [documents related to flat taxes][2].
 

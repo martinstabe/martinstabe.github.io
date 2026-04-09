@@ -2,6 +2,8 @@
 title: North Korea behind fake cigaretttes?
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/01/01/north-korea-behind-fake-cigaretttes/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 I live in London near the Holloway Road, one of the most notorious hotspots for sale of counterfeit cigarettes.
 

@@ -2,6 +2,8 @@
 title: Rules for military bloggers in Iraq
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/08/30/rules-for-military-bloggers-in-iraq/
 views:
   - 55
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 The U.S. military has established [guidelines for soldiers blogging in Iraq][1], according to MediaBistro, which has obtained a memo on blogging by Lt. Gen. **John Vines**:
 

@@ -2,6 +2,8 @@
 title: Blogs and the noise machine
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/03/13/blogs-and-the-noise-machine/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 American political [blogging is being incorporated into the traditional partisan propaganda machines][1], **Garance Franke-Ruta** argues in the *American Prospect:*
 

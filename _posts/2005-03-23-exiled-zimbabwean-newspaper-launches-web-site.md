@@ -2,6 +2,10 @@
 title: Exiled Zimbabwean newspaper launches web site
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - miscellanea
+  - zimbabwe
 permalink: /2005/03/23/exiled-zimbabwean-newspaper-launches-web-site/
 views:
   - 58
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Miscellanea
-  - Zimbabwe
 ---
 [Via *Europhobia*][1] I see that with a little [help from the Guardian&rsquo;s web site][2], the online edition of the *[The Zimbabwean][3]* is now available.
 

@@ -1,0 +1,282 @@
+[
+  {
+    "url": "http://commentisfree.guardian.co.uk/elisabeth_ribbans/2007/03/is_anybody_listening.html",
+    "normalized_url": "http://commentisfree.guardian.co.uk/elisabeth_ribbans/2007/03/is_anybody_listening.html",
+    "original_urls": [
+      "http://commentisfree.guardian.co.uk/elisabeth_ribbans/2007/03/is_anybody_listening.html"
+    ],
+    "status": null,
+    "final_url": "http://commentisfree.guardian.co.uk/elisabeth_ribbans/2007/03/is_anybody_listening.html",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-03-20-links-for-2007-03-20.md",
+        "line": 46,
+        "source_type": "html_anchor"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2007-03-20-links-for-2007-03-20.md"
+    ],
+    "posts": [
+      "/2007/03/20/links-for-2007-03-20/"
+    ],
+    "sample_link_texts": [
+      "Comment is free Editors’ Blog: Is anybody listening?"
+    ]
+  },
+  {
+    "url": "http://feed-me-news.blogspot.com/2007/03/future-of-journalism-education.html",
+    "normalized_url": "http://feed-me-news.blogspot.com/2007/03/future-of-journalism-education.html",
+    "original_urls": [
+      "http://feed-me-news.blogspot.com/2007/03/future-of-journalism-education.html"
+    ],
+    "status": null,
+    "final_url": "http://feed-me-news.blogspot.com/2007/03/future-of-journalism-education.html",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-03-31-links-for-2007-03-31.md",
+        "line": 46,
+        "source_type": "html_anchor"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2007-03-31-links-for-2007-03-31.md"
+    ],
+    "posts": [
+      "/2007/03/31/links-for-2007-03-31/"
+    ],
+    "sample_link_texts": [
+      "n-gage: The future of Journalism education…"
+    ]
+  },
+  {
+    "url": "http://geobloggers.com/archives/2007/08/15/oakland-crimespotting-sexy-map-thing/",
+    "normalized_url": "http://geobloggers.com/archives/2007/08/15/oakland-crimespotting-sexy-map-thing",
+    "original_urls": [
+      "http://geobloggers.com/archives/2007/08/15/oakland-crimespotting-sexy-map-thing/"
+    ],
+    "status": null,
+    "final_url": "http://geobloggers.com/archives/2007/08/15/oakland-crimespotting-sexy-map-thing/",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-18-links-for-2007-08-18.md",
+        "line": 18,
+        "source_type": "html_anchor"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2007-08-18-links-for-2007-08-18.md"
+    ],
+    "posts": [
+      "/2007/08/18/links-for-2007-08-18/"
+    ],
+    "sample_link_texts": [
+      "geobloggers: Oakland Crimespotting … Sexy map thing"
+    ]
+  },
+  {
+    "url": "http://www.bbc.co.uk/blogs/theeditors/2006/12/saddams_execution.html",
+    "normalized_url": "http://www.bbc.co.uk/blogs/theeditors/2006/12/saddams_execution.html",
+    "original_urls": [
+      "http://www.bbc.co.uk/blogs/theeditors/2006/12/saddams_execution.html"
+    ],
+    "status": null,
+    "final_url": "http://www.bbc.co.uk/blogs/theeditors/2006/12/saddams_execution.html",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-01-02-husseins-hanging-video-and-the-new-media-ethic.md",
+        "line": 24,
+        "source_type": "markdown_reference_definition"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2007-01-02-husseins-hanging-video-and-the-new-media-ethic.md"
+    ],
+    "posts": [
+      "/2007/01/02/husseins-hanging-video-and-the-new-media-ethic/"
+    ],
+    "sample_link_texts": [
+      "BBC"
+    ]
+  },
+  {
+    "url": "http://www.blairwatch.co.uk/node/603",
+    "normalized_url": "http://www.blairwatch.co.uk/node/603",
+    "original_urls": [
+      "http://www.blairwatch.co.uk/node/603"
+    ],
+    "status": null,
+    "final_url": "http://www.blairwatch.co.uk/node/603",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2006-01-11-lawyer-seeks-disclosure-of-al-jazeera-memo.md",
+        "line": 13,
+        "source_type": "markdown_reference_definition"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2006-01-11-lawyer-seeks-disclosure-of-al-jazeera-memo.md"
+    ],
+    "posts": [
+      "/2006/01/11/lawyer-seeks-disclosure-of-al-jazeera-memo/"
+    ],
+    "sample_link_texts": [
+      "bloggers have vowed to defy reporting restrictions by publishing the document"
+    ]
+  },
+  {
+    "url": "http://www.bundestag.de/parlament/wahlen/wkerg/wk100.html",
+    "normalized_url": "http://www.bundestag.de/parlament/wahlen/wkerg/wk100.html",
+    "original_urls": [
+      "http://www.bundestag.de/parlament/wahlen/wkerg/wk100.html"
+    ],
+    "status": null,
+    "final_url": "http://www.bundestag.de/parlament/wahlen/wkerg/wk100.html",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2005-09-05-voting-in-germany-part-2.md",
+        "line": 16,
+        "source_type": "markdown_reference_definition"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2005-09-05-voting-in-germany-part-2.md"
+    ],
+    "posts": [
+      "/2005/09/05/voting-in-germany-part-2/"
+    ],
+    "sample_link_texts": [
+      "Oberbergischer Kreis"
+    ]
+  },
+  {
+    "url": "http://www.buzzmachine.com",
+    "normalized_url": "http://www.buzzmachine.com/",
+    "original_urls": [
+      "http://www.buzzmachine.com"
+    ],
+    "status": null,
+    "final_url": "http://www.buzzmachine.com",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-10-13-on-the-media-citizen-papers.md",
+        "line": 22,
+        "source_type": "markdown_reference_definition"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2007-10-13-on-the-media-citizen-papers.md"
+    ],
+    "posts": [
+      "/2007/10/13/on-the-media-citizen-papers/"
+    ],
+    "sample_link_texts": [
+      "Jeff Jarvis"
+    ]
+  },
+  {
+    "url": "http://www.completetosh.com/weblog/2006/10/la_times_im_con.html",
+    "normalized_url": "http://www.completetosh.com/weblog/2006/10/la_times_im_con.html",
+    "original_urls": [
+      "http://www.completetosh.com/weblog/2006/10/la_times_im_con.html"
+    ],
+    "status": null,
+    "final_url": "http://www.completetosh.com/weblog/2006/10/la_times_im_con.html",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2006-10-24-links-for-2006-10-24.md",
+        "line": 46,
+        "source_type": "html_anchor"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2006-10-24-links-for-2006-10-24.md"
+    ],
+    "posts": [
+      "/2006/10/24/links-for-2006-10-24/"
+    ],
+    "sample_link_texts": [
+      "Complete Tosh: LA Times: I’m confused"
+    ]
+  },
+  {
+    "url": "http://www.retail-week.com/careers/etail-power-list-2010/bringing-a-personal-touch-to-ecommerce/5019204.article",
+    "normalized_url": "http://www.retail-week.com/careers/etail-power-list-2010/bringing-a-personal-touch-to-ecommerce/5019204.article",
+    "original_urls": [
+      "http://www.retail-week.com/careers/etail-power-list-2010/bringing-a-personal-touch-to-ecommerce/5019204.article"
+    ],
+    "status": null,
+    "final_url": "http://www.retail-week.com/careers/etail-power-list-2010/bringing-a-personal-touch-to-ecommerce/5019204.article",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2010-11-18-what-publishers-can-learn-from-tesco-clubcard.md",
+        "line": 26,
+        "source_type": "markdown_reference_definition"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2010-11-18-what-publishers-can-learn-from-tesco-clubcard.md"
+    ],
+    "posts": [
+      "/2010/11/18/what-publishers-can-learn-from-tesco-clubcard/"
+    ],
+    "sample_link_texts": [
+      "why Amazon can send me an individually-targeted email"
+    ]
+  },
+  {
+    "url": "http://wwwimage.cbsnews.com/htdocs/pdf/complete_report/CBS_Report.pdf",
+    "normalized_url": "http://wwwimage.cbsnews.com/htdocs/pdf/complete_report/CBS_Report.pdf",
+    "original_urls": [
+      "http://wwwimage.cbsnews.com/htdocs/pdf/complete_report/CBS_Report.pdf"
+    ],
+    "status": null,
+    "final_url": "http://wwwimage.cbsnews.com/htdocs/pdf/complete_report/CBS_Report.pdf",
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2005-01-11-mapes-fired-over-rathergate.md",
+        "line": 7,
+        "source_type": "markdown_reference_definition"
+      }
+    ],
+    "count": 1,
+    "files": [
+      "_posts/2005-01-11-mapes-fired-over-rathergate.md"
+    ],
+    "posts": [
+      "/2005/01/11/mapes-fired-over-rathergate/"
+    ],
+    "sample_link_texts": [
+      "PDF"
+    ]
+  }
+]

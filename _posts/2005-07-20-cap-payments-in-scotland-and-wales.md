@@ -2,6 +2,10 @@
 title: CAP payments in Scotland and Wales
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - freedom-of-information
+  - uk
 permalink: /2005/07/20/cap-payments-in-scotland-and-wales/
 views:
   - 92
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Freedom of Information
-  - UK
 ---
 One of the best examples so far of journalists&rsquo;s use of the new Freedom of Information Act &mdash; the release of data on who specifically benefits from farm subsidies the EU Common Agricultural Policy &nmdash; also nicely illustrates one of the biggest problems with the open government laws: the clash of principles with the Data Protection Act.
 

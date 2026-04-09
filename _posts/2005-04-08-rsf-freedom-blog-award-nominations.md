@@ -2,6 +2,8 @@
 title: RSF Freedom Blog Award nominations
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/04/08/rsf-freedom-blog-award-nominations/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Reporters Without Borders have [nominated 60 blogs][1] for their global Freedom Blog Award. Voting closes on 1 June.
 

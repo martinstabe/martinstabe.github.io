@@ -2,6 +2,8 @@
 title: 'Protestors&#8217; political science'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/25/protestors-political-science/
 views:
   - 1
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Self-criticism is very important if a political movement is not to become mired in some inaccurate dogma. **Timothy Burke** has an excellent post about the very weak political analysis that dominates much of the thought in the anti-war movement. This needs to be countered if the movement is not to become irrelevant. The &#8220;it&#8217;s all about oil&#8221; refrain is but the beginning: Burke gets at a much deeper problem: the <a href="http://www.swarthmore.edu/SocSci/tburke1/perma31703a.html" targe="_top">simplistic conception of power</a> held by many war opponants:
 

@@ -2,6 +2,8 @@
 title: More FOI disclosure RSS feeds
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/12/09/more-freedom-of-information-disclosure-rss-feeds/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The Scottish Executive has an [RSS feed of its disclosures under the Freedom of Information Act][1] ([RSS][1]). [A few other UK public bodies have also adopted this excellect approach][2] to publishing their disclosure logs. This is a good idea and should be encouraged.
 

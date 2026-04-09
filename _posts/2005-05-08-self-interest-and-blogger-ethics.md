@@ -2,6 +2,8 @@
 title: Self-interest and blogger ethics
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/05/08/self-interest-and-blogger-ethics/
 views:
   - 34
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 I&rsquo;m puzzled by **Tim Worstall**&rsquo;s [critical view][1] on a recent *New York Times*article on the need for [blogger ethics][2].
 

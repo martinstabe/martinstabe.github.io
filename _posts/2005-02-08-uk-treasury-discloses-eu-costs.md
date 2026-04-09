@@ -2,6 +2,10 @@
 title: UK Treasury discloses EU costs
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - freedom-of-information
+  - uk
 permalink: /2005/02/08/uk-treasury-discloses-eu-costs/
 BX_post_type:
   - mini
@@ -11,10 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Freedom of Information
-  - UK
 ---
 One of the items listed on the Treasury&rsquo;s [Freedom of Information Disclosure Log][1] may interest readers of this blog: a breakdown for [how much is being paid annually by Great Britain to the EU for membership][2]. [[ADDED 13.1.2006][3]]
 

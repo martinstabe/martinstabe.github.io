@@ -2,6 +2,8 @@
 title: Blogs are failing in international reporting
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2005/05/08/blogs-are-failing-in-international-reporting/
 views:
   - 43
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Another day, another bit of blog pessimism from yours truly.
 

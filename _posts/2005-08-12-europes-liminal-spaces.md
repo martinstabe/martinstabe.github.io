@@ -2,6 +2,8 @@
 title: 'Europe&#8217;s liminal spaces'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/08/12/europes-liminal-spaces/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 **Katrin Bennhold** has a great story in the *International Herald Tribune* about [what works in the European Union][1]. 
 

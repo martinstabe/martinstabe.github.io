@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="home">
+  {% assign display_title = page.title | remove_first: 'Tag: ' %}
+  <h1 class="page-heading">Tag: {{ display_title }}</h1>
+
+  {% assign tagged_posts = site.tags[page.tag] | sort: "date" | reverse %}
+  {% if tagged_posts and tagged_posts.size > 0 %}
+    <p>{{ tagged_posts.size }} post{% if tagged_posts.size != 1 %}s{% endif %} tagged <code>{{ display_title }}</code>.</p>
+
+    <ul class="post-list">
+      {% for post in tagged_posts %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+          <h2>
+            <a class="post-link" href="{% if post.permalink %}{{ post.permalink }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+          </h2>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No posts found for this tag.</p>
+  {% endif %}
+</div>

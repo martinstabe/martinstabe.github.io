@@ -2,6 +2,8 @@
 title: Fatigue Fashion Foibles
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/27/fatigue-fashion-foibles/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Damn. Scooped again. I was working on a blog item about the coalition&#8217;s odd choice of mix-and-match desert camouflage, but *Slate&#8217;s* &#8220;Explainer&#8221; column <a href="http://slate.msn.com/?id=2080736" target="_top">beat me to it</a>. What&#8217;s interesting is that it actually seems to be a major logistical screw-up:  
 

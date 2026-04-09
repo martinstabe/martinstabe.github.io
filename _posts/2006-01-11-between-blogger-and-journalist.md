@@ -2,6 +2,9 @@
 title: A blogger goes pro
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
 permalink: /2006/01/11/between-blogger-and-journalist/
 views:
   - 51
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
 ---
 It&rsquo;s full disclosure time: As of today, I&rsquo;m a member of staff at the *[Press Gazette][1],* the trade magazine for British journalism. I&rsquo;ll be working on the magazine&rsquo;s web site and writing about developments in online journalism and, yes, its relationship with blogging.
 

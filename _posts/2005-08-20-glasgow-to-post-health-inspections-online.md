@@ -2,6 +2,8 @@
 title: Glasgow to post health inspections online
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/08/20/glasgow-to-post-health-inspections-online/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Glasgow City Council will [publish eateries&rsquo; food hygene reports online][1] beginning later this month.
 

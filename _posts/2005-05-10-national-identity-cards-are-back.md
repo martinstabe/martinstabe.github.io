@@ -2,6 +2,9 @@
 title: National identity cards are back
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
+  - usa
 permalink: /2005/05/10/national-identity-cards-are-back/
 views:
   - 30
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
-  - USA
 ---
 The UK government&#8217;s national identity card project was rudely interupted by the general election.
 

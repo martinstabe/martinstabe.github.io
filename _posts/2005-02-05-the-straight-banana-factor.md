@@ -2,6 +2,8 @@
 title: 'The &lsquo;straight banana factor&rsquo;'
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/05/the-straight-banana-factor/
 views:
   - 46
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 **John Kampfner** has a column in the *New Statesman* about the &ldquo;[straight banana factor][1]&lsquo; on British attitudes to the EU:
 

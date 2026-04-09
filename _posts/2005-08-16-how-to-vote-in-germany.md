@@ -2,6 +2,10 @@
 title: How to vote in Germany
 author: Martin Stabe
 layout: post
+tags:
+  - bundestagswahl-2005
+  - european-union
+  - germany
 permalink: /2005/08/16/how-to-vote-in-germany/
 views:
   - 29
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Bundestagswahl 2005
-  - European Union
-  - Germany
 ---
 For the first time in my life, I&rsquo;m going to try to navigate the bureaucracy necessary to claim my right as an *Auslandsdeutscher* to vote in the [early German federal election][1] on 18 September.
 

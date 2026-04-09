@@ -2,6 +2,8 @@
 title: Deep Throat revealed
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/05/31/deep-throat-revealed/
 views:
   - 53
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 **Bob Woodward** and **Carl Bernstein**&rsquo;s famous Watergate source, known only as Deep Throat, was **Mark Felt**.
 

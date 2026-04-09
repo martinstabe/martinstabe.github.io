@@ -2,6 +2,8 @@
 title: 'Bush/Giuliani &rsquo;04?'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/02/29/bushgiuliani-04/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Ben McConville in the *Scotland on Sunday* newspaper speculates &#8212; apparently baselessly &#8212; that George Bush will dump Dick Cheney in favour of [Rudy Giuliani as his running mate][1].
 

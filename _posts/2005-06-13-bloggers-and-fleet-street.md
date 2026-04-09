@@ -2,6 +2,12 @@
 title: Bloggers and Fleet Street
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - iraq
+  - special-relationships
+  - uk
+  - usa
 permalink: /2005/06/13/bloggers-and-fleet-street/
 views:
   - 23
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Iraq
-  - Special Relationships
-  - UK
-  - USA
 ---
 **Juan Cole** &mdash; who is, we learned this week, the favourite blogger of both **[Seymour Hersh][1]** and [**John Simpson**][2] &mdash; looks at the [role of American bloggers][3] in ensuring that the U.S. media picked upthe *Sunday Times&rsquo;*</a> reporting on the so-called Downing Street Memo:
 

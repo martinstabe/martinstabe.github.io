@@ -2,6 +2,8 @@
 title: 'Nobody is watching you: Why &#8220;privacy&#8221; talk obscures the real issues'
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2005/06/17/nobody-is-watching-you-why-privacy-talk-obscures-the-real-issues/
 views:
   - 64
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 **Jeff Jarvis** [wants blogs to use more cookies][1] to keep track of readers and anticipates a reaction from techies wont to mount a &ldquo;privacy&rdquo; challenge:
 

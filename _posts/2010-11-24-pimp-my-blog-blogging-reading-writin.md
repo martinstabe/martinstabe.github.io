@@ -2,12 +2,12 @@
 title: '#pimpmyblog: Blogging is about reading, not just writing'
 author: Martin Stabe
 layout: post
-permalink: /2010/11/24/pimp-my-blog-blogging-reading-writin/
-categories:
+tags:
   - blogging
   - delicious
-  - Journalism
-  - RSS
+  - journalism
+  - rss
+permalink: /2010/11/24/pimp-my-blog-blogging-reading-writin/
 ---
 Jon Jacob of Thoroughly Good has a great summary of last night&#8217;s [&#8220;Pimp My Blog&#8221; discussion at City University][1], where I was on a panel that also included Tim Glanfield of [Beehivecity][2], [Karl Schneider][3] of RBI and [Patrick Smith][4] of TheMediaBriefing.
 

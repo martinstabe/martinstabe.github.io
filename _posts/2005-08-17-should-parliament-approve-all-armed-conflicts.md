@@ -2,6 +2,8 @@
 title: 'Should Parliament approve all &#8220;armed conflicts&#8221;?'
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/08/17/should-parliament-approve-all-armed-conflicts/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 With the [Lords looking at the war-making powers of the prime minister][1] under the Royal Perogative, a similar issue is arising in the commons.
 

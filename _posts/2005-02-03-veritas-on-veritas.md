@@ -2,6 +2,8 @@
 title: Veritas on Veritas
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/02/03/veritas-on-veritas/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 **Robert Kilroy-Silk** MEP is back. As long expected, the permatanned one yesterday [launched his own political party][1], Veritas. **Nick Barlow** has [details][2].
 

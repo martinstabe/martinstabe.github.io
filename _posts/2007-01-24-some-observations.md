@@ -2,6 +2,10 @@
 title: Some observations
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - newspapers
+  - online
 permalink: /2007/01/24/some-observations/
 views:
   - 82
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Newspapers
-  - Online
 ---
 Some completley unrelated observations:
 

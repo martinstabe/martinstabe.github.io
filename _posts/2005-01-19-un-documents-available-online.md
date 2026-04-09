@@ -2,6 +2,8 @@
 title: UN documents available online
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/01/19/un-documents-available-online/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 [Since 31 December][1], the general public has had access to the United Nations&rsquo; [Official Documents System][2] (ODS), a full-text digital record of official UN documents dating back to 1993. A [research guide to the archive][3] is also available.
 

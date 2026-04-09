@@ -2,21 +2,21 @@
 title: 'Kindle and iPhone: Competing models for the future of mobile news'
 author: Martin Stabe
 layout: post
+tags:
+  - e-paper
+  - epaper
+  - iphone
+  - ipod
+  - itunes
+  - journalism
+  - kindle
+  - mobile-phones
+  - newspapers
 permalink: /2009/02/28/kindle-iphone-competing-mobile-news-models/
 btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - E-paper
-  - epaper
-  - iphone
-  - ipod
-  - itunes
-  - Journalism
-  - kindle
-  - Mobile Phones
-  - Newspapers
 ---
 The iPhone and Kindle have made the long-mythical portable electronic newspaper device a reality for a significant number of mainstream consumers.
 

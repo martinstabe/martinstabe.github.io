@@ -2,6 +2,8 @@
 title: New Joint Intelligence Committee chairman named
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/09/28/new-joint-intelligence-committee-chairman-named/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 The [new head of the Joint Intelligence Committee][1] and Security and Intelligence Coordinator in the Cabinet Office is [Sir **Richard Mottram**][2].
 

@@ -2,6 +2,8 @@
 title: 'Ironic, don&rsquo;t you think?'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/06/05/ironic-dont-you-think/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 [Wokette notes][1] this item from the *WaPo* [gossip column][2]:  
 

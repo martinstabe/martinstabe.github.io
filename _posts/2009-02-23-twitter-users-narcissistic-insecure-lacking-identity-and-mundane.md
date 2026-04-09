@@ -2,14 +2,14 @@
 title: 'Twitter users: narcissistic, insecure, lacking identity and mundane'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - twitter
 permalink: /2009/02/23/twitter-users-narcissistic-insecure-lacking-identity-and-mundane/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Twitter
 ---
 The Sunday Times caused a (calculated?) [stir][1] on Twitter yesterday when it published a article article suggested that users were [narcissistic, insecure, lacking identity and peddling the mundane][2].
 

@@ -2,6 +2,11 @@
 title: FOIA for citizen journalists
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - freedom-of-information
+  - journalism
+  - usa
 permalink: /2004/11/21/foia-for-citizen-hacks/
 BX_post_type:
   - mini
@@ -11,11 +16,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Freedom of Information
-  - Journalism
-  - USA
 ---
 The record $1.2 million fine against the Fox television network for its &ldquo;sexually suggestive&rdquo; programme *Married by America* was brought about by a mere three people who actually composed letters of complaint. The FCC had claimed that it had recieved 159 complaints about the programme. But according to documents disclosed to blogger **Jeff Jarvis**under the Freedom of Information Act, [just three people made these complaints][1].
 

@@ -2,6 +2,8 @@
 title: Learning from bloggers
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/12/21/learning-from-bloggers/
 views:
   - 39
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Poyter Institute&rsquo; **Steve Outing** says there are [a few things journalists can learn from bloggers][1].
 

@@ -2,6 +2,8 @@
 title: Why the British right is lost
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/07/29/why-the-british-right-is-lost/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 *Third Avenue* has an excellent post on [why Republicans dominate American politics, but the Tories are lost the wilderness here][1]. Basically, he says, it&rsquo;s down to a different attitude to &ldquo;golden age&rdquo; rhetoric:
 

@@ -2,6 +2,8 @@
 title: UK election explained for Americans
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/04/19/uk-election-explained-for-americans/
 views:
   - 35
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 *MyDD* has been one of the best American blogs in terms of its coverage of the UK election. Today they have an [essential post][1] for any American readers wishing to understand the current UL election:
 

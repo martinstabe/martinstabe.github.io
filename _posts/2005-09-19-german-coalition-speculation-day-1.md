@@ -2,6 +2,8 @@
 title: German coalition speculation, day 1
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/19/german-coalition-speculation-day-1/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 **CORRECTED**
 

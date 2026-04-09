@@ -2,6 +2,8 @@
 title: Galloway provides culture shock
 author: Martin Stabe
 layout: post
+tags:
+  - special-relationships
 permalink: /2005/05/18/galloway-provides-culture-shock/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Special Relationships
 ---
 The most interesting thing about [**George Galloway**&rsquo;s performance][1] in the [Senate Permanent Subcommittee on Investigations][2] yesterday was the way it highlighted the major differences in style between Westminster and Washington.
 

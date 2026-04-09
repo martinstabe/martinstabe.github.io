@@ -2,6 +2,11 @@
 title: Who fights?
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
+  - military
+  - miscellanea
+  - sociology
 permalink: /2003/03/13/who-fights/
 views:
   - 34
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
-  - Military
-  - Miscellanea
-  - Sociology
 ---
 On [NPR&#8217;s &#8220;Talk of the Nation&#8221;][1], Northwestern University military sociologist **Charles Moskos** described the composition of the U.S. forces:  
 

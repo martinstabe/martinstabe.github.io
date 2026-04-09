@@ -2,6 +2,9 @@
 title: Is blogging a valid form of journalism?
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
 permalink: /2006/12/08/is-blogging-a-valid-form-of-journalism/
 views:
   - 261
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
 ---
 A journalism student has sent an e-mail to several people asking whether &#8220;blogging is a valid form of journalism&#8221;. Robin Hamman of the BBC blogs project offered [a great response][1]:
 

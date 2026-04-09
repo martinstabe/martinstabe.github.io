@@ -2,6 +2,8 @@
 title: Protect bloggers today
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/22/protect-bloggers-today/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 [<img alt="ctpb2.gif" src="http://www.martinstabe.com/blog/ctpb2/ctpb2.gif" width="468" height="60" />  
 ][1]

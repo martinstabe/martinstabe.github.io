@@ -2,6 +2,8 @@
 title: 'Feeding the hungry: the video game'
 author: Martin Stabe
 layout: post
+tags:
+  - notebook
 permalink: /2005/04/18/feeding-the-hungry-the-video-game/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Notebook
 ---
 Not sure what to make of this yet: the UN World Food Programme has [released a video game][1] called *[Food Force][2]:*
 

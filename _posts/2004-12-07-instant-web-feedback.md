@@ -2,6 +2,8 @@
 title: Instant web feedback
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2004/12/07/instant-web-feedback/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 A newspaper in Chile, *Las Ultimas Noticias* is experimenting with [instant feedback][1] from its website to determine the content of the next day&rsquo;s newspaper. [[ADDED 8.1.2006][2]]
 

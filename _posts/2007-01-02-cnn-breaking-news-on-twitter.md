@@ -2,6 +2,14 @@
 title: CNN breaking news mashup on Twitter
 author: Martin Stabe
 layout: post
+tags:
+  - cnn
+  - mashups
+  - miscellanea
+  - mobile-phones
+  - online
+  - sms
+  - twitter
 permalink: /2007/01/02/cnn-breaking-news-on-twitter/
 ratings_users:
   - 0
@@ -15,14 +23,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - CNN
-  - Mashups
-  - Miscellanea
-  - Mobile Phones
-  - Online
-  - SMS
-  - Twitter
 ---
 Josh Bancroft [has noticed][1] that there is a user on Twitter with the username [CNN Breaking News][2].
 

@@ -2,6 +2,8 @@
 title: Bits and pieces at 11:59
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/19/bits-and-pieces-at-1159/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **<a href="http://atrios.blogspot.com/" target="_top">Atrios</a>** has several interesting stories today: 
 

@@ -2,6 +2,17 @@
 title: 'Al-Jazeera won&#8217;t get its memo'
 author: Martin Stabe
 layout: post
+tags:
+  - al-jazeera
+  - freedom-of-information
+  - journalism
+  - military
+  - miscellanea
+  - politics
+  - qatar
+  - special-relationships
+  - uk
+  - usa
 permalink: /2006/01/17/al-jazeera-wont-get-its-memo/
 views:
   - 63
@@ -9,17 +20,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - al-Jazeera
-  - Freedom of Information
-  - Journalism
-  - Military
-  - Miscellanea
-  - Politics
-  - Qatar
-  - Special Relationships
-  - UK
-  - USA
 ---
 Al-Jazeera has [filed a Freedom of Information Act request][1] with the Cabinet Office, asking for a transcript of the 2004 meeting between **George Bush** and **Tony Blair** during which Bush allegedly suggested bombing the station&rsquo;s headquarters in Qatar. 
 

@@ -2,6 +2,8 @@
 title: More dodgy income stats
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/08/more-dodgy-income-stats/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 Following last week&#8217;s [dodgy reporting on income statistics][1], I was inclined to fact-check the [claim][2] in *The Business* that the poorest 10 per cent have seen their income decline under **Gordon Brown**.
 

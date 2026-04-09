@@ -2,6 +2,9 @@
 title: 'Note to journalism schools: give us new heroes'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - journalism-education
 permalink: /2007/01/16/note-to-journalism-schools-give-us-new-heroes/
 views:
   - 348
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Journalism Education
 ---
 **Update: **This post has been sitting in my drafts since I wrote it two nights ago. I wasn&#8217;t quite happy with it, but now that Kevin Anderson has [pre-empted me with almost the same title][1], I&#8217;d better hit &#8220;publish&#8221;.
 

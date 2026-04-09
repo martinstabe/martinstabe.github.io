@@ -2,6 +2,13 @@
 title: 'More essential reading: data and interactivity in online journalism'
 author: Martin Stabe
 layout: post
+tags:
+  - crowdsourcing
+  - data-journalism
+  - essential-reading-for-online-journalism
+  - interactive-graphics
+  - journalism
+  - networked-journalism
 permalink: /2007/08/13/more-essential-reading-data-and-interactivity-in-online-journalism/
 ratings_users:
   - 0
@@ -15,13 +22,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - crowdsourcing
-  - Data Journalism
-  - Essential Reading for Online Journalism
-  - Interactive graphics
-  - Journalism
-  - Networked Journalism
 ---
 A post published last week on the *Newspaper Next* blog is going straight to the [list of essential online journalism blog posts][1].
 

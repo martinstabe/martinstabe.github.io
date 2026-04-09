@@ -2,6 +2,8 @@
 title: An American view on Euroscepticism
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/02/21/an-american-view-on-euroscepticism/
 views:
   - 23
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 Essential reading from **Mark A.R. [Keiman</strong> on Europe][1]:</p> 
 

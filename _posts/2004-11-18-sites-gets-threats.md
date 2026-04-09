@@ -2,6 +2,10 @@
 title: Sites gets threats
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - iraq
+  - journalism
 permalink: /2004/11/18/sites-gets-threats/
 BX_post_type:
   - mini
@@ -11,10 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Iraq
-  - Journalism
 ---
 **Kevin Sites**, the journalist who covered the Marine shooting an wounded Iraqi in Falluja, has had to turn off the comments on [his blog][1] because of death threats. *([New York Times][2]* via Romenesko.) [[ADDED 8.1.2006][3]]
 

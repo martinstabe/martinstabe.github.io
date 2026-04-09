@@ -2,6 +2,8 @@
 title: Unitarian Jihad
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/04/12/unitarian-jihad/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 As a (lapsed &mdash; is that possible?) [Unitarian Universalist][1], the concept of [Unitarian Jihad][2] is utterly hilarious to me &mdash; as is [**Billmon**&rsquo;s reaction][3].
 

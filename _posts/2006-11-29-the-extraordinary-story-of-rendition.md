@@ -2,6 +2,11 @@
 title: The extraordinary story of rendition
 author: Martin Stabe
 layout: post
+tags:
+  - computer-assisted-reporting
+  - extraordinary-rendition
+  - journalism
+  - miscellanea
 permalink: /2006/11/29/the-extraordinary-story-of-rendition/
 views:
   - 104
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Computer Assisted Reporting
-  - Extraordinary Rendition
-  - Journalism
-  - Miscellanea
 ---
 One of the most impressive pieces of investigative journalism in recent years has been the uncovering of the CIA’s post-9/11 programme of extraordinary rendition.
 

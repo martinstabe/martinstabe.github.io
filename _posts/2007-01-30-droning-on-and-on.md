@@ -2,6 +2,10 @@
 title: Droning on and on
 author: Martin Stabe
 layout: post
+tags:
+  - podcasting
+  - san-francisco-chronicle
+  - subediting
 permalink: /2007/01/30/droning-on-and-on/
 views:
   - 64
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - podcasting
-  - San Francisco Chronicle
-  - subediting
 ---
 An irate reader&#8217;s voicemail left with the *San Francisco Chronicle* has become a [bizarre Internet hit][1], proving that the green ink brigade is expanding into new media as rapidly as the journalists they harangue.
 

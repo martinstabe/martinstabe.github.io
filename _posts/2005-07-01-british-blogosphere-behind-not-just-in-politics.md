@@ -2,6 +2,8 @@
 title: British blogosphere behind, not just in politics
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/07/01/british-blogosphere-behind-not-just-in-politics/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 The state of the British blogosphere compared the the apparently more vibrant one across the Atlantic is back on the agenda. On the Observer blog, **Rafael Behr** [muses][1]:
 

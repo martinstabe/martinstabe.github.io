@@ -2,6 +2,9 @@
 title: House of Commons refuses FOI request
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - uk
 permalink: /2005/03/31/house-of-commons-refuses-foi-request/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - UK
 ---
 The House of Commons is refusing to release the [names and salaries of MPs&rsquo; staff][1] following a Freedom of Information Act Request by *Your Right to Know* author **Heather Brooke**.
 

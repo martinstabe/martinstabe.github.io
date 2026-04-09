@@ -2,6 +2,8 @@
 title: German election too close to call
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/18/german-election-too-close-to-call/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 Ooooh. This is getting interesting. 
 

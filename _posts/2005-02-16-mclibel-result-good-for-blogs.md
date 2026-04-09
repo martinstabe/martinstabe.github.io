@@ -2,6 +2,8 @@
 title: McLibel result good for blogs
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/16/mclibel-result-good-for-blogs/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Besides [one *Crooked Timber* post][1], there&rsquo;s surprisingly little excitement in the blogosphere isn&rsquo;t about the European Court of Human Rights&rsquo; judgement in *[Steel and Morris v. United Kingdom.][2]*
 

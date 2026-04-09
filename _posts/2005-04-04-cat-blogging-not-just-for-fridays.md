@@ -2,6 +2,8 @@
 title: 'Cat blogging: not just for Fridays'
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/04/cat-blogging-not-just-for-fridays/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 **Whittington**, the cat belonging to Lib Dem candidate **Susan Kramer**, [apparently has a blog][1]. 
 

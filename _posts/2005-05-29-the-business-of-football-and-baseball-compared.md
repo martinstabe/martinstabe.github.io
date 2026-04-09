@@ -2,6 +2,8 @@
 title: The business of football and baseball compared
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
 permalink: /2005/05/29/the-business-of-football-and-baseball-compared/
 views:
   - 38
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
 ---
 Regular readers will know that one of my more eccentric obsessions is the minority pursuit that is European baseball. (In the coming month, you can be sure that there will be some posts here about the [European Baseball Championship 2005][1], which is going to be held in the Czech Republic in July.)
 

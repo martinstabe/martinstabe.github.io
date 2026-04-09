@@ -2,6 +2,8 @@
 title: Chilling journalism, old and new
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/01/06/chilling-journalism-old-and-new/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 [Apple Computer is suing *Think Secret*][1] to identify an employer who leaked trade secrets to the Apple rumour web site. 
 

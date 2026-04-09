@@ -2,6 +2,8 @@
 title: Nooooooooo!!!
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/12/29/nooooooooo/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Although he&#8217;s ruled out running for President for the Green Party, Ralph Nader [told][1] the BBC&#8217;s *The World Tonight* that he may still run as an independent and that this may be announced in the next few weeks.
 

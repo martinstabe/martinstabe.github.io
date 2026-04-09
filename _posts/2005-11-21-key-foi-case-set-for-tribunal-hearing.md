@@ -2,6 +2,8 @@
 title: Key FOI case set for Tribunal hearing
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/11/21/key-foi-case-set-for-tribunal-hearing/
 views:
   - 25
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 An important test of Britain&rsquo;s 11-month-old Freedom of Information Act will occur next month when [a freelance journalist will appeal a refused FOI request to the Information Tribunal][1].
 

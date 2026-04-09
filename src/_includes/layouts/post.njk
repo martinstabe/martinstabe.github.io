@@ -1,0 +1,22 @@
+---
+layout: layouts/default.njk
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ title }}</h1>
+    <p class="post-meta">{% if date %}{{ date | displayDate }}{% endif %}{% if meta %} • {{ meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content | safe }}
+  </article>
+
+  {% if tags and tags.length > 0 %}
+  <small><strong>Tags:</strong> {% for tag in tags %}<a href="/tags/{{ tag }}/">{{ tag }}</a> {% endfor %}</small>
+  {% endif %}
+
+  <p><small>{{ permalink or page.url }}</small></p>
+
+  <div class="social">{% include "partials/social.njk" %}</div>
+  <div class="disqus">{% include "partials/comments.njk" %}</div>
+</div>

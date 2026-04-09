@@ -1,0 +1,183 @@
+const fs = require("fs");
+const path = require("path");
+const yaml = require("js-yaml");
+const MarkdownIt = require("markdown-it");
+const { decodeHTML } = require("entities");
+const getTagDefinitions = require("./tagDefinitions.js");
+
+const ROOT = path.resolve(__dirname, "..", "..");
+const POSTS_DIR = path.join(ROOT, "_posts");
+
+const markdown = new MarkdownIt({
+  html: true,
+  linkify: true
+});
+
+function parseFrontMatter(fileContents) {
+  const match = fileContents.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
+  if (!match) {
+    return { data: {}, body: fileContents };
+  }
+
+  return {
+    data: yaml.load(match[1]) || {},
+    body: match[2]
+  };
+}
+
+function normalizeArray(value) {
+  if (!value) {
+    return [];
+  }
+
+  return Array.isArray(value) ? value : [value];
+}
+
+function decodeValue(value) {
+  return typeof value === "string" ? decodeHTML(value) : value;
+}
+
+function applySiteVariables(body, site) {
+  return body
+    .replaceAll("{{ site.url }}", site.url)
+    .replaceAll("{{site.url}}", site.url)
+    .replaceAll("{{ site.baseurl }}", site.baseurl)
+    .replaceAll("{{site.baseurl}}", site.baseurl);
+}
+
+function relativeUrl(targetUrl, currentUrl) {
+  if (!targetUrl || /^([a-z]+:)?\/\//i.test(targetUrl) || targetUrl.startsWith("#")) {
+    return targetUrl;
+  }
+
+  const cleanTarget = String(targetUrl);
+  const cleanCurrent = String(currentUrl || "/");
+  const targetPath = cleanTarget.replace(/^\/+/, "");
+  const currentPath = cleanCurrent.replace(/^\/+/, "").replace(/\/+$/, "");
+  const fromPath = currentPath || ".";
+  const relativePath = path.posix.relative(fromPath, targetPath || ".");
+  const normalized = relativePath === "" ? "." : relativePath;
+
+  if (cleanTarget.endsWith("/") && normalized !== "." && !normalized.endsWith("/")) {
+    return `${normalized}/`;
+  }
+
+  if (cleanTarget.endsWith("/") && normalized === ".") {
+    return "./";
+  }
+
+  return normalized;
+}
+
+function relativizeInternalLinks(html, permalink) {
+  return html.replace(/\b(href|src)="\/(?!\/)([^"]*)"/g, (_match, attr, target) => {
+    const relativeTarget = relativeUrl(`/${target}`, permalink);
+    return `${attr}="${relativeTarget}"`;
+  });
+}
+
+function canonicalizeTagLinks(html, byAlias) {
+  return html.replace(/\bhref="\/tags\/([^"/]+)\/"/g, (match, rawTag) => {
+    const definition = byAlias[rawTag];
+    if (!definition) {
+      return match;
+    }
+
+    return `href="${definition.permalink}"`;
+  });
+}
+
+function absolutizeInternalLinks(html, site) {
+  return html.replace(/\b(href|src)="\/(?!\/)([^"]*)"/g, (_match, attr, target) => {
+    return `${attr}="${site.url}/${target}"`;
+  });
+}
+
+function stripHtml(value) {
+  return decodeHTML(
+    value
+      .replace(/<script[\s\S]*?<\/script>/gi, " ")
+      .replace(/<style[\s\S]*?<\/style>/gi, " ")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
+}
+
+function renderBody(body, site, permalink, byAlias) {
+  const bodyWithVariables = applySiteVariables(body, site);
+  const isDeliciousPost = bodyWithVariables.trimStart().startsWith('<ul class="delicious">');
+  const rendered = isDeliciousPost ? bodyWithVariables : markdown.render(bodyWithVariables);
+  const canonicalized = canonicalizeTagLinks(rendered, byAlias);
+  return relativizeInternalLinks(canonicalized, permalink);
+}
+
+module.exports = function () {
+  const site = require("./site.json");
+  const { byAlias } = getTagDefinitions();
+  const entries = fs
+    .readdirSync(POSTS_DIR)
+    .filter((file) => file.endsWith(".md"))
+    .sort();
+
+  const posts = entries.map((fileName) => {
+    const filePath = path.join(POSTS_DIR, fileName);
+    const raw = fs.readFileSync(filePath, "utf8");
+    const { data, body } = parseFrontMatter(raw);
+    const fileDate = fileName.slice(0, 10);
+    const date = data.date || fileDate;
+    const permalink = data.permalink || `/${fileDate.replaceAll("-", "/")}/`;
+    const tags = normalizeArray(data.tags).filter(Boolean);
+    const canonicalTags = [];
+    const canonicalPermalinks = new Set();
+    const content = renderBody(body, site, permalink, byAlias);
+    const absoluteContent = absolutizeInternalLinks(content, site);
+    const excerptText = stripHtml(content);
+
+    for (const rawTag of tags) {
+      const definition = byAlias[rawTag] || {
+        tag: rawTag,
+        title: `Tag: ${rawTag}`,
+        displayTitle: rawTag,
+        heading: `Tag: ${rawTag}`,
+        permalink: `/tags/${rawTag}/`,
+        slug: `tags/${rawTag}`,
+        aliases: [rawTag]
+      };
+
+      if (canonicalPermalinks.has(definition.permalink)) {
+        continue;
+      }
+
+      canonicalPermalinks.add(definition.permalink);
+      canonicalTags.push({
+        rawTag,
+        tag: definition.tag,
+        title: definition.title,
+        displayTitle: definition.displayTitle,
+        heading: definition.heading,
+        permalink: definition.permalink,
+        slug: definition.slug
+      });
+    }
+
+    return {
+      ...data,
+      title: decodeValue(data.title),
+      author: decodeValue(data.author),
+      meta: decodeValue(data.meta),
+      date,
+      tags,
+      canonicalTags,
+      permalink,
+      fileName,
+      sourcePath: filePath,
+      body,
+      content,
+      absoluteContent,
+      excerpt: excerptText
+    };
+  });
+
+  return posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+};

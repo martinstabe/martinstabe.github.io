@@ -2,6 +2,10 @@
 title: 'Bloggers&rsquos; sparce achievements'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - politics
+  - usa
 permalink: /2005/02/13/bloggers-achievements-are-sparce/
 BX_post_type:
   - mini
@@ -11,10 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Politics
-  - USA
 ---
 **Kevin Drum** looks at the celebrated success stories of the blog era &mdash; **Dan Rather** and *60 Minutes;* **Eason Jordan**, **Trent Lott**, **Ward Churchill**, **Jeff Gannon** mdash; and [comes to a depressing, but accurate, conclusion][1]:
 

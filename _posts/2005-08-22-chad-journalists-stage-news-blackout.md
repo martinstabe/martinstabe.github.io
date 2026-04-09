@@ -2,6 +2,8 @@
 title: Chad journalists stage news blackout
 author: Martin Stabe
 layout: post
+tags:
+  - africa
 permalink: /2005/08/22/chad-journalists-stage-news-blackout/
 views:
   - 48
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Africa
 ---
 Journalists in Chad have begun a [one-week news blackout][1] to protest the [jailing of four independent reporters][2] by the government of President **Idriss Deby**.
 

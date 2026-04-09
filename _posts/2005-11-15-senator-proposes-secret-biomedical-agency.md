@@ -2,6 +2,8 @@
 title: Senator proposes secret biomedical agency
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/11/15/senator-proposes-secret-biomedical-agency/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 North Carolina Senator **Richard Barr** wants to create a new agency for combatting infectious diseases &mdash; and make it more secretive than the CIA.
 

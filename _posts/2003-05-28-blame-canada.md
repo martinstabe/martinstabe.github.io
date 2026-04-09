@@ -2,6 +2,8 @@
 title: Blame Canada
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/28/blame-canada/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Never mind <a href="http://www.nytimes.com/2003/05/28/international/americas/28CANA.html" target="_top">the marijuana thing</a>. I wonder if the right wing of the American media will ever wake up the fact that Canada has clearly joined France, Germany, Russia and Belgium in the &#8220;Axis of Weasel&#8221; in many other ways. <a href="http://www.cbc.ca/stories/2003/05/27/chretien_athens030527" target="_top">According to the CBC</a>,  
 

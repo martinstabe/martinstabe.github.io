@@ -2,6 +2,8 @@
 title: Shoveling the wrong way?
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/01/25/shoveling-the-wrong-way/
 BX_post_type:
   - mini
@@ -11,8 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Tim Porter has [six suggestions for rebuilding journalism][1]. Here&rsquo;s one:
 

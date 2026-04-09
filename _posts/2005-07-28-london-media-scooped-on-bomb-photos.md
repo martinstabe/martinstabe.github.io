@@ -2,6 +2,12 @@
 title: London media scooped on bomb photos
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - london
+  - special-relationships
+  - uk
+  - usa
 permalink: /2005/07/28/london-media-scooped-on-bomb-photos/
 views:
   - 26
@@ -9,12 +15,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - London
-  - Special Relationships
-  - UK
-  - USA
 ---
 <a href="http://www.martinstabe.com/blog/nailbomb/Nailbomb.php" onclick="window.open('http://www.martinstabe.com/blog/nailbomb/Nailbomb.php','popup','width=300,height=411,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.martinstabe.com/blog/nailbomb/Nailbomb-thumb.jpg" width="150" height="205" border="0" vspace="6" hspace="6" align="left" /></a>Was the grainy, black-and-white x-ray photograph of a nail bomb that was splashed across the national papers&rsquo; front pages today a blow to the so-called &ldquo;special relationship&rdquo;?
 

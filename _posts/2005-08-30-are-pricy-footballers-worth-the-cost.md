@@ -2,6 +2,10 @@
 title: Are pricy footballers worth the cost?
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - football
+  - sport
 permalink: /2005/08/30/are-pricy-footballers-worth-the-cost/
 views:
   - 987
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - Football
-  - Sport
 ---
 The *FT* today has a story about research by a Cass Business School professor who questions [the high cost of footballers&rsquo; transfer fees makes financial sense][1] to Premiership clubs.
 

@@ -2,6 +2,8 @@
 title: Global impact of EU regulations
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2004/12/12/global-impact-of-eu-regulations/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *The Nation* has a [long article][1] by **Mark Schapiro** about a topic I&#8217;ve been [keeping an eye on][2]: the impact of the EU&#8217;s growing regulatory power on global businesses and the growing divergence of thought on regulation between the EU and the US. 
 

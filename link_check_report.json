@@ -1,0 +1,7724 @@
+[
+  {
+    "url": "http://www.ft.com/interactive",
+    "status": 200,
+    "final_url": "https://www.ft.com/visual-and-data-journalism",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2010-10-15-moving-on-new-job-ft.md",
+        "line": 20
+      },
+      {
+        "file": "about/index.html",
+        "line": 10
+      },
+      {
+        "file": "slides/index.html",
+        "line": 47
+      },
+      {
+        "file": "slides/index.html",
+        "line": 248
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 52
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 52
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 47
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 305
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 51
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 368
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 52
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 45
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 464
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 51
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 60
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 59
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 290
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 51
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 68
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 44
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 344
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 53
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 52
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 45
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 325
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 51
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 51
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 52
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 47
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 248
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 52
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 365
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 52
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 366
+      }
+    ],
+    "count": 38
+  },
+  {
+    "url": "http://martinstabe.com/blog/?p=1348",
+    "status": 200,
+    "final_url": "http://www.martinstabe.com/blog/?p=1348",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-01-14-welcome-cifamil-readers.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2005-01-31-the-european-flag-carriers.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2004-12-20-new-media-timeline.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2004-11-22-a-brit-listens-to-american-talk-radio.md",
+        "line": 27
+      },
+      {
+        "file": "_posts/2004-11-20-lobbying-in-the-eu.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2004-12-07-instant-web-feedback.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2005-03-09-blogs-and-libel.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2004-11-18-sites-gets-threats.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-02-13-bloggers-achievements-are-sparce.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2004-09-24-the-crack-baby-myth.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2005-01-07-foia-for-nerd-hacks.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2005-12-15-councils-must-disclose-hygiene-reports.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-02-08-uk-treasury-discloses-eu-costs.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-12-04-global-and-national-elites.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2004-11-07-do-something.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2004-12-07-methological-nationalism.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2004-11-23-oh-goody.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2005-06-03-mainly-media-in-scotlan.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2005-09-13-1061.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-02-19-china-getting-ready-to-play-ball.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-01-19-un-documents-available-online.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2005-12-09-more-freedom-of-information-disclosure-rss-feeds.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2004-05-14-read-redacted-documents.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2004-11-15-hersh-has-blair-documents.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2005-01-15-academics-use-foia.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2005-03-31-house-of-commons-refuses-foi-request.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2004-11-12-turkey.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2005-09-26-the-race-for-africas-oil.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2004-11-07-credit-card-surviellance.md",
+        "line": 27
+      },
+      {
+        "file": "_posts/2004-11-04-foreign-policy-on-blogging.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2005-01-25-shoveling-the-wrong-way.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2004-12-01-regressive-taxation.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2004-11-20-mag-stories.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2005-11-19-leaked-cia-budget-figure-may-be-wrong.md",
+        "line": 22
+      }
+    ],
+    "count": 34
+  },
+  {
+    "url": "http://www.twitter.com/martinstabe",
+    "status": 520,
+    "final_url": "http://www.twitter.com/martinstabe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-08-30-new-job-emap-retail-week.md",
+        "line": 25
+      },
+      {
+        "file": "slides/index.html",
+        "line": 50
+      },
+      {
+        "file": "slides/index.html",
+        "line": 251
+      },
+      {
+        "file": "links/index.md",
+        "line": 6
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 50
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 308
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 49
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 371
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 48
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 467
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 68
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 58
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 293
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 68
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 45
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 347
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 70
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 48
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 328
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 68
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 68
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 50
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 251
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 55
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 368
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 55
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 369
+      }
+    ],
+    "count": 31
+  },
+  {
+    "url": "https://github.com/hakimel/reveal.js#configuration",
+    "status": 200,
+    "final_url": "https://github.com/hakimel/reveal.js#configuration",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 268
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 445
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 345
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 325
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 388
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 326
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 484
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 418
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 276
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 310
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 314
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 364
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 216
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 331
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 345
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 203
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 203
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 348
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 268
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 385
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 386
+      }
+    ],
+    "count": 21
+  },
+  {
+    "url": "http://seeyalaterallidata.wordpress.com/2013/03/07/data-journalism-at-the-bbc-interview-with-bella-hurrell/",
+    "status": 200,
+    "final_url": "https://seeyalaterallidata.wordpress.com/2013/03/07/data-journalism-at-the-bbc-interview-with-bella-hurrell/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 176
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 120
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 127
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 141
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 195
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 120
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 127
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 300
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 366
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 378
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 179
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 108
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 125
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 194
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 206
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 171
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 219
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 150
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 106
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 107
+      }
+    ],
+    "count": 20
+  },
+  {
+    "url": "http://elections.ft.com/uk/2015/results",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 162
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 183
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 184
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 101
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 102
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 101
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 102
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 344
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 345
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 360
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 361
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 188
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 189
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 118
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 119
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 117
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 117
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 157
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 158
+      }
+    ],
+    "count": 19
+  },
+  {
+    "url": "http://ig.ft.com/austerity-map/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/austerity-map/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 129
+      },
+      {
+        "file": "slides/index.html",
+        "line": 130
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 170
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 157
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 246
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 201
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 202
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 317
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 282
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 215
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 156
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 177
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 193
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 235
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 138
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 129
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 130
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 122
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 123
+      }
+    ],
+    "count": 19
+  },
+  {
+    "url": "http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf",
+    "status": 200,
+    "final_url": "http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 171
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 158
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 247
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 318
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 225
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 262
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 216
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 157
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 120
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 157
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 194
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 103
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 236
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 101
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 101
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 139
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 123
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 124
+      }
+    ],
+    "count": 18
+  },
+  {
+    "url": "http://knightlab.northwestern.edu/2013/06/28/want-to-build-a-data-journalism-team-youll-need-these-three-people/",
+    "status": 404,
+    "final_url": "http://knightlab.northwestern.edu/2013/06/28/want-to-build-a-data-journalism-team-youll-need-these-three-people/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 178
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 83
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 83
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 62
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 62
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 83
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 84
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 154
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 72
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 69
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 79
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 63
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 70
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 178
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 68
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 68
+      }
+    ],
+    "count": 16
+  },
+  {
+    "url": "http://www.ft.com/ig/features/baseline/greatest-tennis-players-of-all-time/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/features/baseline/greatest-tennis-players-of-all-time/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 144
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 145
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 298
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 316
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 279
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 297
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 275
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 276
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 162
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 163
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 267
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 285
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 186
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 187
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 131
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 132
+      }
+    ],
+    "count": 16
+  },
+  {
+    "url": "http://s.opencalais.com/1/type/em/e/IndustryTerm",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 33
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 37
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 38
+      }
+    ],
+    "count": 15
+  },
+  {
+    "url": "http://www.ft.com/firemap",
+    "status": 404,
+    "final_url": "https://www.ft.com/firemap",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 177
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 121
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 162
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 222
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 228
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 121
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 330
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 367
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 191
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 197
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 138
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 195
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 199
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 240
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 151
+      }
+    ],
+    "count": 15
+  },
+  {
+    "url": "http://www.ft.com/firemap/",
+    "status": 404,
+    "final_url": "https://www.ft.com/firemap",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 178
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 122
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 163
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 223
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 229
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 122
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 331
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 368
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 192
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 198
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 139
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 196
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 200
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 241
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 152
+      }
+    ],
+    "count": 15
+  },
+  {
+    "url": "http://www.ft.com/cms/s/2/8ae5045c-4159-11e3-b064-00144feabdc0.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 189
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 190
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 265
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 266
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 345
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 346
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 235
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 236
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 175
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 176
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 267
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 268
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 87
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 88
+      }
+    ],
+    "count": 14
+  },
+  {
+    "url": "http://www.ft.com/cms/s/2/ad4ef6a4-503d-11e3-befe-00144feabdc0.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 179
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 180
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 234
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 235
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 335
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 336
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 203
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 204
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 144
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 145
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 216
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 217
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 257
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 258
+      }
+    ],
+    "count": 14
+  },
+  {
+    "url": "http://ig.ft.com/sites/2015/the-fastest-men-in-the-world/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2015/the-fastest-men-in-the-world/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 113
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 296
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 297
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 312
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 113
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 277
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 278
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 293
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 373
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 201
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 265
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 266
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 281
+      }
+    ],
+    "count": 13
+  },
+  {
+    "url": "http://www.ft.com/ig/sites/2013/seasonal-appeal/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2013/seasonal-appeal/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 158
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 107
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 108
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 68
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 69
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 107
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 108
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 257
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 258
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 92
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 93
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 158
+      }
+    ],
+    "count": 12
+  },
+  {
+    "url": "http://www.propublica.org/nerds/item/knight-foundation-makes-grant-to-support-propublicas-news-applications-desk",
+    "status": 200,
+    "final_url": "https://www.propublica.org/nerds/knight-foundation-makes-grant-to-support-propublicas-news-applications-desk",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 124
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 91
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 121
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 176
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 157
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 88
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 150
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 200
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 94
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 124
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 87
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 87
+      }
+    ],
+    "count": 12
+  },
+  {
+    "url": "http://projects.propublica.org/schools/",
+    "status": 200,
+    "final_url": "https://projects.propublica.org/schools/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_data/links.yml",
+        "line": 38107
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 143
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 197
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 302
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 181
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 110
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 127
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 173
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 221
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 108
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 109
+      }
+    ],
+    "count": 11
+  },
+  {
+    "url": "http://www.ft.com/ig/business-book-award",
+    "status": 403,
+    "final_url": "https://ig.ft.com/business-book-award/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 304
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 305
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 306
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 234
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 235
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 240
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 241
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 255
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 256
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 257
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 258
+      }
+    ],
+    "count": 11
+  },
+  {
+    "url": "http://blogs.ft.com/ftdata/2013/07/24/georgian-life/",
+    "status": 404,
+    "final_url": "https://blogs.ft.com/ftdata/2013/07/24/georgian-life/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 184
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 185
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 260
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 341
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 230
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 170
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 222
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 223
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 262
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 263
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://graphics.latimes.com/la-mayoral-maps/#11/34.0746/-118.4446",
+    "status": 200,
+    "final_url": "https://notices.californiatimes.com/gdpr/latimes.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 154
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 160
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 165
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 273
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 217
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 223
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 229
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 218
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 224
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 230
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://image.webservices.ft.com/v1/images/raw/fticon:brand-ft-masthead?width=600&format=png&source=ig-presentation-template",
+    "status": 400,
+    "final_url": "https://images.ft.com/v3/image/raw/fticon:brand-ft-masthead?width=600&format=png&source=ig-presentation-template&redirect-from-v2=true",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 66
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 66
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 66
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 62
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 62
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 64
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 66
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 62
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 62
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 63
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://journalistsresource.org/skills/research/research-chat-steve-doig-data-journalism-social-science-deadline#sthash.hkbgkTHI.dpuf",
+    "status": 200,
+    "final_url": "https://journalistsresource.org/home/research-chat-steve-doig-data-journalism-social-science-deadline/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 72
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 252
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 203
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 89
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 212
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 189
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 122
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 99
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 140
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 72
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://s.opencalais.com/1/type/em/e/Company",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 38
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://www.ft.com",
+    "status": 200,
+    "final_url": "https://www.ft.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 48
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 48
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 48
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 47
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 47
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 49
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 48
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 47
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 47
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 48
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/02/british_blogs_a.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/02/british_blogs_a.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-11-18-british-blogs-get-some-attention.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2005-11-15-americas-bizarre-newspaper-business.md",
+        "line": 27
+      },
+      {
+        "file": "_posts/2005-04-12-british-blogs-irrelevant-to-the-election.md",
+        "line": 45
+      },
+      {
+        "file": "_posts/2005-07-23-sassygate-brit-blogs-claim-first-msm-scalp.md",
+        "line": 67
+      },
+      {
+        "file": "_posts/2005-03-05-blogosphere-reality-check.md",
+        "line": 43
+      },
+      {
+        "file": "_posts/2005-02-20-british-blogosphere-part-ii.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2005-06-06-heh-indeed.md",
+        "line": 43
+      },
+      {
+        "file": "_posts/2005-10-11-a-waste-of-time-reconsidered.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2005-04-07-blogospheric-intercourse-in-the-ft.md",
+        "line": 58
+      },
+      {
+        "file": "_posts/2005-04-27-british-blogs-mass-medium-or-elite-opinion-leading.md",
+        "line": 34
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://www.thefunctionalart.com/2014/03/infographics-to-reveal-visualizations.html",
+    "status": 404,
+    "final_url": "http://www.thefunctionalart.com/2014/03/infographics-to-reveal-visualizations.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 132
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 193
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 291
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 177
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 99
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 123
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 165
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 210
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 97
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 98
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "https://github.com/propublica/guides/blob/master/design-structure.md",
+    "status": 200,
+    "final_url": "https://github.com/propublica/guides/blob/master/design-structure.md",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 137
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 194
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 296
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 178
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 104
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 124
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 167
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 215
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 102
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 103
+      }
+    ],
+    "count": 10
+  },
+  {
+    "url": "http://build.origami.ft.com/bundles/css?modules=o-fonts@^1.6.7,o-typography@^1.16.2,o-grid@^3.1.3,o-header@^3.0.3,o-footer@^3.0.1",
+    "status": 410,
+    "final_url": "https://www.ft.com/__origami/service/build/bundles/css?modules=o-fonts@^1.6.7,o-typography@^1.16.2,o-grid@^3.1.3,o-header@^3.0.3,o-footer@^3.0.1",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 28
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 28
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 27
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 27
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 29
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 27
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 27
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 28
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://build.origami.ft.com/bundles/js?modules=o-fonts@^1.6.7,o-typography@^1.16.2,o-grid@^3.1.3,o-header@^3.0.3,o-footer@^3.0.1",
+    "status": 410,
+    "final_url": "https://www.ft.com/__origami/service/build/bundles/js?modules=o-fonts@^1.6.7,o-typography@^1.16.2,o-grid@^3.1.3,o-header@^3.0.3,o-footer@^3.0.1",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 29
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 29
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 28
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 28
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 30
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 28
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 28
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 29
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://elections.nytimes.com/2012/results/president/scenarios",
+    "status": 200,
+    "final_url": "https://www.nytimes.com/elections/2012/results/president/scenarios.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 299
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 300
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 339
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 340
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 300
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 301
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 340
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 341
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://www.ft.com/cms/s/0/6ab558d2-e292-11e3-a829-00144feabdc0.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 157
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 141
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 141
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 324
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 355
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 183
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 220
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 145
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://www.ft.com/cms/s/2/927ca86e-d29b-11e2-88ed-00144feab7de.html",
+    "status": 200,
+    "final_url": "https://ig.ft.com/how-much-is-your-personal-data-worth/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 190
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 195
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 272
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 355
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 242
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 182
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 273
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 164
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://www.ft.com/ig/features/uk-election-results-explained-animation/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/features/uk-election-results-explained-animation/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 150
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 151
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 134
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 135
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 134
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 135
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 213
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 214
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://www.ft.com/ig/sites/2015/bbc/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2015/bbc/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 128
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 129
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 128
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 129
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 379
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 380
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 207
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 208
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://www.washingtonpost.com/wp-srv/special/business/jobs-report/",
+    "status": null,
+    "final_url": null,
+    "error": "TimeoutError: timed out",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 218
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 319
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 280
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 343
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 437
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 320
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 300
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 218
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vMoDpUBjEOU&feature=youtu.be&t=1m54s",
+    "status": 200,
+    "final_url": "https://www.youtube.com/watch?v=vMoDpUBjEOU&feature=youtu.be&t=1m54s",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 400
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 401
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 198
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 199
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 185
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 186
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 185
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 186
+      }
+    ],
+    "count": 8
+  },
+  {
+    "url": "http://www.bbc.co.uk/blogs/legacy/theeditors/2013/04/the_great_british_class_calcul.html",
+    "status": 404,
+    "final_url": "https://www.bbc.co.uk/blogs/legacy/theeditors/2013/04/the_great_british_class_calcul.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 173
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 176
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 159
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 162
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 177
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 228
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 231
+      }
+    ],
+    "count": 7
+  },
+  {
+    "url": "http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html",
+    "status": 200,
+    "final_url": "https://slate.com/technology/2014/03/quakebot-los-angeles-times-robot-journalist-writes-article-on-la-earthquake.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 224
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 287
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 350
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 449
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 326
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 307
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 224
+      }
+    ],
+    "count": 7
+  },
+  {
+    "url": "https://twitter.com/BennySp/status/419211311289888768/photo/1",
+    "status": 200,
+    "final_url": "https://x.com/BennySp/status/419211311289888768/photo/1",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 224
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 287
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 350
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 449
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 326
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 307
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 224
+      }
+    ],
+    "count": 7
+  },
+  {
+    "url": "http://hakim.se",
+    "status": 200,
+    "final_url": "https://hakim.se/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/css/theme/source/ft.scss",
+        "line": 4
+      },
+      {
+        "file": "slides/css/theme/source/sky.scss",
+        "line": 4
+      },
+      {
+        "file": "slides/css/theme/source/default.scss",
+        "line": 4
+      },
+      {
+        "file": "slides/css/theme/source/beige.scss",
+        "line": 4
+      },
+      {
+        "file": "slides/css/theme/source/simple.scss",
+        "line": 6
+      },
+      {
+        "file": "slides/css/theme/source/night.scss",
+        "line": 4
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "http://www.ericson.net/content/2010/11/first-nyt-election-map/",
+    "status": 200,
+    "final_url": "http://www.ericson.net/content/2010/11/first-nyt-election-map/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_data/links.yml",
+        "line": 35173
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 111
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 123
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 231
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 162
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 163
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "http://www.ft.com/cms/s/2/1392ab72-64e2-11e4-ab2d-00144feabdc0.html",
+    "status": 200,
+    "final_url": "https://ig.ft.com/worlds-fastest-lifts/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 295
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 308
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 276
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 289
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 264
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 277
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "http://www.ft.com/ig/features/2014-04-23_eu-results-2014/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/features/2014-04-23_eu-results-2014/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 156
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 140
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 140
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 323
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 219
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 144
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html",
+    "status": 200,
+    "final_url": "https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 205
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 182
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 168
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 184
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 237
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 178
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "http://www.pbs.org/mediashift/2013/10/inside-nprs-mobile-first-strategy/",
+    "status": 200,
+    "final_url": "http://mediashift.org/2013/10/inside-nprs-mobile-first-strategy/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 147
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 306
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 177
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 225
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 112
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 113
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",
+    "status": 200,
+    "final_url": "https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/css/theme/source/ft.scss",
+        "line": 28
+      },
+      {
+        "file": "slides/css/theme/source/default.scss",
+        "line": 28
+      },
+      {
+        "file": "slides/css/theme/source/solarized.scss",
+        "line": 27
+      },
+      {
+        "file": "slides/css/theme/source/beige.scss",
+        "line": 28
+      },
+      {
+        "file": "slides/css/theme/source/moon.scss",
+        "line": 27
+      },
+      {
+        "file": "slides/css/theme/source/simple.scss",
+        "line": 19
+      }
+    ],
+    "count": 6
+  },
+  {
+    "url": "http://berlinwahlkarte2013.morgenpost.de/",
+    "status": 503,
+    "final_url": "http://berlinwahlkarte2013.morgenpost.de/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 142
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 153
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 261
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 192
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 193
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://blogs.ft.com/ftdata/2012/06/21/social-mobility-and-o-levels/",
+    "status": 404,
+    "final_url": "https://blogs.ft.com/ftdata/2012/06/21/social-mobility-and-o-levels/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 257
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 94
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 217
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 139
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 104
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/comphash-1/acdd7888-0d3c-33fc-b5bb-c3316dbb3df8",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 38
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/comphash-1/c7172a98-4c8a-31a9-bfd4-ce426c8db3c0",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/genericHasher-1/10a6ba90-14b0-3dc0-80f9-2dcd79df6b64",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/genericHasher-1/5ace423d-e180-322a-8568-06d54e7d7b3b",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/genericHasher-1/7aace1c8-f959-35a3-80a9-af92494c66e1",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 38
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/genericHasher-1/bdf94adb-46a7-3d5e-9cbc-45229fcd5949",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 33
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 37
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/genericHasher-1/cc88b155-205c-3676-a151-d45f473f0b16",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 38
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://d.opencalais.com/pershash-1/d8b361ec-0a17-3bd3-9e63-56d8f71ce66d",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://datos.rtve.es/elecciones/autonomicas-municipales/index.html#mapa/40.616/-3.745/11/2011/ninguna/autonomias/Espa\u00f1a",
+    "status": 503,
+    "final_url": "http://datos.rtve.es/elecciones/autonomicas-municipales/index.html#mapa/40.616/-3.745/11/2011/ninguna/autonomias/Espa\u00f1a",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 136
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 147
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 255
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 186
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 187
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://elections.nytimes.com/2012/results/president?gwh=85A17AB9199949337C03D4224457811F",
+    "status": 200,
+    "final_url": "https://www.nytimes.com/elections/2012/results/president.html?gwh=85A17AB9199949337C03D4224457811F",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 129
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 141
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 249
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 180
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 181
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://martinstabe.github.io/slides/elections/",
+    "status": 200,
+    "final_url": "http://www.martinstabe.com/slides/elections/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 296
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 58
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 371
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 58
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 372
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://nytgraphics.tumblr.com/post/35151610730/bill-clinton-d-defeats-bob-dole-r-page-b5-of",
+    "status": 404,
+    "final_url": "https://nytgraphics.tumblr.com/post/35151610730/bill-clinton-d-defeats-bob-dole-r-page-b5-of",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 117
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 129
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 237
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 168
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 169
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://nytgraphics.tumblr.com/post/35154314439/nov-9-2000-first-use-of-county-data-in-a",
+    "status": 404,
+    "final_url": "https://nytgraphics.tumblr.com/post/35154314439/nov-9-2000-first-use-of-county-data-in-a",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 123
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 135
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 243
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 174
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 175
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://s.opencalais.com/1/type/em/e/Country",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 26
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 38
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://s.opencalais.com/1/type/em/e/Person",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://s.opencalais.com/1/type/em/e/Technology",
+    "status": 200,
+    "final_url": "https://www.thomsonreuters.com/en",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2008-09-22-planning-applications-hyperlocal-news.md",
+        "line": 36
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://thescoop.org/thefix/the-canvas-for-car/",
+    "status": 200,
+    "final_url": "https://thescoop.org/thefix/the-canvas-for-car/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 112
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 167
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 142
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 176
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 81
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://video.ft.com/4224995535001/UK-election-results-explained/World",
+    "status": 200,
+    "final_url": "https://www.ft.com/video/60f6e57d-092b-38a2-a11b-8adb036d6020",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 151
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 135
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 135
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 214
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 221
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "https://twitter.com/RobinKwong/status/631091919611916288",
+    "status": 200,
+    "final_url": "https://x.com/RobinKwong/status/631091919611916288",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 264
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 327
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 251
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 308
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 296
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "https://twitter.com/RobinKwong/status/631092328229433344",
+    "status": 200,
+    "final_url": "https://x.com/RobinKwong/status/631092328229433344",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 264
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 328
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 251
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 309
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 297
+      }
+    ],
+    "count": 5
+  },
+  {
+    "url": "http://api.stlouisfed.org/docs/fred/",
+    "status": null,
+    "final_url": null,
+    "error": "TimeoutError: The read operation timed out",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 170
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 256
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 331
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 170
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://blogs.ft.com/ftdata/2013/12/27/animated-map-your-mobile-operator-knows-where-youve-been/",
+    "status": 404,
+    "final_url": "https://blogs.ft.com/ftdata/2013/12/27/animated-map-your-mobile-operator-knows-where-youve-been/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 85
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 382
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 124
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 85
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://elections.ft.com/uk/2015/projections",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 233
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 234
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 214
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 215
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://elections.huffingtonpost.com/pollster/2014-national-house-race",
+    "status": 404,
+    "final_url": "https://elections.huffingtonpost.com/pollster/2014-national-house-race",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 293
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 294
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 294
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 295
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://ft.cartodb.com/viz/d2b70758-699f-11e3-b9fb-5404a6a69006/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1&sql=&sw_lat=51.48341925792338&sw_lon=-0.2911376953125&ne_lat=51.588107456894005&ne_lon=0.0384521484375",
+    "status": 404,
+    "final_url": "http://ft.carto.com/viz/d2b70758-699f-11e3-b9fb-5404a6a69006/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1&sql=&sw_lat=51.48341925792338&sw_lon=-0.2911376953125&ne_lat=51.588107456894005&ne_lon=0.0384521484375",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 83
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 380
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 123
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 83
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://http://election2012.npr.org/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 326
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 329
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 327
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 330
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://news.bbc.co.uk/1/shared/bsp/hi/elections/euro/09/flash/html/eu.stm",
+    "status": 200,
+    "final_url": "http://news.bbc.co.uk/2/shared/bsp/hi/elections/euro/09/flash/html/eu.stm",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 312
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 313
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 313
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 314
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://powerreporting.com/color/1d.html",
+    "status": 200,
+    "final_url": "https://powerreporting.com/color/1d.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 79
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 133
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 89
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 166
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://vis.uell.net/btw/13/atlas.html",
+    "status": 200,
+    "final_url": "https://wahlatlas.net/btw/13/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 204
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 205
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 205
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 206
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://vorige.nrc.nl/international/article2238466.ece",
+    "status": 200,
+    "final_url": "https://www.nrc.nl/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 246
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 247
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 247
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 248
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/",
+    "status": 404,
+    "final_url": "https://alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 268
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 274
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 288
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 294
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.bbc.co.uk/news/magazine-22000973",
+    "status": 404,
+    "final_url": "https://www.bbc.co.uk/news/magazine-22000973",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 173
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 159
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 168
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 228
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.dr.dk/nyheder/politik/meningsmaalinger?mode=history",
+    "status": 200,
+    "final_url": "https://www.dr.dk/nyheder/politik/meningsmaalinger?mode=history",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 281
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 282
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 282
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 283
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/",
+    "status": 200,
+    "final_url": "http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_data/links.yml",
+        "line": 38727
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 279
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 319
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 320
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.ft.com/ig/features/2013-07-25_georgian_probability/dist/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/features/2013-07-25_georgian_probability/dist/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 259
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 340
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 229
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 169
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.ft.com/ig/sites/2014/deficit-calculator/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2014/deficit-calculator/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 210
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 211
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 227
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 228
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.ft.com/ig/sites/2014/isis-map/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2014/isis-map/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 112
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 112
+      },
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 372
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 200
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.ft.com/ig/sites/scotland-results",
+    "status": 403,
+    "final_url": "https://ig.ft.com/sites/scotland-results/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 103
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 115
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 211
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 223
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.legislation.gov.uk/ukpga/2000/36/contents",
+    "status": 202,
+    "final_url": "https://www.legislation.gov.uk/ukpga/2000/36/contents",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 105
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 183
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 375
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 117
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/03/blogosphere_rea.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/03/blogosphere_rea.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-06-15-the-blogospheres-audience.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-03-13-more-research-on-us-political-blogging.md",
+        "line": 35
+      },
+      {
+        "file": "_posts/2005-10-29-does-low-blog-readership-matter.md",
+        "line": 33
+      },
+      {
+        "file": "_posts/2005-04-27-british-blogs-mass-medium-or-elite-opinion-leading.md",
+        "line": 39
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/07/london_media_sc_1.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/07/london_media_sc_1.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-25-blairs-holiday-and-media-self-censorship.md",
+        "line": 47
+      },
+      {
+        "file": "_posts/2005-08-05-contempt-for-contempt-laws.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2005-08-08-neil-contempt-laws-gag-uk-media.md",
+        "line": 37
+      },
+      {
+        "file": "_posts/2005-08-12-police-gag-call-for-cctv-pictures.md",
+        "line": 27
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.ons.gov.uk/ons/rel/rsi/retail-sales/february-2014/tsd-retail-sales--february-2014.html",
+    "status": 200,
+    "final_url": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsales",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 231
+      },
+      {
+        "file": "slides/ons/index.html",
+        "line": 237
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 312
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 283
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.retail-week.com",
+    "status": 200,
+    "final_url": "https://www.retail-week.com:443/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2010-10-15-moving-on-new-job-ft.md",
+        "line": 19
+      },
+      {
+        "file": "_posts/2008-12-10-writing-for-the-web-what-belongs-in-the-online-style-guide.md",
+        "line": 65
+      },
+      {
+        "file": "_posts/2008-08-30-new-job-emap-retail-week.md",
+        "line": 28
+      },
+      {
+        "file": "about/index.html",
+        "line": 12
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.sueddeutsche.de/kolumne/wahlumfragen-trendmonitor-so-wollen-deutschland-und-hessen-waehlen-1.1657288",
+    "status": 200,
+    "final_url": "https://www.sueddeutsche.de/kolumne/wahlumfragen-trendmonitor-so-wollen-deutschland-und-hessen-waehlen-1.1657288",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 287
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 288
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 288
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 289
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.thescoop.org/thefix/the-canvas-for-car/",
+    "status": 200,
+    "final_url": "https://thescoop.org/thefix/the-canvas-for-car/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-13-more-essential-reading-data-and-interactivity-in-online-journalism.md",
+        "line": 46
+      },
+      {
+        "file": "_posts/2007-03-03-freedom-of-information-mashups-and-online-journalism.md",
+        "line": 63
+      },
+      {
+        "file": "_posts/2007-01-14-links-for-2007-01-14.md",
+        "line": 85
+      },
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 60
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://www.zeit.de/politik/deutschland/2013-09/koalitionen-bundestagswahl-2013",
+    "status": 404,
+    "final_url": "https://www.zeit.de/politik/deutschland/2013-09/koalitionen-bundestagswahl-2013",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/elections/index2.html",
+        "line": 305
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 306
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 306
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 307
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://github.com/Financial-Times/lantern",
+    "status": 404,
+    "final_url": "https://github.com/Financial-Times/lantern",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 127
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 178
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 165
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 165
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://github.com/Financial-Times/nightingale",
+    "status": 404,
+    "final_url": "https://github.com/Financial-Times/nightingale",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 133
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 184
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 171
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 171
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://ig.ft.com/sites/numbers/economies/china",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/numbers/economies/china/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 392
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 137
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 131
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 131
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://next.ft.com/content/0e0e6960-da17-11e5-98fd-06d75973fe09",
+    "status": 200,
+    "final_url": "https://www.ft.com/content/0e0e6960-da17-11e5-98fd-06d75973fe09",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 321
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 129
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 127
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 127
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "https://www.youtube.com/embed/vMoDpUBjEOU?start=114&showinfo=0",
+    "status": 200,
+    "final_url": "https://www.youtube.com/embed/vMoDpUBjEOU?start=114&showinfo=0",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/goldsmiths2016/index.html",
+        "line": 135
+      },
+      {
+        "file": "slides/default/index.html",
+        "line": 186
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 173
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 173
+      }
+    ],
+    "count": 4
+  },
+  {
+    "url": "http://aboutus.ft.com/careers/graduates/",
+    "status": 404,
+    "final_url": "https://aboutus.ft.com/careers/graduates/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 268
+      },
+      {
+        "file": "slides/city2015/index.html",
+        "line": 276
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 259
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://arts.guardian.co.uk/filmandmusic/story/0,,2149848,00.html",
+    "status": 200,
+    "final_url": "https://www.theguardian.com/film/2007/aug/17/actionandadventure.mattdamon",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-18-blogging-under-fire.md",
+        "line": 39
+      },
+      {
+        "file": "_posts/2007-08-19-links-for-2007-08-19.md",
+        "line": 75
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6915
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://blogs.ft.com/ftdata/2015/05/04/three-things-we-learned-from-making-a-china-migration-cloropleth",
+    "status": 404,
+    "final_url": "https://blogs.ft.com/ftdata/2015/05/04/three-things-we-learned-from-making-a-china-migration-cloropleth",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 294
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 275
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 263
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://blogs.ft.com/ftdata/2015/08/10/which-is-the-best-football-league-in-europe/",
+    "status": 404,
+    "final_url": "https://blogs.ft.com/ftdata/2015/08/10/which-is-the-best-football-league-in-europe/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 331
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 312
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 300
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://blogs.telegraph.co.uk/technology/shanerichmond/july07/mustread.htm",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-25-links-for-2007-07-25.md",
+        "line": 47
+      },
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 56
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5624
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://data.nzherald.co.nz/electorates/ohariu",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 148
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 159
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 267
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://elections.ft.com/india/general-election-2014/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 164
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 252
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 164
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://elections.ft.com/uk/2015/coalition-calculator",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 297
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 298
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 299
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://elections.nytimes.com/2010/results/house/big-board",
+    "status": 200,
+    "final_url": "https://archive.nytimes.com/www.nytimes.com/elections/2010/results/house/big-board.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 278
+      },
+      {
+        "file": "slides/elections/index2.html",
+        "line": 318
+      },
+      {
+        "file": "slides/elections/index.html",
+        "line": 319
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://h2odev.law.harvard.edu/ezuckerman/",
+    "status": 200,
+    "final_url": "https://museum.lil.tools/archive/h2obeta-law-harvard-edu.html?url=https://h2odev.law.harvard.edu/ezuckerman/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-06-21-why-the-global-dark-spots-matter.md",
+        "line": 38
+      },
+      {
+        "file": "_posts/2005-05-03-on-the-web-the-dark-spots-stay-dark.md",
+        "line": 17
+      },
+      {
+        "file": "_posts/2005-08-22-chad-journalists-stage-news-blackout.md",
+        "line": 33
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://ig.ft.com/sites/2015/boko-haram-timeline/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2015/boko-haram-timeline/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 319
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 300
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 288
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://ig.ft.com/sites/2015/the-fastest-men-in-the-world/ath1-large.png?aa",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2015/the-fastest-men-in-the-world/ath1-large.png?aa",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 313
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 294
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 282
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://ig.ft.com/sites/2015/the-greatest-womens-tennis-players-of-all-time/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2015/the-greatest-womens-tennis-players-of-all-time/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 299
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 280
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 268
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://journalism.nyu.edu/pubzone/weblogs/pressthink/2005/06/19/dwn_mmo.html",
+    "status": 404,
+    "final_url": "https://journalism.nyu.edu/pubzone/weblogs/pressthink/2005/06/19/dwn_mmo.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-07-12-describing-the-relationship-between-bloggers-and-journalists.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2005-10-11-a-waste-of-time-reconsidered.md",
+        "line": 37
+      },
+      {
+        "file": "_posts/2007-02-03-blogging-vs-journalism-yet-again.md",
+        "line": 107
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://knightlab.northwestern.edu/2014/01/20/behind-the-dialect-map-interactive-how-an-intern-created-the-new-york-times-most-popular-piece-of-content-in-2013/",
+    "status": 404,
+    "final_url": "http://knightlab.northwestern.edu/2014/01/20/behind-the-dialect-map-interactive-how-an-intern-created-the-new-york-times-most-popular-piece-of-content-in-2013/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 192
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 178
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 194
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://onlinejournalismblog.wordpress.com/2007/07/25/online-journalisms-must-read-blog-posts/",
+    "status": 200,
+    "final_url": "https://onlinejournalismblog.com/2007/07/25/online-journalisms-must-read-blog-posts/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 57
+      },
+      {
+        "file": "_posts/2007-07-26-links-for-2007-07-26.md",
+        "line": 82
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5696
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://platform.twitter.com/widgets.js",
+    "status": 200,
+    "final_url": "http://platform.twitter.com/widgets.js",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 124
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 122
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 122
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://strange.corante.com/",
+    "status": 526,
+    "final_url": "https://corante.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 49
+      },
+      {
+        "file": "_posts/2006-12-05-the-midwestern-mafia-talk-about-stuff.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2006-12-06-midwest-mafia-the-video.md",
+        "line": 31
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://strange.corante.com/archives/2006/11/12/blogging_isnt_a_publishing_strategy.php",
+    "status": 404,
+    "final_url": "http://strange.corante.com/archives/2006/11/12/blogging_isnt_a_publishing_strategy.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-01-09-why-some-old-media-orgs-struggle-with-blogs.md",
+        "line": 35
+      },
+      {
+        "file": "_posts/2006-11-13-links-for-2006-11-13.md",
+        "line": 45
+      },
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 70
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://times.github.io/cardkit/#/",
+    "status": 404,
+    "final_url": "http://times.github.io/cardkit/#/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 174
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 161
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 161
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://turlough.blogspot.com/",
+    "status": 200,
+    "final_url": "http://turlough.blogspot.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-06-30-westminster-blogging-event.md",
+        "line": 20
+      },
+      {
+        "file": "_posts/2005-05-11-fashion-police-gets-serious.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2004-02-09-none-of-your-beeswax.md",
+        "line": 17
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.bobbiejohnson.org/?p=788",
+    "status": 200,
+    "final_url": "https://www.bobbiejohnson.org/?p=788",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-10-more-bloggers-for-the-uk-journalists-reading-list.md",
+        "line": 46
+      },
+      {
+        "file": "_posts/2007-04-11-hey-j-schools-teach-before-you-unleash.md",
+        "line": 56
+      },
+      {
+        "file": "_posts/2007-02-02-links-for-2007-02-02.md",
+        "line": 90
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.brightonbuccaneers.com",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2005-04-17-weekend-blog-catchup.md",
+        "line": 55
+      },
+      {
+        "file": "_posts/2003-05-05-european-baseball-championships.md",
+        "line": 15
+      },
+      {
+        "file": "_posts/2007-09-12-somewhat-off-topic-european-baseball-as-niche-sports-journalism.md",
+        "line": 55
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.city.ac.uk/journalism/",
+    "status": 200,
+    "final_url": "https://www.citystgeorges.ac.uk/about/schools/communication-creativity/journalism",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-03-14-msm-the-next-generation.md",
+        "line": 33
+      },
+      {
+        "file": "_posts/2007-01-16-note-to-journalism-schools-give-us-new-heroes.md",
+        "line": 41
+      },
+      {
+        "file": "about/index.html",
+        "line": 16
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.cybersoc.com/",
+    "status": 200,
+    "final_url": "https://cybersoc.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 41
+      },
+      {
+        "file": "_posts/2006-12-05-the-midwestern-mafia-talk-about-stuff.md",
+        "line": 33
+      },
+      {
+        "file": "_posts/2006-12-06-midwest-mafia-the-video.md",
+        "line": 32
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ft.com/cms/s/0/10536122-9a4e-11e3-8232-00144feab7de.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 169
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 206
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 247
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ft.com/cms/s/0/3c004082-aad5-11e3-83a2-00144feab7de.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 174
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 211
+      },
+      {
+        "file": "slides/blackrock/index.html",
+        "line": 252
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ft.com/cms/s/0/cdea72f6-c494-11e2-9ac0-00144feab7de.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 312
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 269
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 270
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ft.com/djw15",
+    "status": 404,
+    "final_url": "https://www.ft.com/djw15",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 75
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 75
+      },
+      {
+        "file": "slides/archives/index.html",
+        "line": 75
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ft.com/ig/features/2014-11-04_elevators/lifts_test.html",
+    "status": 200,
+    "final_url": "https://ig.ft.com/features/2014-11-04_elevators/lifts_test.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/city2015/index.html",
+        "line": 309
+      },
+      {
+        "file": "slides/tab2015/index.html",
+        "line": 290
+      },
+      {
+        "file": "slides/rca2016/index.html",
+        "line": 278
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.gbbaseball.com/",
+    "status": 404,
+    "final_url": "https://britishbaseballfederation.leaguerepublic.com:443/index.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-05-12-world-cup-announced.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2005-02-19-china-getting-ready-to-play-ball.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2003-06-29-oh-dear.md",
+        "line": 23
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.geekygirlengineer.com/2013/11/04/deep-throat-parking-garage/",
+    "status": 200,
+    "final_url": "https://www.geekygirlengineer.com/2013/11/04/deep-throat-parking-garage/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 98
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 395
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 98
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.gwu.edu/~nsarchiv/",
+    "status": 200,
+    "final_url": "https://nsarchive2.gwu.edu/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-12-13-why-journalists-rarely-use-foia.md",
+        "line": 46
+      },
+      {
+        "file": "_posts/2005-11-24-pentagon-received-10000-foi-requests-since-2001.md",
+        "line": 84
+      },
+      {
+        "file": "_posts/2005-06-08-watergate-in-republican-memory.md",
+        "line": 29
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.heritage.org/Press/MediaCenter/FOIA.cfm",
+    "status": 404,
+    "final_url": "https://www.heritage.org/Press/MediaCenter/FOIA.cfm",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-11-19-british-journalists-make-10-of-local-foi-requests.md",
+        "line": 31
+      },
+      {
+        "file": "_posts/2005-11-24-pentagon-received-10000-foi-requests-since-2001.md",
+        "line": 94
+      },
+      {
+        "file": "_posts/2005-08-09-critics-attack-corporate-foia-use.md",
+        "line": 40
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.hm-treasury.gov.uk/about/information/foi_disclosures/foi_flattaxes.cfm",
+    "status": 200,
+    "final_url": "https://www.gov.uk/government/organisations/hm-treasury",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-09-18-remember-those-flat-tax-redactions.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2005-09-26-treasury-flat-tax-disclosure-would-harm-international-relations.md",
+        "line": 42
+      },
+      {
+        "file": "_posts/2005-08-11-uk-treasury-rejects-flat-tax.md",
+        "line": 21
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.hscic.gov.uk/catalogue/PUB12995",
+    "status": 403,
+    "final_url": "https://digital.nhs.uk/catalogue/PUB12995",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 214
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 295
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 266
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.iraqbodycount.org",
+    "status": 200,
+    "final_url": "https://www.iraqbodycount.org/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2003-03-27-martial-media-madness.md",
+        "line": 36
+      },
+      {
+        "file": "_posts/2003-03-27-martial-media-madness.md",
+        "line": 42
+      },
+      {
+        "file": "_posts/2003-03-27-martial-media-madness.md",
+        "line": 49
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.landregistry.gov.uk/market-trend-data/public-data/price-paid-data",
+    "status": 200,
+    "final_url": "https://www.gov.uk/government/collections/price-paid-data",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 78
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 369
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 78
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.latimes.com/news/opinion/la-oe-stein2jan02,0,3287162.column?coll=la-opinion-columnists",
+    "status": 200,
+    "final_url": "https://www.latimes.com/archives/la-xpm-2009-jan-02-oe-stein2-story.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-01-09-why-some-old-media-orgs-struggle-with-blogs.md",
+        "line": 37
+      },
+      {
+        "file": "_posts/2007-01-03-links-for-2007-01-03.md",
+        "line": 111
+      },
+      {
+        "file": "_posts/2007-01-09-sindy-joel-stein.md",
+        "line": 57
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/2006/12/28/the-independents-blogs-must-do-better/",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/2006/12/28/the-independents-blogs-must-do-better/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-01-09-why-some-old-media-orgs-struggle-with-blogs.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2007-03-25-a-different-online-strategy-lag-behind-deliberately.md",
+        "line": 51
+      },
+      {
+        "file": "_posts/2007-01-02-five-tests-for-newspaper-blogs.md",
+        "line": 29
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/2007/01/19/david-maclean-mp-aims-to-limit-freedom-of-information/",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/2007/01/19/david-maclean-mp-aims-to-limit-freedom-of-information/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-01-24-foi-amendment-bill-progresses-in-parliament.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2007-01-25-how-the-foi-amendment-bill-slipped-through.md",
+        "line": 33
+      },
+      {
+        "file": "_posts/2007-01-31-mp-pledges-early-day-motion-backing-foi-campaign.md",
+        "line": 46
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/03/the_danger_of_d.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/03/the_danger_of_d.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-03-14-bloggers-and-libel-bad-news.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2005-10-11-bloggers-probably-not-shielded-by-law.md",
+        "line": 24
+      },
+      {
+        "file": "_posts/2005-03-27-blogging-and-the-law.md",
+        "line": 23
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/flat_tax_redact.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/flat_tax_redact.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-23-flat-taxes-and-foia-part-3.md",
+        "line": 44
+      },
+      {
+        "file": "_posts/2005-09-26-treasury-flat-tax-disclosure-would-harm-international-relations.md",
+        "line": 43
+      },
+      {
+        "file": "_posts/2005-08-21-more-confusion-over-flat-tax-foia-request.md",
+        "line": 39
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/media_coverage.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/media_coverage.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-25-blairs-holiday-and-media-self-censorship.md",
+        "line": 50
+      },
+      {
+        "file": "_posts/2005-08-05-contempt-for-contempt-laws.md",
+        "line": 35
+      },
+      {
+        "file": "_posts/2005-08-08-neil-contempt-laws-gag-uk-media.md",
+        "line": 38
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/more_confusion.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/more_confusion.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-23-flat-taxes-and-foia-part-3.md",
+        "line": 43
+      },
+      {
+        "file": "_posts/2005-09-26-treasury-flat-tax-disclosure-would-harm-international-relations.md",
+        "line": 46
+      },
+      {
+        "file": "_posts/2005-08-19-flat-tax-redactions-leaked.md",
+        "line": 67
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/police_gag_call.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/police_gag_call.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-25-blairs-holiday-and-media-self-censorship.md",
+        "line": 51
+      },
+      {
+        "file": "_posts/2005-08-18-uk-media-blackout-on-terror-suspects.md",
+        "line": 59
+      },
+      {
+        "file": "_posts/2005-08-19-bbc-defends-use-of-terror-suspects-cctv-images.md",
+        "line": 34
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/09/uk_role_in_cia.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/09/uk_role_in_cia.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-11-18-britain-alone-in-indifference-to-cia-flights.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2005-09-24-us-navy-contracted-cia-rendition-planes.md",
+        "line": 50
+      },
+      {
+        "file": "_posts/2005-11-04-where-in-europe-is-the-cia-gulag.md",
+        "line": 79
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/09/war_porn_blogos.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/09/war_porn_blogos.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-21-site-invites-gis-to-trade-grisly-war-photos-for-porn.md",
+        "line": 21
+      },
+      {
+        "file": "_posts/2005-10-09-gore-for-porn-webmaster-arrested.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-09-21-are-gis-trading-grisly-war-photos-for-porn.md",
+        "line": 37
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/11/itay_requests_c.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/11/itay_requests_c.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-12-01-cia-agent-claims-rome-knew-of-rendition.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2005-11-18-britain-alone-in-indifference-to-cia-flights.md",
+        "line": 27
+      },
+      {
+        "file": "_posts/2005-11-14-germany-joins-italian-probe-into-cia-rendition.md",
+        "line": 21
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/11/where_in_europe.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/11/where_in_europe.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-11-18-britain-alone-in-indifference-to-cia-flights.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2005-11-28-black-sites-investigator-hopes-for-senate-leak.md",
+        "line": 59
+      },
+      {
+        "file": "_posts/2005-12-04-exploring-an-alleged-cia-black-site.md",
+        "line": 34
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.martinstabe.com/slides/ijf2016",
+    "status": 200,
+    "final_url": "http://www.martinstabe.com/slides/ijf2016/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 73
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 71
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 71
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.mat.ucsb.edu/~g.legrady/academic/courses/11w259/schneiderman.pdf",
+    "status": 200,
+    "final_url": "https://www.mat.ucsb.edu/~g.legrady/academic/courses/11w259/schneiderman.pdf",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/monitor/index.html",
+        "line": 254
+      },
+      {
+        "file": "slides/smw2014/index2.html",
+        "line": 223
+      },
+      {
+        "file": "slides/smw2014/index.html",
+        "line": 164
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.newspapernext.org/2007/08/databases_help_you_become_the.htm",
+    "status": 200,
+    "final_url": "https://americanpressinstitute.org/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-13-more-essential-reading-data-and-interactivity-in-online-journalism.md",
+        "line": 41
+      },
+      {
+        "file": "_posts/2007-08-11-links-for-2007-08-11.md",
+        "line": 115
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6465
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.nma.co.uk/Articles/33238/Press+Gazette+plans+on+and+offline+relaunch.html",
+    "status": 403,
+    "final_url": "http://www.nma.co.uk/Articles/33238/Press+Gazette+plans+on+and+offline+relaunch.html",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-05-14-news-design-for-the-rssless-reader.md",
+        "line": 30
+      },
+      {
+        "file": "_posts/2007-05-12-links-for-2007-05-12.md",
+        "line": 19
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 2015
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html",
+    "status": 200,
+    "final_url": "https://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 93
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 390
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 93
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ojr.org/ojr/stories/051117berger/",
+    "status": 403,
+    "final_url": "http://www.ojr.org/ojr/stories/051117berger/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2005-12-11-is-france-europes-leading-blogging-nation.md",
+        "line": 25
+      },
+      {
+        "file": "_posts/2005-11-18-british-blogs-get-some-attention.md",
+        "line": 36
+      },
+      {
+        "file": "_posts/2005-11-27-is-the-german-blogosphere-lagging-too.md",
+        "line": 18
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ons.gov.uk/ons/datasets-and-tables/data-selector.html?dataset=drsi",
+    "status": 200,
+    "final_url": "https://www.ons.gov.uk/timeseriestool",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 249
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 324
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 295
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-324790",
+    "status": 405,
+    "final_url": "https://webarchive.nationalarchives.gov.uk/ukgwa/20160105160709/https://www.ons.gov.uk/ons/publications/re-reference-tables.html",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 225
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 306
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 277
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.pressgazette.co.uk/",
+    "status": 200,
+    "final_url": "https://pressgazette.co.uk/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2006-01-11-between-blogger-and-journalist.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2003-05-19-retail-censorship.md",
+        "line": 17
+      },
+      {
+        "file": "_posts/2008-08-30-new-job-emap-retail-week.md",
+        "line": 26
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.pressgazette.co.uk/blog/",
+    "status": 410,
+    "final_url": "https://pressgazette.co.uk/archive-content/blog/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2006-12-05-wilmington-buys-press-gazette.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2007-03-09-opa-the-other-blog-is-back.md",
+        "line": 17
+      },
+      {
+        "file": "_posts/2007-03-09-an-experiment-with-improvised-video-journalism.md",
+        "line": 37
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.repubblica.it/2005/h/sezioni/esteri/iraq64/fotohorror/fotohorror.html",
+    "status": 200,
+    "final_url": "https://www.repubblica.it/2005/h/sezioni/esteri/iraq64/fotohorror/fotohorror.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-21-site-invites-gis-to-trade-grisly-war-photos-for-porn.md",
+        "line": 19
+      },
+      {
+        "file": "_posts/2005-09-21-are-gis-trading-grisly-war-photos-for-porn.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2005-09-28-gore-for-porn-blogosphere-to-msm-and-back-again.md",
+        "line": 45
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ryansholin.com/2007/02/05/further-notes-on-the-new-journalism-skillset/",
+    "status": 200,
+    "final_url": "https://ryansholin.com/2007/02/05/further-notes-on-the-new-journalism-skillset/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-13-more-essential-reading-data-and-interactivity-in-online-journalism.md",
+        "line": 47
+      },
+      {
+        "file": "_posts/2007-02-07-links-for-2007-02-07.md",
+        "line": 69
+      },
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 62
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.ryansholin.com/2007/06/02/10-obvious-things-about-the-future-of-newspapers-you-need-to-get-through-your-head/",
+    "status": 200,
+    "final_url": "https://ryansholin.com/2007/06/02/10-obvious-things-about-the-future-of-newspapers-you-need-to-get-through-your-head/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 61
+      },
+      {
+        "file": "_posts/2007-06-03-links-for-2007-06-03.md",
+        "line": 67
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 2934
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.telegraph.co.uk/news/newstopics/mps-expenses/5357568/MPs-expenses-Sir-Peter-Viggers-claimed-for-1600-floating-duck-island.html",
+    "status": 403,
+    "final_url": "http://www.telegraph.co.uk/news/newstopics/mps-expenses/5357568/MPs-expenses-Sir-Peter-Viggers-claimed-for-1600-floating-duck-island.html",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 104
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 401
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 104
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.theguardian.com/world/video/2013/jul/08/edward-snowden-video-interview",
+    "status": 200,
+    "final_url": "https://www.theguardian.com/world/video/2013/jul/08/edward-snowden-video-interview",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/index.html",
+        "line": 110
+      },
+      {
+        "file": "slides/visual-den/index-complete.html",
+        "line": 407
+      },
+      {
+        "file": "slides/what-we-do/index.html",
+        "line": 110
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.timesonline.co.uk/article/0,,2087-1592904,00.html",
+    "status": 200,
+    "final_url": "https://www.thetimes.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-05-01-iraq-decision-predated-justifications.md",
+        "line": 49
+      },
+      {
+        "file": "_posts/2005-06-09-downing-street-memo-story-gathering-pace-in-us.md",
+        "line": 31
+      },
+      {
+        "file": "_posts/2005-06-15-who-leaked-the-downing-street-minutes.md",
+        "line": 23
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.tommeagher.com/blog/2014/06/things-i-never-learned-at-newspapers.html",
+    "status": 200,
+    "final_url": "http://www.tommeagher.com/blog/2014/06/things-i-never-learned-at-newspapers.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 326
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 329
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 280
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.washingtonmonthly.com/archives/individual/2005_02/005642.php",
+    "status": 404,
+    "final_url": "https://washingtonmonthly.com/archives/individual/2005_02/005642.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-02-13-bloggers-achievements-are-sparce.md",
+        "line": 27
+      },
+      {
+        "file": "_posts/2005-07-30-sassygate-cant-blogs-do-better.md",
+        "line": 52
+      },
+      {
+        "file": "_posts/2005-02-20-british-blogs-a-waste-of-time.md",
+        "line": 50
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://www.yrtk.org/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error timed out>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-10-more-bloggers-for-the-uk-journalists-reading-list.md",
+        "line": 43
+      },
+      {
+        "file": "_posts/2007-01-03-promoting-computer-assisted-reporting-in-britain.md",
+        "line": 28
+      },
+      {
+        "file": "_posts/2005-08-05-contempt-for-contempt-laws.md",
+        "line": 32
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://github.com/voxmedia/meme",
+    "status": 200,
+    "final_url": "https://github.com/voxmedia/meme",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 174
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 161
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 161
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://plus.google.com/+JohnBurnMurdoch/posts/9PAPUduSt7W",
+    "status": 200,
+    "final_url": "https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/djw15/index.html",
+        "line": 280
+      },
+      {
+        "file": "slides/djw15/index.html",
+        "line": 431
+      },
+      {
+        "file": "slides/ft-training-2015/index.html",
+        "line": 334
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://t.co/zK3BmiD1kO",
+    "status": 200,
+    "final_url": "https://x.com/theboysmithy/status/705422287323975680/photo/1",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 123
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 121
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 121
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://twitter.com/hashtag/d3?src=hash",
+    "status": 200,
+    "final_url": "https://x.com/hashtag/d3?src=hash",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 123
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 121
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 121
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://twitter.com/theboysmithy/status/705422287323975680",
+    "status": 200,
+    "final_url": "https://x.com/theboysmithy/status/705422287323975680",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "slides/default/index.html",
+        "line": 123
+      },
+      {
+        "file": "slides/ijf2016/index.html",
+        "line": 121
+      },
+      {
+        "file": "slides/ijf2016/simplified.html",
+        "line": 121
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "https://www.ons.gov.uk/ons/apiservice/web/apiservice/home",
+    "status": 200,
+    "final_url": "https://www.ons.gov.uk/help/localstatistics",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "slides/ons/index.html",
+        "line": 243
+      },
+      {
+        "file": "slides/monitor/index.html",
+        "line": 318
+      },
+      {
+        "file": "slides/hmt/index.html",
+        "line": 289
+      }
+    ],
+    "count": 3
+  },
+  {
+    "url": "http://adage.com/digital/article.php?article_id=118763",
+    "status": 404,
+    "final_url": "https://adage.com/digital/article.php?article_id=118763",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 153
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4267
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://adrianmonck.blogspot.com/",
+    "status": 200,
+    "final_url": "http://adrianmonck.blogspot.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 40
+      },
+      {
+        "file": "_posts/2007-01-01-five-things-you-didnt-know-about-me.md",
+        "line": 59
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blog.croydonadvertiser.co.uk/archives/2007/07/timing.html",
+    "status": 200,
+    "final_url": "http://blog.croydonadvertiser.co.uk/archives/2007/07/timing.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-23-links-for-2007-07-23.md",
+        "line": 29
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5568
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blog.publish2.com/2007/08/14/introducing-publish2-networked-news/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-16-links-for-2007-08-16.md",
+        "line": 37
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6717
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blog.socialflow.com/post/5246404319/breaking-bin-laden-visualizing-the-power-of-a-single",
+    "status": 404,
+    "final_url": "https://www.socialflow.com/post/5246404319/breaking-bin-laden-visualizing-the-power-of-a-single",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2011-05-25-journalism-social-media-whitepaper.md",
+        "line": 46
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 37386
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blogs.manchestereveningnews.co.uk/politics/2007/07/anatomy_of_a_story.html",
+    "status": 404,
+    "final_url": "https://www.manchestereveningnews.co.uk/politics/2007/07/anatomy_of_a_story.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-23-links-for-2007-07-23.md",
+        "line": 57
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5582
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blogs.telegraph.co.uk/technology/iandouglas/june2007/lowblows.htm",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 139
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4260
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blogs.telegraph.co.uk/technology/shanerichmond/july07/blogroll.htm",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-14-links-for-2007-07-14.md",
+        "line": 28
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5113
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://dangillmor.typepad.com/dan_gillmor_on_grassroots/2005/01/arrogance_at_ap.html",
+    "status": 200,
+    "final_url": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-01-11-eff-defending-think-secret.md",
+        "line": 17
+      },
+      {
+        "file": "_posts/2005-01-06-chilling-journalism-old-and-new.md",
+        "line": 40
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://forums.newsandstar.co.uk/index.php?s=8e72d5e1b065cb5059fdc08624d9f9bf&automodule=blog&blogid=1&#",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 83
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4232
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://googlenewsblog.blogspot.com/2007/08/perspectives-about-news-from-people-in.html",
+    "status": 200,
+    "final_url": "https://news.googleblog.com/2007/08/perspectives-about-news-from-people-in.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 49
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6260
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://james.cridland.net/blog/2007/07/07/on-air-now-discoverability-for-speech/",
+    "status": 404,
+    "final_url": "https://james.cridland.net/blog/2007/07/07/on-air-now-discoverability-for-speech/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-09-links-for-2007-07-09.md",
+        "line": 96
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4880
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://journalism.nyu.edu/pubzone/weblogs/pressthink/2007/10/09/what_i_learned.html",
+    "status": 404,
+    "final_url": "https://journalism.nyu.edu/pubzone/weblogs/pressthink/2007/10/09/what_i_learned.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-10-13-on-the-media-citizen-papers.md",
+        "line": 47
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 9766
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://journalistopia.com/2007/08/08/visualize-your-news-graphics-possibilities/",
+    "status": 200,
+    "final_url": "https://journalistopia.com/2007/08/08/visualize-your-news-graphics-possibilities/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 161
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6316
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://mashable.com/2011/05/16/endeavour-launch-twitpic/",
+    "status": 200,
+    "final_url": "https://mashable.com/archive/endeavour-launch-twitpic",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2011-05-25-journalism-social-media-whitepaper.md",
+        "line": 48
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 37606
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://news.bbc.co.uk/1/hi/magazine/6240878.stm",
+    "status": 200,
+    "final_url": "http://news.bbc.co.uk/2/hi/uk_news/magazine/6240878.stm",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 209
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4295
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://news.com.com/Fox+Internet+group+to+manage+TV+station+sites/2110-1026_3-6202722.html?part=rss&tag=2547-1023_3-0-5&subj=news",
+    "status": 403,
+    "final_url": "https://dac.gen.xyz/cart2.html?tld=.xyz&sld=news",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-16-links-for-2007-08-16.md",
+        "line": 65
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6731
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://news.com.com/New+York+Times+to+ax+premium+online+content%2C+rival+says/8301-10784_3-9756017-7.html?tag=nl.e703",
+    "status": 403,
+    "final_url": "https://dac.gen.xyz/cart2.html?tld=.xyz&sld=news",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 77
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6274
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://news.com.com/Some+waiting+on+iPhone+improvements+before+buying/2100-1041_3-6193240.html?tag=nefd.top",
+    "status": 403,
+    "final_url": "https://dac.gen.xyz/cart2.html?tld=.xyz&sld=news",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 111
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4246
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://publishing2.com/2007/06/26/why-i-didnt-buy-an-iphone-the-network/",
+    "status": 404,
+    "final_url": "http://publishing2.com/2007/06/26/why-i-didnt-buy-an-iphone-the-network/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 223
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4302
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://sambrook.typepad.com/sacredfacts/",
+    "status": 200,
+    "final_url": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 42
+      },
+      {
+        "file": "_posts/2007-02-08-visualising-the-uk-journalism-blogger-network.md",
+        "line": 55
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://searchengineland.com/070808-191446.php",
+    "status": 404,
+    "final_url": "https://searchengineland.com/070808-191446.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 175
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6323
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://technology.timesonline.co.uk/tol/news/tech_and_web/the_web/article2038078.ece",
+    "status": 200,
+    "final_url": "https://www.thetimes.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-09-links-for-2007-07-09.md",
+        "line": 68
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4866
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://theaustralian.news.com.au/story/0,,22064690-7582,00.html?from=public_rss",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-14-links-for-2007-07-14.md",
+        "line": 42
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5120
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://timworstall.typepad.com/timworstall/2005/10/blogs_libel_and.html",
+    "status": 200,
+    "final_url": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-10-29-hitler-removed-from-google-print.md",
+        "line": 36
+      },
+      {
+        "file": "_posts/2005-12-14-lance-armstrong-trial-should-worry-bloggers.md",
+        "line": 30
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://vickywatch.blogspot.com/",
+    "status": 200,
+    "final_url": "http://vickywatch.blogspot.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 50
+      },
+      {
+        "file": "_posts/2007-01-08-links-for-2007-01-08.md",
+        "line": 42
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://virtualeconomics.typepad.com/virtualeconomics/2007/02/so_whats_the_bi.html",
+    "status": 200,
+    "final_url": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-17-links-for-2007-02-17.md",
+        "line": 237
+      },
+      {
+        "file": "_posts/2007-08-01-essential-reading-for-online-journalism.md",
+        "line": 63
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://virtualeconomics.typepad.com/virtualeconomics/2007/06/the-interwebs-c.html",
+    "status": 200,
+    "final_url": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 181
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4281
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://virtualeconomics.typepad.com/virtualeconomics/2007/08/what-newspapers.html",
+    "status": 200,
+    "final_url": "https://www.networksolutions.com/typepad?siteID=100&channelID=P99C100S653N0B5A1D0E0000V111",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 63
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6267
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://weblogs.hitwise.com/robin-goad/2011/05/twitter_has_biggest_ever_day_o.html?utm_source=feedburner",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 51] Network is unreachable>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2011-05-25-journalism-social-media-whitepaper.md",
+        "line": 47
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 37500
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://women.timesonline.co.uk/tol/life_and_style/women/the_way_we_live/article5747308.ece%3FSubmitted%3Dtrue",
+    "status": 200,
+    "final_url": "https://www.thetimes.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2009-02-23-twitter-users-narcissistic-insecure-lacking-identity-and-mundane.md",
+        "line": 49
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 24417
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://writeeditblog.blogspot.com/2007/08/we-tell-postgrads-on-pma-magazine.html",
+    "status": 200,
+    "final_url": "http://writeeditblog.blogspot.com/2007/08/we-tell-postgrads-on-pma-magazine.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-16-links-for-2007-08-16.md",
+        "line": 79
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6738
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.40k.org.uk/blog/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2005-01-14-welcome-cifamil-readers.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2005-02-05-the-straight-banana-factor.md",
+        "line": 32
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.amateurphotographer.co.uk/news/getty_photojournalism_is_not_dead_news_135499.html?aff=rss",
+    "status": 404,
+    "final_url": "https://amateurphotographer.com/news/getty_photojournalism_is_not_dead_news_135499.html?aff=rss",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 147
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6309
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.dadblog.co.uk/current-affairs/2007/01/26/having-fun-with-dacre/",
+    "status": 200,
+    "final_url": "https://dadblog.co.uk/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 55
+      },
+      {
+        "file": "_posts/2007-01-27-links-for-2007-01-27.md",
+        "line": 168
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.dave-lee.org/jblog/?p=65#comments",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-05-29-links-for-2007-05-29.md",
+        "line": 21
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 2745
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.delicious.com/martinstabe",
+    "status": 404,
+    "final_url": "https://www.delicious.com/martinstabe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2010-11-24-pimp-my-blog-blogging-reading-writin.md",
+        "line": 41
+      },
+      {
+        "file": "links/index.md",
+        "line": 6
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.followthemedia.com/sportsmedia/photog26062007.htm",
+    "status": 200,
+    "final_url": "http://www.followthemedia.com/sportsmedia/photog26062007.htm",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 125
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4253
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.guardian.co.uk/uk_news/story/0,3604,432358,00.html",
+    "status": 200,
+    "final_url": "https://www.theguardian.com/uk/2001/feb/02/highereducation.education",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2003-05-28-quit-yer-whingeing.md",
+        "line": 23
+      },
+      {
+        "file": "_posts/2003-03-18-students-ban-daily-mail.md",
+        "line": 19
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.holdthefrontpage.co.uk/NEWS/2007/06JUNE/070626SHEFF.SHTML",
+    "status": 404,
+    "final_url": "https://www.holdthefrontpage.co.uk/NEWS/2007/06JUNE/070626SHEFF.SHTML",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 69
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4225
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.huffingtonpost.com/2007/08/20/tennis-mag-intern-feels-_n_61090.html",
+    "status": 200,
+    "final_url": "https://www.huffpost.com/entry/tennis-mag-intern-feels-d_n_61090",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-21-links-for-2007-08-21.md",
+        "line": 67
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 7111
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.innovationsinnewspapers.com/index.php/2007/07/22/the-sunday-logo-trend/",
+    "status": 500,
+    "final_url": "http://www.innovationsinnewspapers.com/index.php/2007/07/22/the-sunday-logo-trend/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-23-links-for-2007-07-23.md",
+        "line": 43
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 5575
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.ire.org/",
+    "status": 200,
+    "final_url": "https://www.ire.org/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-10-06-british-investigative-journalism-lags-behind-europe.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2004-05-27-privatising-data.md",
+        "line": 27
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.journalism.co.uk/2/articles/540237.php",
+    "status": 403,
+    "final_url": "http://www.journalism.co.uk/2/articles/540237.php",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2010-11-12-news-personalisation-as-it-should-be.md",
+        "line": 30
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 34673
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.latimes.com/news/nationworld/nation/la-na-blogs17mar17,0,2952916.story?coll=la-home-headlines",
+    "status": 200,
+    "final_url": "https://www.latimes.com/archives/la-xpm-2007-mar-17-na-blogs17-story.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-10-13-on-the-media-citizen-papers.md",
+        "line": 48
+      },
+      {
+        "file": "_posts/2007-03-18-links-for-2007-03-18.md",
+        "line": 29
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.lostremote.com/2007/07/08/digg-fark-bring-traffic-but-is-it-good/",
+    "status": 200,
+    "final_url": "https://www.adweek.com/lostremote/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-09-links-for-2007-07-09.md",
+        "line": 82
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4873
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.marketingweek.co.uk/item/57422/258/262/3",
+    "status": 523,
+    "final_url": "http://www.marketingweek.co.uk/item/57422/258/262/3",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 119
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6295
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/02/lse_blogging_ev_1.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/02/lse_blogging_ev_1.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-03-01-the-fall-and-fall-of-journalism-part-ii.md",
+        "line": 22
+      },
+      {
+        "file": "_posts/2005-04-07-blogospheric-intercourse-in-the-ft.md",
+        "line": 56
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/04/blogs_libel_law.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/04/blogs_libel_law.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-10-29-hitler-removed-from-google-print.md",
+        "line": 35
+      },
+      {
+        "file": "_posts/2005-10-01-canada-limits-internet-libel-forum-shopping.md",
+        "line": 27
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/computer_assist.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/computer_assist.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-10-06-british-investigative-journalism-lags-behind-europe.md",
+        "line": 31
+      },
+      {
+        "file": "_posts/2005-11-24-finally-some-uk-car-reporting.md",
+        "line": 30
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/denmark_bans_ci.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/denmark_bans_ci.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-09-12-uk-role-in-cia-rendition-flights.md",
+        "line": 32
+      },
+      {
+        "file": "_posts/2005-11-18-britain-alone-in-indifference-to-cia-flights.md",
+        "line": 26
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/08/neil_contempt_l.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/08/neil_contempt_l.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-08-25-blairs-holiday-and-media-self-censorship.md",
+        "line": 49
+      },
+      {
+        "file": "_posts/2005-08-12-police-gag-call-for-cctv-pictures.md",
+        "line": 29
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.martinstabe.com/blog/archives/2005/10/canada_limits_i.php",
+    "status": 404,
+    "final_url": "http://www.martinstabe.com/blog/archives/2005/10/canada_limits_i.php",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2005-10-29-hitler-removed-from-google-print.md",
+        "line": 34
+      },
+      {
+        "file": "_posts/2005-12-14-lance-armstrong-trial-should-worry-bloggers.md",
+        "line": 31
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.miamifly.net/interactive/proptax/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-16-links-for-2007-08-16.md",
+        "line": 51
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6724
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.nma.co.uk/Articles/33845/User-generated+content+users+outnumber+creators.html",
+    "status": 403,
+    "final_url": "http://www.nma.co.uk/Articles/33845/User-generated+content+users+outnumber+creators.html",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 55
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4218
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.noodlepie.com/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 37
+      },
+      {
+        "file": "_posts/2007-02-08-visualising-the-uk-journalism-blogger-network.md",
+        "line": 54
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.noodlepie.com/2007/02/british_journal.html",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 56
+      },
+      {
+        "file": "_posts/2007-02-10-more-bloggers-for-the-uk-journalists-reading-list.md",
+        "line": 27
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.nytimes.com/2007/07/09/business/media/09coverage.html?ex=1341633600&en=1e80ac1beae98eaf&ei=5088&partner=rssnyt&emc=rss",
+    "status": 200,
+    "final_url": "https://www.nytimes.com/2007/07/09/business/media/09coverage.html?ex=1341633600&en=1e80ac1beae98eaf&ei=5088&partner=rssnyt&emc=rss",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-09-links-for-2007-07-09.md",
+        "line": 110
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4887
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.nytimes.com/ref/sports/20070731_BONDS_GRAPHIC.html",
+    "status": 200,
+    "final_url": "https://archive.nytimes.com/www.nytimes.com/ref/sports/20070731_BONDS_GRAPHIC.html",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-21-links-for-2007-08-21.md",
+        "line": 81
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 7118
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.observer.com/2007/new-york-times-gets-freakonomicky-it",
+    "status": 404,
+    "final_url": "https://observer.com/2007/new-york-times-gets-freakonomicky-it",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 91
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6281
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.poynter.org/column.asp?id=45&aid=128753",
+    "status": 404,
+    "final_url": "https://www.poynter.org/redirect.php?type=post&id=128753",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-21-links-for-2007-08-21.md",
+        "line": 39
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 7097
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.pressgazette.co.uk",
+    "status": 200,
+    "final_url": "https://pressgazette.co.uk/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-some-print-recognition-for-the-journalist-bloggers.md",
+        "line": 36
+      },
+      {
+        "file": "_posts/2006-04-08-apologies-for-blog-silence.md",
+        "line": 23
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.pressgazette.co.uk/story.asp?sectioncode=1&storycode=38431&c=1",
+    "status": 404,
+    "final_url": "https://pressgazette.co.uk/story.asp?sectioncode=1&storycode=38431&c=1",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 133
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6302
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.psmithjournalist.com/",
+    "status": 200,
+    "final_url": "http://www.psmithjournalist.com/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2010-11-12-news-personalisation-as-it-should-be.md",
+        "line": 29
+      },
+      {
+        "file": "_posts/2010-11-24-pimp-my-blog-blogging-reading-writin.md",
+        "line": 37
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.readwriteweb.com/archives/new_google_news_feature_comments.php",
+    "status": 200,
+    "final_url": "https://readwrite.com/new_google_news_feature_comments/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-09-links-for-2007-08-09.md",
+        "line": 105
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 6288
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.reuters.com/article/technology-media-telco-SP/idUSL1075161720070820",
+    "status": 200,
+    "final_url": "https://www.reuters.com/article/technology-media-telco-SP/idUSL1075161720070820/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-08-21-links-for-2007-08-21.md",
+        "line": 53
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 7104
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.techworld.com/green-it/features/index.cfm?featureID=3487&pagtype=all",
+    "status": 404,
+    "final_url": "https://www.techworld.com/green-it/features/index.cfm?featureID=3487&pagtype=all",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 97
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4239
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.thepomoblog.com/archive/the-important-lessons-of-backfences-closing/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "_posts/2007-07-09-links-for-2007-07-09.md",
+        "line": 54
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4859
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.wired.com/techbiz/it/magazine/15-07/ff_maps",
+    "status": 404,
+    "final_url": "https://www.wired.com/techbiz/it/magazine/15-07/ff_maps",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 167
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4274
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.wordblog.co.uk/2007/02/07/word-association-of-newspapers-denies-media-change/",
+    "status": 200,
+    "final_url": "http://www.wordblog.co.uk/2007/02/07/word-association-of-newspapers-denies-media-change/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_posts/2007-02-08-links-for-2007-02-08.md",
+        "line": 91
+      },
+      {
+        "file": "_posts/2007-03-25-a-different-online-strategy-lag-behind-deliberately.md",
+        "line": 47
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.youtube.com/watch?v=2yXT_1pvDv4",
+    "status": 200,
+    "final_url": "https://www.youtube.com/watch?v=2yXT_1pvDv4",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2007-06-27-links-for-2007-06-27.md",
+        "line": 195
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 4288
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://www.zdnet.com/blog/foremski/survey-finds-most-journalists-shun-social-media-and-blogs/1823",
+    "status": 200,
+    "final_url": "https://www.zdnet.com/article/survey-finds-most-journalists-shun-social-media-and-blogs/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_posts/2011-05-25-journalism-social-media-whitepaper.md",
+        "line": 44
+      },
+      {
+        "file": "_data/links.yml",
+        "line": 37656
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "https://github.com/MartinStabe",
+    "status": 200,
+    "final_url": "https://github.com/MartinStabe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 16
+      },
+      {
+        "file": "about/index.html",
+        "line": 20
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "https://twitter.com/martinstabe",
+    "status": 200,
+    "final_url": "https://x.com/martinstabe",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_includes/social.html",
+        "line": 6
+      },
+      {
+        "file": "_posts/2016-03-12-automatic-twitter-lists.md",
+        "line": 38
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "https://uk.linkedin.com/in/martinstabe",
+    "status": 999,
+    "final_url": "https://uk.linkedin.com/in/martinstabe",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 16
+      },
+      {
+        "file": "about/index.html",
+        "line": 20
+      }
+    ],
+    "count": 2
+  },
+  {
+    "url": "http://blogs.telegraph.co.uk/technology/shanerichmond/3619871/Ten_excellent_blogs/",
+    "status": null,
+    "final_url": null,
+    "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "method": null,
+    "occurrences": [
+      {
+        "file": "links/index.md",
+        "line": 6
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://bucs.martinstabe.com/",
+    "status": 200,
+    "final_url": "http://bucs.martinstabe.com/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 18
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://ig.ft.com/sites/2013/seasonal-appeal/",
+    "status": 200,
+    "final_url": "https://ig.ft.com/sites/2013/seasonal-appeal/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 10
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://martinstabe.com",
+    "status": 200,
+    "final_url": "http://www.martinstabe.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "README.md",
+        "line": 4
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://nuzzel.com/martinstabe",
+    "status": 200,
+    "final_url": "https://nuzzel.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "links/index.md",
+        "line": 6
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://pgp.mit.edu/pks/lookup?op=vindex&search=0x5927CBBFE81EF667",
+    "status": 200,
+    "final_url": "http://pgp.mit.edu/pks/lookup?op=vindex&search=0x5927CBBFE81EF667",
+    "error": "TimeoutError: timed out",
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "_includes/footer.html",
+        "line": 45
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://podcast.ft.com",
+    "status": 200,
+    "final_url": "https://www.ft.com/podcasts",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 10
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.britishbaseball.org/page/show/286039-team-gb",
+    "status": 404,
+    "final_url": "https://britishbaseballfederation.leaguerepublic.com/l/index.html/page/show/286039-team-gb",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 18
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.governing.com",
+    "status": 200,
+    "final_url": "https://www.governing.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 14
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.guardian.co.uk",
+    "status": 200,
+    "final_url": "https://www.theguardian.com/europe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 14
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.londonmets.org/",
+    "status": 200,
+    "final_url": "https://www.londonmets.org/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 18
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.lse.ac.uk",
+    "status": 200,
+    "final_url": "https://www.lse.ac.uk/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.martinstabe.com",
+    "status": 200,
+    "final_url": "http://www.martinstabe.com",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_config.yml",
+        "line": 8
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.martinstabe.com/about/",
+    "status": 200,
+    "final_url": "http://www.martinstabe.com/about/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 7
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.newsweek.com",
+    "status": 200,
+    "final_url": "https://www.newsweek.com/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 14
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.northwestern.edu",
+    "status": 200,
+    "final_url": "https://www.northwestern.edu/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.palam.co.uk/",
+    "status": 200,
+    "final_url": "http://www.palam.co.uk/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 14
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.retail-week.com/martin-stabe/1216.bio",
+    "status": 200,
+    "final_url": "https://www.retail-week.com:443/martin-stabe/1216.bio",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 12
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "http://www.sussex.ac.uk",
+    "status": 200,
+    "final_url": "https://www.sussex.ac.uk/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://bsky.app/profile/martinstabe.bsky.social",
+    "status": 404,
+    "final_url": "https://bsky.app/profile/martinstabe.bsky.social",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 20
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://bsky.app/profile/martinstabe.ft.com",
+    "status": 404,
+    "final_url": "https://bsky.app/profile/martinstabe.ft.com",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://disqus.com/?ref_noscript",
+    "status": 200,
+    "final_url": "https://disqus.com/?ref_noscript",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_includes/comments.html",
+        "line": 24
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://disqus.com/admin/universalcode/#configuration-variables",
+    "status": 200,
+    "final_url": "https://disqus.com/admin/universalcode/#configuration-variables",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "_includes/comments.html",
+        "line": 5
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://pressgazette.co.uk/?s=Martin+Stabe",
+    "status": 200,
+    "final_url": "https://pressgazette.co.uk/?s=Martin+Stabe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 12
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.facebook.com/Martin-Stabe-922279251184719/",
+    "status": 200,
+    "final_url": "https://www.facebook.com/Martin-Stabe-922279251184719/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 20
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.facebook.com/martinstabe",
+    "status": 200,
+    "final_url": "https://www.facebook.com/martinstabe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.ft.com/martin-stabe",
+    "status": 200,
+    "final_url": "https://www.ft.com/martin-stabe",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 12
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.instagram.com/martin.stabe/",
+    "status": 200,
+    "final_url": "https://www.instagram.com/martin.stabe/",
+    "error": null,
+    "method": "HEAD",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.twitter.com/martinstabe",
+    "status": 200,
+    "final_url": "https://x.com/martinstabe",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "about/index.html",
+        "line": 20
+      }
+    ],
+    "count": 1
+  },
+  {
+    "url": "https://www.x.com/martinstabe/",
+    "status": 200,
+    "final_url": "https://x.com/martinstabe/",
+    "error": null,
+    "method": "GET",
+    "occurrences": [
+      {
+        "file": "index.html",
+        "line": 16
+      }
+    ],
+    "count": 1
+  }
+]

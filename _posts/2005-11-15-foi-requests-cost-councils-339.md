@@ -2,6 +2,8 @@
 title: 'FOI requests cost councils &pound;339'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/11/15/foi-requests-cost-councils-339/
 views:
   - 45
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Compliance with the Freedom of Information Act 2000 is [costing local authorities &pound;339 per request][1], a survey by the Constitution Unit at University College London has found ([PDF][2]).
 

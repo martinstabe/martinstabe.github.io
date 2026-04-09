@@ -2,6 +2,8 @@
 title: Guide to Web 2.0, version 1.5
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2006/12/11/guide-to-web-20-version-15/
 views:
   - 48
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Thanks to Paul Bradshaw for [articulating][1] the snarky first reaction that I also had to Ifra’s [guide to Web 2.0 for newspapers publishers.][2]
 

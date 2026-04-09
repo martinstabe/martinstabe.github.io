@@ -1,0 +1,23 @@
+{
+  "target_domains": [
+    "blogs.ft.com",
+    "drapersonline.com",
+    "ft.com",
+    "pressgazette.co.uk",
+    "retail-week.com"
+  ],
+  "unique_urls": 131,
+  "occurrences": 148,
+  "by_hostname": {
+    "blogs.ft.com": 1,
+    "blogs.pressgazette.co.uk": 10,
+    "discuss.pressgazette.co.uk": 5,
+    "ftalphaville.ft.com": 1,
+    "news.ft.com": 26,
+    "rwkb.retail-week.com": 1,
+    "www.drapersonline.com": 2,
+    "www.ft.com": 10,
+    "www.pressgazette.co.uk": 71,
+    "www.retail-week.com": 4
+  }
+}

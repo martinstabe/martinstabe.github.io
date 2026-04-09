@@ -2,6 +2,8 @@
 title: '&#8230;and anti-Semitic, too?'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/30/and-anti-semitic-too/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Is [this episode of the BBC&#8217;s *Correspondent* programme][1] anti-Semitic? Israeli Government Press Office chief **Daniel Seaman** thinks [it demonised Israel][2] in a way reminicent of the Nazi propaganda rag *Der St&uuml;rmer*.  
 

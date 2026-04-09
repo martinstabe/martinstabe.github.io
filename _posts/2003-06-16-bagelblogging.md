@@ -2,6 +2,8 @@
 title: Bagelblogging
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/16/bagelblogging/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Like <a href="http://www.prospect.org/weblog/archives/2003/06/index.html#001158" target="_top">Tapped</a>, I find the impossibility of getting a decent bagel outside of New York&nbsp;&#8212; indeed, anywhere other than [Ess-a-Bagel][1] on 21st and First &#8212; a pressing quality-of-life issue, and welcome **Mark Kleiman**&#8217;s <a href="http://markarkleiman.blogspot.com/2003_06_01_markarkleiman_archive.html#200417992" target="_top">groundbreaking analysis</a> of this well-known and distressing phenomenon. 
 

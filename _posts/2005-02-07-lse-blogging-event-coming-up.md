@@ -2,6 +2,8 @@
 title: LSE blogging event coming up
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/07/lse-blogging-event-coming-up/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 The London School of Economics media alumni group is hosting an event on 28 February that may interest bloggers in London. 
 

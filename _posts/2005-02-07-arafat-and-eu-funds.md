@@ -2,6 +2,8 @@
 title: Arafat and EU funds
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/07/arafat-and-eu-funds/
 views:
   - 11
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 From the *Financial Times&rsquo;s * investigation into **Yassir Arafat**&rsquo;s fortune:
 

@@ -2,6 +2,8 @@
 title: Brighton Blogging
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/12/brighton-blogging/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Following local politics in Brighton & Hove, where I lived as an undergraduate student, developed my interest in political sociology. IN graduate school, I had planned to write a dissertation on the community power structure in Brighton, along the lines of **G. William Domhoff**&#8216;s radical elitist <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0876209657/texasn1-21" target="_top">critique</a> of **Robert Dahl**&#8216;s famous study of *Who Governs* New Haven, Connecticut. 
 

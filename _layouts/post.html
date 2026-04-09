@@ -12,7 +12,9 @@ layout: default
     {{ content }}
   </article>
 
-  <small><strong>Categories:</strong> {% for cat in page.categories %}<a href="">{{ cat }}</a> {% endfor %}</small>
+  {% if page.tags and page.tags.size > 0 %}
+  <small><strong>Tags:</strong> {% for tag in page.tags %}<a href="/tags/{{ tag }}/">{{ tag }}</a> {% endfor %}</small>
+  {% endif %}
 
   <p><small>{{ page.permalink }}</small></p>
 

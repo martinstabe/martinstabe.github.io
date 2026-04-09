@@ -2,6 +2,9 @@
 title: A Brit listens to American talk radio
 author: Martin Stabe
 layout: post
+tags:
+  - politics
+  - usa
 permalink: /2004/11/22/a-brit-listens-to-american-talk-radio/
 BX_post_type:
   - mini
@@ -11,9 +14,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Politics
-  - USA
 ---
 A must read today is **Johann Hari**&rsquo;s [shrill profile **G. Gordon Liddy**][1]. After learning all about Liddy&#8217;s fascination with Hitler and Nazi-like fascination with ruthless will-power. After listening to Liddy rant in New York&rsquo;s Penn Station, Hari concludes:
 

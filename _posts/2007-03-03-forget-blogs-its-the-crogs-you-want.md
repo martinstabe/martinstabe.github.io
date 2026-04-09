@@ -2,6 +2,10 @@
 title: 'Forget blogs: it&#8217;s the &#8216;crogs&#8217; you want'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - newspapers
+  - usa
 permalink: /2007/03/03/forget-blogs-its-the-crogs-you-want/
 views:
   - 186
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Newspapers
-  - USA
 ---
 Robert Kuttner has written a superb piece for the the *Columbia Journalism Review* that looks at how American newspapers are adapting, with increasing enthusiasm, to the web.
 

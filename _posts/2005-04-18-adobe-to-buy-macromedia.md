@@ -2,6 +2,8 @@
 title: Adobe to buy Macromedia
 author: Martin Stabe
 layout: post
+tags:
+  - notebook
 permalink: /2005/04/18/adobe-to-buy-macromedia/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Notebook
 ---
 Better go upgrade Dreamweaver before I get sucked into using GoLive.
 

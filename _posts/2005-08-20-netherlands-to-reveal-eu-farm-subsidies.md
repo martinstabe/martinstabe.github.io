@@ -2,6 +2,9 @@
 title: Netherlands to reveal EU farm subsidies
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - freedom-of-information
 permalink: /2005/08/20/netherlands-to-reveal-eu-farm-subsidies/
 views:
   - 80
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Freedom of Information
 ---
 The Netherlands has become the latest country to [increase transparency][1] about how farm subsidies under the EU&rsquo;s Commond Agricultural Policy are distributed.
 

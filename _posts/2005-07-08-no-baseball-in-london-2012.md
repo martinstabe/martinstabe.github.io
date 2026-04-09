@@ -2,6 +2,11 @@
 title: No baseball in London 2012
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - london-2012
+  - middle-east
+  - olympics
 permalink: /2005/07/08/no-baseball-in-london-2012/
 views:
   - 63
@@ -9,11 +14,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - London 2012
-  - Middle East
-  - Olympics
 ---
 [so much for my vested interest][1] in the 2012 London Olympics. 
 

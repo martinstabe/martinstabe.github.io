@@ -2,6 +2,8 @@
 title: Pay for content?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/24/pay-for-content/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The *Independent* takes careful aim at its foot&#8230; 
 

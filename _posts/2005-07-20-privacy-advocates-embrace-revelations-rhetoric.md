@@ -2,6 +2,8 @@
 title: Privacy advocates embrace Revelations rhetoric
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2005/07/20/privacy-advocates-embrace-revelations-rhetoric/
 views:
   - 34
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 Secular privacy advocates in the United States are trying to [reach out to conservative Christian groups][1], *Wired *reports.
 

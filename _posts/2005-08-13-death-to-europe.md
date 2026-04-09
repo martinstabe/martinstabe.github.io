@@ -2,6 +2,8 @@
 title: Death to Europe!
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/08/13/death-to-europe/
 views:
   - 51
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 This makes a change: *Der Spiegel* reports that there were [demonstrations in Tehran][1] in which the well-worn slogan &ldquo;Death to America!&rdquo; was augmented with &ldquo;Death to Europe!&rdquo;
 

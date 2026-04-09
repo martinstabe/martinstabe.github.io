@@ -2,6 +2,8 @@
 title: Technorati to be sold?
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/08/12/technorati-to-be-sold/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Interesting [rumour][1]: is a &ldquo;major search engine&rdquo; about to buy blog search engine Technorati?
 

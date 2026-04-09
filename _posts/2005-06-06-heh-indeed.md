@@ -2,6 +2,8 @@
 title: Heh, indeed.
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/06/06/heh-indeed/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 UPDATED
 

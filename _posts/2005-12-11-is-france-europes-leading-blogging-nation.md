@@ -2,6 +2,8 @@
 title: 'Is France Europe&#8217;s leading blogging nation?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/12/11/is-france-europes-leading-blogging-nation/
 views:
   - 29
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 The blogosphere might be [lagging in Britain][1] [and Germany][2], but [perhaps France and Poland may be Europe&rsquo;s great blogging hope][3]. 
 

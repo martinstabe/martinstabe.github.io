@@ -2,6 +2,8 @@
 title: UKIP candidate had BNP link
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2004/12/20/ukip-candidate-had-bnp-link/
 views:
   - 2
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 **Nicholas Betts-Green**, UKIP&rsquo;s prospective Parliamentary candidate for Suffolk Coastal, has resigned after the *East Anglian Daily Times* [reported][1] that he had once attended a meeting of the British National Party, [the BBC reports][2].
 

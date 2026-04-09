@@ -2,6 +2,8 @@
 title: Rubbish EU reporting
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/02/03/rubbish-eu-reporting/
 views:
   - 8
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 I&#8217;ve been doing a little Lexis-Nexising for a project on EU asylum policy. I can make only one conclusion: The reporting on this issue in the British media is truly miserable. It&rsquo;s not just partisan and biased &mdash; I expect that and parse my reading accordingly &mdash; it&rsquo;s often just plain wrong.
 

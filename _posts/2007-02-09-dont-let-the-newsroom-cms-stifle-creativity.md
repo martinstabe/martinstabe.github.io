@@ -2,6 +2,10 @@
 title: 'Don&#8217;t let the newsroom CMS stifle creativity'
 author: Martin Stabe
 layout: post
+tags:
+  - content-management-systems
+  - croydon-advertiser
+  - slideshows
 permalink: /2007/02/09/dont-let-the-newsroom-cms-stifle-creativity/
 views:
   - 94
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - content management systems
-  - Croydon Advertiser
-  - slideshows
 ---
 Andy Dickinson [looks at][1] the [*Croydon Advertiser&#8217;s* use Soundslides slideshows][2], which we reported in *Press Gazette* this week. 
 

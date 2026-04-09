@@ -2,6 +2,8 @@
 title: UK harbour information is not yet free
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/20/uk-harbour-information-is-not-yet-free/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Although the paper didn&rsquo;t spot it, a small local story in today&rsquo; *Yorkshire Post* highlights a [major loophole in the UK&rsquo;s Freedom of Information Act][1].
 

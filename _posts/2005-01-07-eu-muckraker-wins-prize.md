@@ -2,6 +2,8 @@
 title: EU muckraker wins prize
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/07/eu-muckraker-wins-prize/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 The German journalist who uncovered the corruption in Eurostat has been awarded the 2004 [Leipzig Prize for the Freedom and Future of the Media][1].
 

@@ -2,6 +2,9 @@
 title: 'Why can&#8217;t a newspaper CMS be as user-friendly as a blog?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogging
+  - cms
 permalink: /2007/10/29/why-cant-a-newspaper-cms-be-as-user-friendly-as-a-blog/
 ratings_users:
   - 0
@@ -15,9 +18,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - blogging
-  - cms
 ---
 The much-anticipated Web 2.0 regional news portal in Germany, *[Der Westen][1],* [has gone live][2].
 

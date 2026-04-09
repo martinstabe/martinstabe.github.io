@@ -2,6 +2,8 @@
 title: Wayne Rooney for Prime Minister
 author: Martin Stabe
 layout: post
+tags:
+  - general-election-2005
 permalink: /2005/04/13/wayne-rooney-for-prime-minister/
 views:
   - 45
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - General Election 2005
 ---
 Need an argument against [lowering the voting age][1]?
 

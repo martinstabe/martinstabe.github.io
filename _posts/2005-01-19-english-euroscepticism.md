@@ -2,6 +2,8 @@
 title: English Euroscepticism
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/19/english-euroscepticism/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 *Lose the Delusion* [notices][1] the strange relationship between three seemingly-contradictory ideologies: English &mdash; as opposed to British &mdash; nationalism, British Unionism and Euroscepticism:
 

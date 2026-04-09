@@ -2,6 +2,8 @@
 title: German FOIA comes into force next year
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/07/09/german-foia-comes-into-force-next-year/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Nobody noticed because it happened just ahead of the no-confidence vote in the Bundestag orchestrated by **Gerhard Schr&ouml;der**, but Germany&rsquo;s upper house, the Bundesrat has narrowly approved the Federal Freedom of Information Act. 
 

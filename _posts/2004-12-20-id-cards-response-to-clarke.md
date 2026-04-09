@@ -2,6 +2,8 @@
 title: 'ID Cards: response to Clarke'
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2004/12/20/id-cards-response-to-clarke/
 views:
   - 18
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 The ever-valuable Spy Blog [responds][1] to **Charles Clark**e&rsquo;s [defense of the British ID card bill][2] in the *Times.*
 

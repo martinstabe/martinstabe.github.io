@@ -2,6 +2,8 @@
 title: The young are rebelling!
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/23/the-young-are-rebelling/
 views:
   - 4
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **Zoe Pilger&#8217;s** column in the *Independent on Sunday* is right on the money. The condescension with which the media and politicians have treated the views of young anti-war protestors has been appalling:  
 

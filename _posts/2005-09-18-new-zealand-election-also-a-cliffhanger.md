@@ -2,6 +2,8 @@
 title: New Zealand election also a cliffhanger
 author: Martin Stabe
 layout: post
+tags:
+  - germany
 permalink: /2005/09/18/new-zealand-election-also-a-cliffhanger/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Germany
 ---
 New Zealand, which has a Mixed Member Proportional Representation system like Germany&rsquo;s, and [the election there yesterday was resulted in a cliffhanger][1] just like the one now emerging in Berlin.
 

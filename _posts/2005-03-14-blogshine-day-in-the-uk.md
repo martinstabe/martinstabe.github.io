@@ -2,6 +2,8 @@
 title: Blogshine Day in the UK
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/03/14/blogshine-day-in-the-uk/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 American jounralists are currently celebrating the first national [Sunshine Week][1], a [series of events][2] celebrating Freedom of Information laws, which are often called &#8220;sunshine laws&#8221; at the state level, particularly in Florida, which some of the best open government laws in the United States.
 

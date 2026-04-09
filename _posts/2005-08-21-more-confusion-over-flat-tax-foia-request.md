@@ -2,6 +2,9 @@
 title: More confusion over flat tax FOIA request
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - uk
 permalink: /2005/08/21/more-confusion-over-flat-tax-foia-request/
 views:
   - 14
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - UK
 ---
 *Bishop Hill* [notes that][1] **Nicholas Macpherson**, Chancellor **Gordon Brown**&rsquo;s [new Permanent Secretary at the Treasury][2], has [written to the *Daily Telegraph* denying the Chancellor&rsquo;s involvement in the redactions][3] to the flat tax documents that were released in late July:
 

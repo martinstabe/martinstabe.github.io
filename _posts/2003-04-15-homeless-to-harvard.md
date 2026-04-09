@@ -2,6 +2,8 @@
 title: Homeless to Harvard?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/04/15/homeless-to-harvard/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **John Sutherland **pegs some research on access to <a href="http://www.guardian.co.uk/g2/story/0,3604,936173,00.html" target="_top">American higher education</a> to the release the Lifetime channel&#8217;s new movie, *<a href="http://www.lifetimetv.com/movies/info/move3222.html" target="_top">Homeless to Harvard</a>, *which based on the true story of one **Liz Murray**:  
 

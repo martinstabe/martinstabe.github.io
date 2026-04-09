@@ -2,6 +2,12 @@
 title: British and European MPs want answers on CIA renditions
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
+  - extraordinary-rendition
+  - intelligence
+  - special-relationships
+  - transatlantic-relations
 permalink: /2005/11/23/british-and-european-mps-want-answers-on-cia-renditions/
 views:
   - 37
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
-  - Extraordinary Rendition
-  - Intelligence
-  - Special Relationships
-  - Transatlantic Relations
 ---
 A new cross-party [committee of backbench MPs will investigate the UK&rsquo;s role in the CIA&rsquo;s &;dquo;extraordinary renditons&rdquo; flights,][1] the *Guardian *reports today.
 

@@ -2,6 +2,8 @@
 title: Freedom Fries update
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/25/freedom-fries-update/
 views:
   - 3
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **Mathew Engel** reports, citing a less-than credible source, that there was talk of changing the name Louisiana state capital, Baton Rouge, to &#8220;Red Stick.&#8221; Something tells me that isn&#8217;t going to happen. But read on:  
 

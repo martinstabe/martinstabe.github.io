@@ -2,6 +2,9 @@
 title: What cricket can learn from baseball
 author: Martin Stabe
 layout: post
+tags:
+  - baseball
+  - cricket
 permalink: /2005/08/25/what-cricket-can-learn-from-baseball/
 views:
   - 43
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Baseball
-  - Cricket
 ---
 My coach with the [Brighton Buccaneers][1], **Craig Savage**, gets a mention in the [*Indy&rsquo;s* Ashes coverage][2] today:
 

@@ -2,6 +2,8 @@
 title: '&#8216;Human error&#8217; in Army PDF blunder'
 author: Martin Stabe
 layout: post
+tags:
+  - iraq
 permalink: /2005/11/07/human-error-in-army-pdf-blunder/
 views:
   - 31
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Iraq
 ---
 A US Army enquiry has concluded that [human error was to blame][1] for [inadvertantly making available redacted sections][2] of the report into the death of Italian agent **Nicola Calipari**.
 

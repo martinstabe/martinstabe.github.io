@@ -2,6 +2,12 @@
 title: Hey j-schools, teach before you unleash
 author: Martin Stabe
 layout: post
+tags:
+  - announcements
+  - blogs
+  - journalism
+  - journalism-education
+  - university-of-central-lancashire
 permalink: /2007/04/11/hey-j-schools-teach-before-you-unleash/
 views:
   - 635
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Announcements
-  - Blogs
-  - Journalism
-  - Journalism Education
-  - University of Central Lancashire
 ---
 Some journalism schools need to do a better job teaching their students about blog etiquette and copyright law before unleashing them on the blogosphere on a university server.
 

@@ -2,6 +2,8 @@
 title: ASBOs in Lyneham
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/14/asbos-in-lyneham/
 views:
   - 14
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 The attempt being made in the village of [Lyneham][1], Wiltshire, to use Anti-Social Behaviour Orders to silence an unpopular excercise of free expression is [pretty outrageous][2].
 

@@ -2,6 +2,8 @@
 title: The two Indias
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2005/05/18/the-two-indias/
 views:
   - 48
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Inspired, no doubt, by reading **Thomas Friedman**&rsquo;s columns based on his new globalisation book *Flat World* (best [demolished][1] by **[Kevin Drum][2]** and **Matt Yglesias**), I&rsquo;ve become interested in the breathless tones with which the Western media has been reporting the emergence of India&rsquo;s high-tech economy. 
 

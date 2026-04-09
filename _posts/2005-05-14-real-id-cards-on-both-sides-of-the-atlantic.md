@@ -2,6 +2,8 @@
 title: Real ID cards, on both sides of the Atlantic
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2005/05/14/real-id-cards-on-both-sides-of-the-atlantic/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 Congress has [passed the Real ID Act][1], which creates a *de facto* national identity card in the United States. The battle there will not end when President **George W. Bush**signs the bill, however. Some of the state governments, who will be charged with implementation, are not thrilled by the new law and are preparing to challenge it.
 

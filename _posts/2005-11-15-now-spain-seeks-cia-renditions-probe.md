@@ -2,6 +2,8 @@
 title: Now Spain seeks CIA renditions probe
 author: Martin Stabe
 layout: post
+tags:
+  - extraordinary-rendition
 permalink: /2005/11/15/now-spain-seeks-cia-renditions-probe/
 views:
   - 27
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Extraordinary Rendition
 ---
 Spain is joining the growing list of European countries that are investigating CIA &ldquo;extraordinary renditions&rdquo; on their territory.
 

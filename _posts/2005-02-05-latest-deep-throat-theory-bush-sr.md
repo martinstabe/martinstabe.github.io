@@ -2,6 +2,8 @@
 title: 'Latest Deep Throat theory: Bush Sr.'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/02/05/latest-deep-throat-theory-bush-sr/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 The periodic speculation in American journalism circles about the identity of **[Deep Throat][1]** &mdash; **Bob Woodward** and **Carl Bernstein**&rsquo;s secret Watergate source &mdash; has started up again. The latest suspect? **[George H. W. Bush][2]**.  
 <!--more-->

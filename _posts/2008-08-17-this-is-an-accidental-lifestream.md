@@ -2,13 +2,13 @@
 title: 'This is an accidental &#8216;lifestream&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2008/08/17/this-is-an-accidental-lifestream/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Over on one of my favourite new blogs, John Welsh of These Digital Times nominates this blog as an example of [what blogs might look in the future][1].
 

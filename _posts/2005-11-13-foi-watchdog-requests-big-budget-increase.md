@@ -2,6 +2,8 @@
 title: FOI watchdog requests big budget increase
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/11/13/foi-watchdog-requests-big-budget-increase/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The Scottish Information Commissioner, has requested a [19 percent increase for his office&rsquo;s budget][1] for next year, citing a &ldquo;larger than expected&rdquo; volume of requests under Scotland&rsquo;s Freedom of Information Act. 
 

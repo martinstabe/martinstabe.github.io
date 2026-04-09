@@ -2,6 +2,8 @@
 title: ID cards and databases
 author: Martin Stabe
 layout: post
+tags:
+  - surveillance
 permalink: /2004/05/24/id-cards-and-databases/
 views:
   - 22
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Surveillance
 ---
 What is the world coming to? I agree with a Tory! From [Silicon.com][1]:
 

@@ -2,6 +2,12 @@
 title: Laughland responds
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - miscellanea
+  - russia
+  - uk
+  - ukraine
 permalink: /2004/12/01/laughland-responds/
 views:
   - 81
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Miscellanea
-  - Russia
-  - UK
-  - Ukraine
 ---
 [A letter][1] in <s>tomorrow</s> today&rsquo;s *Guardian:*
 

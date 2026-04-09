@@ -1,0 +1,15 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if browserTitle %}{{ browserTitle }} - {{ site.title }}{% elif title and title != site.title %}{{ title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta
+    name="description"
+    content="{% if description %}{{ description | striptags }}{% else %}{{ site.description | striptags }}{% endif %}"
+  >
+
+  <link rel="stylesheet" href="{{ '/css/main.css' | relativeUrl(page.url) }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relativeUrl(page.url) }}">
+</head>

@@ -2,6 +2,8 @@
 title: Branding Britain (Or the DPEI, at least)
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/05/10/branding-britain-or-the-dpei-at-least/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 So the Department of Trade & Industry (DTI) has been [reshuffled off this mortal coil][1]. Vast sums will, no doubt, be spent coming up with a clever new logo and branding for the [hideously-renamed][2] [Department for Productivity, Energy and Industry][3] (DPEI).
 

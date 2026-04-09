@@ -2,6 +2,8 @@
 title: NY Times enters the blogosphere
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/12/08/ny-times-enters-the-blogosphere/
 views:
   - 41
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 The 900-pound gorilla of American journalism has entered the blogosphere just in time to write about *King Kong.*
 

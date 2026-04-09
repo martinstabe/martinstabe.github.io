@@ -2,6 +2,8 @@
 title: British journalists make 10% of local FOI requests
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/11/19/british-journalists-make-10-of-local-foi-requests/
 views:
   - 48
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 [Journalists account for just 10 percent of requests made to local authorities in England under the Freedom of Information Act][1], new research has shown.
 

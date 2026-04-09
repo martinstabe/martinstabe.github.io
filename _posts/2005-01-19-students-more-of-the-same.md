@@ -2,6 +2,8 @@
 title: 'Students: more of the same'
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/01/19/students-more-of-the-same/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 Two higher education stories on the BBC web site this morning. According Higher Education Statistics Agency, there was a [8.6 percent increase in first-year students][1] over last year.
 

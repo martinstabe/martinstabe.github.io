@@ -2,6 +2,9 @@
 title: 'Wot&#8217;s this? New Media Express?'
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - blogs
 permalink: /2007/02/10/wots-this-new-media-express/
 views:
   - 24
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - BBC
-  - Blogs
 ---
 That blasted BBC firewall. 
 

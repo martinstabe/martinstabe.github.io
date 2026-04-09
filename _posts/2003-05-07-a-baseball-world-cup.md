@@ -2,6 +2,8 @@
 title: A baseball World Cup?
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/07/a-baseball-world-cup/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 English cricket fans &#8212; the unsophisticated variety who don&#8217;t have time for baseball, a game they view as glorified rounders &#8212; love to pull out the old chestnut about how the American domestic baseball competition is a pompous misnomer: The &#8220;World Series.&#8221; Fair enough. 
 

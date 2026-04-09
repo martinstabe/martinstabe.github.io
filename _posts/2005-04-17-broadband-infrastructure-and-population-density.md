@@ -2,6 +2,10 @@
 title: Broadband infrastructure and population density
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - uk
+  - usa
 permalink: /2005/04/17/broadband-infrastructure-and-population-density/
 views:
   - 21
@@ -9,10 +13,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - UK
-  - USA
 ---
 **Matthew Yglesias** has some interesting observations about [broadband penetration and population density][1]. 
 

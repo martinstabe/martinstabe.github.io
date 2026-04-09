@@ -2,6 +2,8 @@
 title: Lobbying in America
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/05/08/lobbying-in-america/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 The *Open Democracy* blog *oD Today* [points out][1] [Lobby Watch][2], a new online database from the Center for Public Integrity, a group of investigative journalists who follow the money spent on political lobbying in the United States and a number of other countries (but not Britain).
 

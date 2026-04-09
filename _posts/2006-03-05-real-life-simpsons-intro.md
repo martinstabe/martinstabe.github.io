@@ -2,6 +2,8 @@
 title: Real-life Simpsons intro
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2006/03/05/real-life-simpsons-intro/
 views:
   - 43
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 After seeing this, I&#8217;m a convert to [YouTube][1]:
 

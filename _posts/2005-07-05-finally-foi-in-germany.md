@@ -2,6 +2,8 @@
 title: Finally, FOI in Germany
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/07/05/finally-foi-in-germany/
 views:
   - 12
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 The Bundestag, the lower house of the German parliament has a bill creating a [passed a Freedom of Information law][1]. The bill is due to be voted on in the Bundesrat, the upper chamber, on Friday.
 

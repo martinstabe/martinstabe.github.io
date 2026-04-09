@@ -2,6 +2,9 @@
 title: David Maclean MP aims to limit Freedom of Information
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - uk
 permalink: /2007/01/19/david-maclean-mp-aims-to-limit-freedom-of-information/
 views:
   - 381
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - UK
 ---
 [David Maclean][1] has already secured his place as a footnote in the history of state secrecy — by becoming the first British Member of Parliament to attempt to water down the UK [Freedom of Information Act][2].
 

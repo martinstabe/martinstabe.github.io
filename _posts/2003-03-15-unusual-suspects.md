@@ -2,13 +2,13 @@
 title: Unusual suspects
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/15/unusual-suspects/
 btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 From the <a href="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/03/15/BA105060.DTL" target="_top">San Francisco Chronicle</a>:  
 

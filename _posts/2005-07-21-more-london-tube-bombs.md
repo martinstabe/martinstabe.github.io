@@ -2,6 +2,8 @@
 title: More London tube bombs?
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/21/more-london-tube-bombs/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 [Europhobia][1], [Perfect][2], and the [*Guardian* Newsblog][3] are liveblogging.
 

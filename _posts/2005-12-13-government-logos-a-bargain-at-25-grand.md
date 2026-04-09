@@ -2,6 +2,9 @@
 title: 'Government logos, a bargain at &pound;25 grand'
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - uk
 permalink: /2005/12/13/government-logos-a-bargain-at-25-grand/
 views:
   - 90
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - UK
 ---
 The Department of Constitutional Affairs&rsquo; new logo cost [&pound;25,000 to design][1], Constitutional Affairs minister **Harriet Harman** revealed last Thursday.
 

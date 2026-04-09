@@ -2,6 +2,10 @@
 title: Open justice for terrorists
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - london
+  - usa
 permalink: /2005/07/28/open-justice-for-terrorists/
 views:
   - 20
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - London
-  - USA
 ---
 We don&rsquo;t need special anti-terrorist laws or to abandon civil liberties or the rule of law to try and convict would-be terrorists. The existing law works just fine, thank you.
 

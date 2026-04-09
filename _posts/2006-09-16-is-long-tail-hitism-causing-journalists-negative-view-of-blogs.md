@@ -2,18 +2,17 @@
 title: 'Is long-tail &#8216;hitism&#8217; causing journalists&#8217; negative view of blogs?'
 author: Martin Stabe
 layout: post
+tags:
+  - blogging
+  - blogs
+  - cuttings
+  - journalism
+  - press-gazette
 permalink: /2006/09/16/is-long-tail-hitism-causing-journalists-negative-view-of-blogs/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - blogging
-  - Blogs
-  - cuttings
-  - Journalism
-  - Press Gazette
-  - Press Gazette
 ---
 <p id="firstgraf">
   &#8220;The decline of newspapers is the most concrete evidence of the disruptive effect the Long Tail can have on entrenched industries,&#8221; <em>Wired</em> editor Chris Anderson writes in his much-discussed book (which grew out of an <a href="http://www.wired.com/wired/archive/12.10/tail.html">article</a> via a <a href="http://www.longtail.com/">blog</a>).

@@ -2,6 +2,8 @@
 title: Somebody is wrong
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/07/06/somebody-is-wrong/
 views:
   - 19
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 *NY Post*:
 

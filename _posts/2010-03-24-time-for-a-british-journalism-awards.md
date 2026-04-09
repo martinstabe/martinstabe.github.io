@@ -2,10 +2,10 @@
 title: Is it time for a British Journalism Awards?
 author: Martin Stabe
 layout: post
+tags:
+  - british-press-awards
+  - online
 permalink: /2010/03/24/time-for-a-british-journalism-awards/
-categories:
-  - British Press Awards
-  - Online
 ---
 In the time I worked at Press Gazette — and indeed [even before that][1] — there were complaints like [this one from Craig McGill&#8217;s blog][2] about how the British Press Awards deal with digital journalism every single year.
 

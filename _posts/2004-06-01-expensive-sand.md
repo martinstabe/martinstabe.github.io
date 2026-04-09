@@ -2,6 +2,8 @@
 title: Expensive sand
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/06/01/expensive-sand/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The U.S. Federal government is spending [ $15 million on sand][1] for wealthy coastal communities.
 

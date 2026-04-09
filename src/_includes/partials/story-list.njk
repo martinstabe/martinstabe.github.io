@@ -1,0 +1,13 @@
+<ul class="post-list">
+  {% for story in stories %}
+    <li>
+      <span class="post-meta">{{ story.pubDate | displayDate }}</span>
+      <h2>
+        <a class="post-link" href="{{ story.link }}">{{ story.title }}</a>
+      </h2>
+      {% if story.displayDescription %}
+      <p>{{ story.displayDescription }}</p>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>

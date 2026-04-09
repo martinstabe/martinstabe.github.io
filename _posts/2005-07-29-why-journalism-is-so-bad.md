@@ -2,6 +2,8 @@
 title: Why journalism is so bad
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/07/29/why-journalism-is-so-bad/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 Must read: **Chris Dillow** of *Stumbling and Mumbling* (and *Investors Chronicle)* comes up with a compelling set of [reasons why is journalism so bad][1]:
 

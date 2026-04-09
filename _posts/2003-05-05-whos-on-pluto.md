@@ -2,6 +2,8 @@
 title: 'Who&#8217;s on Pluto?'
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/05/whos-on-pluto/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 The Aspin Institute&#8217;s man in Berlin, **Jeffrey Gedmin,** has been annoying me for some time now with his rants about the uppity Germans&#8217; opposition to the Iraq war. Apparently, anyone who does not view the strategic situation on Earth from this man&#8217;s perspecive must barely be in the same star system as he. Gedmin&#8217;s take on Germans&#8217; &#8220;<a href="http://www.upi.com/view.cfm?StoryID=20030505-114607-9090r" target="_top">view from Pluto</a>&#8220;:  
 

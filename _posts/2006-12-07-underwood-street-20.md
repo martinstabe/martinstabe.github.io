@@ -2,6 +2,8 @@
 title: 'Underwood Street 2.0: Press Gazette moves again'
 author: Martin Stabe
 layout: post
+tags:
+  - press-gazette
 permalink: /2006/12/07/underwood-street-20/
 views:
   - 73
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Press Gazette
 ---
 *Press Gazette&#8217;s* comeback issue is [out in print today][1].
 

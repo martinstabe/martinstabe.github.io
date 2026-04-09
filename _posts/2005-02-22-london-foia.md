@@ -2,6 +2,8 @@
 title: London FOIA
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/02/22/london-foia/
 views:
   - 15
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Want to file a Freedom of Information Act request with a borough council in London? *Your Right to Know* has the list of [London council FOI officers][1] e-mail contact details.
 

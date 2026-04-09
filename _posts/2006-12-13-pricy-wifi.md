@@ -2,6 +2,10 @@
 title: Pricy wifi
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - journalism
+  - le-web-3
 permalink: /2006/12/13/pricy-wifi/
 views:
   - 10
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Journalism
-  - Le Web 3
 ---
 Robin Hamman has so far [spent at least €54][1] on ridiculously overpriced hotel wifi access while covering Le Web 3. It [could be worse][2], of course, but I hope the Beeb will let him claim that on expenses.
 

@@ -2,6 +2,8 @@
 title: Rosen and Hitchens debate Newsweek
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2005/05/18/rosen-and-hitchens-debate-newsweek/
 views:
   - 30
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 NYU journalism professor **Jay Rosen** was paired with **Christopher Hitchens** on the BBC&rsquo;s Today programme this morning to talk about the *Newsweek* brouhaha. ([RealAudio][1])
 

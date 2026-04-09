@@ -2,6 +2,8 @@
 title: Papers or Plastic
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/05/30/papers-or-plastic/
 views:
   - 34
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Finally, somebody covering the <a href="http://www.privacyinternational.org/issues/idcard/uk/" target="_top">national ID card debate</a> in Britain seems to have recognized that the key issue is not the card itself. Writing in the *Guardian*, **Alan Travis** [says][1]:  
 

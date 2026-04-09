@@ -2,16 +2,16 @@
 title: On the web, the dark spots stay dark
 author: Martin Stabe
 layout: post
+tags:
+  - city-university
+  - cuttings
+  - journalism
+  - turkmenistan
 permalink: /2005/05/03/on-the-web-the-dark-spots-stay-dark/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - City University
-  - cuttings
-  - Journalism
-  - Turkmenistan
 ---
 <p id="firstgraf">
   Each day, a web site run by Ethan Zuckerman, a fellow at the Berkman Center for Internet and Society at Harvard Law School, displays a <a href="http://h2odev.law.harvard.edu/ezuckerman/">fresh world map</a> with the various nation-states coloured in shades of blue and red.

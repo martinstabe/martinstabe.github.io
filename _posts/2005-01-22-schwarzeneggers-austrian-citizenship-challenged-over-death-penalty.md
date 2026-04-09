@@ -2,6 +2,8 @@
 title: 'Schwarzenegger&rsquo;s Austrian citizenship challenged over death penalty'
 author: Martin Stabe
 layout: post
+tags:
+  - transatlantic-relations
 permalink: /2005/01/22/schwarzeneggers-austrian-citizenship-challenged-over-death-penalty/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Transatlantic Relations
 ---
 **Peter Pilz**, an Austrian Green Party MP, has called for California Governor **Arnold Schwarzenegger** to be [stripped of his Austrian citizenship][1] because of his support for the death penalty.
 

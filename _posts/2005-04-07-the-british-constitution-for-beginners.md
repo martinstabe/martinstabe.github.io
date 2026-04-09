@@ -2,6 +2,8 @@
 title: The British constitution for beginners
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/04/07/the-british-constitution-for-beginners/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 **Febble** at *Daily Kos* [explains British constitution][1] to an American audience. It&#8217;s entertaining stuff:
 

@@ -2,6 +2,8 @@
 title: The A-list of blogosphere sources
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/08/12/the-a-list-of-blogosphere-sources/
 views:
   - 28
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Dave Sifry** has a Technorati chart of the [most-linked-to web sites in the blogosphere][1]. 
 

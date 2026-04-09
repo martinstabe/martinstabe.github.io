@@ -2,6 +2,10 @@
 title: A blogger in Parliament
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - politics
+  - uk
 permalink: /2006/01/25/a-blogger-in-parliament/
 views:
   - 21
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Politics
-  - UK
 ---
 In a transport debate yesterday, Liberal Democrat MP **Sandra Gidley** [read her blog into *Hansard*][1]:
 

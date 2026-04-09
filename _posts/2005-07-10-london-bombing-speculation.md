@@ -2,6 +2,8 @@
 title: London bombing speculation
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/07/10/london-bombing-speculation/
 views:
   - 17
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - London
 ---
 Reacting to some media speculation, **Juan Cole** considers it [unlikely that British Muslims are behind the London bombings][1].
 

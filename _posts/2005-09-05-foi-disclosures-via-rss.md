@@ -2,6 +2,8 @@
 title: FOI disclosures via RSS
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/05/foi-disclosures-via-rss/
 views:
   - 21
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 Norfolk and Norwich University Hospital NHS Trust is [publishing its disclosures under the Freedom of Information Act on an RSS feed][1]. The Department for Education and Skills [also has an RSS feed for its disclosure log][2].
 

@@ -2,15 +2,15 @@
 title: News personalisation as it should be
 author: Martin Stabe
 layout: post
-permalink: /2010/11/12/news-personalisation-as-it-should-be/
-categories:
+tags:
   - briefingmedia
   - design
-  - Facebook
-  - facebook_like
+  - facebook
+  - facebook-like
   - personalisation
   - semantic
   - taxonomy
+permalink: /2010/11/12/news-personalisation-as-it-should-be/
 ---
 Online news was supposed to lead to &#8220;The Daily Me&#8221;, hyper-personalised publications where the homepage is magically tailored to each user&#8217;s interests. But with a handful of notable exceptions &#8211; particularly [certain mobile sites][1] &#8211; few news sites have implemented personalisation features in any significant way.
 

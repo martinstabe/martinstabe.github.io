@@ -2,6 +2,9 @@
 title: North Korea dissent video emerges
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
+  - north-korea
 permalink: /2005/01/18/north-korea-dissent-video-emerges/
 views:
   - 30
@@ -9,9 +12,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
-  - North Korea
 ---
 *North Korea Zone* has an astonishing post about the contents of a 35-minute video that, if it is real, could be the [first sign organised dissent][1] against the **Kim Jong Il** regime. [Reuters also reported on the video][2], which emerged yesterday in South Korea. 
 

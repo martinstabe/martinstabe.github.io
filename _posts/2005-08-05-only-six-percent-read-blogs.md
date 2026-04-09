@@ -2,6 +2,8 @@
 title: Only six percent read blogs
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/08/05/only-six-percent-read-blogs/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 Don&rsquo;t believe [the hype][1]. [Only six per cent of Americans read blogs][2], according to a [new study][3] by Forrester Research.
 

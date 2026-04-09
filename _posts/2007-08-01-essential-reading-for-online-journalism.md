@@ -2,6 +2,17 @@
 title: Essential reading for online journalism
 author: Martin Stabe
 layout: post
+tags:
+  - citizen-journalism
+  - data-journalism
+  - essential
+  - essential-reading-for-online-journalism
+  - interactive-graphics
+  - journalism
+  - journalism-education
+  - journalists
+  - multimedia
+  - online-journalism
 permalink: /2007/08/01/essential-reading-for-online-journalism/
 ratings_users:
   - 0
@@ -15,17 +26,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Citizen journalism
-  - Data Journalism
-  - essential
-  - Essential Reading for Online Journalism
-  - Interactive graphics
-  - Journalism
-  - Journalism Education
-  - journalists
-  - multimedia
-  - Online Journalism
 ---
 Last week, the Telegraph&#8217;s Shane Richmond put out an [appeal for the essential blog posts about online journalism][1]. Here&#8217;s my contribution — hopefully a case of &#8216;better late than never&#8217;.
 

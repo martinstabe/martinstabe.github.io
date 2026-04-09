@@ -2,6 +2,8 @@
 title: Atta uder surviellance pre-9/11?
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/08/10/atta-uder-surviellance-pre-911/
 views:
   - 16
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 Was **Mohammed Atta** the focus of a [secret Pentagon data mining project][1] called Able Danger before the 9/11 attacks? *The New York Times* [thinks so][2].
 

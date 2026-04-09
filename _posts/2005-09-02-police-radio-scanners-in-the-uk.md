@@ -2,6 +2,8 @@
 title: Police radio scanners in the UK
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
 permalink: /2005/09/02/police-radio-scanners-in-the-uk/
 views:
   - 167
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
 ---
 *Samizdata* has discovered that you can [listen to the Baton Rouge, Louisiana police scanner on the web][1].
 

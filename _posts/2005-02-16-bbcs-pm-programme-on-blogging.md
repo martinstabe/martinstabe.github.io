@@ -2,6 +2,8 @@
 title: 'BBC&#8217;s PM programme on blogging'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/02/16/bbcs-pm-programme-on-blogging/
 views:
   - 24
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 BBC Radio 4&rsquo;s [*PM* programme][1] had an item about whether blogging is going to &ldquo;change the world&rdquo;
 

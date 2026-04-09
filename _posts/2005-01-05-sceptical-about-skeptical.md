@@ -2,6 +2,8 @@
 title: 'Sceptical about &ldquo;skeptical&rdquo;'
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/05/sceptical-about-skeptical/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 I&#8217;ve been using the word &ldquo;skeptical&rdquo; a lot, and it looks unorthographic to me &mdash; and some others. What does *OED* say?
 

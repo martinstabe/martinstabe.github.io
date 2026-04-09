@@ -2,6 +2,8 @@
 title: UK-style degrees across Europe
 author: Martin Stabe
 layout: post
+tags:
+  - european-union
 permalink: /2005/01/21/uk-style-degrees-across-europe/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - European Union
 ---
 Forty European countries have agreed to adopt a [British-style system of university degrees][1] by 2010. 
 

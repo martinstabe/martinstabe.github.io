@@ -2,6 +2,14 @@
 title: Lawyer seeks disclosure of al-Jazeera memo
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
+  - iraq
+  - journalism
+  - politics
+  - special-relationships
+  - uk
+  - usa
 permalink: /2006/01/11/lawyer-seeks-disclosure-of-al-jazeera-memo/
 views:
   - 74
@@ -9,14 +17,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
-  - Iraq
-  - Journalism
-  - Politics
-  - Special Relationships
-  - UK
-  - USA
 ---
 The lawyer of one of the men accused of violating the Official Secrets Act over the leak of a document allegedly showing that **George W. Bush** had proposed to bomb the headquarters of al-Jazeera will [seek disclosure of the document during the trial][1].
 

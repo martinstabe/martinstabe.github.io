@@ -2,6 +2,8 @@
 title: Even conservatives prefer reality
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2004/11/04/even-conservatives-prefer-reality/
 views:
   - 5
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 With a column in the *Independent,* the British Harvard historian **Niall Ferguson** has officially joined the growing ranks of [conservative intellectuals who are card-carrying members of the &ldquo;reality-based community&rdquo;][1]:
 

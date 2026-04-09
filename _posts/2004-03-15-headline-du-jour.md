@@ -2,6 +2,8 @@
 title: Headline du jour
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2004/03/15/headline-du-jour/
 views:
   - 26
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Today&#8217;s best headline comes from [BBC News Online][1]:</a>:  
 

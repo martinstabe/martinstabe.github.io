@@ -2,6 +2,8 @@
 title: Is Google News biased?
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/05/20/is-google-news-biased/
 views:
   - 32
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 A new study ([PDF][1]) by **Eric Ulken** of the USC Annenberg School of Communication looks at [political bias in the Google News aggregator][2].
 

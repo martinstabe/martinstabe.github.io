@@ -2,6 +2,8 @@
 title: Comical Ali
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/06/27/comical-ali/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 **Tony Blair**&#8217;s spinmeister-in-chief, **Alastair Campbell** is good at what he does. Called to [testify][1] before the foreign affairs select committee about the dossier containing the justifications for the war on Iraq, Campbell has somehow managed to completely change the agenda from the justifications for war put out by his Downing Street communications department to the journalistic standards of the BBC, particularly those of *Today* programme [defense corespondent **Andrew Gilligan**][2]. Cambell claimed to be incensed that Gilligan would dare rely on the accusations of an anonymous source in the British intelligence community to call the integrity of Prime Minister and his staff into question. 
 

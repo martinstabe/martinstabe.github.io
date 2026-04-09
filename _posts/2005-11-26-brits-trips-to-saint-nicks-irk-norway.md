@@ -2,6 +2,10 @@
 title: 'Brits&#8217; trips to Saint Nick&#8217;s irk Norway'
 author: Martin Stabe
 layout: post
+tags:
+  - finland
+  - norway
+  - uk
 permalink: /2005/11/26/brits-trips-to-saint-nicks-irk-norway/
 views:
   - 37
@@ -9,10 +13,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Finland
-  - Norway
-  - UK
 ---
 British tourists&rsquo;s flying to Lappland to visit Santa for Christmas are causing the [traditional annual headache for air traffic controllers in Norway][1], *Der Spiegel* reports.
 

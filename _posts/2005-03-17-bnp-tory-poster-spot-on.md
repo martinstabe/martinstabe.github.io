@@ -2,6 +2,8 @@
 title: 'BNP: Tory poster &#8216;spot on&#8217;'
 author: Martin Stabe
 layout: post
+tags:
+  - uk
 permalink: /2005/03/17/bnp-tory-poster-spot-on/
 views:
   - 10
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - UK
 ---
 A campaign newspaper distributed in Maidenhead by the far-right British National Party says a Conservative Party election poster about immigration is &ldquo;spot on&rdquo;.
 

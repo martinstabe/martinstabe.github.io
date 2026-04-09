@@ -2,13 +2,13 @@
 title: Hacks divided by an (un)common jargon
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2008/06/22/hacks-divided-by-an-uncommon-jargon/
 btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 In a recent Twitter exchange, [Jay Rosen][1] explained [why journalists refer to the first &#8220;graf&#8221; of their stories as a &#8220;lede&#8221;][2], a quirk of [jargon that had puzzled Dave Winer][3]. 
 

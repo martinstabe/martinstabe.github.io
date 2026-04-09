@@ -2,6 +2,12 @@
 title: Dead trees still very much alive
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
+  - miscellanea
+  - newspapers
+  - online
+  - uk
 permalink: /2006/01/22/dead-trees-still-very-much-alive/
 views:
   - 88
@@ -9,12 +15,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Journalism
-  - Miscellanea
-  - Newspapers
-  - Online
-  - UK
 ---
 Friday&rsquo;s *Times* had an interesting analysis of the most recent [newspaper circulation figures][1]. While long-term circulation trends are well-known to be heading downwards, some are being hit harder than others.
 

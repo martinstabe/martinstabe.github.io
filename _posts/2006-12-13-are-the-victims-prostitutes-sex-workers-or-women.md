@@ -2,6 +2,13 @@
 title: 'Are the victims &#8216;prostitutes&#8217;, &#8216;sex workers&#8217; or &#8216;women&#8217;?'
 author: Martin Stabe
 layout: post
+tags:
+  - bbc
+  - blogs
+  - guardian
+  - journalism
+  - miscellanea
+  - radio
 permalink: /2006/12/13/are-the-victims-prostitutes-sex-workers-or-women/
 enclosure:
   - |
@@ -22,13 +29,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - BBC
-  - Blogs
-  - Guardian
-  - Journalism
-  - Miscellanea
-  - Radio
 ---
 Full marks for editorial transparency and interactivity for the BBC, which this morning used the final item on the *Today *programme ([RealAudio][1]) to discuss, in a serious manner, an editorial policy issue being discussed by listeners [on the programme&#8217;s online messageboard][2].
 

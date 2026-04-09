@@ -2,6 +2,8 @@
 title: More martial media madness
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/25/more-martial-media-madness/
 views:
   - 7
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 Todays Martial Media Madness&#8482;: 
 

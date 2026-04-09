@@ -2,6 +2,8 @@
 title: The chips are down
 author: Martin Stabe
 layout: post
+tags:
+  - miscellanea
 permalink: /2003/03/12/the-chips-are-down/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Miscellanea
 ---
 CNN [reports][1]:  
 

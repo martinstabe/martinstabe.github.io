@@ -2,6 +2,8 @@
 title: 'Writing for the web: What belongs in the online style guide?'
 author: Martin Stabe
 layout: post
+tags:
+  - journalism
 permalink: /2008/12/10/writing-for-the-web-what-belongs-in-the-online-style-guide/
 oc_metadata:
   - '{		version:1.0,		tags: {}	}'
@@ -14,8 +16,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Journalism
 ---
 The usually obscure issue of newspapers&#8217; usage preferences drew some comment recently when the Times finally relented and [began referring to the Indian city as &#8220;Mumbai&#8221; rather than &#8220;Bombay&#8221;][1], and the Telegraph used both names in web headlines, despite its stylebook&#8217;s preference for &#8220;Bombay&#8221;.
 

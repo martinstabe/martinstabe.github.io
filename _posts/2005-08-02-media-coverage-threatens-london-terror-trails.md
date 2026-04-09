@@ -2,6 +2,8 @@
 title: Media coverage threatens London terror trails
 author: Martin Stabe
 layout: post
+tags:
+  - london
 permalink: /2005/08/02/media-coverage-threatens-london-terror-trails/
 views:
   - 20
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - London
 ---
 The arrested suspects alleged to be the failed London suicide bombers [might not be able to get a fair trial in Britain][1] because of the media&rsquo;s reporting of their arrests, *Press Gazette* reported this week.
 

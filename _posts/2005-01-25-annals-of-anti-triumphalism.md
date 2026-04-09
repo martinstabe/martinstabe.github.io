@@ -2,6 +2,8 @@
 title: Annals of anti-triumphalism
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/25/annals-of-anti-triumphalism/
 views:
   - 6
@@ -9,8 +11,6 @@ btc_comment_summary:
   - 'a:0:{}'
 btc_comment_counts:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Jesse Taylor** at *Pandagon* has an essential post [debunking a recent example of blogger triumphalism][1]. My favourite bit:
 

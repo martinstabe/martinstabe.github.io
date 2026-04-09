@@ -2,6 +2,9 @@
 title: FOI (Amendment) Bill progresses in Parliament
 author: Martin Stabe
 layout: post
+tags:
+  - freedom-of-information
+  - miscellanea
 permalink: /2007/01/24/foi-amendment-bill-progresses-in-parliament/
 views:
   - 50
@@ -9,9 +12,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Freedom of Information
-  - Miscellanea
 ---
 Commenter Ian Parker [points out][1] that David McLean’s [Freedom of Information (Amendment) Bill][2] has sailed through the Second Reading stage in the House of Commons without objection from MPs.
 

@@ -2,6 +2,8 @@
 title: 'O&#8217;Connor stepping down'
 author: Martin Stabe
 layout: post
+tags:
+  - usa
 permalink: /2005/07/01/oconnor-stepping-down/
 views:
   - 9
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - USA
 ---
 Hmmm. Looks like **William Krisol** [read the tea leaves correctly][1] last week: Justice [**Sandra Day O&rsquo;Connor** is retiring][2] from the U.S. Supreme Court, not the ailing Chief Justice **William Rehnquist**, as many had expected.
 

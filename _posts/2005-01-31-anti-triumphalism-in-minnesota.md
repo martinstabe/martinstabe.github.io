@@ -2,6 +2,8 @@
 title: Anti-triumphalism in Minnesota
 author: Martin Stabe
 layout: post
+tags:
+  - blogs
 permalink: /2005/01/31/anti-triumphalism-in-minnesota/
 views:
   - 13
@@ -9,8 +11,6 @@ btc_comment_counts:
   - 'a:0:{}'
 btc_comment_summary:
   - 'a:0:{}'
-categories:
-  - Blogs
 ---
 **Atrios** points to a Minneapolis *Star-Tribune* [article][1] pointing out a dubious story on the conservative Minnesota-based blog *Powerline,* and [editorialises][2] with a statement that really ought to be self-evident by now. But there cannot be enough repetition of this point:
 
