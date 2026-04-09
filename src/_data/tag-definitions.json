@@ -562,6 +562,7 @@
   {
     "tag": "associated-newspapers",
     "title": "Associated Newspapers",
+    "parent": "dmgt",
     "permalink": "/tags/associated-newspapers/",
     "aliases": [
       "associated-newspapers"
@@ -2162,6 +2163,7 @@
   {
     "tag": "daily-mail",
     "title": "Daily Mail",
+    "parent": "associated-newspapers",
     "permalink": "/tags/daily-mail/",
     "aliases": [
       "daily-mail"

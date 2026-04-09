@@ -31,6 +31,7 @@ function createDefinition(data) {
   const tag = decodeValue(data.tag);
   const title = decodeValue(data.title) || `Tag: ${tag}`;
   const commentary = decodeValue(data.commentary);
+  const parent = decodeValue(data.parent);
   const displayTitle = stripTagPrefix(title, tag);
   const permalink = ensureWrappedSlashes(data.permalink || `/tags/${tag}/`);
   const slug = permalink.replace(/^\/+|\/+$/g, "");
@@ -48,6 +49,7 @@ function createDefinition(data) {
     tag,
     title,
     commentary,
+    parent: parent ? String(parent).trim() : null,
     displayTitle,
     heading: `Tag: ${displayTitle}`,
     permalink,
@@ -64,6 +66,23 @@ module.exports = function () {
     for (const alias of definition.aliases) {
       byAlias[alias] = definition;
     }
+  }
+
+  for (const definition of definitions) {
+    if (!definition.parent) {
+      definition.parentTag = null;
+      definition.parentPermalink = null;
+      continue;
+    }
+
+    const parentDefinition = byAlias[definition.parent];
+
+    if (!parentDefinition) {
+      throw new Error(`Unknown parent tag alias "${definition.parent}" for tag "${definition.tag}"`);
+    }
+
+    definition.parentTag = parentDefinition.tag;
+    definition.parentPermalink = parentDefinition.permalink;
   }
 
   return {
