@@ -84,13 +84,20 @@ This implementation is intended for Cloudflare Pages.
 - build command: `npm run build`
 - output directory: `dist`
 
+The repository also includes GitHub Pages safeguards:
+
+- [`.nojekyll`](.nojekyll) at the repo root to bypass branch-based Jekyll builds
+- [`.github/workflows/pages.yml`](.github/workflows/pages.yml) to build with Node and deploy `dist/` directly via GitHub Actions
+
+If GitHub Pages is still enabled for the repository, it should be switched to GitHub Actions rather than branch-based publishing.
+
 ## Implementation Structure
 
 ### Eleventy App
 
-- [eleventy.config.js](/Users/martin.stabe/Documents/martinstabe.github.io/eleventy.config.js)
-- [package.json](/Users/martin.stabe/Documents/martinstabe.github.io/package.json)
-- [src](/Users/martin.stabe/Documents/martinstabe.github.io/src)
+- [eleventy.config.js](eleventy.config.js)
+- [package.json](package.json)
+- [src](src)
 
 The Eleventy config:
 
@@ -104,9 +111,9 @@ The Eleventy config:
 
 Shared templates are in:
 
-- [src/_includes/layouts/default.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/layouts/default.njk)
-- [src/_includes/layouts/page.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/layouts/page.njk)
-- [src/_includes/partials](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/partials)
+- [src/_includes/layouts/default.njk](src/_includes/layouts/default.njk)
+- [src/_includes/layouts/page.njk](src/_includes/layouts/page.njk)
+- [src/_includes/partials](src/_includes/partials)
 
 These replicate the old Jekyll page shell, header, footer, analytics, social, comments, and head metadata in Eleventy form.
 
@@ -114,9 +121,9 @@ These replicate the old Jekyll page shell, header, footer, analytics, social, co
 
 The Eleventy build does not duplicate the archive into `src/`. Instead it imports the existing source content:
 
-- blog posts from [_posts](/Users/martin.stabe/Documents/martinstabe.github.io/_posts)
-- tag metadata from [tags](/Users/martin.stabe/Documents/martinstabe.github.io/tags)
-- links archive data from [_data/links.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/links.yml)
+- blog posts from [_posts](_posts)
+- tag metadata from [tags](tags)
+- links archive data from [_data/links.yml](_data/links.yml)
 
 ## Additional Features Added During Migration
 
@@ -124,7 +131,7 @@ The Eleventy implementation includes behavior that did not previously exist as a
 
 ### Stories Section From FT RSS
 
-Stories sourced from the FT RSS feed can now be synced into [_data/stories.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/stories.yml) with [scripts/sync_stories.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/sync_stories.js).
+Stories sourced from the FT RSS feed can now be synced into [_data/stories.yml](_data/stories.yml) with [scripts/sync_stories.js](scripts/sync_stories.js).
 
 Each synced entry is stored as YAML and preserves manual overrides on subsequent syncs, including the `include: false` switch to exclude an item from the generated site.
 
@@ -135,8 +142,8 @@ Included stories are rendered into the new `/stories/` section and linked from t
 Source:
 
 - RSS feed: `https://www.ft.com/martin-stabe?format=rss`
-- local cache: [_data/stories.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/stories.yml)
-- sync script: [scripts/sync_stories.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/sync_stories.js)
+- local cache: [_data/stories.yml](_data/stories.yml)
+- sync script: [scripts/sync_stories.js](scripts/sync_stories.js)
 
 To refresh the Stories section:
 
@@ -155,7 +162,7 @@ Notes:
 
 ### Graphics Section From FT Asset Database
 
-Graphics sourced from the FT elections newsbox asset database can now be synced into [_data/graphics.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/graphics.yml) with [scripts/sync_graphics.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/sync_graphics.js) and [scripts/export_graphics.R](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/export_graphics.R).
+Graphics sourced from the FT elections newsbox asset database can now be synced into [_data/graphics.yml](_data/graphics.yml) with [scripts/sync_graphics.js](scripts/sync_graphics.js) and [scripts/export_graphics.R](scripts/export_graphics.R).
 
 The sync filters records to `flourish_author == "Martin Stabe"`, transforms the fields required for the site, preserves manual `include: false` overrides, and renders included entries into the `/data-visualisation/` section as outbound links to FT.com.
 
@@ -164,8 +171,8 @@ The sync filters records to `flourish_author == "Martin Stabe"`, transforms the 
 Source:
 
 - R data file: set `GRAPHICS_SOURCE_URL` in your environment before running the sync
-- local cache: [_data/graphics.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/graphics.yml)
-- sync scripts: [scripts/sync_graphics.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/sync_graphics.js) and [scripts/export_graphics.R](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/export_graphics.R)
+- local cache: [_data/graphics.yml](_data/graphics.yml)
+- sync scripts: [scripts/sync_graphics.js](scripts/sync_graphics.js) and [scripts/export_graphics.R](scripts/export_graphics.R)
 
 To refresh the Data Visualisation section:
 
@@ -201,7 +208,7 @@ This affects:
 
 ### Canonical Post Footer Tags
 
-Post pages are generated through [src/posts.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/posts.njk) using metadata prepared in [src/_data/posts.js](/Users/martin.stabe/Documents/martinstabe.github.io/src/_data/posts.js).
+Post pages are generated through [src/posts.njk](src/posts.njk) using metadata prepared in [src/_data/posts.js](src/_data/posts.js).
 
 The footer tag list now uses canonical tag definitions rather than raw front matter values, so a post tagged `ft` can render as `Financial Times` and link to the canonical merged tag page.
 
@@ -213,7 +220,7 @@ Those links are now rewritten during the Eleventy import step so they resolve to
 
 ### Special Handling For Delicious Archive Posts
 
-Many `links-for-*` posts are already HTML rather than Markdown. The importer in [src/_data/posts.js](/Users/martin.stabe/Documents/martinstabe.github.io/src/_data/posts.js) detects those entries and bypasses Markdown rendering so they do not get mangled into escaped code blocks.
+Many `links-for-*` posts are already HTML rather than Markdown. The importer in [src/_data/posts.js](src/_data/posts.js) detects those entries and bypasses Markdown rendering so they do not get mangled into escaped code blocks.
 
 ### Relative Internal Links For Local Review
 
@@ -223,29 +230,29 @@ Canonical and feed URLs remain absolute where appropriate.
 
 ### RSS Feed Recreation
 
-The RSS feed is generated by [src/feed.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/feed.njk), using Eleventy data and custom XML/date filters to approximate the old Jekyll feed behavior.
+The RSS feed is generated by [src/feed.njk](src/feed.njk), using Eleventy data and custom XML/date filters to approximate the old Jekyll feed behavior.
 
 ### Links Archive Rebuilt From Data
 
-The `/links/` page is now generated from [_data/links.yml](/Users/martin.stabe/Documents/martinstabe.github.io/_data/links.yml) through [src/_data/links.js](/Users/martin.stabe/Documents/martinstabe.github.io/src/_data/links.js) and [src/links/index.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/links/index.njk), rather than relying on Jekyll template iteration.
+The `/links/` page is now generated from [_data/links.yml](_data/links.yml) through [src/_data/links.js](src/_data/links.js) and [src/links/index.njk](src/links/index.njk), rather than relying on Jekyll template iteration.
 
 ### Jekyll Sass Reused In Node Build
 
 The original Jekyll Sass has been retained and compiled via Node:
 
-- [scripts/build_sass.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/build_sass.js)
-- [css/main.scss](/Users/martin.stabe/Documents/martinstabe.github.io/css/main.scss)
-- [_sass](/Users/martin.stabe/Documents/martinstabe.github.io/_sass)
+- [scripts/build_sass.js](scripts/build_sass.js)
+- [css/main.scss](css/main.scss)
+- [_sass](_sass)
 
 This preserves the historical styling rather than replacing it with a new CSS layer.
 
 ### Clean Build Output
 
-The build now removes `dist/` first using [scripts/clean_dist.js](/Users/martin.stabe/Documents/martinstabe.github.io/scripts/clean_dist.js). This prevents stale generated pages from surviving route changes, which is especially important for merged tag aliases.
+The build now removes `dist/` first using [scripts/clean_dist.js](scripts/clean_dist.js). This prevents stale generated pages from surviving route changes, which is especially important for merged tag aliases.
 
 ### Footer Social Update
 
-The Eleventy footer partial at [src/_includes/partials/footer.njk](/Users/martin.stabe/Documents/martinstabe.github.io/src/_includes/partials/footer.njk) has been updated to point to Bluesky instead of the legacy Twitter profile, including a new icon and layout adjustments to accommodate the longer handle.
+The Eleventy footer partial at [src/_includes/partials/footer.njk](src/_includes/partials/footer.njk) has been updated to point to Bluesky instead of the legacy Twitter profile, including a new icon and layout adjustments to accommodate the longer handle.
 
 ## Current Page Coverage
 
